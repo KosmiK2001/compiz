@@ -1,0 +1,3424 @@
+# Galician translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+# Fran Diéguez (GLUG) <fran dot dieguez at glug dot es>, 2007, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2009-03-29 23:01+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Galician <proxecto@trasno.net>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Close Window"
+msgstr "Pechar Fiestra"
+
+msgid "Unmaximize Window"
+msgstr "Demaximizar Fiestra"
+
+msgid "Maximize Window"
+msgstr "Maximizar Fiestra"
+
+msgid "Minimize Window"
+msgstr "Minimizar Fiestra"
+
+msgid "Window Menu"
+msgstr "Menú da Fiestra"
+
+msgid "Shade"
+msgstr "Sombra"
+
+msgid "Make Above"
+msgstr "Sempre en Primeiro Plano"
+
+msgid "Stick"
+msgstr "Fixar"
+
+msgid "Unshade"
+msgstr "Descurecer"
+
+msgid "Unmake Above"
+msgstr "Desfacer Sempre en Primeiro Plano"
+
+msgid "Unstick"
+msgstr "Desfixar"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "A xanela \"%s\" non está respondendo."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Se forzar a saída desta aplicación causará a perda dos cambios non gardados."
+
+msgid "_Cancel"
+msgstr "_Cancelar"
+
+msgid "_Force Quit"
+msgstr "_Forzar Saída"
+
+msgid "Annotate"
+msgstr "Anotacións"
+
+msgid "Annotate plugin"
+msgstr "Complemento de Anotacións"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Iniciar goma de borrar"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Iniciar debuxo das anotacións"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Iniciar"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Iniciar debuxo das anotacións"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Iniciar goma de borrar"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Iniciar debuxo das anotacións"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Iniciar goma de borrar"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Iniciar debuxo das anotacións"
+
+msgid "Draw"
+msgstr "Debuxar"
+
+msgid "Draw using tool"
+msgstr "Debuxar empregando a ferramenta"
+
+msgid "Initiate erase"
+msgstr "Iniciar goma de borrar"
+
+msgid "Initiate annotate erasing"
+msgstr "Iniciar goma de borrar das anotacións"
+
+msgid "Clear"
+msgstr "Limpar"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Trocar escurecemento da xanela activa"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Cor de recheo das anotacións"
+
+msgid "Fill color for annotations"
+msgstr "Cor de recheo das anotacións"
+
+msgid "Annotate Stroke Color"
+msgstr "Cor do pincel das anotacións"
+
+msgid "Stroke color for annotations"
+msgstr "Cor do pincel para anotacións"
+
+msgid "Stroke width"
+msgstr "Ancho do pincel"
+
+msgid "Stroke width for annotations"
+msgstr "Ancho do pincel para as anotacións"
+
+msgid "Blur Windows"
+msgstr "Desenfoque de xanelas"
+
+msgid "Blur windows"
+msgstr "Desenfoca as xanelas"
+
+msgid "Pulse"
+msgstr "Pulso"
+
+msgid "Pulse effect"
+msgstr "Efecto pulso"
+
+msgid "Blur Speed"
+msgstr "Velocidade de desenfoque"
+
+msgid "Window blur speed"
+msgstr "Velocidade de desenfoque das xanelas"
+
+msgid "Focus blur windows"
+msgstr "Desenfocar xanelas segundo o foco"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Fiestras afectadas polo desenfoque do foco"
+
+msgid "Focus Blur"
+msgstr "Desenfocar segundo o foco"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Desenfocar as xanelas que non teñan foco"
+
+msgid "Alpha blur windows"
+msgstr "Desenfoque alfa das xanelas"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Fiestras que deben empregar o-desenfoque alfa por omisión"
+
+msgid "Alpha Blur"
+msgstr "Desenfoque Alfa"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Desenfocar na parte traseira das xanelas"
+
+msgid "Blur Filter"
+msgstr "Filtro de desenfoque"
+
+msgid "Filter method used for blurring"
+msgstr "Método de filtrado empregado para desenfocar"
+
+msgid "4xBilinear"
+msgstr "4x Bilinear"
+
+msgid "Gaussian"
+msgstr "Gausiano"
+
+msgid "Mipmap"
+msgstr "Mapa de Imaxe"
+
+# name for RUS
+msgid "Gaussian Radius"
+msgstr "Radio gausiano"
+
+# name for RUS
+msgid "Gaussian radius"
+msgstr "Radio gausiano"
+
+msgid "Gaussian Strength"
+msgstr "Forza gausiana"
+
+msgid "Gaussian strength"
+msgstr "Forza gausiana"
+
+msgid "Mipmap LOD"
+msgstr "Mapa de Imaxe LOD"
+
+msgid "Mipmap level-of-detail"
+msgstr "Nivel de detalle do mapa de imaxe"
+
+msgid "Blur Saturation"
+msgstr "Saturación do desenfoque"
+
+msgid "Blur saturation"
+msgstr "Saturación do desenfoque"
+
+msgid "Blur Occlusion"
+msgstr "Oclusión ou desenfoque"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+"Desactivar desenfoque de rexións de pantalla escurecidas por outras xanelas."
+
+msgid "Independent texture fetch"
+msgstr "Recollida de textura independente"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Empregar as unidades de textura dispoñibles para facer o maior número "
+"derecollidas de textura independentes posibles."
+
+msgid "Clone Output"
+msgstr "Clonación da Saída"
+
+msgid "Output clone handler"
+msgstr "Xestor de clonación de saída"
+
+msgid "Initiate"
+msgstr "Iniciar"
+
+msgid "Initiate clone selection"
+msgstr "Iniciar selección clonada"
+
+msgid "Commands"
+msgstr "Comandos"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Asigna atallos a comandos arbitrarios"
+
+msgid "Command line 0"
+msgstr "Liña de comando 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando0 sexa "
+"accionado"
+
+msgid "Command line 1"
+msgstr "Liña de comando 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+msgid "Command line 2"
+msgstr "Liña de comando 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando2 sexa "
+"accionado"
+
+msgid "Command line 3"
+msgstr "Liña de comando 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando3 sexa "
+"accionado"
+
+msgid "Command line 4"
+msgstr "Liña de comando 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando4 sexa "
+"accionado"
+
+msgid "Command line 5"
+msgstr "Liña de comando 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando5 sexa "
+"accionado"
+
+msgid "Command line 6"
+msgstr "Liña de comando 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando6 sexa "
+"accionado"
+
+msgid "Command line 7"
+msgstr "Liña de comando 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando7 sexa "
+"accionado"
+
+msgid "Command line 8"
+msgstr "Liña de comando 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando8 sexa "
+"accionado"
+
+msgid "Command line 9"
+msgstr "Liña de comando 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando9 sexa "
+"accionado"
+
+msgid "Command line 10"
+msgstr "Liña de comando 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando10 sexa "
+"accionado"
+
+msgid "Command line 11"
+msgstr "Liña de comando 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando11 sexa "
+"accionado"
+
+msgid "Command line 12"
+msgstr "Liña de comando 12"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Liña de comando 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Liña de comando 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Liña de comando 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Liña de comando 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Liña de comando 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Liña de comando 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Liña de comando 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Liña de comando 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando0 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Liña de comando 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando1 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Liña de comando 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando2 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Liña de comando 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando2 sexa "
+"accionado"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Liña de comando 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Liña de comando a ser executada na consola cando executar_comando2 sexa "
+"accionado"
+
+msgid "Key Bindings"
+msgstr "Atallos de Teclado"
+
+msgid "Run command 0"
+msgstr "Executar comando 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando0"
+
+msgid "Run command 1"
+msgstr "Executar comando 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+msgid "Run command 2"
+msgstr "Executar comando 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+msgid "Run command 3"
+msgstr "Executar comando 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando3"
+
+msgid "Run command 4"
+msgstr "Executar comando 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando4"
+
+msgid "Run command 5"
+msgstr "Executar comando 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando5"
+
+msgid "Run command 6"
+msgstr "Executar comando 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando6"
+
+msgid "Run command 7"
+msgstr "Executar comando 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando7"
+
+msgid "Run command 8"
+msgstr "Executar comando 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando8"
+
+msgid "Run command 9"
+msgstr "Executar comando 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de consola "
+"identificado polo comando9"
+
+msgid "Run command 10"
+msgstr "Executar comando 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando10"
+
+msgid "Run command 11"
+msgstr "Executar comando 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando11"
+
+msgid "Run command 12"
+msgstr "Executar comando 12"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Executar comando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Executar comando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Executar comando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Executar comando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Executar comando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Executar comando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Executar comando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Executar comando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Executar comando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Executar comando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Executar comando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Executar comando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Un atallo de teclado que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+msgid "Button Bindings"
+msgstr "Botóns de atallo"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de consola "
+"identificado polo comando0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de consola "
+"identificado polo comando3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de consola "
+"identificado polo comando4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de consola "
+"identificado polo comando5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Un botón de atalloque, cando é accionado, executa o comando de consola "
+"identificado polo comando6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de consola "
+"identificado polo comando7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de consola "
+"identificado polo comando8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de consola "
+"identificado polo comando9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Un botón de atallo que, cando é accionado, executa o comando de "
+"consolaidentificado polo comando2"
+
+msgid "Edge Bindings"
+msgstr "Atallos de Borde"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando0"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando2"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando3"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando4"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando5"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando6"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando7"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando8"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando9"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando10"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Un atallo de borde que cando é invocado, executa o comando de consola "
+"identificado polo comando2"
+
+msgid "General Options"
+msgstr "Opcións Xerais"
+
+msgid "General compiz options"
+msgstr "Opcións xerais de compiz"
+
+msgid "Active Plugins"
+msgstr "Complementos Activos"
+
+msgid "List of currently active plugins"
+msgstr "Lista de engadidos activados"
+
+msgid "Audible Bell"
+msgstr "Campá audible"
+
+msgid "Audible system beep"
+msgstr "Campá de sistema audible"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Ignorar os Consellos Cando Estea Maximizado"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Ignorar incremento de tamaño e aspecto dos consellos cando a xanela está "
+"maximizada"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Ocultar Fiestras Ignorando a Barra de Tarefa"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Agochar as xanelas que non están na barra de tarefas ao entrar no modo "
+"amosar escritorio"
+
+msgid "Edge Trigger Delay"
+msgstr "Atraso do Disparador de Acción de Borde"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"O tempo que o punteiro debe estar no borde da pantalla antes de que acción "
+"do borde se leve a cabo."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Atraso de ping"
+
+msgid "Interval between ping messages"
+msgstr "Intervalo entre mensaxes ping"
+
+msgid "Display Settings"
+msgstr "Configuracións de Pantalla"
+
+msgid "Texture Filter"
+msgstr "Filtro de Textura"
+
+msgid "Texture filtering"
+msgstr "Filtro de Texturas"
+
+msgid "Fast"
+msgstr "Rápido"
+
+msgid "Good"
+msgstr "Bo"
+
+msgid "Best"
+msgstr "Mellor"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "Enfoque & Xestión de Comportamento"
+
+msgid "Click To Focus"
+msgstr "Faga Clic para Enfocar"
+
+msgid "Click on window moves input focus to it"
+msgstr "Ao facer clic na xanela transfírese o foco cara ela"
+
+msgid "Raise On Click"
+msgstr "Elevar con un Clic"
+
+msgid "Raise windows when clicked"
+msgstr "Elevar xanelas cando se faga clic nelas"
+
+msgid "Auto-Raise"
+msgstr "Elevación Automática"
+
+msgid "Raise selected windows after interval"
+msgstr "Elevar xanelas seleccionadas despois dun intervalo de tempo"
+
+msgid "Auto-Raise Delay"
+msgstr "Atraso na Elevación Automática"
+
+msgid "Interval before raising selected windows"
+msgstr "Intervalo antes da elevación das xanelas seleccionadas"
+
+msgid "Key bindings"
+msgstr "Atallos de teclado"
+
+msgid "Close active window"
+msgstr "Pechar a xanela activa"
+
+msgid "Raise Window"
+msgstr "Elevar Fiestra"
+
+msgid "Raise window above other windows"
+msgstr "Elevar xanela por enriba das restantes"
+
+msgid "Lower Window"
+msgstr "Fiestra Máis Baixa"
+
+msgid "Lower window beneath other windows"
+msgstr "Fiestra máis baixa por debaixo das outras xanelas"
+
+msgid "Unmaximize active window"
+msgstr "Desmaximizar xanela activa"
+
+msgid "Minimize active window"
+msgstr "Minimiza a xanela activa"
+
+msgid "Maximize active window"
+msgstr "Maximiza a xanela activa"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maximizar a Fiestra Horizontalmente"
+
+msgid "Maximize active window horizontally"
+msgstr "Maximiza horizontalmente a xanela activa"
+
+msgid "Maximize Window Vertically"
+msgstr "Maximizar a Fiestra Verticalmente"
+
+msgid "Maximize active window vertically"
+msgstr "Maximiza verticalmente a xanela activa"
+
+msgid "Window menu button binding"
+msgstr "Botón de atallo para menú da xanela"
+
+msgid "Window menu key binding"
+msgstr "Tecla de atallo para menú da xanela"
+
+msgid "Show Desktop"
+msgstr "Amosar Escritorio"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Ocultar todas as xanelas e enfocar o escritorio"
+
+msgid "Toggle Window Maximized"
+msgstr "Trocar Maximizado da Fiestra"
+
+msgid "Toggle active window maximized"
+msgstr "Trocar Maximizado da Fiestra Actual"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Trocar Maximizado Horizontal da Fiestra"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Trocar Maximizado Horizontal da Fiestra Activa"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Trocar Maximizado Vertical da Fiestra"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Trocar Maximizado Vertical da Fiestra Activa"
+
+msgid "Toggle Window Shaded"
+msgstr "Trocar Escurecemento da Fiestra"
+
+msgid "Toggle active window shaded"
+msgstr "Trocar escurecemento da xanela activa"
+
+msgid "Slow Animations"
+msgstr "Animacións Lentas"
+
+msgid "Toggle use of slow animations"
+msgstr "Trocar o uso de animacións lentas"
+
+msgid "Desktop Size"
+msgstr "Tamaño do Escritorio"
+
+msgid "Horizontal Virtual Size"
+msgstr "Tamaño Virtual Horizontal"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Multiplicador do tamaño da pantalla para o tamaño virtual horizontal"
+
+msgid "Vertical Virtual Size"
+msgstr "Tamaño Vertical Virtual"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Multiplicador do tamaño da pantalla para o tamaño virtual vertical"
+
+msgid "Lighting"
+msgstr "Iluminación"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Empregar luz difusa cando se transforma a pantalla"
+
+msgid "Detect Refresh Rate"
+msgstr "Detectar Taxa de Actualización"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Detección automática da taxa de actualización"
+
+msgid "Refresh Rate"
+msgstr "Taxa de Actualización"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Taxa de refresco da pantalla (veces/segundo) "
+
+msgid "Detect Outputs"
+msgstr "Detectar Saídas"
+
+msgid "Automatic detection of output devices"
+msgstr "Detección automática de dispositivos de saída"
+
+msgid "Overlapping Output Handling"
+msgstr "Xestión de Saídas Superpostas"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Cal dos dispositivos que se superpoñen debería ser o preferido"
+
+msgid "Smart mode"
+msgstr "Modo intelixente"
+
+msgid "Prefer larger output"
+msgstr "Preferir saída máis grande"
+
+msgid "Prefer smaller output"
+msgstr "Preferir saída máis pequena"
+
+msgid "Outputs"
+msgstr "Saídas"
+
+msgid "List of strings describing output devices"
+msgstr "Lista de cadeas que describen os dispositivos de saída"
+
+msgid "Sync To VBlank"
+msgstr "Sincronizar a VBlank"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Só actualizar a pantalla durante o período de limpeza vertical"
+
+msgid "Focus Prevention Level"
+msgstr "Nivel de Prevención de Enfoque"
+
+msgid "Level of focus stealing prevention"
+msgstr "Nivel de prevención da perda de enfoque"
+
+msgid "Off"
+msgstr "Apagado"
+
+msgid "Low"
+msgstr "Baixa"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "High"
+msgstr "Alta"
+
+msgid "Very High"
+msgstr "Moi Alta"
+
+msgid "Focus Prevention Windows"
+msgstr "Prevención do Enfoque nas Fiestras"
+
+msgid "Focus prevention windows"
+msgstr "Prevención do enfoque nas xanelas"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Desredirección das Fiestras en Pantalla Completa"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Permitir que o renderizado das xanelas a pantalla completa non sexa "
+"redirixido a mapas de imaxe fora da pantalla"
+
+msgid "Default Icon"
+msgstr "Icona por defecto"
+
+msgid "Default window icon image"
+msgstr "Imaxe da icona da xanela por defecto"
+
+msgid "Force independent output painting."
+msgstr "Forzar debuxado na saída independente"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Debuxar cada dispositivo de saída de forma independente, aínda que o "
+"dispositivo de saída se superpoña"
+
+msgid "Texture Compression"
+msgstr "Compresión de Texturas"
+
+msgid "If available use compression for textures converted from images"
+msgstr "Empregala compresión para as texturas convertidas dende imaxes"
+
+msgid "Desktop Cube"
+msgstr "Cubo de escritorios"
+
+msgid "Place windows on cube"
+msgstr "Dispón as xanelas nas caras dun cubo"
+
+msgid "Unfold"
+msgstr "Desdobrar"
+
+msgid "Unfold cube"
+msgstr "Desdobrar cubo"
+
+msgid "Next Slide"
+msgstr "Seguinte Cara"
+
+msgid "Advance to next slide"
+msgstr "Avanzar á seguinte cara"
+
+msgid "Prev Slide"
+msgstr "Cara Anterior"
+
+msgid "Go back to previous slide"
+msgstr "Voltar á anterior cara"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Xerar mapas cando sexa posíbel para dimensionado de mellor calidade"
+
+msgid "Multi Output Mode"
+msgstr "Modo de saída múltiple"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Seleccione como se mostra o cubo se se empregan dispositivos de saída "
+"múltiples"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "Multiple cubes"
+msgstr "Cubos múltiples"
+
+msgid "One big cube"
+msgstr "Un cubo grande"
+
+msgid "Behavior"
+msgstr "Comportamento"
+
+msgid "Inside Cube"
+msgstr "Interior do Cubo"
+
+msgid "Inside cube"
+msgstr "Interior do cubo"
+
+msgid "Acceleration"
+msgstr "Aceleración"
+
+msgid "Fold Acceleration"
+msgstr "Aceleración de dobrado"
+
+msgid "Speed"
+msgstr "Velocidade"
+
+msgid "Fold Speed"
+msgstr "Velocidade de dobrado"
+
+msgid "Timestep"
+msgstr "Saltos do tempo"
+
+msgid "Fold Timestep"
+msgstr "Pasos de dobrado"
+
+msgid "Appearance"
+msgstr "Apariencia"
+
+msgid "Cube Color"
+msgstr "Cor do Cubo"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Cor dos lados superior e inferior do cubo"
+
+msgid "Cube Caps"
+msgstr "Tapas do Cubo"
+
+msgid "Scale image"
+msgstr "Escalar imaxe"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Escalar imaxes para cubrir a cara superior do cubo"
+
+msgid "Image files"
+msgstr "Arquivos de imaxe"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Lista de arquivos PNG e SVG que deben ser empregan na cara superior do cubo"
+
+msgid "Adjust Image"
+msgstr "Axustar Imaxe"
+
+msgid "Adjust top face image to rotation"
+msgstr "Axustar a cara superior á rotación"
+
+msgid "Skydome"
+msgstr "Skydome"
+
+msgid "Render skydome"
+msgstr "Renderizar skydome"
+
+msgid "Skydome Image"
+msgstr "Imaxe do Skydome"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Imaxe a empregar como textura no skydome"
+
+msgid "Animate Skydome"
+msgstr "Animar Skydome"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animar Skydome ao xirar o cubo"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Cor Inicial do gradiente Skydome"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Cor a utilizar para cor superior do gradiente do skydome por omisión"
+
+msgid "Skydome Gradient End Color"
+msgstr "Cor Final do gradiente Skydome"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Cor a utilizar para a cor inferior do gradiente do skydome por omisión"
+
+msgid "Transparent Cube"
+msgstr "Cubo Transparente"
+
+msgid "Opacity During Rotation"
+msgstr "Opacidade Durante a Rotación"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Opacidade da xanela do escritorio ao rodar"
+
+msgid "Opacity When Not Rotating"
+msgstr "Opacidade Mentres Non se Roda"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Opacidade do escritorio cando non está rotando"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Activar Transparencia só ao rodar co rato"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Iniciar transparencia do cubo só se a rotación é iniciada polo rato."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Backend de control do D-Bus"
+
+msgid "Window Decoration"
+msgstr "Decoración da Fiestra"
+
+msgid "Window decorations"
+msgstr "Decoracións das xanelas"
+
+msgid "Shadow Radius"
+msgstr "Radio da Sombra"
+
+msgid "Drop shadow radius"
+msgstr "Radio da sombra"
+
+msgid "Shadow Opacity"
+msgstr "Opacidade da Sombra"
+
+msgid "Drop shadow opacity"
+msgstr "Opacidade da sombra"
+
+msgid "Shadow Color"
+msgstr "Cor da sombra"
+
+msgid "Drop shadow color"
+msgstr "Cor da sombra"
+
+msgid "Shadow Offset X"
+msgstr "Desprazamento X da Sombra"
+
+msgid "Drop shadow X offset"
+msgstr "Desprazamento X da sombra"
+
+msgid "Shadow Offset Y"
+msgstr "Desprazamento Y da Sombra"
+
+msgid "Drop shadow Y offset"
+msgstr "Desprazamento Y da sombra"
+
+msgid "Command"
+msgstr "Comando"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr "Liña de comando a executar se non se está a executar ningún decorador"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Permitir a xeración de mapas de imaxe para as texturas da decoración"
+
+msgid "Decoration windows"
+msgstr "Activa a xestión da decoración das xanelas"
+
+msgid "Windows that should be decorated"
+msgstr "Fiestras que se deben decorar"
+
+msgid "Shadow windows"
+msgstr "Fiestras con sombra"
+
+msgid "Windows that should have a shadow"
+msgstr "Fiestras que deben ter sombra"
+
+msgid "Fading Windows"
+msgstr "Fiestras Desvanecidas"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Amosar as xanelas cando haxa mapeado e desvanecelas cando sexan desmapeadas"
+
+msgid "Fade Mode"
+msgstr "Modo de Desvanecemento"
+
+msgid "Window fade mode"
+msgstr "Modo de desvanecemento das xanelas"
+
+msgid "Constant speed"
+msgstr "Velocidade constante"
+
+msgid "Constant time"
+msgstr "Constante de tempo"
+
+msgid "Fade Speed"
+msgstr "Velocidade de Desvanecemento"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr ""
+"Modo \"Velocidade Constante\" para a Velocidade de Desvanecemento das "
+"Fiestras"
+
+msgid "Fade Time"
+msgstr "Tempo de desvanecemento"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "Modo \"Tempo constante\" para a Duración do Desvanecemento de Fiestra"
+
+msgid "Fade windows"
+msgstr "Desvanecer xanelas"
+
+msgid "Windows that should be fading"
+msgstr "Fiestras que se deben desvanecer"
+
+msgid "Visual Bell"
+msgstr "Campá Visual"
+
+msgid "Fade effect on system beep"
+msgstr "Efecto de desvanecemento ao soar a campá do sistema"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Campá Visual a Pantalla Completa"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr ""
+"Efecto de desvanecemento da pantalla completa cando sona a campá do sistema"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Aparecer ao Minimizar/Abrir/Pechar"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr ""
+"Realizar Efecto de Desvanecemento cos eventos de minimizar/abrir/pechar "
+"xanelas"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Escurecer as Fiestras que non Responden"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+"Escurecer as xanelas que non están a responder ao que o xestor de xanelas "
+"require"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Brillo das Fiestras Bloqueadas"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Brillo (en %) das xanelas bloqueadas"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Saturación das Fiestras Bloqueadas"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Saturación das xanelas bloqueadas (en %)"
+
+msgid "Userspace File System"
+msgstr "Sistema de Ficheiros en Espazo de Usuario"
+
+msgid "Userspace file system"
+msgstr "Sistema de ficheiros en espazo de usuario"
+
+msgid "Mount Point"
+msgstr "Punto de Montaxe"
+
+msgid "Mount point"
+msgstr "Punto de montaxe"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Soporte ao bucle principal de GLib"
+
+msgid "MATE Compatibility"
+msgstr "Compatibilidade con MATE"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+"Opcións para manter a compatibilidade de Compiz co entorno de escritorio MATE"
+
+msgid "Show Main Menu"
+msgstr "Amosar Menú Principal"
+
+msgid "Show the main menu"
+msgstr "Amosar o menú principal"
+
+msgid "Run Dialog"
+msgstr "Diálogo de Execución"
+
+msgid "Show Run Application dialog"
+msgstr "Amosar caixa de diálogo Executar Aplicativo"
+
+msgid "Screenshot command line"
+msgstr "Capturar pantalla da liña de comando"
+
+msgid "Take a screenshot"
+msgstr "Facer unha capturar pantalla"
+
+msgid "Window screenshot command line"
+msgstr "Liña de comando para captura de pantalla de xanelas"
+
+msgid "Take a screenshot of a window"
+msgstr "Facer captura de pantalla dunha xanela"
+
+msgid "Run terminal command"
+msgstr "Executar comando de terminal"
+
+msgid "Terminal command line"
+msgstr "Liña de comando do terminal"
+
+msgid "Open a terminal"
+msgstr "Abrir unha terminal"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Xestor de configuracións simples con ficheiros Ini"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Engadido de notificación de cambios en ficheiros"
+
+msgid "Minimize Effect"
+msgstr "Efecto ao Minimizar"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Transforma as xanelas cando son minimizadas e restauradas"
+
+msgid "Minimize speed"
+msgstr "Velocidade de minimizado"
+
+msgid "Minimize timestep"
+msgstr "Atraso no minimizado"
+
+msgid "Minimize Windows"
+msgstr "Minimizar as Fiestras"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Fiestras se deben transformar cando sexan minimizadas"
+
+msgid "Shade Resistance"
+msgstr "Resistencia da Sombra"
+
+msgid "Shade resistance"
+msgstr "Resistencia que opón a sombra ao minimizar a súa xanela"
+
+msgid "Move Window"
+msgstr "Mover Fiestra"
+
+msgid "Move window"
+msgstr "Atallos de teclado e rato para o movemento máis sinxelo das xanelas"
+
+msgid "Initiate Window Move"
+msgstr "Iniciar Movemento de Fiestras"
+
+msgid "Start moving window"
+msgstr "Iniciar movemento da xanela"
+
+msgid "Opacity"
+msgstr "Opacidade"
+
+msgid "Opacity level of moving windows"
+msgstr "Nivel de opacidade das xanelas en movemento"
+
+msgid "Constrain Y"
+msgstr "Restrinxir Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Restrinxir a coordenada Y á area de traballo"
+
+msgid "Snapoff maximized windows"
+msgstr "Separar as xanelas maximizadas"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Separar e restaurar as xanelas maximizaas cando se arrastren"
+
+msgid "Lazy Positioning"
+msgstr "Posicionamento preguizoso"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Non actualizar a posición das xanelas no servidor ata acabar o movemento"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Opacidade, Brillo e Saturación"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Opacidade, Brillo e axustes de Saturación"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Aumentar opacidade da xanela"
+
+msgid "Opacity Increase"
+msgstr "Incrementar opacidade"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Reducir opacidade da xanela"
+
+msgid "Opacity Decrease"
+msgstr "Decrementar Opacidade"
+
+msgid "Brightness"
+msgstr "Brillo"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Brillo"
+
+msgid "Brightness Increase"
+msgstr "Incrementar Brillo"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Brillo"
+
+msgid "Brightness Decrease"
+msgstr "Decrementar Brillo"
+
+msgid "Saturation"
+msgstr "Saturación"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Saturación do desenfoque"
+
+msgid "Saturation Increase"
+msgstr "Incrementar Saturación"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Saturación do desenfoque"
+
+msgid "Saturation Decrease"
+msgstr "Decremenar Saturación"
+
+msgid "Step"
+msgstr "Salto"
+
+msgid "Opacity Step"
+msgstr "Etapa de Opacidade"
+
+msgid "Window specific settings"
+msgstr "Opcións especificas para as xanelas"
+
+msgid "Windows"
+msgstr "Fiestras"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Fiestras que deben ter unha opacidade diferente por omisión"
+
+msgid "Window values"
+msgstr "Valores das xanelas"
+
+msgid "Opacity values for windows"
+msgstr "Valores de opacidade para as xanelas"
+
+msgid "Brightness Step"
+msgstr "Salto no Brillo"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Fiestras que deben ter un brillo diferente por omisión"
+
+msgid "Brightness values for windows"
+msgstr "Valores de Brillo para as xanelas"
+
+msgid "Saturation Step"
+msgstr "Salto na Saturación"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Fiestras que deben ter unha saturación diferente por omisión"
+
+msgid "Saturation values for windows"
+msgstr "Valores de saturación para as xanelas"
+
+msgid "Place Windows"
+msgstr "Colocación de  Fiestras"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Coloca xanelas nas posicións axeitas cando sexan mapeadas"
+
+msgid "Workarounds"
+msgstr "Entornos"
+
+msgid "Window placement workarounds"
+msgstr "Entornos de colocación de xanela"
+
+msgid "Placement Mode"
+msgstr "Modo de Colocación"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algoritmo a empregar para posicionar as xanelas"
+
+msgid "Cascade"
+msgstr "En Cascada"
+
+msgid "Centered"
+msgstr "Centrado"
+
+msgid "Smart"
+msgstr "Intelixente"
+
+msgid "Maximize"
+msgstr "Maximizar"
+
+msgid "Random"
+msgstr "Aleatorio"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Xirar cando estea o Punteiro no Borde"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Selecciona como se debe comportar a colocación de xanelas cando se "
+"seleccionan saídas múltiples"
+
+msgid "Use active output device"
+msgstr "Empregar o dispositivo de saída activo"
+
+msgid "Use output device with pointer"
+msgstr "Empregar o dispositivo de saída co punteiro"
+
+msgid "Use output device of focused window"
+msgstr "Empregar o dispositivo de saída da xanela enfocada"
+
+msgid "Place across all outputs"
+msgstr "Colocar en tódalas saídas"
+
+msgid "Force Placement Windows"
+msgstr "Forzar o colocado das xanelas"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Fiestras que se deben colocar obrigatoriamente, aínda que se indique no "
+"xestor de xanelas que se deben evitar a súa colocación"
+
+msgid "Fixed Window Placement"
+msgstr "Colocación de Fiestras Fixadas"
+
+msgid "Windows with fixed positions"
+msgstr "Fiestras con posicións fixadas"
+
+msgid "Positioned windows"
+msgstr "Fiestras Colocadas"
+
+msgid "Windows that should be positioned by default"
+msgstr "Fiestras que se deben ser colocadas por omisión"
+
+msgid "X Positions"
+msgstr "Posicións X"
+
+msgid "X position values"
+msgstr "Valores de posición X"
+
+msgid "Y Positions"
+msgstr "Posicións Y"
+
+msgid "Y position values"
+msgstr "Valores de posición Y"
+
+msgid "Keep In Workarea"
+msgstr "Manter na Área de Traballo"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Manter as xanelas colocadas na área de traballo, aínda que isto signifique "
+"que a posición poida diferir da posición especificada"
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Fiestras con posicións fixadas"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Fiestras que deben ter unha saturación diferente por omisión"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Modo de Desvanecemento"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Fiestras Colocadas"
+
+msgid "Windows with fixed viewport"
+msgstr "Fiestras con áreas de traballo fixado"
+
+msgid "Viewport positioned windows"
+msgstr "Fiestras colocadas nas áreas de traballo"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+"Fiestras que deben ser colocadas en áreas de traballo específicos por omisión"
+
+msgid "X Viewport Positions"
+msgstr "Posicións X da Área de traballo"
+
+msgid "Horizontal viewport positions"
+msgstr "Posicións de áreas de traballo horizontais"
+
+msgid "Y Viewport Positions"
+msgstr "Posicións Y da Área de Traballo"
+
+msgid "Vertical viewport positions"
+msgstr "Posicións dos puntos de vista verticais"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Cargador de imaxes Png"
+
+msgid "Regex Matching"
+msgstr "Coincidencia Regex"
+
+msgid "Regex window matching"
+msgstr "Coincidencia Regex das xanelas"
+
+msgid "Resize Window"
+msgstr "Dimensionar Fiestra"
+
+msgid "Resize window"
+msgstr "Dimensionar xanela"
+
+msgid "Bindings"
+msgstr "Atallos de teclado"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Iniciar o Dimensionado Normal de Fiestra"
+
+msgid "Start resizing window normally"
+msgstr "Iniciar dimensionado normal da xanela"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Iniciar o Dimensionado de Fiestras co Borde"
+
+msgid "Start resizing window with outline"
+msgstr "Iniciar dimensionado de xanela empregando o contorno"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Iniciar o Dimensionado de Fiestras co Rectángulo"
+
+msgid "Start resizing window with rectangle"
+msgstr "Iniciar dimensionado da xanela empregando un rectángulo"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Iniciar Dimensionado Por Estirado de Fiestras"
+
+msgid "Start resizing window by stretching it"
+msgstr "Iniciar dimensionado de xanelas estirándoas"
+
+msgid "Initiate Window Resize"
+msgstr "Iniciar Dimensión de Fiestras"
+
+msgid "Start resizing window"
+msgstr "Iniciar dimensionado de xanela"
+
+msgid "Default Resize Mode"
+msgstr "Modo de Dimensionado por Omisión"
+
+msgid "Default mode used for window resizing"
+msgstr "Modo a empregar por omisión no dimensionado de xanelas"
+
+msgid "Outline"
+msgstr "Contorno"
+
+msgid "Rectangle"
+msgstr "Rectángulo"
+
+msgid "Stretch"
+msgstr "Estirado"
+
+msgid "Border Color"
+msgstr "Cor do borde"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Cor do borde dos extremos e modos de dimesionado por rectángulos"
+
+msgid "Fill Color"
+msgstr "Cor de recheo"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Cor de recheo empregada para o modo de dimensionado por rectángulo"
+
+msgid "Normal Resize Windows"
+msgstr "Dimensionado Normal de Fiestras"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Fiestras que deben empregar dimensionado normal"
+
+msgid "Outline Resize Windows"
+msgstr "Dimensionado de Fiestras co Contorno"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Fiestras que deben empregar dimensionado co contorno"
+
+msgid "Rectangle Resize Windows"
+msgstr "Dimensionado de Fiestras co Rectángulo"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Fiestras que deben empregar o dimensionado por rectángulo"
+
+msgid "Stretch Resize Windows"
+msgstr "Dimensionar Fiestras Estirándoas"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Fiestras que deben empregar dimensionamento por estiramento"
+
+msgid "Rotate Cube"
+msgstr "Cubo xiratorio"
+
+msgid "Rotate desktop cube"
+msgstr "Activa a rotación do cubo a través das áreas de traballo"
+
+msgid "Edge Flip Pointer"
+msgstr "Xirar cando estea o Punteiro no Borde"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Xirar á área de traballo seguinte ao mover o punteiro cara o borde da xanela"
+
+msgid "Edge Flip Move"
+msgstr "Xirar con Movemento cara o Borde"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Cambiar á área de traballo seguinte ao mover a xanela cara o borde da xanela"
+
+msgid "Edge Flip DnD"
+msgstr "Cambiar cando se Arrastra cara o Borde"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Xirar á área de traballo seguinte ao arrastrar un obxecto cara o borde da "
+"pantalla"
+
+msgid "Flip Time"
+msgstr "Duración do Xiro"
+
+msgid "Timeout before flipping viewport"
+msgstr "Tempo de espera antes de rodar a área de traballo"
+
+msgid "Raise on rotate"
+msgstr "Elevar ao accionar a roda do rato"
+
+msgid "Raise window when rotating"
+msgstr "Elevar xanelas ao accionar a roda do rato"
+
+msgid "Rotate cube"
+msgstr "Xirar Cubo"
+
+msgid "Start Rotation"
+msgstr "Iniciar Rotación"
+
+msgid "Rotate Left"
+msgstr "Xirar á Esquerda"
+
+msgid "Rotate left"
+msgstr "Xirar á esquerda"
+
+msgid "Rotate Right"
+msgstr "Xirar á Dereita"
+
+msgid "Rotate right"
+msgstr "Xirar á dereita"
+
+msgid "Rotate Left with Window"
+msgstr "Xirar á Esquerda coa Fiestra"
+
+msgid "Rotate left and bring active window along"
+msgstr "Xirar á esquerda e arrastrar a xanela activa"
+
+msgid "Rotate Right with Window"
+msgstr "Xirar á Dereita arrastrando a Fiestra"
+
+msgid "Rotate right and bring active window along"
+msgstr "Xirar á dereita e arrastrar a xanela activa"
+
+msgid "Rotate To"
+msgstr "Xirar a"
+
+msgid "Rotate to viewport"
+msgstr "Xirar á área de traballo"
+
+msgid "Rotate window"
+msgstr "Xirar xanela"
+
+msgid "Rotate with window"
+msgstr "Xirar coa xanela"
+
+msgid "Rotate Flip Left"
+msgstr "Xirar á Esquerda"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Xirar á area de traballo da esquerda e manter punteiro"
+
+msgid "Rotate Flip Right"
+msgstr "Xirar á Dereita"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Cambiar á área de traballo da dereita e manter punteiro"
+
+msgid "Rotate to cube face"
+msgstr "Xirar á cara do cubo"
+
+msgid "Rotate To Face 1"
+msgstr "Xirar á Cara 1"
+
+msgid "Rotate to face 1"
+msgstr "Xirar á cara 1"
+
+msgid "Rotate To Face 2"
+msgstr "Xirar á Cara 2"
+
+msgid "Rotate to face 2"
+msgstr "Xirar á cara 2"
+
+msgid "Rotate To Face 3"
+msgstr "Xirar á Cara 3"
+
+msgid "Rotate to face 3"
+msgstr "Xirar á cara 3"
+
+msgid "Rotate To Face 4"
+msgstr "Xirar á Cara 4"
+
+msgid "Rotate to face 4"
+msgstr "Xirar á cara 4"
+
+msgid "Rotate To Face 5"
+msgstr "Xirar á Cara 5"
+
+msgid "Rotate to face 5"
+msgstr "Xirar á cara 5"
+
+msgid "Rotate To Face 6"
+msgstr "Xirar á Cara 6"
+
+msgid "Rotate to face 6"
+msgstr "Xirar á cara 6"
+
+msgid "Rotate To Face 7"
+msgstr "Xirar á Cara 7"
+
+msgid "Rotate to face 7"
+msgstr "Xirar á cara 7"
+
+msgid "Rotate To Face 8"
+msgstr "Xirar á Cara 8"
+
+msgid "Rotate to face 8"
+msgstr "Xirar á cara 8"
+
+msgid "Rotate To Face 9"
+msgstr "Xirar á Cara 9"
+
+msgid "Rotate to face 9"
+msgstr "Xirar á cara 9"
+
+msgid "Rotate To Face 10"
+msgstr "Xirar á Cara 10"
+
+msgid "Rotate to face 10"
+msgstr "Xirar á cara 10"
+
+msgid "Rotate To Face 11"
+msgstr "Xirar á Cara 11"
+
+msgid "Rotate to face 11"
+msgstr "Xirar á cara 11"
+
+msgid "Rotate To Face 12"
+msgstr "Xirar á Cara 12"
+
+msgid "Rotate to face 12"
+msgstr "Xirar á cara 12"
+
+msgid "Rotate to cube face with window"
+msgstr "Xirar á cara do cubo coa xanela"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Xirar á Cara 1 arrastrando a Fiestra"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Xirar á cara 1 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Xirar á Cara 2 arrastrando a Fiestra"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Xirar á cara 2 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Xirar á Cara 3 arrastrando a Fiestra"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Xirar á cara 3 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Xirar á Cara 4 arrastrando a Fiestra"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Xirar á cara 4 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Xirar á Cara 5 arrastrando a Fiestra"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Xirar á cara 5 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Xirar á Cara 6 arrastrando a Fiestra"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Xirar á cara 6 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Xirar á Cara 7 arrastrando a Fiestra"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Xirar á cara 7 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Xirar á Cara 8 arrastrando a Fiestra"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Xirar á cara 8 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Xirar á Cara 9 arrastrando a Fiestra"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Xirar á cara 9 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Xirar á Cara 10 arrastrando a Fiestra"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Xirar á cara 10 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Xirar á Cara 11 arrastrando a Fiestra"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Xirar á cara 11 e arrastrar tamén a xanela activa"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Xirar á Cara 12 arrastrando a Fiestra"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Xirar á cara 12 e arrastrar tamén a xanela activa"
+
+msgid "Pointer Invert Y"
+msgstr "Inverter o eixo Y do Punteiro"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Inverter eixo Y do movemento do punteiro"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Inverter o eixo Y do Punteiro"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Inverter eixo Y do movemento do punteiro"
+
+msgid "Pointer Sensitivity"
+msgstr "Sensibilidade do Punteiro"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Sensibilidade do movemento do punteiro"
+
+msgid "Rotation Acceleration"
+msgstr "Aceleración da Rotación"
+
+msgid "Snap To Top Face"
+msgstr "Xirar á Cara Superior"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Xirar o Cubo á Cara Superior"
+
+msgid "Snap To Bottom Face"
+msgstr "Xirar á Cara Inferior"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Xirar o Cubo á Cara Inferior"
+
+msgid "Rotation Speed"
+msgstr "Velocidade de Rotación"
+
+msgid "Rotation Timestep"
+msgstr "Saltos de Tempo da Rotación"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Rotation Zoom"
+msgstr "Zoom da rotación"
+
+msgid "Scale"
+msgstr "Escalado"
+
+msgid "Scale windows"
+msgstr "Escala de Fiestras"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Atallos de teclado para Trocar o Modo Escala"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Os atallos de teclado trocan o modo de escala no canto de activalo cando é "
+"pulsado e desactivado cando é soltado."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Atallos para Trocar o Modo de Escala"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Atallos de teclado para trocar o modo escala no canto de activalos cando son "
+"pulsados e desactivados cando se solta."
+
+msgid "Initiate Window Picker"
+msgstr "Iniciar Selector de Fiestras"
+
+msgid "Layout and start transforming windows"
+msgstr "Dispor as xanelas e iniciar súa transformación"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Iniciar selector de xanelas Para Tódalas Fiestras"
+
+msgid "Layout and start transforming all windows"
+msgstr "Dispor todas as xanelas e iniciar súa transformación"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Iniciar Selector de Fiestras para Grupos de Fiestras"
+
+msgid "Layout and start transforming window group"
+msgstr "Dispor o grupo de xanelas e iniciar súa transformación"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Iniciar Selector de Fiestras para Tódalas Fiestras na Saída Actual"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Dispor as xanelas na saída actual e iniciar a súa transformación"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Facer Clic no Escritorio para Amosalo"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Entrar no modo Amosar Escritorio cando se faga clic no Escritorio durante o "
+"Escalado"
+
+msgid "Spacing"
+msgstr "Espaciado"
+
+msgid "Space between windows"
+msgstr "Espazo entre xanelas"
+
+msgid "Scale speed"
+msgstr "Velocidade de Escalado"
+
+msgid "Scale timestep"
+msgstr "Saltos na Escala"
+
+msgid "Darken Background"
+msgstr "Escurecer Fondo"
+
+msgid "Darken background when scaling windows"
+msgstr "Escurecer fondo ao escalar xanelas"
+
+msgid "Amount of opacity in percent"
+msgstr "Nivel de Opacidade en porcentaxe"
+
+msgid "Overlay Icon"
+msgstr "Icona Superposta"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Superpor un icona nas xanelas cando sexan escaladas"
+
+msgid "None"
+msgstr "Ningún"
+
+msgid "Emblem"
+msgstr "Emblema"
+
+msgid "Big"
+msgstr "Grande"
+
+msgid "Scale Windows"
+msgstr "Escalado de Fiestras"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Fiestras que deben ser escaladas en modo escala"
+
+msgid "Hover Time"
+msgstr "Tempo durante o cal se deixa o rato enriba"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Tempo (en ms) antes de que o modo de escalado se remate ao pasar sobre unha "
+"xanela"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Selecciona cando son escaladasa xanelas se se empregan múltiples "
+"dispositivos de saída."
+
+msgid "On current output device"
+msgstr "Só no dispositivo de saída actual"
+
+msgid "On all output devices"
+msgstr "En tódolos dispositivos de saída"
+
+msgid "Screenshot"
+msgstr "Captura de pantalla"
+
+msgid "Screenshot plugin"
+msgstr "Complemento para a Captura de Pantalla"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Iniciar Rectángulo de Captura de Pantalla "
+
+msgid "Directory"
+msgstr "Cartafol"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Colocar capturas de pantalla neste directorio"
+
+msgid "Launch Application"
+msgstr "Lanzar Aplicación"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Abrir automaticamente a captura de pantalla con esta aplicación"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Complemento que activa o soporte para o cargado de imaxes SVG"
+
+msgid "Application Switcher"
+msgstr "Trocador de Aplicación"
+
+msgid "Next window"
+msgstr "Seguinte xanela"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Amosar trocador se non está visíbel e seleccionar seguinte xanela"
+
+msgid "Prev window"
+msgstr "Ant. xanela"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Amosar trocador se non está visíbel e seleccionar a xanela anterior"
+
+msgid "Next window (All windows)"
+msgstr "Seguinte Fiestra (Todas as xanelas)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Amosar trocador se non está visíbel e seleccionar a seguinte xanela de "
+"tódalas xanelas"
+
+msgid "Prev window (All windows)"
+msgstr "Fiestra anterior (Todas as xanelas)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Amosar trocador se non está visíbel e seleccionar a xanela anterior de todas"
+
+msgid "Next window (No popup)"
+msgstr "Seguinte Fiestra (Sen xanela sobresaínte)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Seleccionar seguinte xanela sen amosar a xanela sobresaínte"
+
+msgid "Prev window (No popup)"
+msgstr "Fiestra anterior (Sen xanela sobresaínte)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Seleccionar xanela anterior sen amosar a xanela sobresaínte."
+
+msgid "Next Panel"
+msgstr "Seguinte Panel"
+
+msgid "Select next panel type window."
+msgstr "Seleccionar seguinte xanela de tipo panel."
+
+msgid "Prev Panel"
+msgstr "Ant. Panel"
+
+msgid "Select previous panel type window."
+msgstr "Seleccionar anterior xanela de tipo panel."
+
+msgid "Switcher speed"
+msgstr "Velocidade do Cambiador"
+
+msgid "Switcher timestep"
+msgstr "Salto do Cambiador"
+
+msgid "Switcher windows"
+msgstr "Cambiador de xanelas"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Fiestras que deben ser amosadas no cambiador"
+
+msgid "Amount of saturation in percent"
+msgstr "Cantidade de saturación en porcentaxe"
+
+msgid "Amount of brightness in percent"
+msgstr "Cantidade de brillo en porcentaxe"
+
+msgid "Bring To Front"
+msgstr "Traer ao Frente"
+
+msgid "Bring selected window to front"
+msgstr "Coloca a xanela seleccionada en primeiro plano"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Afastar o escritorio mentres se cambian as xanelas"
+
+msgid "Icon"
+msgstr "Icona"
+
+msgid "Show icon next to thumbnail"
+msgstr "Amosar icona ao lado da miniatura"
+
+msgid "Minimized"
+msgstr "Minimizado"
+
+msgid "Show minimized windows"
+msgstr "Amosar xanelas minimizadas"
+
+msgid "Auto Rotate"
+msgstr "Xirar Automaticamente"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Xirar á xanela seleccionada mentres se cambia"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Tamaño do Escritorio"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Xirar á xanela seleccionada mentres se cambia"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Cara Anterior"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Radio da Sombra"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Contorno"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Dimensionado de Fiestras co Contorno"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Imaxes de fondo"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Cor do borde"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Cor de recheo"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Cor da sombra"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Posicións X da Área de traballo"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Fiestras Desvanecidas"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Fiestras que deben ser escaladas en modo escala"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Atallos de teclado e rato para o movemento máis sinxelo das xanelas"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Xirar á Esquerda"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Xirar á Dereita"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Mover Fiestra"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Xirar coa xanela"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Xirar á Esquerda coa Fiestra"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Xirar á Dereita arrastrando a Fiestra"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Mover Fiestra"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Mover Fiestra"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Atallos de Borde"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Xirar á Esquerda"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Duración do Xiro"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Xirar á Dereita"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Xirar á Dereita"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Duración do Xiro"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Duración do Xiro"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Cambiar cando se Arrastra cara o Borde"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Plano abaixo"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Velocidade do Cambiador"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Cambiar cando se Arrastra cara o Borde"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Xirar á área de traballo seguinte ao mover o punteiro cara o borde da xanela"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Cambiar á área de traballo seguinte ao mover a xanela cara o borde da xanela"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Xirar á área de traballo seguinte ao arrastrar un obxecto cara o borde da "
+"pantalla"
+
+msgid "Water Effect"
+msgstr "Efecto de Auga"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Engade efectos de auga a diferentes accións do escritorio"
+
+msgid "Enable pointer water effects"
+msgstr "Activar efectos de auga co punteiro"
+
+msgid "Toggle rain"
+msgstr "Trocar chuvia"
+
+msgid "Toggle rain effect"
+msgstr "Trocar efecto de chuvia"
+
+msgid "Toggle wiper"
+msgstr "Trocar limpiaparabrisas"
+
+msgid "Toggle wiper effect"
+msgstr "Troca o efecto de limpiaparabrisas"
+
+msgid "Offset Scale"
+msgstr "Desprazamento da Escala"
+
+msgid "Water offset scale"
+msgstr "Espaciado entre as ondas de auga"
+
+msgid "Rain Delay"
+msgstr "Atraso da chuvia"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Atraso (en ms) entre cada gota de chuvia"
+
+msgid "Title wave"
+msgstr "Onda dende o título"
+
+msgid "Wave effect from window title"
+msgstr "Efecto de onda dende o título da xanela"
+
+msgid "Point"
+msgstr "Punto"
+
+msgid "Add point"
+msgstr "Engadir punto"
+
+msgid "Line"
+msgstr "Liña"
+
+msgid "Add line"
+msgstr "Engadir liña"
+
+msgid "Wobbly Windows"
+msgstr "Fiestras xelatinosas"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Empregar modelo de mola para simular o efecto xelatinoso nas xanelas"
+
+msgid "Snap windows"
+msgstr "Axustar xanelas"
+
+msgid "Toggle window snapping"
+msgstr "Trocar axuste de xanelas"
+
+msgid "Snap Inverted"
+msgstr "Instantánea invertida"
+
+msgid "Inverted window snapping"
+msgstr "Axuste de xanelas invertido"
+
+msgid "Shiver"
+msgstr "Temblar"
+
+msgid "Make window shiver"
+msgstr "Fai que as xanelas semellen xelatina"
+
+msgid "Friction"
+msgstr "Fricción"
+
+msgid "Spring Friction"
+msgstr "Fricción do mola"
+
+msgid "Spring K"
+msgstr "K do mola"
+
+msgid "Spring Konstant"
+msgstr "Constante do mola"
+
+msgid "Grid Resolution"
+msgstr "Resolución da Grella"
+
+msgid "Vertex Grid Resolution"
+msgstr "Resolución da Grella Vertex"
+
+msgid "Minimum Grid Size"
+msgstr "Tamaño Mínimo da Grella"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Tamaño Mínimo da Grella Vertex"
+
+msgid "Map Effect"
+msgstr "Efecto ao colocar"
+
+msgid "Map Window Effect"
+msgstr "Efecto da Fiestra ao Colocala"
+
+msgid "Focus Effect"
+msgstr "Efecto de Enfoque"
+
+msgid "Focus Window Effect"
+msgstr "Efecto de Enfoque da Fiestra"
+
+msgid "Map Windows"
+msgstr "Colocar Fiestras"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Fiestras que deben semellar xelatina cando son colocadas"
+
+msgid "Focus Windows"
+msgstr "Enfocar Fiestras"
+
+msgid "Windows that should wobble when focused"
+msgstr "Fiestras que deben semellar xelatina cando son enfocadas"
+
+msgid "Grab Windows"
+msgstr "Atracción das xanelas"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Fiestras que deben semellar xelatina cando son agarradas"
+
+msgid "Move Windows"
+msgstr "Mover Fiestras"
+
+msgid "Windows that should wobble when moved"
+msgstr "Fiestras que deben semellar xelatina cando son movidas"
+
+msgid "Maximize Effect"
+msgstr "Efecto ao Maximizar"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr ""
+"Activar o efecto semellante á xelatina cando se maximizan ou minimizan as "
+"xanelas"
+
+msgid "Zoom Desktop"
+msgstr "Zoom do escritorio"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Afastar e mover cubo do escritorio"
+
+msgid "Zoom In"
+msgstr "Acercar"
+
+msgid "Zoom Out"
+msgstr "Afastar"
+
+msgid "Zoom Pan"
+msgstr "Colocación do Zoom"
+
+msgid "Zoom pan"
+msgstr "Colocación do Zoom"
+
+msgid "Zoom Speed"
+msgstr "Velocidade de Zoom"
+
+msgid "Zoom Timestep"
+msgstr "Salto de tempo do Zoom"
+
+msgid "Zoom factor"
+msgstr "Factor de zoom"
+
+msgid "Filter Linear"
+msgstr "Filtro lineal"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Empregar o filtro lineal cando se fai zoom"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Número de escritorios"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Número de escritorios virtuais"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Acción a levar a cabo cando se fai acciona a roda do rato na barra de "
+#~ "título da xanela."
+
+#~ msgid "Blur type"
+#~ msgstr "Tipo de desenfoque"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Opacidade da xanela activa no tema marco"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Opacidade da sombra da xanela activa no tema marco"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Opacidade do tema Marco"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Opacidade da sombra do tema Marco"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "Opacidade a empregar para xanelas activas con decoracións marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Opacidade a empregar para decoracións marco"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Escurecer decoración de xanelas activas con temas marco de opaco cara "
+#~ "transparente"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Sombrear decoración de xanelas con temas marco de opaco cara transparente"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Acción da roda do rato na barra de título"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Tipo de desenfoque empregado para as decoracións"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Empregar tema marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Empregar tema marco ao debuxar as decoracións das xanelas"
+
+#~ msgid "Line width"
+#~ msgstr "Ancho da liña"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Ancho da liña para anotacións"
+
+#~ msgid "GConf"
+#~ msgstr "Configurador de GNoME (GConf)"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Xestor de Configuracións GConf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Xestor de Configuracións Kconfig"
+
+#~ msgid "Decrease"
+#~ msgstr "Decrementar"
+
+#~ msgid "Increase"
+#~ msgstr "Incrementar"
+
+#~ msgid "Screenshot commands"
+#~ msgstr "Comandos de Captura de pantalla"
+
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Atallos de teclado para facer captura de pantalla"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Valores de opacidade para xanelas que deben ser translúcidas por omisión"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Opacidade de xanelas"
+
+#~ msgid "Background images"
+#~ msgstr "Imaxes de fondo"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Colocar xanelas nun plano"
+
+#~ msgid "Plane Down"
+#~ msgstr "Plano Abaixo"
+
+#~ msgid "Plane Left"
+#~ msgstr "Plano á esquerda"
+
+#~ msgid "Plane Right"
+#~ msgstr "Plano á dereita"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Plano á Cara 1"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Plano á Cara 10"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Plano á Cara 11"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Plano á Cara 12"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Plano á Cara 2"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Plano á Cara 3"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Plano á Cara 4"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Plano á Cara 5"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Plano á Cara 6"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Plano á Cara 7"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Plano á Cara 8"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Plano á Cara 9"
+
+#~ msgid "Plane Up"
+#~ msgstr "Plano acima"
+
+#~ msgid "Plane left"
+#~ msgstr "Plano á esquerda"
+
+#~ msgid "Plane right"
+#~ msgstr "Plano á dereita"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Plano á cara 1"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Plano á cara 10"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Plano á cara 11"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Plano á cara 12"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Plano á cara 2"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Plano á cara 3"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Plano á cara 4"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Plano á cara 5"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Plano á cara 6"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Plano á cara 7"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Plano á cara 8"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Plano á cara 9"
+
+#~ msgid "Plane up"
+#~ msgstr "Plano á cima"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Tempo de desvanecemento da opacidade do escritorio"

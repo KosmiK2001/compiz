@@ -1,0 +1,3554 @@
+# Hebrew translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2009-04-24 02:56+0200\n"
+"Last-Translator: Yotam Benshalom <benshalom@gmail.com>\n"
+"Language-Team: Hebrew <opensuse-translation@opensuse.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=0;\n"
+
+#  button text
+msgid "Close Window"
+msgstr "סגור חלון"
+
+msgid "Unmaximize Window"
+msgstr "שחזר גודל חלון"
+
+msgid "Maximize Window"
+msgstr "הגדל חלון למקסימום"
+
+#  button text
+msgid "Minimize Window"
+msgstr "מזער חלון"
+
+#  Label text
+msgid "Window Menu"
+msgstr "תפריט חלון"
+
+msgid "Shade"
+msgstr "גלול"
+
+msgid "Make Above"
+msgstr "העבר למעלה"
+
+msgid "Stick"
+msgstr "נעל במקום"
+
+msgid "Unshade"
+msgstr "פרוס גלילה"
+
+msgid "Unmake Above"
+msgstr "בטל העברה למעלה"
+
+msgid "Unstick"
+msgstr "בטל נעילה במקום"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "החלון \"%s\" אינו מגיב."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr "סגירה כפויה של היישום תביא לאובדן שינויים שלא נשמרו."
+
+msgid "_Cancel"
+msgstr "_ביטול"
+
+msgid "_Force Quit"
+msgstr "_סגור יישום"
+
+# IN
+msgid "Annotate"
+msgstr "ציור הערות"
+
+# IN
+msgid "Annotate plugin"
+msgstr "התקן ציור הערות"
+
+# IN
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "התחל מחיקה"
+
+# IN
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "התחל לצייר הערות"
+
+# IN
+#, fuzzy
+msgid "Initiate Line"
+msgstr "התחל"
+
+# IN
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "התחל לצייר הערות"
+
+# IN
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "התחל מחיקה"
+
+# IN
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "התחל לצייר הערות"
+
+# IN
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "התחל מחיקה"
+
+# IN
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "התחל לצייר הערות"
+
+msgid "Draw"
+msgstr "צייר"
+
+msgid "Draw using tool"
+msgstr "צייר בעזרת כלי"
+
+# IN
+msgid "Initiate erase"
+msgstr "התחל מחיקה"
+
+# IN
+msgid "Initiate annotate erasing"
+msgstr "התחל למחוק הערות"
+
+msgid "Clear"
+msgstr "נקה"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "הפעלת\\ניטרול חלון פעיל גלול"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "צבע מילוי עבור הערות"
+
+msgid "Fill color for annotations"
+msgstr "צבע מילוי עבור הערות"
+
+msgid "Annotate Stroke Color"
+msgstr "צבע מכחול עבור הערות"
+
+msgid "Stroke color for annotations"
+msgstr "צבע מכחול עבור הערות"
+
+msgid "Stroke width"
+msgstr "עובי מכחול"
+
+msgid "Stroke width for annotations"
+msgstr "עובי מכחול עבור הערות"
+
+#  button text
+msgid "Blur Windows"
+msgstr "טשטוש חלונות"
+
+#  button text
+msgid "Blur windows"
+msgstr "טשטוש חלונות"
+
+msgid "Pulse"
+msgstr "הבהוב"
+
+msgid "Pulse effect"
+msgstr "אפקט הבהוב"
+
+msgid "Blur Speed"
+msgstr "מהירות טשטוש"
+
+#  label text, %1 is replaced by a unit value ("MB")
+#  Labels for input fields. "%1" will be replaced with the current unit (MB).
+msgid "Window blur speed"
+msgstr "מהירות טשטוש חלון"
+
+# אני לא בטוח למה הכוונה
+msgid "Focus blur windows"
+msgstr "טשטש מיקוד חלונות"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "חלונות עליהם יש להחיל טשטוש מיקוד"
+
+#  button text
+msgid "Focus Blur"
+msgstr "טשטוש מיקוד"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "טשטוש חלונות לא ממוקדים"
+
+#  button text
+msgid "Alpha blur windows"
+msgstr "טשטוש אלפא לחלונות"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "חלונות עליהם יש להחיל טשטוש אלפא כברירת מחדל"
+
+#  button text
+msgid "Alpha Blur"
+msgstr "טשטוש אלפא"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "טשטוש מאחורי חלקי חלון שקופים"
+
+msgid "Blur Filter"
+msgstr "מסנן טשטוש"
+
+msgid "Filter method used for blurring"
+msgstr "שיטת סינון עבור טשטוש"
+
+msgid "4xBilinear"
+msgstr "4 x ביליניארי"
+
+msgid "Gaussian"
+msgstr "גאוס"
+
+msgid "Mipmap"
+msgstr "הפעלת Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "רדיוס גאוס"
+
+msgid "Gaussian radius"
+msgstr "רדיוס גאוס"
+
+msgid "Gaussian Strength"
+msgstr "עוצמת גאוס"
+
+msgid "Gaussian strength"
+msgstr "עוצמת גאוס"
+
+msgid "Mipmap LOD"
+msgstr "רמת פירוט Mipmap"
+
+msgid "Mipmap level-of-detail"
+msgstr "רמת הירידה לפרטים של Mipmap"
+
+msgid "Blur Saturation"
+msgstr "רווית טשטוש"
+
+msgid "Blur saturation"
+msgstr "רווית טשטוש"
+
+msgid "Blur Occlusion"
+msgstr "אטימה בטשטוש"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "אל תטשטש חלקי מסך המוסתרים על ידי חלונות אחרים."
+
+msgid "Independent texture fetch"
+msgstr "ייבוא עצמאי של טקסטורות"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"השתמש ביחידות טקסטורה זמינות על מנת לבצע ייבוא עצמאי של טקסטורות רבות ככל "
+"האפשר."
+
+msgid "Clone Output"
+msgstr "שיבוט פלט"
+
+msgid "Output clone handler"
+msgstr "הליך טיפול בפלט משובט"
+
+# IN
+msgid "Initiate"
+msgstr "התחל"
+
+# IN
+msgid "Initiate clone selection"
+msgstr "התחל בחירת שיבוט"
+
+msgid "Commands"
+msgstr "פקודות"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "הקצאת צירופי הפעלה לפקודות מוגדרות אישית"
+
+msgid "Command line 0"
+msgstr "שורת פקודה 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה0"
+
+msgid "Command line 1"
+msgstr "שורת פקודה 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+msgid "Command line 2"
+msgstr "שורת פקודה 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה2"
+
+msgid "Command line 3"
+msgstr "שורת פקודה 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה3"
+
+msgid "Command line 4"
+msgstr "שורת פקודה 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה4"
+
+msgid "Command line 5"
+msgstr "שורת פקודה 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה5"
+
+msgid "Command line 6"
+msgstr "שורת פקודה 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה6"
+
+msgid "Command line 7"
+msgstr "שורת פקודה 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה7"
+
+msgid "Command line 8"
+msgstr "שורת פקודה 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה8"
+
+msgid "Command line 9"
+msgstr "שורת פקודה 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה9"
+
+msgid "Command line 10"
+msgstr "שורת פקודה 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה10"
+
+msgid "Command line 11"
+msgstr "שורת פקודה 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה11"
+
+msgid "Command line 12"
+msgstr "שורת פקודה 12"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "שורת פקודה 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "שורת פקודה 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "שורת פקודה 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "שורת פקודה 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "שורת פקודה 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "שורת פקודה 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "שורת פקודה 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "שורת פקודה 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה0"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "שורת פקודה 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה1"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "שורת פקודה 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה2"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "שורת פקודה 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה2"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "שורת פקודה 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "שורת הפקודה שתופעל בעת הרצת פקודה2"
+
+msgid "Key Bindings"
+msgstr "צירופי מקשים"
+
+msgid "Run command 0"
+msgstr "הרץ פקודה 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המזוהה על ידי פקודה0"
+
+msgid "Run command 1"
+msgstr "הרץ פקודה 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+msgid "Run command 2"
+msgstr "הרץ פקודה 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+msgid "Run command 3"
+msgstr "הרץ פקודה 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה3"
+
+msgid "Run command 4"
+msgstr "הרץ פקודה 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה4"
+
+msgid "Run command 5"
+msgstr "הרץ פקודה 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה5"
+
+msgid "Run command 6"
+msgstr "הרץ פקודה 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה6"
+
+msgid "Run command 7"
+msgstr "הרץ פקודה 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה7"
+
+msgid "Run command 8"
+msgstr "הרץ פקודה 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה8"
+
+msgid "Run command 9"
+msgstr "הרץ פקודה 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה9"
+
+msgid "Run command 10"
+msgstr "הרץ פקודה 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה10"
+
+msgid "Run command 11"
+msgstr "הרץ פקודה 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה11"
+
+msgid "Run command 12"
+msgstr "הרץ פקודה 12"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "הרץ פקודה 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "הרץ פקודה 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "הרץ פקודה 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "הרץ פקודה 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "הרץ פקודה 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "הרץ פקודה 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "הרץ פקודה 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "הרץ פקודה 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "הרץ פקודה 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "הרץ פקודה 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "הרץ פקודה 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "הרץ פקודה 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "צירוף מקשים להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+msgid "Button Bindings"
+msgstr "צירופי מקשי עכבר"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המזוהה על ידי פקודה0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "צירוף מקשי עכבר להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+msgid "Edge Bindings"
+msgstr "קצות מסך"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "קצה מסך להפעלת פקודת המעטפת המזוהה על ידי פקודה0"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה3"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה4"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה5"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה6"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה7"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה8"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה9"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה10"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "קצה מסך להפעלת פקודת המעטפת המוגדרת על ידי פקודה2"
+
+msgid "General Options"
+msgstr "אפשרויות כלליות"
+
+msgid "General compiz options"
+msgstr "אפשרויות כלליות של קומפיז"
+
+msgid "Active Plugins"
+msgstr "התקנים מופעלים"
+
+msgid "List of currently active plugins"
+msgstr "רשימת ההתקנים הפעילים"
+
+msgid "Audible Bell"
+msgstr "צלצול ניתן לשמיעה"
+
+#  label text 
+msgid "Audible system beep"
+msgstr "צפצוף מערכת ניתן לשמיעה"
+
+msgid "Ignore Hints When Maximized"
+msgstr "התעלם מרמזים כאשר החלון מוגדל למקסימום"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "התעלם מרמזים הנוגעים לגודל שגוי ולאספקט כאשר החלון מוגדל למקסימום"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "הסתרת חלונות הנעדרים משורת המשימות"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"הסתרת החלונות שאינם מופיעים בשורת המשימות בעת כניסה למצב גילוי שולחן עבודה"
+
+msgid "Edge Trigger Delay"
+msgstr "השהיית הפעלת קצה מסך"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr "משך הזמן שבו מצביע העכבר ישהה בקצה המסך לפני הפעלת פעולת קצה מסך."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "השהיית פינג"
+
+msgid "Interval between ping messages"
+msgstr "פסק זמן בין מסרי פינג"
+
+msgid "Display Settings"
+msgstr "הגדרות תצוגה"
+
+msgid "Texture Filter"
+msgstr "מסנן טקסטורות"
+
+msgid "Texture filtering"
+msgstr "סינון טקסטורות"
+
+msgid "Fast"
+msgstr "מהיר"
+
+msgid "Good"
+msgstr "טוב"
+
+msgid "Best"
+msgstr "מיטבי"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "אופן עליה וקבלת מוקד"
+
+msgid "Click To Focus"
+msgstr "הקלקה למיקוד"
+
+msgid "Click on window moves input focus to it"
+msgstr "הקלקה על חלון תעביר אליו את מוקד הקלט"
+
+msgid "Raise On Click"
+msgstr "העלה בעת קליק"
+
+msgid "Raise windows when clicked"
+msgstr "העלה חלונות כאשר מקליקים עליהם"
+
+msgid "Auto-Raise"
+msgstr "העלאה אוטומטית"
+
+msgid "Raise selected windows after interval"
+msgstr "העלה את החלונות שנבחרו לאחר פסק זמן"
+
+msgid "Auto-Raise Delay"
+msgstr "השהייה לפני העלאה אוטומטית"
+
+msgid "Interval before raising selected windows"
+msgstr "פסק זמן לפני העלאת החלונות שנבחרו"
+
+msgid "Key bindings"
+msgstr "צירופי מקשים"
+
+msgid "Close active window"
+msgstr "סגירת חלון פעיל"
+
+#  heading text
+msgid "Raise Window"
+msgstr "העלה חלון"
+
+msgid "Raise window above other windows"
+msgstr "העלה חלון מעל ליתר החלונות"
+
+#  label text 
+msgid "Lower Window"
+msgstr "הורד חלון"
+
+msgid "Lower window beneath other windows"
+msgstr "הורד חלון אל מתחת לחלונות אחרים"
+
+msgid "Unmaximize active window"
+msgstr "שחזר גודל חלון פעיל"
+
+msgid "Minimize active window"
+msgstr "מזער חלון פעיל"
+
+msgid "Maximize active window"
+msgstr "הגדל חלון פעיל למקסימום"
+
+#  button text
+msgid "Maximize Window Horizontally"
+msgstr "הרחב את החלון למקסימום"
+
+msgid "Maximize active window horizontally"
+msgstr "הרחב חלון פעיל למקסימום"
+
+#  button text
+msgid "Maximize Window Vertically"
+msgstr "הגבה את החלון למקסימום"
+
+msgid "Maximize active window vertically"
+msgstr "הגבה חלון פעיל למקסימום"
+
+msgid "Window menu button binding"
+msgstr "צירוף כפתורים עבור תפריט חלון"
+
+msgid "Window menu key binding"
+msgstr "צירוף מקשים עבור תפריט חלון"
+
+msgid "Show Desktop"
+msgstr "גלה שולחן עבודה"
+
+msgid "Hide all windows and focus desktop"
+msgstr "הסתר את כל החלונות וגלה את שולחן העבודה"
+
+msgid "Toggle Window Maximized"
+msgstr "הפעלת\\ניטרול גודל חלון מקסימלי"
+
+msgid "Toggle active window maximized"
+msgstr "הפעלת\\ניטרול גודל חלון פעיל מקסימלי"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "הפעלת\\ניטרול רוחב חלון מקסימלי"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "הפעלת\\ניטרול רוחב חלון פעיל מקסימלי"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "הפעלת\\ניטרול גובה חלון מקסימלי"
+
+msgid "Toggle active window maximized vertically"
+msgstr "הפעלת\\ניטרול גובה חלון פעיל מקסימלי"
+
+msgid "Toggle Window Shaded"
+msgstr "הפעלת\\ניטרול גלילת חלון"
+
+msgid "Toggle active window shaded"
+msgstr "הפעלת\\ניטרול חלון פעיל גלול"
+
+msgid "Slow Animations"
+msgstr "אנימציה איטית"
+
+msgid "Toggle use of slow animations"
+msgstr "הפעלת\\ניטרול שימוש באנימציה איטית"
+
+msgid "Desktop Size"
+msgstr "גודל שולחן עבודה"
+
+msgid "Horizontal Virtual Size"
+msgstr "גודל אופקי וירטואלי"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "מכפיל גודל מסך עבור גודל וירטואלי אופקי"
+
+msgid "Vertical Virtual Size"
+msgstr "גודל אנכי וירטואלי"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "מכפיל גודל מסך עבור גודל וירטואלי אנכי"
+
+msgid "Lighting"
+msgstr "תאורה"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "השתמש בפיזור אור בעת שינוי צורת מסך"
+
+msgid "Detect Refresh Rate"
+msgstr "זהה קצב עדכון"
+
+msgid "Automatic detection of refresh rate"
+msgstr "זיהוי אוטומטי של קצב רענון"
+
+#  label text
+msgid "Refresh Rate"
+msgstr "קצב רענון"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "הקצב שבו מתעדכן המסך (פעמים\\שניה)"
+
+msgid "Detect Outputs"
+msgstr "זהה סוגי פלט"
+
+msgid "Automatic detection of output devices"
+msgstr "זיהוי אוומטי של התקני פלט"
+
+msgid "Overlapping Output Handling"
+msgstr "טיפול בחפיפת פלט"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "איזה התקן פלט להעדיף מבין ההתקנים החופפים"
+
+msgid "Smart mode"
+msgstr "מצב חכם"
+
+msgid "Prefer larger output"
+msgstr "העדף פלט גדול יותר"
+
+msgid "Prefer smaller output"
+msgstr "העדף פלט קטן יותר"
+
+msgid "Outputs"
+msgstr "פלטים"
+
+msgid "List of strings describing output devices"
+msgstr "רשימת המחרוזות המתארות התקני פלט"
+
+msgid "Sync To VBlank"
+msgstr "סינכרון עם VBlank"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "בצע עדכוני מסך רק במשך המחיקות האנכיות"
+
+#  heading text
+msgid "Focus Prevention Level"
+msgstr "רמת מניעת מיקוד"
+
+msgid "Level of focus stealing prevention"
+msgstr "רמת מניעת גניבת מיקוד"
+
+msgid "Off"
+msgstr "כבויה"
+
+msgid "Low"
+msgstr "נמוכה"
+
+msgid "Normal"
+msgstr "רגיל"
+
+msgid "High"
+msgstr "גבוהה"
+
+msgid "Very High"
+msgstr "גבוהה מאוד"
+
+msgid "Focus Prevention Windows"
+msgstr "חלונות מונעי מיקוד"
+
+#  heading text
+msgid "Focus prevention windows"
+msgstr "חלונות מונעי מיקוד"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "אל תעביר חלונות במסך מלא"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr "אל תנתב חלונות במסך מלא למפות פיקסלים שמחוץ למסך"
+
+msgid "Default Icon"
+msgstr "צלמית ברירת מחדל"
+
+msgid "Default window icon image"
+msgstr "תמונת צלמית ברירת המחדל של חלון"
+
+msgid "Force independent output painting."
+msgstr "כפה צביעת פלט עצמאית."
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr "צבע כל פלט כשלעצמו, אפילו אם התקני הפלט חופפים"
+
+msgid "Texture Compression"
+msgstr "דחיסת טקסטורות"
+
+msgid "If available use compression for textures converted from images"
+msgstr "אם ניתן, השתמש בדחיסה עבור טקסטורות שהומרו מתמונות"
+
+msgid "Desktop Cube"
+msgstr "שולחן קוביה"
+
+#  button text
+msgid "Place windows on cube"
+msgstr "מקם את החלונות על הקוביה"
+
+msgid "Unfold"
+msgstr "פרוש קיפול"
+
+msgid "Unfold cube"
+msgstr "פרוש את הקוביה"
+
+#  button text
+msgid "Next Slide"
+msgstr "השקופית הבאה"
+
+msgid "Advance to next slide"
+msgstr "התקדם לשקופית הבאה"
+
+#  label text 
+msgid "Prev Slide"
+msgstr "השקופית הקודמת"
+
+msgid "Go back to previous slide"
+msgstr "חזור לשקופית הקודמת"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "במידת האפשר צור mipmap עבור שינוי קנה מידה באיכות גבוהה"
+
+msgid "Multi Output Mode"
+msgstr "מצב פלט מרובה"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "בחר את אופן הצגת הקוביה בעת שימוש ביותר מהתקן פלט אחד."
+
+# IN
+msgid "Automatic"
+msgstr "אוטומטי"
+
+msgid "Multiple cubes"
+msgstr "קוביות מרובות"
+
+msgid "One big cube"
+msgstr "קוביה גדולה אחת"
+
+msgid "Behavior"
+msgstr "אופן"
+
+msgid "Inside Cube"
+msgstr "מבט מתוך הקוביה"
+
+msgid "Inside cube"
+msgstr "מבט מתוך הקוביה"
+
+msgid "Acceleration"
+msgstr "האצה"
+
+msgid "Fold Acceleration"
+msgstr "האצת קיפול"
+
+msgid "Speed"
+msgstr "מהירות"
+
+msgid "Fold Speed"
+msgstr "מהירות קיפול"
+
+msgid "Timestep"
+msgstr "יחידת זמן"
+
+msgid "Fold Timestep"
+msgstr "יחידת זמן קיפול"
+
+msgid "Appearance"
+msgstr "מראה"
+
+msgid "Cube Color"
+msgstr "צבע הקוביה"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "צבע הפאה העליונה והפאה התחתונה של הקוביה"
+
+msgid "Cube Caps"
+msgstr "מכסי הקוביה"
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+msgid "Scale image"
+msgstr "התאם את מידות התמונה"
+
+msgid "Scale images to cover top face of cube"
+msgstr "התאם את מידות התמונות כדי שתכסינה את פאת הקוביה העליונה"
+
+msgid "Image files"
+msgstr "קבצי תמונה"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "רשימת קבצי SVG ו-PNG שיוצגו על פאת הקוביה העליונה"
+
+msgid "Adjust Image"
+msgstr "התאם תמונה"
+
+msgid "Adjust top face image to rotation"
+msgstr "התאם את תמונת הפאה העליונה לזווית הסיבוב"
+
+msgid "Skydome"
+msgstr "כיפת-רקיע"
+
+msgid "Render skydome"
+msgstr "צייר כיפת-רקיע"
+
+msgid "Skydome Image"
+msgstr "תמונת כיפת-הרקיע"
+
+msgid "Image to use as texture for the skydome"
+msgstr "תמונה שתשמש כטקסטורה עבור כיפת-הרקיע"
+
+msgid "Animate Skydome"
+msgstr "כיפת-רקיע מונפשת"
+
+msgid "Animate skydome when rotating cube"
+msgstr "הנפש את כיפת הרקיע בעת סיבוב הקוביה"
+
+msgid "Skydome Gradient Start Color"
+msgstr "צבע הדרגתי התחלי של כיפת-הרקיע"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "צבע הקצה העליון של כיפת-הרקיע - רקע הדרגתי כברירת מחדל"
+
+msgid "Skydome Gradient End Color"
+msgstr "צבע הדרגתי סופי של כיפת-הרקיע"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "צבע הקצה התחתון של כיפת-הרקיע - רקע הדרגתי כברירת מחדל"
+
+msgid "Transparent Cube"
+msgstr "קוביה שקופה"
+
+msgid "Opacity During Rotation"
+msgstr "אטימות בעת סיבוב"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "אטימות שולחן העבודה בעת סיבוב."
+
+msgid "Opacity When Not Rotating"
+msgstr "אטימות בעת מנוחה"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "אטימות שולחן העבודה בעת מנוחה."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "שקיפות רק בעת סיבוב עכבר"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "השתמש בשקיפות הקוביה רק אם הסיבוב בוצע בעזרת העכבר."
+
+msgid "D-Bus"
+msgstr "D-Bus "
+
+msgid "D-Bus Control Backend"
+msgstr "תשתית בקרת D-Bus"
+
+#  Label text
+msgid "Window Decoration"
+msgstr "מסגור חלונות"
+
+#  Label text
+msgid "Window decorations"
+msgstr "מסגרות לחלונות"
+
+#  button text
+msgid "Shadow Radius"
+msgstr "רדיוס צל"
+
+#  Radio button for using an entire (Windows) partition for Linux
+msgid "Drop shadow radius"
+msgstr "רדיוס צל חלון"
+
+#  Radio button for using an entire (Windows) partition for Linux
+msgid "Shadow Opacity"
+msgstr "אטימות צל"
+
+#  Radio button for using an entire (Windows) partition for Linux
+msgid "Drop shadow opacity"
+msgstr "שקיפות צל חלון"
+
+#  button text
+msgid "Shadow Color"
+msgstr "צבע הצל"
+
+#  Radio button for using an entire (Windows) partition for Linux
+msgid "Drop shadow color"
+msgstr "צבע צל חלון"
+
+msgid "Shadow Offset X"
+msgstr "הסטת X של הצל"
+
+#  Radio button for using an entire (Windows) partition for Linux
+msgid "Drop shadow X offset"
+msgstr "הסטת X של צל חלון"
+
+msgid "Shadow Offset Y"
+msgstr "הסטת Y של הצל"
+
+#  Radio button for using an entire (Windows) partition for Linux
+msgid "Drop shadow Y offset"
+msgstr "הסטת Y של צל חלון"
+
+msgid "Command"
+msgstr "פקודה"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"שורת פקודה עבור צייר מסגרות שאותה יש להריץ אם שום צייר מסגרות אינו פעיל"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "אפשר ייצור mipmap עבור טקסטורות מסגרת"
+
+#  button text
+msgid "Decoration windows"
+msgstr "חלונות מסגרת"
+
+msgid "Windows that should be decorated"
+msgstr "חלונות עבורם יש לצייר מסגרת"
+
+#  button text
+msgid "Shadow windows"
+msgstr "חלונות צל"
+
+msgid "Windows that should have a shadow"
+msgstr "חלונות האמורים להטיל צל"
+
+#  button text
+msgid "Fading Windows"
+msgstr "עמעום חלונות"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "עמעום פנימה לחלונות בעת מיפוי ועמעום החוצה לחלונות בעת מחיקה"
+
+msgid "Fade Mode"
+msgstr "מצב עמעום"
+
+#  label text, %1 is replaced by a unit value ("MB")
+#  Labels for input fields. "%1" will be replaced with the current unit (MB).
+msgid "Window fade mode"
+msgstr "מצב עמעום חלון"
+
+msgid "Constant speed"
+msgstr "מהירות קבועה"
+
+#  header text
+msgid "Constant time"
+msgstr "משך קבוע"
+
+msgid "Fade Speed"
+msgstr "מהירות עמעום"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "מהירות עמעום חלון במצב \"מהירות קבועה\""
+
+msgid "Fade Time"
+msgstr "משך עמעום"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "משך עמעום חלון במצב \"משך קבוע\" (במילישניות)"
+
+#  button text
+msgid "Fade windows"
+msgstr "עמעום חלונות"
+
+msgid "Windows that should be fading"
+msgstr "חלונות האמורים לעבור עמעום"
+
+msgid "Visual Bell"
+msgstr "פעמון חזותי"
+
+#  label text 
+msgid "Fade effect on system beep"
+msgstr "אפקט עמעום בעת צפצוף מערכת"
+
+msgid "Fullscreen Visual Bell"
+msgstr "פעמון חזותי במסך מלא"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "אפקט עמעום במסך מלא בעת צפצוף מערכת"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "עמעום בעת מזעור\\פתיחה\\סגירה"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "אפקט עמעום בעת ארועי מזעור, פתיחה וסגירה של חלון"
+
+#  heading text
+msgid "Dim Unresponsive Windows"
+msgstr "עמעם חלונות שאינם מגיבים"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr "עמעם חלונות שאינם מגיבים להודעות מנהל החלונות"
+
+msgid "Unresponsive Window Brightness"
+msgstr "בהירות חלונות שאינם מגיבים"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "בהירות חלונות שאינם מגיבים (באחוזים)"
+
+msgid "Unresponsive Window Saturation"
+msgstr "רווית חלונות שאינם מגיבים"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "רווית חלונות שאינם מגיבים (באחוזים)"
+
+msgid "Userspace File System"
+msgstr "מערכת קבצים במרחב המשתמש"
+
+msgid "Userspace file system"
+msgstr "מערכת קבצים במרחב המשתמש"
+
+msgid "Mount Point"
+msgstr "נקודת עיגון"
+
+msgid "Mount point"
+msgstr "נקודת עיגון"
+
+msgid "GLib"
+msgstr "GLib "
+
+msgid "GLib main loop support"
+msgstr "תמיכה בלולאה ראשית של GLib"
+
+msgid "MATE Compatibility"
+msgstr "תאימות לגנום"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr "אפשרויות להבטחת תאימות קומפיז לסביבת שולחן העבודה גנום"
+
+msgid "Show Main Menu"
+msgstr "הצג תפריט ראשי"
+
+msgid "Show the main menu"
+msgstr "הצג את התפריט הראשי"
+
+msgid "Run Dialog"
+msgstr "דיאלוג הרץ"
+
+msgid "Show Run Application dialog"
+msgstr "הצג דיאלוג הרץ יישום"
+
+msgid "Screenshot command line"
+msgstr "שורת פקודה לצילום מסך"
+
+msgid "Take a screenshot"
+msgstr "צור צילום מסך"
+
+msgid "Window screenshot command line"
+msgstr "שורת פקודה לצילום מסך של חלון"
+
+msgid "Take a screenshot of a window"
+msgstr "צור צילום מסך של חלון"
+
+msgid "Run terminal command"
+msgstr "הרץ פקודת מסוף"
+
+msgid "Terminal command line"
+msgstr "שורת פקודה עבור מסוף"
+
+msgid "Open a terminal"
+msgstr "פתח מסוף"
+
+msgid "Ini"
+msgstr "Ini "
+
+msgid "Ini Flat File Backend"
+msgstr "תשתית קובץ Ini שטוח"
+
+msgid "Inotify"
+msgstr "הודעות"
+
+msgid "File change notification plugin"
+msgstr "התקן הודעות על שינוי בקובץ"
+
+#  button text
+msgid "Minimize Effect"
+msgstr "אפקט מזעור"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "שנה את צורת החלונות בעת מזעור ושחזור"
+
+#  button text
+msgid "Minimize speed"
+msgstr "מהירות מזעור"
+
+#  button text
+msgid "Minimize timestep"
+msgstr "יחידת זמן למזעור"
+
+#  button text
+msgid "Minimize Windows"
+msgstr "מזעור חלונות"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "חלונות שיש לשנות את צורתם בעת מזעור"
+
+msgid "Shade Resistance"
+msgstr "התנגדות הצללה"
+
+msgid "Shade resistance"
+msgstr "התנגדות הצללה"
+
+#  button text
+msgid "Move Window"
+msgstr "הזזת חלון"
+
+#  button text
+msgid "Move window"
+msgstr "הזזת חלון"
+
+#  button text
+msgid "Initiate Window Move"
+msgstr "התחל להזיז חלון"
+
+#  heading text
+msgid "Start moving window"
+msgstr "התחל להזיז חלון"
+
+#  button text
+msgid "Opacity"
+msgstr "אטימות"
+
+#  button text
+msgid "Opacity level of moving windows"
+msgstr "רמת אטימות של חלונות בתזוזה"
+
+#  header text
+msgid "Constrain Y"
+msgstr "מגבלת Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "קואורדינטת Y להגבלת משטח העבודה"
+
+#  button text
+msgid "Snapoff maximized windows"
+msgstr "שחזר חלונות שהוגדלו למקסימום"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "שחזר אוטומטית את גודלם של חלונות שהוגדלו למקסימום בעת גרירה"
+
+#  heading text
+msgid "Lazy Positioning"
+msgstr "מיקום 'עצל'"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr "אל תעדכן את מיקום החלונות בצד השרת עד שסיימו לזוז"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "אטימות, בהירות ורוויה"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "כוונון אטימות, בהירות ורוויה"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "הגבר אטימות חלון"
+
+msgid "Opacity Increase"
+msgstr "הגברת האטימות"
+
+#  Radio button for using an entire (Windows) partition for Linux
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "הפחתת אטימות החלון"
+
+msgid "Opacity Decrease"
+msgstr "הפחתת אטימות"
+
+msgid "Brightness"
+msgstr "בהירות"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "בהירות"
+
+msgid "Brightness Increase"
+msgstr "הגבר בהירות"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "בהירות"
+
+msgid "Brightness Decrease"
+msgstr "הפחת בהירות"
+
+msgid "Saturation"
+msgstr "רווייה"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "רווית טשטוש"
+
+msgid "Saturation Increase"
+msgstr "הגברת רווייה"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "רווית טשטוש"
+
+msgid "Saturation Decrease"
+msgstr "הפחתת רווייה"
+
+msgid "Step"
+msgstr "דרגת שינוי"
+
+msgid "Opacity Step"
+msgstr "דרגת שינוי אטימות"
+
+#  Label text
+msgid "Window specific settings"
+msgstr "הגדרות לחלונות מוגדרים"
+
+#  label text 
+msgid "Windows"
+msgstr "חלונות"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "חלונות בעלי אטימות שונה כברירת מחדל"
+
+#  label text 
+msgid "Window values"
+msgstr "ערכי חלונות"
+
+#  button text
+msgid "Opacity values for windows"
+msgstr "ערכי אטימות לחלונות"
+
+msgid "Brightness Step"
+msgstr "דרגת שינוי בהירות"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "חלונות בעלי בהירות שונה כברירת מחדל"
+
+msgid "Brightness values for windows"
+msgstr "ערכי בהירות לחלונות"
+
+msgid "Saturation Step"
+msgstr "דרגת שינוי רווייה"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "חלונות בעלי רוויה שונה כברירת מחדל"
+
+msgid "Saturation values for windows"
+msgstr "ערכי רוויה לחלונות"
+
+#  button text
+msgid "Place Windows"
+msgstr "מקם חלונות"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "מקם חלונות במקום המתאים בעת מיפוי"
+
+msgid "Workarounds"
+msgstr "מעקפים"
+
+msgid "Window placement workarounds"
+msgstr "פתרונות מעקף למיקום"
+
+msgid "Placement Mode"
+msgstr "מצב קביעת מיקום"
+
+msgid "Algorithm to use for window placement"
+msgstr "אלגוריתם לקביעת מיקום החלון"
+
+msgid "Cascade"
+msgstr "דירוג"
+
+msgid "Centered"
+msgstr "ממורכז"
+
+msgid "Smart"
+msgstr "חכם"
+
+#  button text
+msgid "Maximize"
+msgstr "הגדל למקסימום"
+
+msgid "Random"
+msgstr "אקראי"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "עלעול בהבאת סמן לקצה מסך"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr "קובע כיצד יש למקם חלונות אם נבחר יותר מהתקן פלט אחד"
+
+msgid "Use active output device"
+msgstr "השתמש בהתקן פלט פעיל"
+
+msgid "Use output device with pointer"
+msgstr "השתמש בהתקן הפלט עם הסמן"
+
+msgid "Use output device of focused window"
+msgstr "השתמש בהתקן הפלט של החלון הפעיל"
+
+msgid "Place across all outputs"
+msgstr "מקם לרוחב כל התקני הפלט"
+
+msgid "Force Placement Windows"
+msgstr "כפה מיקום על חלונות"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr "חלונות שיש למקמם בכפייה, גם אם הם מבקשים ממנהל החלונות שלא לעשות זאת."
+
+#  Label text
+msgid "Fixed Window Placement"
+msgstr "הצבת חלונות במיקום קבוע"
+
+#  Label text
+msgid "Windows with fixed positions"
+msgstr "חלונות בעלי מיקום קבוע"
+
+#  heading text
+msgid "Positioned windows"
+msgstr "חלונות ממוקמים"
+
+msgid "Windows that should be positioned by default"
+msgstr "חלונות שיש למקמם כברירת מחדל"
+
+#  heading text
+msgid "X Positions"
+msgstr "מיקום ב-X"
+
+msgid "X position values"
+msgstr "ערכי מיקום ב-X"
+
+#  heading text
+msgid "Y Positions"
+msgstr "מיקום ב-Y"
+
+msgid "Y position values"
+msgstr "ערכי מיקום ב-Y"
+
+msgid "Keep In Workarea"
+msgstr "שמור בתוך משטח העבודה"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"שמור את החלונות בתוך משטח העבודה לאחר מיקום, גם אם יש להציבם לשם כך במיקום "
+"שונה מזה המבוקש"
+
+#  Label text
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "חלונות בעלי מיקום קבוע"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "חלונות בעלי רוויה שונה כברירת מחדל"
+
+#, fuzzy
+msgid "Mode"
+msgstr "מצב עמעום"
+
+#  heading text
+#, fuzzy
+msgid "Positioning modes"
+msgstr "חלונות ממוקמים"
+
+msgid "Windows with fixed viewport"
+msgstr "חלונות בעלי משטח עבודה קבוע"
+
+#  heading text
+msgid "Viewport positioned windows"
+msgstr "חלונות הממוקמים על משטח"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "חלונות שיש למקמם במשטח ספציפי כברירת מחדל"
+
+msgid "X Viewport Positions"
+msgstr "מיקומי משטח ב-X"
+
+msgid "Horizontal viewport positions"
+msgstr "מיקומי משטח אופקיים"
+
+msgid "Y Viewport Positions"
+msgstr "מיקומי משטח ב-Y"
+
+msgid "Vertical viewport positions"
+msgstr "מיקומי משטח אנכיים"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "טוען תמונות Png"
+
+msgid "Regex Matching"
+msgstr "התאמה לביטוי רגולרי"
+
+msgid "Regex window matching"
+msgstr "התאמת חלונות לביטוי רגולרי"
+
+#  heading text
+msgid "Resize Window"
+msgstr "שינוי גודל חלון"
+
+#  heading text
+msgid "Resize window"
+msgstr "שינוי גודל חלון"
+
+msgid "Bindings"
+msgstr "צירופים"
+
+# IN
+msgid "Initiate Normal Window Resize"
+msgstr "התחל לשנות גודל חלון במצב רגיל"
+
+#  heading text
+msgid "Start resizing window normally"
+msgstr "התחל לשנות את גודל החלון באופן רגיל"
+
+# IN
+msgid "Initiate Outline Window Resize"
+msgstr "התחל לשנות גודל חלון במצב קו מתאר"
+
+#  heading text
+msgid "Start resizing window with outline"
+msgstr "התחל לשנות את גודל החלון בעזרת קו מתאר"
+
+# IN
+msgid "Initiate Rectangle Window Resize"
+msgstr "התחל לשנות גודל חלון במצב מרובע"
+
+#  heading text
+msgid "Start resizing window with rectangle"
+msgstr "התחל לשנות את גודל החלון בעזרת מרובע"
+
+# IN
+msgid "Initiate Stretch Window Resize"
+msgstr "התחל לשנות גודל חלון במצב מתיחה"
+
+#  heading text
+msgid "Start resizing window by stretching it"
+msgstr "התחל לשנות את גודל החלון על ידי מתיחתו"
+
+# IN
+msgid "Initiate Window Resize"
+msgstr "התחל לשנות גודל חלון"
+
+#  heading text
+msgid "Start resizing window"
+msgstr "התחל לשנות את גודל החלון"
+
+msgid "Default Resize Mode"
+msgstr "מצב שינוי גודל"
+
+msgid "Default mode used for window resizing"
+msgstr "ברירת מחדל למצב שינוי גודל חלון"
+
+msgid "Outline"
+msgstr "קו מתאר"
+
+msgid "Rectangle"
+msgstr "מרובע"
+
+msgid "Stretch"
+msgstr "מתיחה"
+
+msgid "Border Color"
+msgstr "צבע גבול"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "צבע המסגרת עבור מצבי שינוי הגודל \"קו מתאר\" ו-\"מרובע\""
+
+msgid "Fill Color"
+msgstr "צבע מילוי"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "צבע מילוי עבור מצב שינוי גודל \"מרובע\""
+
+#  heading text
+msgid "Normal Resize Windows"
+msgstr "שינוי גודל חלונות במצב רגיל"
+
+msgid "Windows that normal resize should be used for"
+msgstr "חלונות עבורם יש להשתמש בשינוי גודל רגיל"
+
+#  heading text
+msgid "Outline Resize Windows"
+msgstr "שינוי גודל חלונות במצב קו מתאר"
+
+msgid "Windows that outline resize should be used for"
+msgstr "חלונות עבורם יש להשתמש בשינוי גודל בעזרת קו מתאר"
+
+#  heading text
+msgid "Rectangle Resize Windows"
+msgstr "שינוי גודל חלונות במצב מרובע"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "חלונות עבורם יש להשתמש בשינוי גודל בעזרת מרובע"
+
+#  heading text
+msgid "Stretch Resize Windows"
+msgstr "שינוי גודל חלונות במתיחה"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "חלונות עבורם יש להשתמש בשינוי גודל בעזרת מתיחה"
+
+msgid "Rotate Cube"
+msgstr "סיבוב קוביה"
+
+msgid "Rotate desktop cube"
+msgstr "סובב את קובית שולחן העבודה"
+
+msgid "Edge Flip Pointer"
+msgstr "עלעול בהבאת סמן לקצה מסך"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "עלעל למשטח הבא בעת הזזת הסמן לקצה המסך"
+
+msgid "Edge Flip Move"
+msgstr "עלעול בהזזה לקצה מסך"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "עלעל למשטח הבא בעת הזזת חלון לקצה המסך"
+
+msgid "Edge Flip DnD"
+msgstr "עלעול בגרירה לקצה מסך"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "עלעל למשטח הבא בעת גרירת עצם לקצה המסך"
+
+msgid "Flip Time"
+msgstr "משך עלעול"
+
+msgid "Timeout before flipping viewport"
+msgstr "פסק זמן לפני עלעול למשטח"
+
+msgid "Raise on rotate"
+msgstr "העלה בעת סיבוב"
+
+msgid "Raise window when rotating"
+msgstr "העלה את החלון בעת סיבוב"
+
+msgid "Rotate cube"
+msgstr "סיבוב קוביה"
+
+#  label text
+msgid "Start Rotation"
+msgstr "התחל סיבוב"
+
+msgid "Rotate Left"
+msgstr "סובב שמאלה"
+
+msgid "Rotate left"
+msgstr "סובב שמאלה"
+
+#  button text
+msgid "Rotate Right"
+msgstr "סובב ימינה"
+
+#  button text
+msgid "Rotate right"
+msgstr "סובב ימינה"
+
+#  heading text
+msgid "Rotate Left with Window"
+msgstr "סובב שמאלה עם החלון"
+
+#  heading text
+msgid "Rotate left and bring active window along"
+msgstr "סובב שמאלה וקח את את החלון הפעיל"
+
+#  heading text
+msgid "Rotate Right with Window"
+msgstr "סובב ימינה עם החלון"
+
+#  heading text
+msgid "Rotate right and bring active window along"
+msgstr "סובב ימינה וקח את החלון הפעיל"
+
+#  button text
+msgid "Rotate To"
+msgstr "סובב אל"
+
+#  heading text
+msgid "Rotate to viewport"
+msgstr "סובב למשטח"
+
+#  button text
+msgid "Rotate window"
+msgstr "סובב חלון"
+
+#  heading text
+msgid "Rotate with window"
+msgstr "סובב עם החלון"
+
+msgid "Rotate Flip Left"
+msgstr "עלעל בסיבוב שמאלה"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "עלעל למשטח השמאלי והקפץ את הסמן"
+
+msgid "Rotate Flip Right"
+msgstr "עלעל בסיבוב ימינה"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "עלעל למשטח הימני והקפץ את הסמן"
+
+#  heading text
+msgid "Rotate to cube face"
+msgstr "סובב לפאת הקוביה"
+
+#  heading text
+msgid "Rotate To Face 1"
+msgstr "סובב אל פאה 1"
+
+#  heading text
+msgid "Rotate to face 1"
+msgstr "סובב לפאה 1"
+
+#  heading text
+msgid "Rotate To Face 2"
+msgstr "סובב אל פאה 2"
+
+#  heading text
+msgid "Rotate to face 2"
+msgstr "סובב לפאה 2"
+
+#  heading text
+msgid "Rotate To Face 3"
+msgstr "סובב אל פאה 3"
+
+#  heading text
+msgid "Rotate to face 3"
+msgstr "סובב לפאה 3"
+
+#  heading text
+msgid "Rotate To Face 4"
+msgstr "סובב אל פאה 4"
+
+#  heading text
+msgid "Rotate to face 4"
+msgstr "סובב לפאה 4"
+
+#  heading text
+msgid "Rotate To Face 5"
+msgstr "סובב אל פאה 5"
+
+#  heading text
+msgid "Rotate to face 5"
+msgstr "סובב לפאה 5"
+
+#  heading text
+msgid "Rotate To Face 6"
+msgstr "סובב אל פאה 6"
+
+#  heading text
+msgid "Rotate to face 6"
+msgstr "סובב לפאה 6"
+
+#  heading text
+msgid "Rotate To Face 7"
+msgstr "סובב אל פאה 7"
+
+#  heading text
+msgid "Rotate to face 7"
+msgstr "סובב לפאה 7"
+
+#  heading text
+msgid "Rotate To Face 8"
+msgstr "סובב אל פאה 8"
+
+#  heading text
+msgid "Rotate to face 8"
+msgstr "סובב לפאה 8"
+
+#  heading text
+msgid "Rotate To Face 9"
+msgstr "סובב אל פאה 9"
+
+#  heading text
+msgid "Rotate to face 9"
+msgstr "סובב לפאה 9"
+
+#  heading text
+msgid "Rotate To Face 10"
+msgstr "סובב אל פאה 10"
+
+#  heading text
+msgid "Rotate to face 10"
+msgstr "סובב לפאה 10"
+
+#  heading text
+msgid "Rotate To Face 11"
+msgstr "סובב אל פאה 11"
+
+#  heading text
+msgid "Rotate to face 11"
+msgstr "סובב לפאה 11 "
+
+#  heading text
+msgid "Rotate To Face 12"
+msgstr "סובב אל פאה 12"
+
+#  heading text
+msgid "Rotate to face 12"
+msgstr "סובב לפאה 12"
+
+#  heading text
+msgid "Rotate to cube face with window"
+msgstr "סובב לפאת הקוביה עם החלון"
+
+#  heading text
+msgid "Rotate To Face 1 with Window"
+msgstr "סובב אל פאה 1 עם החלון"
+
+#  heading text
+msgid "Rotate to face 1 and bring active window along"
+msgstr "סובב לפאה 1 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 2 with Window"
+msgstr "סובב אל פאה 2 עם החלון"
+
+#  heading text
+msgid "Rotate to face 2 and bring active window along"
+msgstr "סובב לפאה 2 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 3 with Window"
+msgstr "סובב אל פאה 3 עם החלון"
+
+#  heading text
+msgid "Rotate to face 3 and bring active window along"
+msgstr "סובב לפאה 3 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 4 with Window"
+msgstr "סובב אל פאה 4 עם החלון"
+
+#  heading text
+msgid "Rotate to face 4 and bring active window along"
+msgstr "סובב לפאה 4 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 5 with Window"
+msgstr "סובב אל פאה 5 עם החלון"
+
+#  heading text
+msgid "Rotate to face 5 and bring active window along"
+msgstr "סובב לפאה 5 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 6 with Window"
+msgstr "סובב אל פאה 6 עם החלון"
+
+#  heading text
+msgid "Rotate to face 6 and bring active window along"
+msgstr "סובב לפאה 6 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 7 with Window"
+msgstr "סובב אל פאה 7 עם החלון"
+
+#  heading text
+msgid "Rotate to face 7 and bring active window along"
+msgstr "סובב לפאה 7 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 8 with Window"
+msgstr "סובב אל פאה 8 עם החלון"
+
+#  heading text
+msgid "Rotate to face 8 and bring active window along"
+msgstr "סובב לפאה 8 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 9 with Window"
+msgstr "סובב אל פאה 9 עם החלון"
+
+#  heading text
+msgid "Rotate to face 9 and bring active window along"
+msgstr "סובב לפאה 9 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 10 with Window"
+msgstr "סובב אל פאה 10 עם החלון"
+
+#  heading text
+msgid "Rotate to face 10 and bring active window along"
+msgstr "סובב לפאה 10 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 11 with Window"
+msgstr "סובב אל פאה 11 עם החלון"
+
+#  heading text
+msgid "Rotate to face 11 and bring active window along"
+msgstr "סובב לפאה 11 וקח את החלון הפעיל"
+
+#  heading text
+msgid "Rotate To Face 12 with Window"
+msgstr "סובב אל פאה 12 עם החלון"
+
+#  heading text
+msgid "Rotate to face 12 and bring active window along"
+msgstr "סובב לפאה 12 וקח את החלון הפעיל"
+
+msgid "Pointer Invert Y"
+msgstr "Y הפוך עבור סמן"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "הפוך את ציר Y לצורך הזזת הסמן"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Y הפוך עבור סמן"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "הפוך את ציר Y לצורך הזזת הסמן"
+
+msgid "Pointer Sensitivity"
+msgstr "רגישות סמן"
+
+msgid "Sensitivity of pointer movement"
+msgstr "רגישות תנועת הסמן"
+
+msgid "Rotation Acceleration"
+msgstr "תאוצת סיבוב"
+
+msgid "Snap To Top Face"
+msgstr "מנוחה על פאה עליונה"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "אפשר הנחת הקוביה על הפאה העליונה"
+
+msgid "Snap To Bottom Face"
+msgstr "מנוחה על פאה תחתונה"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "אפשר הנחת הקוביה על הפאה התחתונה"
+
+msgid "Rotation Speed"
+msgstr "מהירות סיבוב"
+
+msgid "Rotation Timestep"
+msgstr "יחידת זמן סיבוב"
+
+msgid "Zoom"
+msgstr "תקריב"
+
+msgid "Rotation Zoom"
+msgstr "זום סיבוב"
+
+msgid "Scale"
+msgstr "מבט על"
+
+#  button text
+msgid "Scale windows"
+msgstr "הצג חלונות במבט על"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "שנה מצב מבט על בעזרת צירוף המקשים"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"צירוף המקשים ישנה את מצב מבט העל במקום להפעילו בעת הלחיצה ולנטרלו בעת השחרור."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "צירוף הקלקות לשינוי מצב מבט על"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"צירוף ההקלקות משנה את מצב מבט העל במקום להפעילו בעת הלחיצה ולנטרלו בעת "
+"השחרור."
+
+#  button text
+msgid "Initiate Window Picker"
+msgstr "הפעל בוחר חלונות"
+
+msgid "Layout and start transforming windows"
+msgstr "סדר את החלונות והתחל לשנות את גודלם"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "הפעל בוחר חלונות עבור כל החלונות"
+
+msgid "Layout and start transforming all windows"
+msgstr "סדר את כל החלונות והתחל לשנות את גודלם"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "הפעל בוחר חלונות עבור קבוצת חלונות"
+
+msgid "Layout and start transforming window group"
+msgstr "סדר את החלונות שבקבוצה והתחל לשנות את גודלם"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "הפעל בוחר חלונות עבור חלונות בהתקן הפלט הנוכחי"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "סדר את החלונות בהתקן הפלט הנוכחי והתחל לשנות את גודלם"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "הקלק על שולחן העבודה כדי להציגו"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "היכנס למצב הצגת שולחן עבודה כאשר מקליקים עליו בעת מבט על"
+
+# ES
+msgid "Spacing"
+msgstr "ריווח"
+
+#  button text
+msgid "Space between windows"
+msgstr "רווח בין חלונות"
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+msgid "Scale speed"
+msgstr "מהירות הפעלת מבט על"
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+msgid "Scale timestep"
+msgstr "יחידת זמן של הפעלת מבט על"
+
+msgid "Darken Background"
+msgstr "החשך רקע"
+
+msgid "Darken background when scaling windows"
+msgstr "החשך רקע בעת הפעלת מבט על"
+
+msgid "Amount of opacity in percent"
+msgstr "אחוז האטימות"
+
+msgid "Overlay Icon"
+msgstr "צלמית מודבקת"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "הדבק צלמית על חלונות במבט על"
+
+msgid "None"
+msgstr "ללא"
+
+msgid "Emblem"
+msgstr "סמלון"
+
+msgid "Big"
+msgstr "גדול"
+
+#  button text
+msgid "Scale Windows"
+msgstr "הצג חלונות במבט על"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "חלונות שיש להציגם במבט על"
+
+msgid "Hover Time"
+msgstr "משך ריחוף"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr "זמן (מילי-שניות) ליציאה ממבט על כשהסמן מרחף על חלון"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr "קובע היכן יש להציג חלונות במבט על אם יש יותר מהתקן פלט אחד."
+
+msgid "On current output device"
+msgstr "בהתקן הפלט הנוכחי"
+
+msgid "On all output devices"
+msgstr "בכל התקני הפלט"
+
+msgid "Screenshot"
+msgstr "צילום מסך"
+
+msgid "Screenshot plugin"
+msgstr "התקן צילום מסך"
+
+# IN
+msgid "Initiate rectangle screenshot"
+msgstr "הפעל צילום מסך של מרובע"
+
+msgid "Directory"
+msgstr "ספריה"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "שמור צילומי מסך בספריה זו"
+
+msgid "Launch Application"
+msgstr "שגר יישום"
+
+msgid "Automatically open screenshot in this application"
+msgstr "פתח אוטומטית צילומי מסך ביישום זה"
+
+msgid "Svg"
+msgstr "Svg "
+
+msgid "Svg image loader"
+msgstr "טוען תמונות Svg"
+
+msgid "Application Switcher"
+msgstr "מעביר יישומים"
+
+#  button text
+msgid "Next window"
+msgstr "החלון הבא"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "הקפץ את המעביר אם הוא מוסתר ובחר את החלון הבא"
+
+#  label text 
+msgid "Prev window"
+msgstr "חלון קודם"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "הקפץ את המעביר אם הוא מוסתר ובחר את החלון הקודם"
+
+#  button text
+msgid "Next window (All windows)"
+msgstr "החלון הבא (כל החלונות)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr "הקפץ את המעביר אם הוא מוסתר ובחר את החלון הבא מבין כל החלונות"
+
+#  label text 
+msgid "Prev window (All windows)"
+msgstr "חלון קודם (כל החלונות)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr "הקפץ את המעביר אם הוא מוסתר ובחר את החלון הקודם מבין כל החלונות"
+
+#  button text
+msgid "Next window (No popup)"
+msgstr "החלון הבא (ללא חלונות קופצים)"
+
+msgid "Select next window without showing the popup window."
+msgstr "בחר את החלון הבא בלי להראות את החלון הקופץ."
+
+#  label text 
+msgid "Prev window (No popup)"
+msgstr "חלון קודם (ללא קופצים)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "בחר את החלון הקודם בלי להראות את החלון הקופץ."
+
+msgid "Next Panel"
+msgstr "הפאנל הבא"
+
+#  button text
+msgid "Select next panel type window."
+msgstr "בחר את חלון הפאנל הבא."
+
+#  label text 
+msgid "Prev Panel"
+msgstr "הפאנל הקודם"
+
+#  heading text
+msgid "Select previous panel type window."
+msgstr "בחר את חלון הפאנל הקודם."
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+msgid "Switcher speed"
+msgstr "מהירות המעביר"
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+msgid "Switcher timestep"
+msgstr "יחידת זמן של המעביר"
+
+#  button text
+msgid "Switcher windows"
+msgstr "חלונות המעביר"
+
+msgid "Windows that should be shown in switcher"
+msgstr "חלונות שיש להציג במעביר"
+
+msgid "Amount of saturation in percent"
+msgstr "אחוזי רווייה"
+
+msgid "Amount of brightness in percent"
+msgstr "אחוזי בהירות"
+
+msgid "Bring To Front"
+msgstr "הבא לחזית"
+
+msgid "Bring selected window to front"
+msgstr "הבא את החלון הנבחר לחזית"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "מרחק הזום של שולחן העבודה בעת העברת חלונות"
+
+msgid "Icon"
+msgstr "צלמית"
+
+msgid "Show icon next to thumbnail"
+msgstr "הראה צלמית לצד תמונה מוקטנת"
+
+#  button text
+msgid "Minimized"
+msgstr "ממוזערים"
+
+#  button text
+msgid "Show minimized windows"
+msgstr "הראה חלונות ממוזערים"
+
+# IN
+msgid "Auto Rotate"
+msgstr "סיבוב אוטומטי"
+
+msgid "Rotate to the selected window while switching"
+msgstr "סובב אל החלון הנבחר בעת העברה"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "גודל שולחן עבודה"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "סובב אל החלון הנבחר בעת העברה"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#  label text 
+#, fuzzy
+msgid "Preview Scale"
+msgstr "השקופית הקודמת"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#  button text
+#, fuzzy
+msgid "Edge Radius"
+msgstr "רדיוס צל"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "קו מתאר"
+
+#  heading text
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "שינוי גודל חלונות במצב קו מתאר"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "תמונות רקע"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "צבע גבול"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "צבע מילוי"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#  button text
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "צבע הצל"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "מיקומי משטח ב-X"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#  button text
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "עמעום חלונות"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "חלונות שיש להציגם במבט על"
+
+#  button text
+#, fuzzy
+msgid "Move within wall"
+msgstr "הזזת חלון"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "סובב שמאלה"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#  button text
+#, fuzzy
+msgid "Move Right"
+msgstr "סובב ימינה"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#  button text
+#, fuzzy
+msgid "Move Down"
+msgstr "הזזת חלון"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#  heading text
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "סובב עם החלון"
+
+#  heading text
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "סובב שמאלה עם החלון"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#  heading text
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "סובב ימינה עם החלון"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#  button text
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "הזזת חלון"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#  button text
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "הזזת חלון"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "קצות מסך"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "עלעל בסיבוב שמאלה"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "משך עלעול"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "עלעל בסיבוב ימינה"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "עלעל בסיבוב ימינה"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "משך עלעול"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "משך עלעול"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "עלעול בגרירה לקצה מסך"
+
+#  button text
+#, fuzzy
+msgid "Flip down"
+msgstr "מישור למטה"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+#, fuzzy
+msgid "Switch separately"
+msgstr "מהירות המעביר"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "עלעול בגרירה לקצה מסך"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "עלעל למשטח הבא בעת הזזת הסמן לקצה המסך"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "עלעל למשטח הבא בעת הזזת חלון לקצה המסך"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "עלעל למשטח הבא בעת גרירת עצם לקצה המסך"
+
+msgid "Water Effect"
+msgstr "אפקט מים"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "מוסיף אפקטי מים לפעולות שונות בשולחן העבודה"
+
+msgid "Enable pointer water effects"
+msgstr "אפשר אפקטי מים לסמן"
+
+msgid "Toggle rain"
+msgstr "הורד\\עצור גשם"
+
+msgid "Toggle rain effect"
+msgstr "הפעל\\הפסק אפקט גשם"
+
+msgid "Toggle wiper"
+msgstr "הפעל\\הפסק מגב"
+
+msgid "Toggle wiper effect"
+msgstr "הפעל\\הפסק אפקט מגב"
+
+msgid "Offset Scale"
+msgstr "השפעה על הרקע"
+
+msgid "Water offset scale"
+msgstr "השפעת המים על הרקע מאחוריהם"
+
+msgid "Rain Delay"
+msgstr "השהיית טפטוף"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "השהייה (במילי-שניות) לפני כל טיפת גשם"
+
+msgid "Title wave"
+msgstr "גל כותרת"
+
+msgid "Wave effect from window title"
+msgstr "אפקט גל הבוקע ממסגרת החלון"
+
+msgid "Point"
+msgstr "נקודה"
+
+msgid "Add point"
+msgstr "הוסף נקודה"
+
+msgid "Line"
+msgstr "קו"
+
+msgid "Add line"
+msgstr "הוסף שורה"
+
+#  label text 
+msgid "Wobbly Windows"
+msgstr "חלונות מתנדנדים"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "השתמש במודל קפיצים עבור אפקט חלון מתנדנד"
+
+#  button text
+msgid "Snap windows"
+msgstr "מיגנוט חלונות"
+
+#  button text
+msgid "Toggle window snapping"
+msgstr "הפעל\\הפסק מיגנוט חלון"
+
+msgid "Snap Inverted"
+msgstr "מיגנוט הפוך"
+
+msgid "Inverted window snapping"
+msgstr "מגנוט הפוך"
+
+msgid "Shiver"
+msgstr "רעידה"
+
+#  button text
+msgid "Make window shiver"
+msgstr "הרעד את החלון"
+
+msgid "Friction"
+msgstr "חיכוך"
+
+msgid "Spring Friction"
+msgstr "חיכוך קפיץ"
+
+# ES
+msgid "Spring K"
+msgstr "קבוע קפיץ"
+
+# ES
+msgid "Spring Konstant"
+msgstr "קבוע הקפיץ"
+
+msgid "Grid Resolution"
+msgstr "אבחנת רשת"
+
+msgid "Vertex Grid Resolution"
+msgstr "אבחנת רשת קודקודים"
+
+msgid "Minimum Grid Size"
+msgstr "גודל רשת מזערי"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "גודל מזערי של רשת קודקודים"
+
+#  label text 
+msgid "Map Effect"
+msgstr "אפקט מיפוי"
+
+#  label text 
+msgid "Map Window Effect"
+msgstr "אפקט בעת מיפוי החלון"
+
+msgid "Focus Effect"
+msgstr "אפקט מיקוד"
+
+#  label text 
+msgid "Focus Window Effect"
+msgstr "אפקט מיקוד חלון"
+
+#  label text 
+msgid "Map Windows"
+msgstr "מיפוי חלונות"
+
+msgid "Windows that should wobble when mapped"
+msgstr "חלונות האמורים להתנדנד בעת מיפוים"
+
+#  button text
+msgid "Focus Windows"
+msgstr "מיקוד חלונות"
+
+msgid "Windows that should wobble when focused"
+msgstr "חלונות האמורים להתנדנד בעת מיקוד"
+
+#  button text
+msgid "Grab Windows"
+msgstr "תפוס חלונות"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "חלונות האמורים להתנדנד בעת תפיסתם"
+
+#  button text
+msgid "Move Windows"
+msgstr "הזזת חלונות"
+
+msgid "Windows that should wobble when moved"
+msgstr "חלונות האמורים להתנדנד בעת הזזתם"
+
+#  label text 
+msgid "Maximize Effect"
+msgstr "אפקט הגדלה למקסימום"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "אפקט נדנוד בעת הגדלה למקסימום ומזעור חלונות"
+
+msgid "Zoom Desktop"
+msgstr "תקריב"
+
+msgid "Zoom and pan desktop cube"
+msgstr "תקריב והטיה אל קובית שולחן העבודה"
+
+msgid "Zoom In"
+msgstr "תקריב הגדלה"
+
+msgid "Zoom Out"
+msgstr "תקריב הקטנה"
+
+msgid "Zoom Pan"
+msgstr "הטיית תקריב"
+
+msgid "Zoom pan"
+msgstr "הטיית תקריב"
+
+msgid "Zoom Speed"
+msgstr "מהירות תקריב"
+
+msgid "Zoom Timestep"
+msgstr "יחידת זמן לתקריב"
+
+msgid "Zoom factor"
+msgstr "מקדם תקריב"
+
+msgid "Filter Linear"
+msgstr "פילטר לינארי"
+
+msgid "Use linear filter when zoomed in"
+msgstr "השתמש בפילטר לינארי בזמן תקריב הגדלה"
+
+msgid "Compiz"
+msgstr "קומפיז"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "קומפיז"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "קומפיז"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "מספר שולחנות עבודה"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "מספר שולחנות עבודה וירטואליים"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr "פעולה לביצוע בעת גלילת גלגלת העכבר על שורת הכותרת."
+
+#~ msgid "Blur type"
+#~ msgstr "סוג טשטוש"
+
+#  Radio button for using an entire (Windows) partition for Linux
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "אטימות חלון פעיל על פי ערכת הנושא של Marco"
+
+#  Radio button for using an entire (Windows) partition for Linux
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "הצללת אטימות חלון פעיל על פי ערכת הנושא של Marco"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "אטימות ערכת הנושא של Marco"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "הצללת אטימות ערכת הנושא של Marco"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "אטימות עבור חלונות פעילים עם מסגרות של ערכת הנושא של Marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "אטימות עבור מסגרות של ערכת הנושא של Marco"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr "הצללת חלונות פעילים עם מסגרות של ערכת הנושא של Marco מאטום לשקוף"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr "הצללת חלונות עם מסגרות של ערכת הנושא של Marco מאטום לשקוף"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "פעולת גלגלת העכבר מעל פס הכותרת"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "סוג טשטוש עבור מסגרות חלון"
+
+#~ msgid "Use marco theme"
+#~ msgstr "השתמש בערכת הנושא של Marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "השתמש בערכת הנושא של Marco בעת ציור מסגרות חלון"
+
+#~ msgid "Line width"
+#~ msgstr "עובי קו"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "עובי קו עבור הערות"
+
+#~ msgid "GConf"
+#~ msgstr "GConf "
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "תשתית בקרה של Gconf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig "
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "תשתית בקרה של Kconfig"
+
+#~ msgid "Decrease"
+#~ msgstr "הפחת"
+
+#~ msgid "Increase"
+#~ msgstr "הגבר"
+
+#~ msgid "Screenshot commands"
+#~ msgstr "פקודות לצילום מסך"
+
+#~ msgid "Screenshot key bindings"
+#~ msgstr "צירופי מקשים לצילום מסך"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr "ערכי אטימות לחלונות השקופים כברירת מחדל"
+
+#~ msgid "Opacity window values"
+#~ msgstr "ערכי אטימות חלון"
+
+#  button text
+#~ msgid "Opacity windows"
+#~ msgstr "חלונות אטימות"
+
+#~ msgid "Background images"
+#~ msgstr "תמונות רקע"
+
+#  button text
+#~ msgid "Place windows on a plane"
+#~ msgstr "הצב חלונות על מישור"
+
+#  button text
+#~ msgid "Plane Down"
+#~ msgstr "מישור למטה"
+
+#  button text
+#~ msgid "Plane Left"
+#~ msgstr "מישור שמאלה"
+
+#  button text
+#~ msgid "Plane Right"
+#~ msgstr "מישור ימינה"
+
+#  heading text
+#~ msgid "Plane To Face 1"
+#~ msgstr "מישור לפאה 1"
+
+#  heading text
+#~ msgid "Plane To Face 10"
+#~ msgstr "מישור לפאה 10"
+
+#  heading text
+#~ msgid "Plane To Face 11"
+#~ msgstr "מישור לפאה 11"
+
+#  heading text
+#~ msgid "Plane To Face 12"
+#~ msgstr "מישור לפאה 12"
+
+#  heading text
+#~ msgid "Plane To Face 2"
+#~ msgstr "מישור לפאה 2"
+
+#  heading text
+#~ msgid "Plane To Face 3"
+#~ msgstr "מישור לפאה 3"
+
+#  heading text
+#~ msgid "Plane To Face 4"
+#~ msgstr "מישור לפאה 4"
+
+#  heading text
+#~ msgid "Plane To Face 5"
+#~ msgstr "מישור לפאה 5"
+
+#  heading text
+#~ msgid "Plane To Face 6"
+#~ msgstr "מישור לפאה 6"
+
+#  heading text
+#~ msgid "Plane To Face 7"
+#~ msgstr "מישור לפאה 7"
+
+#  heading text
+#~ msgid "Plane To Face 8"
+#~ msgstr "מישור לפאה 8"
+
+#  heading text
+#~ msgid "Plane To Face 9"
+#~ msgstr "מישור לפאה 9"
+
+#  button text
+#~ msgid "Plane Up"
+#~ msgstr "מישור למעלה"
+
+#  button text
+#~ msgid "Plane left"
+#~ msgstr "מישור שמאלה"
+
+#  button text
+#~ msgid "Plane right"
+#~ msgstr "מישור ימינה"
+
+#  heading text
+#~ msgid "Plane to face 1"
+#~ msgstr "מישור לפאה 1"
+
+#  heading text
+#~ msgid "Plane to face 10"
+#~ msgstr "מישור לפאה 10"
+
+#  heading text
+#~ msgid "Plane to face 11"
+#~ msgstr "מישור לפאה 11"
+
+#  heading text
+#~ msgid "Plane to face 12"
+#~ msgstr "מישור לפאה 12"
+
+#  heading text
+#~ msgid "Plane to face 2"
+#~ msgstr "מישור לפאה 2"
+
+#  heading text
+#~ msgid "Plane to face 3"
+#~ msgstr "מישור לפאה 3"
+
+#  heading text
+#~ msgid "Plane to face 4"
+#~ msgstr "מישור לפאה 4"
+
+#  heading text
+#~ msgid "Plane to face 5"
+#~ msgstr "מישור לפאה 5"
+
+#  heading text
+#~ msgid "Plane to face 6"
+#~ msgstr "מישור לפאה 6"
+
+#  heading text
+#~ msgid "Plane to face 7"
+#~ msgstr "מישור לפאה 7"
+
+#  heading text
+#~ msgid "Plane to face 8"
+#~ msgstr "מישור לפאה 8"
+
+#  heading text
+#~ msgid "Plane to face 9"
+#~ msgstr "מישור לפאה 9"
+
+#  button text
+#~ msgid "Plane up"
+#~ msgstr "מישור למעלה"
+
+#  Label text
+#, fuzzy
+#~ msgid "DropdownMenu"
+#~ msgstr "חלונות השתמשה"
+
+#, fuzzy
+#~ msgid "Notification"
+#~ msgstr "פעולה"
+
+#~ msgid "Unknown"
+#~ msgstr "לא ידוע"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "אורך"
+
+#  Radio button for using an entire (Windows) partition for Linux
+#, fuzzy
+#~ msgid "Drop shadow opacity (0.01-6.00)"
+#~ msgstr "&מחק את חלונות לגמרי"
+
+#  heading text
+#, fuzzy
+#~ msgid "Focus prevention windows (match)"
+#~ msgstr "שינוי גודל נכשל."
+
+#, fuzzy
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "פעולה"
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "איות"
+
+#, fuzzy
+#~ msgid "Fold Timestep (0.0-50.0)"
+#~ msgstr "&בחינה"
+
+#, fuzzy
+#~ msgid "Gaussian strength (0.00-1.00)"
+#~ msgstr "רוסית"
+
+#  label text 
+#, fuzzy
+#~ msgid "Map Window Effect (None, Shiver)"
+#~ msgstr "חלונות"
+
+#  button text
+#, fuzzy
+#~ msgid "Minimize speed (0.0-50.0)"
+#~ msgstr "&כווץ את חלונות"
+
+#  button text
+#, fuzzy
+#~ msgid "Minimize timestep (0.0-50.0)"
+#~ msgstr "&כווץ את חלונות"
+
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "פעולה"
+
+#, fuzzy
+#~ msgid "Rotation Timestep (0.0-50.0)"
+#~ msgstr "&בחינה"
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "זמן מקומי"
+
+#  label text, Clock setting: local time (not UTC)
+#  ComboBox entry: hardware clock set to local time
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "זמן מקומי"
+
+#  button text
+#, fuzzy
+#~ msgid "Space between windows (0-250)"
+#~ msgstr "&מחק את חלונות"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "פעולה"
+
+# ES
+#, fuzzy
+#~ msgid "Spring Konstant (0.0-10.0)"
+#~ msgstr "ספרד"
+
+#  label text, %1 is replaced by a unit value ("MB")
+#  Labels for input fields. "%1" will be replaced with the current unit (MB).
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "חלונות פנוי (%1)"
+
+#  label text, %1 is replaced by a unit value ("MB")
+#  Labels for input fields. "%1" will be replaced with the current unit (MB).
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "חלונות פנוי (%1)"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "איות"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "&בחינה"
+
+#  heading text
+#, fuzzy
+#~ msgid "Plane To Face %d with Window"
+#~ msgstr "שינוי גודל נכשל."
+
+#, fuzzy
+#~ msgid "Command line %d"
+#~ msgstr "פקודה:"
+
+#, fuzzy
+#~ msgid "Run command %d"
+#~ msgstr "פקודה:"
+
+#, fuzzy
+#~ msgid "Corners"
+#~ msgstr "ממירים"
+
+#, fuzzy
+#~ msgid "Terminate"
+#~ msgstr "טרמינלים"

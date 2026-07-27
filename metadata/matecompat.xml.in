@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="matecompat">
+	<short>MATE Compatibility</short>
+	<long>Options that keep Compiz compatible to the MATE desktop environment</long>
+	<category>General</category>
+	<display>
+	    <option name="main_menu_key" type="key">
+		<short>Show Main Menu</short>
+		<long>Show the main menu</long>
+		<default>&lt;Alt&gt;F1</default>
+	    </option>
+	    <option name="run_key" type="key">
+		<short>Run Dialog</short>
+		<long>Show Run Application dialog</long>
+		<default>&lt;Alt&gt;F2</default>
+	    </option>
+	    <group>
+		<short>Commands</short>
+		<option name="command_screenshot" type="string">
+		    <short>Screenshot command line</short>
+		    <long>Screenshot command line</long>
+		    <default>mate-screenshot</default>
+		</option>
+		<option name="run_command_screenshot_key" type="key">
+		    <short>Take a screenshot</short>
+		    <long>Take a screenshot</long>
+		    <default>Print</default>
+		</option>
+		<option name="command_window_screenshot" type="string">
+		    <short>Window screenshot command line</short>
+		    <long>Window screenshot command line</long>
+		    <default>mate-screenshot --window</default>
+		</option>
+		<option name="run_command_window_screenshot_key" type="key">
+		    <short>Take a screenshot of a window</short>
+		    <long>Take a screenshot of a window</long>
+		    <default>&lt;Alt&gt;Print</default>
+		</option>
+		<short>Run terminal command</short>
+		<option name="command_terminal" type="string">
+		    <short>Terminal command line</short>
+		    <long>Terminal command line</long>
+		    <default>mate-terminal</default>
+		</option>
+		<option name="run_command_terminal_key" type="key">
+		    <short>Open a terminal</short>
+		    <long>Open a terminal</long>
+		</option>
+	    </group>
+	</display>
+    </plugin>
+</compiz>

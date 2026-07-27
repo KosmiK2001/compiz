@@ -1,0 +1,4719 @@
+# Finnish translation for compiz
+# Copyright (C) 2006 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+# Jyri Palokangas <jmp@netti.fi>, 2006.
+# Jouni Hätinen <jounihat@iki.fi>, 2006.
+# Jani-Matti Hätinen <jani-matti.hatinen@iki.fi>, 2006.
+# Jani Hyytiäinen <janihy@gmail.com>, 2008.
+# Timo Jyrinki <timo.jyrinki@iki.fi>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2009-08-13 10:05+0200\n"
+"Last-Translator: Timo Jyrinki <timo.jyrinki@iki.fi>\n"
+"Language-Team: Finnish <laatu@lokalisointi.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Close Window"
+msgstr "Sulje ikkuna"
+
+msgid "Unmaximize Window"
+msgstr "Palauta suurennettu ikkuna"
+
+msgid "Maximize Window"
+msgstr "Suurenna ikkuna"
+
+msgid "Minimize Window"
+msgstr "Pienennä ikkuna"
+
+msgid "Window Menu"
+msgstr "Ikkunavalikko"
+
+msgid "Shade"
+msgstr "Näytä rullattuna"
+
+msgid "Make Above"
+msgstr "Näytä päällimmäisenä"
+
+msgid "Stick"
+msgstr "Näytä kaikilla työpöydillä"
+
+msgid "Unshade"
+msgstr "Älä näytä rullattuna"
+
+msgid "Unmake Above"
+msgstr "Älä näytä päällimmäisenä"
+
+msgid "Unstick"
+msgstr "Älä näytä kaikilla työpöydillä"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Ikkuna \"%s\" ei vastaa."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Tämän sovelluksen sulkeminen väkisin saa tallentamattomat muutokset "
+"katoamaan."
+
+msgid "_Cancel"
+msgstr "_Peru"
+
+msgid "_Force Quit"
+msgstr "Sulje _väkisin"
+
+msgid "Annotate"
+msgstr "Piirros"
+
+msgid "Annotate plugin"
+msgstr "Piirroksen liitännäiset"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Aktivoi pyyhkiminen"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Aktivoi piirtäminen"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Aktivoi"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Aktivoi piirtäminen"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Aktivoi pyyhkiminen"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Aktivoi piirtäminen"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Aktivoi pyyhkiminen"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Aktivoi piirtäminen"
+
+msgid "Draw"
+msgstr "Piirrä"
+
+msgid "Draw using tool"
+msgstr "Piirrä työkalulla"
+
+msgid "Initiate erase"
+msgstr "Aktivoi pyyhkiminen"
+
+msgid "Initiate annotate erasing"
+msgstr "Aktivoi piirtämisen pyyhkiminen"
+
+msgid "Clear"
+msgstr "Tyhjennä"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Pienennä aktiivinen ikkuna kehystilaan"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Piirroksen täyttöväri"
+
+msgid "Fill color for annotations"
+msgstr "Piirroksen väri"
+
+msgid "Annotate Stroke Color"
+msgstr "Piirroksen ääriviivojen väri"
+
+msgid "Stroke color for annotations"
+msgstr "Viivan väri piirroksiin"
+
+msgid "Stroke width"
+msgstr "Viivan leveys"
+
+msgid "Stroke width for annotations"
+msgstr "Viivan leveys piirroksiin"
+
+msgid "Blur Windows"
+msgstr "Sumenna ikkunat"
+
+msgid "Blur windows"
+msgstr "Sumennettavat ikkunatyypit"
+
+msgid "Pulse"
+msgstr "Syke"
+
+msgid "Pulse effect"
+msgstr "Syketehoste"
+
+msgid "Blur Speed"
+msgstr "Sumennuksen nopeus"
+
+msgid "Window blur speed"
+msgstr "Ikkunan sumennuksen nopeus"
+
+msgid "Focus blur windows"
+msgstr "Sumenna passiiviset ikkunat"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Ikkunatyypit, joihin keskityksen sumennus vaikuttaa"
+
+msgid "Focus Blur"
+msgstr "Keskityksen sumennus"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Sumenna ikkunat joilla ei ole keskitystä"
+
+msgid "Alpha blur windows"
+msgstr "Sumenna ikkunat alpha-sumennuksella"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Ikkunatyypit, joiden tulisi käyttää alfa sumennusta oletuksena"
+
+msgid "Alpha Blur"
+msgstr "Alpha-sumennus"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Sumenna ikkunoiden läpinäkyvien osien takana"
+
+msgid "Blur Filter"
+msgstr "Sumennuksen suodatin"
+
+msgid "Filter method used for blurring"
+msgstr "Sumentamiseen käytettävä suodatin"
+
+msgid "4xBilinear"
+msgstr "4xbilineaarinen"
+
+msgid "Gaussian"
+msgstr "Gaussian"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "Gaussin säde"
+
+msgid "Gaussian radius"
+msgstr "Gaussin säde"
+
+msgid "Gaussian Strength"
+msgstr "Gaussin voimakkuus"
+
+msgid "Gaussian strength"
+msgstr "Gaussin voimakkuus"
+
+msgid "Mipmap LOD"
+msgstr "Mipmapin yksityiskohtien taso"
+
+msgid "Mipmap level-of-detail"
+msgstr "Mipmap-kuvien yksityiskohtien tarkkuus"
+
+msgid "Blur Saturation"
+msgstr "Sumennuksen kylläisyys"
+
+msgid "Blur saturation"
+msgstr "Sumennuksen kylläisyys"
+
+msgid "Blur Occlusion"
+msgstr "Sumennuksen purevuus"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+"Poista sumennuksen käyttö alueissa joista ikkunat ovat tehneet "
+"vaikeaselkoiset"
+
+msgid "Independent texture fetch"
+msgstr "Riippumaton tekstuurien nouto"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Käytä käytettävissä olevia teksturointiyksiköitä tekemään mahdollisimman "
+"monta riippumatonta tekstuurien noutoa."
+
+msgid "Clone Output"
+msgstr "Ulostulon kloonaus"
+
+msgid "Output clone handler"
+msgstr "Ulostulon kloonauksen käsittelijä"
+
+msgid "Initiate"
+msgstr "Aktivoi"
+
+msgid "Initiate clone selection"
+msgstr "Aktivoi kloonauksen valinta"
+
+msgid "Commands"
+msgstr "Komennot"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Luo sidoksia komentorivikomentoihin"
+
+msgid "Command line 0"
+msgstr "Komentorivi 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command0 suoritetaan"
+
+msgid "Command line 1"
+msgstr "Komentorivi 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+msgid "Command line 2"
+msgstr "Komentorivi 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command2 suoritetaan"
+
+msgid "Command line 3"
+msgstr "Komentorivi 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command3 suoritetaan"
+
+msgid "Command line 4"
+msgstr "Komentorivi 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command4 suoritetaan"
+
+msgid "Command line 5"
+msgstr "Komentorivi 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command5 suoritetaan"
+
+msgid "Command line 6"
+msgstr "Komentorivi 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command6 suoritetaan"
+
+msgid "Command line 7"
+msgstr "Komentorivi 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command7 suoritetaan"
+
+msgid "Command line 8"
+msgstr "Komentorivi 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command8 suoritetaan"
+
+msgid "Command line 9"
+msgstr "Komentorivi 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command9 suoritetaan"
+
+msgid "Command line 10"
+msgstr "Komentorivi 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command10 suoritetaan"
+
+msgid "Command line 11"
+msgstr "Komentorivi 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command11 suoritetaan"
+
+msgid "Command line 12"
+msgstr "Komentorivi 12"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Komentorivi 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Komentorivi 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Komentorivi 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Komentorivi 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Komentorivi 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Komentorivi 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Komentorivi 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Komentorivi 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command0 suoritetaan"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Komentorivi 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command1 suoritetaan"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Komentorivi 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command2 suoritetaan"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Komentorivi 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command2 suoritetaan"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Komentorivi 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "Suoritettava komentorivi, kun run_command2 suoritetaan"
+
+msgid "Key Bindings"
+msgstr "Näppäinsidokset"
+
+msgid "Run command 0"
+msgstr "Suorita komento 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command0"
+
+msgid "Run command 1"
+msgstr "Suorita komento 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+msgid "Run command 2"
+msgstr "Suorita komento 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+msgid "Run command 3"
+msgstr "Suorita komento 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command3"
+
+msgid "Run command 4"
+msgstr "Suorita komento 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command4"
+
+msgid "Run command 5"
+msgstr "Suorita komento 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command5"
+
+msgid "Run command 6"
+msgstr "Suorita komento 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command6"
+
+msgid "Run command 7"
+msgstr "Suorita komento 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command7"
+
+msgid "Run command 8"
+msgstr "Suorita komento 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command8"
+
+msgid "Run command 9"
+msgstr "Suorita komento 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command9"
+
+msgid "Run command 10"
+msgstr "Suorita komento 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command10"
+
+msgid "Run command 11"
+msgstr "Suorita komento 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command11"
+
+msgid "Run command 12"
+msgstr "Suorita komento 12"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Suorita komento 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Suorita komento 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Suorita komento 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Suorita komento 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Suorita komento 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Suorita komento 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Suorita komento 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Suorita komento 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Suorita komento 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Suorita komento 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Suorita komento 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Suorita komento 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+msgid "Button Bindings"
+msgstr "Näppäinsidokset"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Näppäinyhdistelmä, jota painettaessa ajetaan komento command2"
+
+msgid "Edge Bindings"
+msgstr "Reunasidokset"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command0"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command2"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command3"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command4"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command5"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command6"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command7"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command8"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command9"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command10"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Reuna, johon siirryttäessä ajetaan komento command2"
+
+msgid "General Options"
+msgstr "Yleiset asetukset"
+
+msgid "General compiz options"
+msgstr "Yleiset Compizin asetukset"
+
+msgid "Active Plugins"
+msgstr "Käytössä olevat liitännäiset"
+
+msgid "List of currently active plugins"
+msgstr "Lista tällä hetkellä aktiivisista liitännäisistä"
+
+msgid "Audible Bell"
+msgstr "Kuuluva äänimerkki"
+
+msgid "Audible system beep"
+msgstr "Kuuluva järjestelmän huomautus"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Jätä huomiotta vihjeet suurennettaessa"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "Ohita kokolisäys- ja kuvasuhdevihjeet ikkunaa suurennettaessa"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Piilota tehtäväpalkissa näkymättömät ikkunat"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Piilota ikkunat jotka eivät ole ikkunaluettelossa, kun käytetään \"näytä "
+"työpöytä\" -toimintoa"
+
+msgid "Edge Trigger Delay"
+msgstr "Reunaliipaisimen viive"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Osoittimen paikallaanoloaika näytön reunalla, ennen kuin reunatoiminto "
+"suoritetaan."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Ikkunoiden tummentamisen viive"
+
+msgid "Interval between ping messages"
+msgstr "Viive ping-viestien välillä"
+
+msgid "Display Settings"
+msgstr "Näyttöasetukset"
+
+msgid "Texture Filter"
+msgstr "Tekstuurisuodatin"
+
+msgid "Texture filtering"
+msgstr "Tekstuurisuodatus"
+
+msgid "Fast"
+msgstr "Nopea"
+
+msgid "Good"
+msgstr "Hyvä"
+
+msgid "Best"
+msgstr "Paras"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "Kohdistus- ja nostokäyttäytyminen"
+
+msgid "Click To Focus"
+msgstr "Tarkenna hiiren napsautuksesta"
+
+msgid "Click on window moves input focus to it"
+msgstr "Hiiren napsautus ikkunalla tarkentaa sen"
+
+msgid "Raise On Click"
+msgstr "Nosta napsautuksesta"
+
+msgid "Raise windows when clicked"
+msgstr "Nosta ikkuna napsautuksesta"
+
+msgid "Auto-Raise"
+msgstr "Automaattinosto"
+
+msgid "Raise selected windows after interval"
+msgstr "Nosta valittu ikkuna tietyn ajan jälkeen"
+
+msgid "Auto-Raise Delay"
+msgstr "Automaattinoston viive"
+
+msgid "Interval before raising selected windows"
+msgstr "Aikaväli ennen valittujen ikkunoiden nostamista"
+
+msgid "Key bindings"
+msgstr "Pikanäppäimet"
+
+msgid "Close active window"
+msgstr "Sulje aktiivinen ikkuna"
+
+msgid "Raise Window"
+msgstr "Nosta ikkuna"
+
+msgid "Raise window above other windows"
+msgstr "Nosta ikkuna muiden päälle"
+
+msgid "Lower Window"
+msgstr "Laske ikkuna"
+
+msgid "Lower window beneath other windows"
+msgstr "Laske ikkuna taka-alalle"
+
+msgid "Unmaximize active window"
+msgstr "Palauta suurenettu aktiivinen ikkuna"
+
+msgid "Minimize active window"
+msgstr "Pienennä aktiivinen ikkuna"
+
+msgid "Maximize active window"
+msgstr "Suurenna aktiivinen ikkuna"
+
+msgid "Maximize Window Horizontally"
+msgstr "Suurenna ikkunaa vaakatasossa"
+
+msgid "Maximize active window horizontally"
+msgstr "Suurenna aktiivista ikkunaa vaakatasossa"
+
+msgid "Maximize Window Vertically"
+msgstr "Suurenna ikkunaa pystytasossa"
+
+msgid "Maximize active window vertically"
+msgstr "Suurenna aktiivista ikkunaa pystytasossa"
+
+msgid "Window menu button binding"
+msgstr "Ikkunavalikon näppäinyhdistelmä"
+
+msgid "Window menu key binding"
+msgstr ""
+"Määrittää näppäinyhdistelmän ikkunavalikolle, joka saadaan myös klikkaamalla "
+"ikkunan kehystä vasemmalla hiiren painikkeella"
+
+msgid "Show Desktop"
+msgstr "Näytä työpöytä"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Piilota kaikki ikkunat ja näytä työpöytä"
+
+msgid "Toggle Window Maximized"
+msgstr "Suurenna ikkuna"
+
+msgid "Toggle active window maximized"
+msgstr "Suurenna aktiivinen ikkuna"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Suurenna ikkuna vaakatasossa"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Suurenna aktiivinen ikkuna vaakatasossa"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Suurenna ikkuna pystytasossa"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Suurenna aktiivinen ikkuna pystytasossa"
+
+msgid "Toggle Window Shaded"
+msgstr "Pienennä ikkuna kehystilaan"
+
+msgid "Toggle active window shaded"
+msgstr "Pienennä aktiivinen ikkuna kehystilaan"
+
+msgid "Slow Animations"
+msgstr "Hitaat animaatiot"
+
+msgid "Toggle use of slow animations"
+msgstr "Ota käyttöön hitaat animaatiot"
+
+msgid "Desktop Size"
+msgstr "Työpöydän koko"
+
+msgid "Horizontal Virtual Size"
+msgstr "Virtuaalinen koko leveyssuunnassa"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Näytön virtuaalikoon kerroin todelliseen kokoon leveyssuunnassa"
+
+msgid "Vertical Virtual Size"
+msgstr "Pystysuuntainen virtuaalinen koko"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Näytön virtuaalikoon kerroin todelliseen kokoon pystysuunnassa"
+
+msgid "Lighting"
+msgstr "Valaistus"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Käytä hajavaloa ruudun muuttuessa"
+
+msgid "Detect Refresh Rate"
+msgstr "Tunnista virkistystaajuus"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Virkistystaajuuden automaattinen tunnistus"
+
+msgid "Refresh Rate"
+msgstr "Virkistystaajuus"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Kuinka usein ruutu päivitetään (1-200 krt/s)"
+
+msgid "Detect Outputs"
+msgstr "Tunnista ulostulot"
+
+msgid "Automatic detection of output devices"
+msgstr "Ulostulolaitteiden automaattinen tunnistus"
+
+msgid "Overlapping Output Handling"
+msgstr "Päällekkäisten ulostulojen käsittely"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Mitä päällekkäisistä ulostulolaitteista suositaan"
+
+msgid "Smart mode"
+msgstr "Älykäs tila"
+
+msgid "Prefer larger output"
+msgstr "Suosi suurempaa ulostuloa"
+
+msgid "Prefer smaller output"
+msgstr "Suosi pienempää ulostuloa"
+
+msgid "Outputs"
+msgstr "Ulostulot"
+
+msgid "List of strings describing output devices"
+msgstr "Ulostulolaitteita kuvaavien merkkijonojen luettelo"
+
+msgid "Sync To VBlank"
+msgstr "Synkronoi VBlankiin"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Suorita vain näyttöpäivitykset pystytasossa tehtävän tyhjäyksen aikana"
+
+msgid "Focus Prevention Level"
+msgstr "Kohdistuksen eston taso"
+
+msgid "Level of focus stealing prevention"
+msgstr "Kohdistuksen nappaamisen eston taso"
+
+msgid "Off"
+msgstr "Pois päältä"
+
+msgid "Low"
+msgstr "Matala"
+
+msgid "Normal"
+msgstr "Tavallinen"
+
+msgid "High"
+msgstr "Korkea"
+
+msgid "Very High"
+msgstr "Hyvin korkea"
+
+msgid "Focus Prevention Windows"
+msgstr "Keskityksen estäminen ikkunoissa"
+
+msgid "Focus prevention windows"
+msgstr "Keskityksen estäminen ikkunoissa"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Kokoruutuikkunoita ei uudelleenohjata"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr "Kokoruutuikkunoita ei uudelleenohjata piilotetuille pikselikartoille"
+
+msgid "Default Icon"
+msgstr "Oletuskuvake"
+
+msgid "Default window icon image"
+msgstr "Oletuskuva ikkunoille, joilla ei ole kuvaketta"
+
+msgid "Force independent output painting."
+msgstr "Pakota ulostulojen itsenäinen piirto."
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Piirrä jokainen ulostulolaite itsenäisesti, vaikka ulostulolaitteet olisivat "
+"päällekkäin"
+
+msgid "Texture Compression"
+msgstr "Tekstuurien pakkaus"
+
+msgid "If available use compression for textures converted from images"
+msgstr "Käytä pakkausta kuvista muunnetuille tekstuureille, jos mahdollista"
+
+msgid "Desktop Cube"
+msgstr "Työpöytäkuutio"
+
+msgid "Place windows on cube"
+msgstr "Asettele ikkunat työpöytäkuution pinnalle"
+
+msgid "Unfold"
+msgstr "Avaa"
+
+msgid "Unfold cube"
+msgstr "Avaa kuutio"
+
+msgid "Next Slide"
+msgstr "Seuraava dia"
+
+msgid "Advance to next slide"
+msgstr "Etene seuraavaan diaan"
+
+msgid "Prev Slide"
+msgstr "Edellinen dia"
+
+msgid "Go back to previous slide"
+msgstr "Takaisin edelliseen diaan"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Luo mipmap skaalauksen laadun parantamiseksi mikäli se on mahdollista"
+
+msgid "Multi Output Mode"
+msgstr "Useita ulostuloja"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Valitsee miten kuutio näyetään jos käyettään usempaa kuin yhtä ulostulo "
+"laitetta (näyttöä)"
+
+msgid "Automatic"
+msgstr "Automaattinen"
+
+msgid "Multiple cubes"
+msgstr "Useita kuutioita"
+
+msgid "One big cube"
+msgstr "Yksi iso kuutio"
+
+msgid "Behavior"
+msgstr "Käyttäytyminen"
+
+msgid "Inside Cube"
+msgstr "Kuution sisäpinta"
+
+msgid "Inside cube"
+msgstr "Näyttää kuution sisäpinnan"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+msgid "Acceleration"
+msgstr "Kiihdytys"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+msgid "Fold Acceleration"
+msgstr "Kiihdytyskerroin"
+
+msgid "Speed"
+msgstr "Nopeus"
+
+msgid "Fold Speed"
+msgstr "Nopeuskerroin"
+
+msgid "Timestep"
+msgstr "Aikaviive"
+
+msgid "Fold Timestep"
+msgstr "Aikaviivekerroin"
+
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+msgid "Cube Color"
+msgstr "Kuution väri"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Kuution pohjan ja kannen väri"
+
+msgid "Cube Caps"
+msgstr "Kuution kannet"
+
+msgid "Scale image"
+msgstr "Skaalaa kuvaa"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Skaalaa kuva kuution katon kokoiseksi"
+
+msgid "Image files"
+msgstr "Kuvatiedostot"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "Lista kuution päälle asetettavista PNG- ja SVG-tiedostoista"
+
+msgid "Adjust Image"
+msgstr "Sovita kuva"
+
+msgid "Adjust top face image to rotation"
+msgstr "Sovita kannen ja pohjan kuva kuutiolle"
+
+msgid "Skydome"
+msgstr "Taivas"
+
+msgid "Render skydome"
+msgstr "Piirrä taivas"
+
+msgid "Skydome Image"
+msgstr "Taivaan kuva"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Taivaankannen tekstuurina käytettävä kuva"
+
+msgid "Animate Skydome"
+msgstr "Animoi Taivaankansi"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animoi taivaankansi työpöytäkuutiota kääntäessä"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Liukuvärin aloitusväri"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Ylin väri taivaankannen liukuvärissä"
+
+msgid "Skydome Gradient End Color"
+msgstr "Liukuvärin lopetusväri"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Alin väri taivaankannen liukuvärissä"
+
+msgid "Transparent Cube"
+msgstr "Läpinäkyvä kuutio"
+
+msgid "Opacity During Rotation"
+msgstr "Läpikuultavuus pyörityksen aikana"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Työpöytien läpinäkyvyys pyörityksen aikana"
+
+msgid "Opacity When Not Rotating"
+msgstr "Läpikuultavuus kun kuutiota ei pyöritetä"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Työpöytien läpinäkyvyys kun kuutiota ei pyöritetä"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Läpinäkyvä vain hiirellä pyörittäessä"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Kuutio on läpinäkyvä vain kun sitä käännetään hiirellä"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus-hallinnan taustaosa"
+
+msgid "Window Decoration"
+msgstr "Ikkunan kehykset"
+
+msgid "Window decorations"
+msgstr "Ikkunan kehyksen asetukset"
+
+msgid "Shadow Radius"
+msgstr "Varjon säde"
+
+msgid "Drop shadow radius"
+msgstr "Varjon säde"
+
+msgid "Shadow Opacity"
+msgstr "Varjon läpinäkyvyys"
+
+msgid "Drop shadow opacity"
+msgstr "Varjon läpinäkyvyys"
+
+msgid "Shadow Color"
+msgstr "Varjon väri"
+
+msgid "Drop shadow color"
+msgstr "Varjon väri"
+
+msgid "Shadow Offset X"
+msgstr "Varjon X-poikkeama"
+
+msgid "Drop shadow X offset"
+msgstr "Varjon X-poikkeama"
+
+msgid "Shadow Offset Y"
+msgstr "Varjon Y-poikkeama"
+
+msgid "Drop shadow Y offset"
+msgstr "Varjon Y-poikkeama"
+
+msgid "Command"
+msgstr "Komento"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr "Kehystyskomento, joka suoritetaan kehystimen puuttuessa"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Salli mipmap kuvioiden käyttäminen kehysten tekstuureihin"
+
+msgid "Decoration windows"
+msgstr "Ikkunatyypit, joilla tulisi olla kehykset"
+
+msgid "Windows that should be decorated"
+msgstr "Ikkunatyypit, jotka tulisi kehystää"
+
+msgid "Shadow windows"
+msgstr "Ikkunatyypit, joilla tulisi olla varjo"
+
+msgid "Windows that should have a shadow"
+msgstr "Ikkunatyypit, joille tulisi lisätä varjo"
+
+msgid "Fading Windows"
+msgstr "Ikkunoiden häivytys"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "Ikkunat häivytetään näkyvistä/näkyviin"
+
+msgid "Fade Mode"
+msgstr "Häivytystapa"
+
+msgid "Window fade mode"
+msgstr "Ikkunan häivytystapa"
+
+msgid "Constant speed"
+msgstr "Vakionopeus"
+
+msgid "Constant time"
+msgstr "Vakioaika"
+
+msgid "Fade Speed"
+msgstr "Häivytyksen nopeus"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Ikkunan häivytysnopeus \"Vakionopeus\"-tilassa"
+
+msgid "Fade Time"
+msgstr "Häivytysviive"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "Ikkunan häivytysaika (millisekunneissa) \"Vakioaika\"-tilassa"
+
+msgid "Fade windows"
+msgstr "Häivytä ikkunat"
+
+msgid "Windows that should be fading"
+msgstr "Ikkunatyypit, joita tulisi häivyttää"
+
+msgid "Visual Bell"
+msgstr "Näkyvä kello"
+
+msgid "Fade effect on system beep"
+msgstr "Häivitystehoste järjestelmän piipauksesta"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Kokoruudun näkyvä kello"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Kokoruudun häivytystehoste järjestelmän piippauksesta"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Häivytä pienentämisen, avaamisen ja sulkemisen yhteydessä"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Häivystehoste pienentämisen, avaamisen ja sulkemisen yhteydessä"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Himmennä ikkunat, jotka eivät vastaa"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr "Himmennä ikkunat, jotka eivät vastaa ikkunanhallinnan pyyntöihin"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Kirkkaus ikkunoille, jotka eivät vastaa"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Kirkkaus prosenteissa ikkunoille, jotka eivät vastaa"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Värikylläisyys ikkunoille, jotka eivät vastaa"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Värikylläisyys prosenteissa ikkunoille, jotka eivät vastaa"
+
+msgid "Userspace File System"
+msgstr "Käyttäjätilan tiedostojärjestelmä"
+
+msgid "Userspace file system"
+msgstr "Käyttäjätilan tiedostojärjestelmä"
+
+msgid "Mount Point"
+msgstr "Liitoskohta"
+
+msgid "Mount point"
+msgstr "Liitoskohta"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "GLib-pääsilmukan tuki"
+
+msgid "MATE Compatibility"
+msgstr "MATE-yhteensopivuus"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+"Valinnat, joilla Compiz pidetään yhteensopivana MATE-työpöytäympäristön "
+"kanssa"
+
+msgid "Show Main Menu"
+msgstr "Näytä päävalikko"
+
+msgid "Show the main menu"
+msgstr "Näytä päävalikko"
+
+msgid "Run Dialog"
+msgstr "Suorita komento -valintaikkuna"
+
+msgid "Show Run Application dialog"
+msgstr "Näytä Suorita komento -valintaikkuna"
+
+msgid "Screenshot command line"
+msgstr "Kuvakaappauksen komento"
+
+msgid "Take a screenshot"
+msgstr "Ota kuvankaappaus"
+
+msgid "Window screenshot command line"
+msgstr "Ikkunan kuvakaappauksen komento"
+
+msgid "Take a screenshot of a window"
+msgstr "Ota kuvankaappaus ikkunasta"
+
+msgid "Run terminal command"
+msgstr "Suorita päätekomento"
+
+msgid "Terminal command line"
+msgstr "Päätteen komentorivi"
+
+msgid "Open a terminal"
+msgstr "Avaa pääte"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Struktuurittomien Ini-viestien tietokannan hallinta"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Käyttäjätilan tiedostojärjestelmä"
+
+msgid "Minimize Effect"
+msgstr "Pienennystehoste"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Animoi ikkunoiden pienennys ja suurennus"
+
+msgid "Minimize speed"
+msgstr "Pienennykseen käytetty aika"
+
+msgid "Minimize timestep"
+msgstr "Pienennyksen aikaväli"
+
+msgid "Minimize Windows"
+msgstr "Pienennä ikkunat"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Ikkunatyypit, jotka tulisi muuntaa pienennettäessä"
+
+msgid "Shade Resistance"
+msgstr "Varjon vastussauma"
+
+msgid "Shade resistance"
+msgstr "Varjon vastussauma"
+
+msgid "Move Window"
+msgstr "Siirrä Ikkuna"
+
+msgid "Move window"
+msgstr "Ikkunan siirtäminen"
+
+msgid "Initiate Window Move"
+msgstr "Siirrä ikkunaa"
+
+msgid "Start moving window"
+msgstr "Aloita ikkunan siirtäminen"
+
+msgid "Opacity"
+msgstr "Läpinäkyvyys"
+
+msgid "Opacity level of moving windows"
+msgstr "Liikkuvien ikkunoiden läpinäkyvyys"
+
+msgid "Constrain Y"
+msgstr "Rajoita Y-koordinaatti"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Rajoita Y-koordinaatti työskentelyalueelle"
+
+msgid "Snapoff maximized windows"
+msgstr "Vapauta suurennetut ikkunat"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Vapauta ja palauta suurennetut ikkunat automaattisesti siirrettäessä"
+
+msgid "Lazy Positioning"
+msgstr "Laiska sijoittaminen"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Älä päivitä serveripuolen sijaintia ikkunoissa kunnes siirtäminen on valmis"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Peittävyys, kirkkaus ja värikylläisyys"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Peittävyyden, kirkkauden ja värikylläisyyden muuttaminen"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Lisää ikkunan läpikuultavuutta"
+
+msgid "Opacity Increase"
+msgstr "Peittävyyden lisääminen"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Vähennä ikkunan läpikuultavuutta"
+
+msgid "Opacity Decrease"
+msgstr "Peittävyyden vähentäminen"
+
+msgid "Brightness"
+msgstr "Kirkkaus"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Kirkkaus"
+
+msgid "Brightness Increase"
+msgstr "Kirkkauden lisääminen"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Kirkkaus"
+
+msgid "Brightness Decrease"
+msgstr "Kirkkauden vähentäminen"
+
+msgid "Saturation"
+msgstr "Kylläisyys"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Sumennuksen kylläisyys"
+
+msgid "Saturation Increase"
+msgstr "Kylläisyyden lisääminen"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Sumennuksen kylläisyys"
+
+msgid "Saturation Decrease"
+msgstr "Kylläisyyden vähentäminen"
+
+msgid "Step"
+msgstr "Askel"
+
+msgid "Opacity Step"
+msgstr "Peittävyyden säädön askel"
+
+msgid "Window specific settings"
+msgstr "Ikkunakohtaiset asetukset"
+
+msgid "Windows"
+msgstr "Ikkunat"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Ikkunat joilla tulisi oletuksena olla eriävä peittävyys"
+
+msgid "Window values"
+msgstr "Ikkunoiden arvot"
+
+msgid "Opacity values for windows"
+msgstr "Peittävyysarvot ikkunoille"
+
+msgid "Brightness Step"
+msgstr "Kirkkauden säädön askel"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Ikkunat joilla tulisi oletuksena olla eriävä kirkkaus"
+
+msgid "Brightness values for windows"
+msgstr "Kirkkausarvot ikkunoille"
+
+msgid "Saturation Step"
+msgstr "Kylläisyyden säädön askel"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Ikkunat joilla tulisi oletuksena olla eriävä värikylläisyys"
+
+msgid "Saturation values for windows"
+msgstr "Kylläisyysarvot ikkunoille"
+
+msgid "Place Windows"
+msgstr "Sijoita ikkunat"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Sijoita ikkunat sopiville paikoille niiden ilmestyessä"
+
+msgid "Workarounds"
+msgstr "Poikkeukset"
+
+msgid "Window placement workarounds"
+msgstr "Poikkeukset ikkunoiden sijoittamisessa"
+
+msgid "Placement Mode"
+msgstr "Käyetettävä metodi sijoittamisessa"
+
+msgid "Algorithm to use for window placement"
+msgstr "Ikkunan sijoittamiseen käyettettävä algoritmi"
+
+msgid "Cascade"
+msgstr "Porrasta"
+
+msgid "Centered"
+msgstr "Keskitetty"
+
+msgid "Smart"
+msgstr "Älykäs"
+
+msgid "Maximize"
+msgstr "Suurenna"
+
+msgid "Random"
+msgstr "Satunnainen"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Käännä seuraavaan työpöytään siirtäessä osoitinta reunaan"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Määrittää kuinka ikkunoiden sijoittelun tulisi toimia, jos valittuina on "
+"useita ulostuloja"
+
+msgid "Use active output device"
+msgstr "Käytä aktiivista ulostulolaitetta"
+
+msgid "Use output device with pointer"
+msgstr "Käytä osoittimen sisältämää ulostulolaitetta"
+
+msgid "Use output device of focused window"
+msgstr "Käytä kohdistetun ikkunan ulostulolaitetta"
+
+msgid "Place across all outputs"
+msgstr "Sijoita kaikkien ulostulojen kesken"
+
+msgid "Force Placement Windows"
+msgstr "Pakotetun sijoittelun ikkunat"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Ikkunatyypit, jotka tulisi pakotetusti sijoittaa paikoilleen, vaikka ne "
+"kieltäisivät ikkunointiohjelmaa tekemästä niin."
+
+msgid "Fixed Window Placement"
+msgstr "Määrätty ikkunoiden sijoittelu"
+
+msgid "Windows with fixed positions"
+msgstr "Ikkunatyypit, joilla määrätyt sijainnit"
+
+msgid "Positioned windows"
+msgstr "Sijoitetut ikkunat"
+
+msgid "Windows that should be positioned by default"
+msgstr "Ikkunatyypit, jotka tulisi sijoittaa oletuksena"
+
+msgid "X Positions"
+msgstr "X-sijainnit"
+
+msgid "X position values"
+msgstr "X-sijainnin arvot"
+
+msgid "Y Positions"
+msgstr "Y-sijainnit"
+
+msgid "Y position values"
+msgstr "Y-sijainnin arvot"
+
+msgid "Keep In Workarea"
+msgstr "Pidä työtilassa"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Pidä asetettu ikkuna työtilassa, vaikka se tarkoittaisi sijainnin eriävyyttä "
+"määritellystä sijainnista"
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Ikkunatyypit, joilla määrätyt sijainnit"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Ikkunat joilla tulisi oletuksena olla eriävä värikylläisyys"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Häivytystapa"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Sijoitetut ikkunat"
+
+msgid "Windows with fixed viewport"
+msgstr "Ikkunatyypit, joilla määrätty työtila"
+
+msgid "Viewport positioned windows"
+msgstr "Tiettyyn työpöytään sijoitettavat ikkunat"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Ikkunatyypit, jotka tulisi sijoittaa tiettyyn työpöytään oletuksena"
+
+msgid "X Viewport Positions"
+msgstr "Näkymän X-sijainnit"
+
+msgid "Horizontal viewport positions"
+msgstr "Työpöytien vaakataso-sijainti"
+
+msgid "Y Viewport Positions"
+msgstr "Näkymän Y-sijainnit"
+
+msgid "Vertical viewport positions"
+msgstr "Työpöytien pystytaso-sijainti"
+
+msgid "Png"
+msgstr "PNG"
+
+msgid "Png image loader"
+msgstr "PNG-kuvien lataaja"
+
+msgid "Regex Matching"
+msgstr "Lauseketäsmäys"
+
+msgid "Regex window matching"
+msgstr "Lausekkeen määrittelemien ikkunoiden täsmäys"
+
+msgid "Resize Window"
+msgstr "Muuta ikkunan kokoa"
+
+msgid "Resize window"
+msgstr "Muuta ikkunan kokoa"
+
+msgid "Bindings"
+msgstr "Pikanäppäimet"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Aloita ikkunan koon muuttaminen tavallista tapaa käyttäen"
+
+msgid "Start resizing window normally"
+msgstr "Aloita ikkunan koon muuttaminen tavallisesti"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Aloita ikkunan koon muuttaminen ääriviiva-tapaa käyttäen"
+
+msgid "Start resizing window with outline"
+msgstr "Aloita ikkunan koon muuttaminen ääriviivaa käyttäen"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Aloita ikkunan koon muuttaminen suorakulmio-tapaa käyttäen"
+
+msgid "Start resizing window with rectangle"
+msgstr "Aloita ikkunan koon muuttaminen suorakulmiota käyttäen"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Aloita ikkunan koon muuttaminen venytys-tapaa käyttäen"
+
+msgid "Start resizing window by stretching it"
+msgstr "Aloita ikkunan koon muuttaminen venyttämällä"
+
+msgid "Initiate Window Resize"
+msgstr "Muuta ikkunan kokoa"
+
+msgid "Start resizing window"
+msgstr "Aloita ikkunan koon muuttaminen"
+
+msgid "Default Resize Mode"
+msgstr "Koon muuttamisen oletustapa"
+
+msgid "Default mode used for window resizing"
+msgstr "Ikkunan koon muuttamiseen käytettävä oletustapa"
+
+msgid "Outline"
+msgstr "Ääriviiva"
+
+msgid "Rectangle"
+msgstr "Suorakulmio"
+
+msgid "Stretch"
+msgstr "Venytä"
+
+msgid "Border Color"
+msgstr "Reunan väri"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"Reunan väri, jota käytetätään Ääriviiva- ja Suorakulmio-venytys metodeille"
+
+msgid "Fill Color"
+msgstr "Täyttöväri"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Täyttöväri suorakulmio-tapaan"
+
+msgid "Normal Resize Windows"
+msgstr "Ikkunan koon muuttaminen tavallisesti"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Ikkunat, joilla käytetään normaalia koon muuttamista"
+
+msgid "Outline Resize Windows"
+msgstr "Ikkunan koon muuttaminen ääriviivoilla"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Ikkunat, joilla käytetään ääriviivatapaa koon muuttamiseen"
+
+msgid "Rectangle Resize Windows"
+msgstr "Ikkunan koon muttaminen suorakulmiolla"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Ikkunat, joilla käytetään suorakulmiota koon muuttamiseen"
+
+msgid "Stretch Resize Windows"
+msgstr "Ikkunan koon muttaminen Venytä metodilla"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Ikkunat, joilla käytetään venyttämistä koon muuttamista"
+
+msgid "Rotate Cube"
+msgstr "Käännä kuutiota"
+
+msgid "Rotate desktop cube"
+msgstr "Käännä työpöytäkuutiota"
+
+msgid "Edge Flip Pointer"
+msgstr "Käännä seuraavaan työpöytään siirtäessä osoitinta reunaan"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Vaihda seuraavaan työpöytään vedettäessä osoitinta ruudun reunaa vasten."
+
+msgid "Edge Flip Move"
+msgstr "Käännä seuraavaan työpöytään siirtäessä ikkunan reunaan"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "Vaihda seuraavaan työpöytään vedettäessä ikkunaa ruudun reunaa vasten."
+
+msgid "Edge Flip DnD"
+msgstr "Käännä seuraavaan työpöytään siirtäessä objektia reunaan"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Vaihda seuraavaan työpöytään vedettäessä objektia ruudun reunaa vasten."
+
+msgid "Flip Time"
+msgstr "Käännön kesto"
+
+msgid "Timeout before flipping viewport"
+msgstr "Aikakatkaisu ennen näkymän vaihtamista"
+
+msgid "Raise on rotate"
+msgstr "Nosta pyörittäessä"
+
+msgid "Raise window when rotating"
+msgstr "Nosta ikkuna pyörittäessä"
+
+msgid "Rotate cube"
+msgstr "Kuution kääntö"
+
+msgid "Start Rotation"
+msgstr "Aloita kääntäminen"
+
+msgid "Rotate Left"
+msgstr "Käännä vasemmalle"
+
+msgid "Rotate left"
+msgstr "Kääntää kuution vasemmalle"
+
+msgid "Rotate Right"
+msgstr "Käännä oikealle"
+
+msgid "Rotate right"
+msgstr "Kääntää kuution oikealle"
+
+msgid "Rotate Left with Window"
+msgstr "Käännä vasemmalle ikkunan kanssa"
+
+msgid "Rotate left and bring active window along"
+msgstr "Kääntää kuution vasemmalle aktiivisen ikkuna kanssa"
+
+msgid "Rotate Right with Window"
+msgstr "Käännä oikealle ikkunan kanssa"
+
+msgid "Rotate right and bring active window along"
+msgstr "Kääntää kuution oikealle aktiivisen ikkuna kanssa"
+
+msgid "Rotate To"
+msgstr "Käännä"
+
+msgid "Rotate to viewport"
+msgstr "Käännä näkymään"
+
+msgid "Rotate window"
+msgstr "Käännä ikkunaa"
+
+msgid "Rotate with window"
+msgstr "Käännä ikkunan kanssa"
+
+msgid "Rotate Flip Left"
+msgstr "Kierrä vasemmalle"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Käännä vasempaan työtilaan ja siirrä osoitin"
+
+msgid "Rotate Flip Right"
+msgstr "Kierrä oikealle"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Käännä oikeaan työtilaan ja siirrä osoitin"
+
+msgid "Rotate to cube face"
+msgstr "Käännä työpöydälle"
+
+msgid "Rotate To Face 1"
+msgstr "Käännä työpöydälle 1"
+
+msgid "Rotate to face 1"
+msgstr "Käännä työpöydälle 1"
+
+msgid "Rotate To Face 2"
+msgstr "Käännä työpöydälle 2"
+
+msgid "Rotate to face 2"
+msgstr "Käännä työpöydälle 2"
+
+msgid "Rotate To Face 3"
+msgstr "Käännä työpöydälle 3"
+
+msgid "Rotate to face 3"
+msgstr "Käännä työpöydälle 3"
+
+msgid "Rotate To Face 4"
+msgstr "Käännä työpöydälle 4"
+
+msgid "Rotate to face 4"
+msgstr "Käännä työpöydälle 4"
+
+msgid "Rotate To Face 5"
+msgstr "Käännä työpöydälle 5"
+
+msgid "Rotate to face 5"
+msgstr "Käännä työpöydälle 5"
+
+msgid "Rotate To Face 6"
+msgstr "Käännä työpöydälle 6"
+
+msgid "Rotate to face 6"
+msgstr "Käännä työpöydälle 6"
+
+msgid "Rotate To Face 7"
+msgstr "Käännä työpöydälle 7"
+
+msgid "Rotate to face 7"
+msgstr "Käännä työpöydälle 7"
+
+msgid "Rotate To Face 8"
+msgstr "Käännä työpöydälle 8"
+
+msgid "Rotate to face 8"
+msgstr "Käännä työpöydälle 8"
+
+msgid "Rotate To Face 9"
+msgstr "Käännä työpöydälle 9"
+
+msgid "Rotate to face 9"
+msgstr "Käännä työpöydälle 9"
+
+msgid "Rotate To Face 10"
+msgstr "Käännä työpöydälle 10"
+
+msgid "Rotate to face 10"
+msgstr "Käännä työpöydälle 10"
+
+msgid "Rotate To Face 11"
+msgstr "Käännä työpöydälle 11"
+
+msgid "Rotate to face 11"
+msgstr "Käännä työpöydälle 11"
+
+msgid "Rotate To Face 12"
+msgstr "Käännä työpöydälle 12"
+
+msgid "Rotate to face 12"
+msgstr "Käännä työpöydälle 12"
+
+msgid "Rotate to cube face with window"
+msgstr "Käännä työpöydälle ikkunan kanssa"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Käännä työpöydälle 1 ikkunan kanssa"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Käännä työpöydälle 1 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Käännä työpöydälle 2 ikkunan kanssa"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Käännä työpöydälle 2 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Käännä työpöydälle 3 ikkunan kanssa"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Käännä työpöydälle 3 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Käännä työpöydälle 4 ikkunan kanssa"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Käännä työpöydälle 4 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Käännä työpöydälle 5 ikkunan kanssa"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Käännä työpöydälle 5 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Käännä työpöydälle 6 ikkunan kanssa"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Käännä työpöydälle 6 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Käännä työpöydälle 7 ikkunan kanssa"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Käännä työpöydälle 7 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Käännä työpöydälle 8 ikkunan kanssa"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Käännä työpöydälle 8 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Käännä työpöydälle 9 ikkunan kanssa"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Käännä työpöydälle 9 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Käännä työpöydälle 10 ikkunan kanssa"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Käännä työpöydälle 10 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Käännä työpöydälle 11 ikkunan kanssa"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Käännä työpöydälle 11 aktiivisen ikkuna kanssa"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Käännä työpöydälle 12 ikkunan kanssa"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Käännä työpöydälle 12 aktiivisen ikkuna kanssa"
+
+msgid "Pointer Invert Y"
+msgstr "Peilaa osoittimen Y-akseli"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Peilaa osoittimen Y-suuntainen liike"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Peilaa osoittimen Y-akseli"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Peilaa osoittimen Y-suuntainen liike"
+
+msgid "Pointer Sensitivity"
+msgstr "Osoittimen herkkyys"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Osoitinliikkeen herkkyys"
+
+msgid "Rotation Acceleration"
+msgstr "Kääntämiskiihdytys"
+
+msgid "Snap To Top Face"
+msgstr "Kiinnitä kattoon"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Kiinnitä kääntäminen kuution kattoon"
+
+msgid "Snap To Bottom Face"
+msgstr "Kiinnitä pohjaan"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Kiinnitä kääntäminen kuution pohjaan"
+
+msgid "Rotation Speed"
+msgstr "Kääntämisnopeus"
+
+msgid "Rotation Timestep"
+msgstr "Kääntämisaikaväli"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Rotation Zoom"
+msgstr "Zoomaus käännettäessä"
+
+msgid "Scale"
+msgstr "Skaalaus"
+
+msgid "Scale windows"
+msgstr "Määrittää ikkunatyypit, jotka tulisi skaalata skaalaustilassa"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Pikanäppäimet kytkevät skaalaustilan päälle/pois"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Pikanäppäimet vaihtavat skaalaustilaa sen sijaan että ottaisivat "
+"painettaessa käyttöön ja vapautettaessa pois käytöstä."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Pikanäppäimet kytkevät skaalaustilan päälle/pois"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Pikanäppäimet vaihtavat skaalaustilaa sen sijaan että ottaisivat sen "
+"käyttöön painettaessa ja pois käytöstä vapautettaessa."
+
+msgid "Initiate Window Picker"
+msgstr "Käynnistä ikkunavalitsin"
+
+msgid "Layout and start transforming windows"
+msgstr "Asettele ja ala mukauttaa ikkunoita"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Aktivoi ikkunavalitsin kaikille ikkunoille"
+
+msgid "Layout and start transforming all windows"
+msgstr "Asettele ja ala mukauttaa kaikkia ikkunoita"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Aktivoi ikkunavalitsin ikkunaryhmälle"
+
+msgid "Layout and start transforming window group"
+msgstr "Asettele ja ala mukauttaa ikkunaryhmää"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Aktivoi ikkunavalitsin ikkunoille nykyisessä ulostulossa"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Asettele ja ala mukauttaa ikkunoita nykyisessä ulostulossa"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Näytä työpöytä siihen klikatessa"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "Siirry työpöytätilaan kun työpöytää klikataan skaalauksen aikana"
+
+msgid "Spacing"
+msgstr "Tila"
+
+msgid "Space between windows"
+msgstr "Ikkunoiden välinen tila"
+
+msgid "Scale speed"
+msgstr "Skaalausnopeus"
+
+msgid "Scale timestep"
+msgstr "Skaalausaikaväli"
+
+msgid "Darken Background"
+msgstr "Tummenna tausta"
+
+msgid "Darken background when scaling windows"
+msgstr "Tummenna tausta ikkunoita skaalatessa"
+
+msgid "Amount of opacity in percent"
+msgstr "Läpinäkyvyys prosentteina"
+
+msgid "Overlay Icon"
+msgstr "Aseta kuvake päälle"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Asettaa kuvakkeen ikkunan päälle skaalaamisen jälkeen"
+
+msgid "None"
+msgstr "Ei mitään"
+
+msgid "Emblem"
+msgstr "Tunnus"
+
+msgid "Big"
+msgstr "Suuri"
+
+msgid "Scale Windows"
+msgstr "Ikkunoiden skaalaus"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Ikkunatyypit, jotka tulisi skaalata skaalaustilassa"
+
+msgid "Hover Time"
+msgstr "Päälläoloaika"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Aika (ms), jonka jälkeen skaalaustila lopetetaan, kun ikkunan päälle "
+"asettaminen on käytössä"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Määrittää missä ikkunat skaalataan jos käytössä on useampi ulostulo laite"
+
+msgid "On current output device"
+msgstr "Vain nykyisessä ulostulolaitteessa"
+
+msgid "On all output devices"
+msgstr "Kaikissa ulostulolaitteissa"
+
+msgid "Screenshot"
+msgstr "Kuvakaappaus"
+
+msgid "Screenshot plugin"
+msgstr "Kuvakaappaus-liitännäinen"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Käynnistä suorakulmion muotoinen kuvankaappaaja"
+
+msgid "Directory"
+msgstr "Hakemisto"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Tallenna kuvakaappaukset tähän hakemistoon"
+
+msgid "Launch Application"
+msgstr "Suorita sovellus"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Ohjelma joka automaattisesti avaa kuvakaappauksen"
+
+msgid "Svg"
+msgstr "SVG"
+
+msgid "Svg image loader"
+msgstr "SVG-kuvien lataaja"
+
+msgid "Application Switcher"
+msgstr "Sovellusten vaihtaja"
+
+msgid "Next window"
+msgstr "Seuraava ikkuna"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Ponnauta vaihtaja näkyviin jos ei ole ja valitse seuraava ikkuna"
+
+msgid "Prev window"
+msgstr "Edellinen ikkuna"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Ponnauta vaihtaja näkyviin jos ei ole ja valitse edellinen ikkuna"
+
+msgid "Next window (All windows)"
+msgstr "Seuraava ikkuna (kaikki ikkunat)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Ponnauta vaihtaja näkyviin jos ei ole ja valitse edellinen ikkuna ja valitse "
+"seuraava ikkuna kaikista ikkunoista"
+
+msgid "Prev window (All windows)"
+msgstr "Edellinen ikkuna (kaikki ikkunat)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Ponnauta vaihtaja näkyviin jos ei ole ja valitse edellinen ikkuna kaikista "
+"ikkunoista"
+
+msgid "Next window (No popup)"
+msgstr "Seuraava ikkuna (ei ponnahdusikkunaa)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Siirry seuraavaan ikkunaan ilman vaihtajan ponnahdusikkunaa"
+
+msgid "Prev window (No popup)"
+msgstr "Edellinen ikkuna (ei ponnahdusikkunaa)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Siirry edelliseen ikkunaan ilman vaihtajaa ponnahdusikkunaa"
+
+msgid "Next Panel"
+msgstr "Seuraava paneeli"
+
+msgid "Select next panel type window."
+msgstr "Valitse seuraava paneelityypin ikkuna."
+
+msgid "Prev Panel"
+msgstr "Edellinen paneeli"
+
+msgid "Select previous panel type window."
+msgstr "Valitse edellinen paneelityypin ikkuna."
+
+msgid "Switcher speed"
+msgstr "Vaihtajanopeus"
+
+msgid "Switcher timestep"
+msgstr "Vaihtaja-aikaväli"
+
+msgid "Switcher windows"
+msgstr "Ikkunoiden vaihtajassa näkyvät ikkunatyypit"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Määrittää ikkunatyypit, jotka näkyvät ikkunoiden vaihtajassa"
+
+msgid "Amount of saturation in percent"
+msgstr "Kylläisyyden määrä prosentteina"
+
+msgid "Amount of brightness in percent"
+msgstr "Kirkkauden määrä prosentteina"
+
+msgid "Bring To Front"
+msgstr "Tuo etualalle"
+
+msgid "Bring selected window to front"
+msgstr "Tuo aktiivinen ikkuna etualalle"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+"Etäisyys, jonka työpöydän tulisi olla loitonnettuna ikkunoita vaihdettaessa"
+
+msgid "Icon"
+msgstr "Kuvake"
+
+msgid "Show icon next to thumbnail"
+msgstr "Näytä kuvake esikatselukuvan vieressä"
+
+msgid "Minimized"
+msgstr "Pienennetty"
+
+msgid "Show minimized windows"
+msgstr "Näytä pienennetyt ikkunat"
+
+msgid "Auto Rotate"
+msgstr "Automaattinen kääntö"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Käännä valittuun ikkunaan vaihtaessa"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Työpöydän koko"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Käännä valittuun ikkunaan vaihtaessa"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Edellinen dia"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Varjon säde"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Ääriviiva"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Ikkunan koon muuttaminen ääriviivoilla"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Taustakuvat"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Reunan väri"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Täyttöväri"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Varjon väri"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Näkymän X-sijainnit"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Ikkunoiden häivytys"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Ikkunatyypit, jotka tulisi skaalata skaalaustilassa"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Ikkunan siirtäminen"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Käännä vasemmalle"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Käännä oikealle"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Siirrä Ikkuna"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Käännä ikkunan kanssa"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Käännä vasemmalle ikkunan kanssa"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Käännä oikealle ikkunan kanssa"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Siirrä Ikkuna"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Siirrä Ikkuna"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Reunasidokset"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Kierrä vasemmalle"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Käännön kesto"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Kierrä oikealle"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Kierrä oikealle"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Käännön kesto"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Käännön kesto"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Käännä seuraavaan työpöytään siirtäessä objektia reunaan"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Siirry alas"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Vaihtajanopeus"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Käännä seuraavaan työpöytään siirtäessä objektia reunaan"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Vaihda seuraavaan työpöytään vedettäessä osoitinta ruudun reunaa vasten."
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "Vaihda seuraavaan työpöytään vedettäessä ikkunaa ruudun reunaa vasten."
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Vaihda seuraavaan työpöytään vedettäessä objektia ruudun reunaa vasten."
+
+msgid "Water Effect"
+msgstr "Vesitehoste"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Lisää vesitehosteen erilaisille työpöydän toiminnoille"
+
+msgid "Enable pointer water effects"
+msgstr "Ota käyttöön osoittimen vesitehosteet"
+
+msgid "Toggle rain"
+msgstr "Ota käyttöön sade"
+
+msgid "Toggle rain effect"
+msgstr "Ota käyttöön sadetehoste"
+
+msgid "Toggle wiper"
+msgstr "Ota käyttöön pyyhkijä"
+
+msgid "Toggle wiper effect"
+msgstr "Ota käyttöön pyyhkijä"
+
+msgid "Offset Scale"
+msgstr "Vääristyksen skaala"
+
+msgid "Water offset scale"
+msgstr "Määrittää vesipisaran alla olevan alueen vääristyksen"
+
+msgid "Rain Delay"
+msgstr "Sateen viive"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Kunkin sadepisaran välinen viive (ms)"
+
+msgid "Title wave"
+msgstr "Otsikon aalto"
+
+msgid "Wave effect from window title"
+msgstr "Aaltotehoste ikkunan otsikosta"
+
+msgid "Point"
+msgstr "Piste"
+
+msgid "Add point"
+msgstr "Lisää piste"
+
+msgid "Line"
+msgstr "Viiva"
+
+msgid "Add line"
+msgstr "Lisää viiva"
+
+msgid "Wobbly Windows"
+msgstr "Huojuvat ikkunat"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Käytä ikkunoiden joustavaa huojumistehostetta"
+
+msgid "Snap windows"
+msgstr "Kiinnitä ikkunat"
+
+msgid "Toggle window snapping"
+msgstr "Ota käyttöön tarttuvat ikkunat"
+
+msgid "Snap Inverted"
+msgstr "Kiinnitä käänteiset"
+
+msgid "Inverted window snapping"
+msgstr "Käänteinen ikkunoiden tarttuvuus"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Värinä"
+
+msgid "Make window shiver"
+msgstr "Tee ikkunoista väriseviä"
+
+msgid "Friction"
+msgstr "Kitka"
+
+msgid "Spring Friction"
+msgstr "Jousikitka"
+
+msgid "Spring K"
+msgstr "Jousivakio"
+
+msgid "Spring Konstant"
+msgstr "Määrittää jousen voimakkuuden"
+
+msgid "Grid Resolution"
+msgstr "Hilan tarkkuus"
+
+msgid "Vertex Grid Resolution"
+msgstr "Kärkipisteen hilan tarkkuus"
+
+msgid "Minimum Grid Size"
+msgstr "Pienin mahdollinen hilakoko"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Pienin mahdollinen kärkipisteen hilakoko"
+
+msgid "Map Effect"
+msgstr "Ilmestymistehoste"
+
+msgid "Map Window Effect"
+msgstr "Liitä ikkunatehoste"
+
+msgid "Focus Effect"
+msgstr "Keskitystehoste"
+
+msgid "Focus Window Effect"
+msgstr "Ikkunan keskitystehoste"
+
+msgid "Map Windows"
+msgstr "Ikkunatyypit, jotka huojuvat ilmestyessä"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Määrittää ikkunatyypit, joiden tulisi huojua liitettäessä"
+
+msgid "Focus Windows"
+msgstr "Ikkunatyypit, jotka huojuvat keskittäessä"
+
+msgid "Windows that should wobble when focused"
+msgstr "Määrittää ikkunatyypit, joiden tulisi huojua kohdistettaessa"
+
+msgid "Grab Windows"
+msgstr "Ikkunatyypit, jotka huojuvat tartuttaessa"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Määrittää ikkunatyypit, joiden tulisi huojua tartuttaessa"
+
+msgid "Move Windows"
+msgstr "Ikkunatyypit, jotka huojuvat siirrettäessä"
+
+msgid "Windows that should wobble when moved"
+msgstr "Määrittää ikkunatyypit, joiden tulisi huojua siirrettäessä"
+
+msgid "Maximize Effect"
+msgstr "Suurennustehoste"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Huojumistehoste ikkuna suurentaessa ja pienentäessä"
+
+msgid "Zoom Desktop"
+msgstr "Työpöydän zoomaus"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Zoomaa ja panoroi työpöytää"
+
+msgid "Zoom In"
+msgstr "Lähennys"
+
+msgid "Zoom Out"
+msgstr "Loitonnus"
+
+msgid "Zoom Pan"
+msgstr "Zoomin muutosarvo"
+
+msgid "Zoom pan"
+msgstr "Panorointi suurennettaessa"
+
+msgid "Zoom Speed"
+msgstr "Zoomausnopeus"
+
+msgid "Zoom Timestep"
+msgstr "Zoomausaikaväli"
+
+msgid "Zoom factor"
+msgstr "Suurennuskerroin"
+
+msgid "Filter Linear"
+msgstr "Suodata lineaarisesti"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Käytä lineaarista suodatinta zoomin aikana"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Työtilojen lukumäärä"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Virtuaalityöpöytien lukumäärä"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Suoritettava toiminto kun hiiren kiekkoa rullataan ikkunan otsikkopalkissa"
+
+#~ msgid "Blur type"
+#~ msgstr "Sumennustyyppi"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr ""
+#~ "Aktiivisen Marco-ikkunan läpinäkyvyysMarco-teeman aktiivisen ikkunan "
+#~ "läpinäkyvyys"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Marco-teeman aktiivisen ikkunan läpinäkyvyyden varjo"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Marco-teeman läpinäkyvyys"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Marco-teeman läpinäkyvyyden varjo"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr ""
+#~ "Läpinäkyvyys aktiivisessa ikkunassa käytettäessä Marco-teemaa kehyksineen"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Marco-teeman kehyksiin käytettävä läpinäkyvyys"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Varjosta aktiiviset ikkunat Marco-teemaa kehyksineen käytettäessä "
+#~ "läpikuultamattomasta läpikuultavaan"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Varjosta ikkunat Marco-teemaa kehyksineen käytettäessä "
+#~ "läpikuultamattomasta läpikuultavaan"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Hiiren rullan napsautuksen vaikutus ikkunan otsikkoon"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Sumennustyyppi ikkunan kehyksille"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Käytä Marco-teemaa"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Käytä Marco-teemaa ikkunoiden kehyksissä"
+
+#~ msgid "Line width"
+#~ msgstr "Viivan leveys"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Viivan leveys piirroksiin"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "GConf-tietokannan hallinta"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig-tietokannan hallinta"
+
+#~ msgid "Decrease"
+#~ msgstr "Vähennä"
+
+#~ msgid "Increase"
+#~ msgstr "Lisää"
+
+#~ msgid "Screenshot commands"
+#~ msgstr "Kuvakaappauksen komennot"
+
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Kuvakaappauksen pikanäppäimet"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr "Läpinäkyvyyden arvot ikkunoille, jotka ovat läpinäkyviä oletuksena"
+
+#~ msgid "Opacity window values"
+#~ msgstr "Läpinäkyvien ikkunoiden arvot"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Ikkunoiden läpinäkyvyys"
+
+#~ msgid "Background images"
+#~ msgstr "Taustakuvat"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Asettele ikkunat työpöytätason pinnalle"
+
+#~ msgid "Plane Down"
+#~ msgstr "Siirry alas"
+
+#~ msgid "Plane Left"
+#~ msgstr "Siirry vasemmalle"
+
+#~ msgid "Plane Right"
+#~ msgstr "Siirry oikealle"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Siirry tasolle 1"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Siirry tasolle 10"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Siirry tasolle 11"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Siirry tasolle 12"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Siirry tasolle 2"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Siirry tasolle 3"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Siirry tasolle 4"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Siirry tasolle 5"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Siirry tasolle 6"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Siirry tasolle 7"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Siirry tasolle 8"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Siirry tasolle 9"
+
+#~ msgid "Plane Up"
+#~ msgstr "Siirry ylös"
+
+#~ msgid "Plane left"
+#~ msgstr "Siirry vasemmalle"
+
+#~ msgid "Plane right"
+#~ msgstr "Siirry oikealle"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Siirry tasolle 1"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Siirry tasolle 10"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Siirry tasolle 11"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Siirry tasolle 12"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Siirry tasolle 2"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Siirry tasolle 3"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Siirry tasolle 4"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Siirry tasolle 5"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Siirry tasolle 6"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Siirry tasolle 7"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Siirry tasolle 8"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Siirry tasolle 9"
+
+#~ msgid "Plane up"
+#~ msgstr "Siirry ylös"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Kuution läpinäkyvyyden katoamiseen kestävä aika"
+
+#~ msgid "Open window menu"
+#~ msgstr "Avaa ikkunavalikko"
+
+#~ msgid "Dock"
+#~ msgstr "Telakointi"
+
+#~ msgid "Toolbar"
+#~ msgstr "Työkalupalkki"
+
+#~ msgid "Menu"
+#~ msgstr "Valikko"
+
+#~ msgid "Utility"
+#~ msgstr "Apuohjelma"
+
+#~ msgid "Splash"
+#~ msgstr "Splash"
+
+#~ msgid "Dialog"
+#~ msgstr "Valintaikkuna"
+
+#~ msgid "DropdownMenu"
+#~ msgstr "Avattava valikko"
+
+#~ msgid "PopupMenu"
+#~ msgstr "Ponnahdusvalikko"
+
+#~ msgid "Tooltip"
+#~ msgstr "Työkaluvihje"
+
+#~ msgid "Notification"
+#~ msgstr "Ilmoitus"
+
+#~ msgid "Combo"
+#~ msgstr "Yhdistelmä"
+
+#~ msgid "Dnd"
+#~ msgstr "Dnd"
+
+#~ msgid "ModalDialog"
+#~ msgstr "Modaalinen valintaikkuna"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Kokoruutu"
+
+#~ msgid "Unknown"
+#~ msgstr "Tuntematon"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command0 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command10 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command1 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command1 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command10 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command10 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command11 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command11 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command2 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command2 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command3 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command3 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command4 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command4 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command5 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command5 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command6 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command6 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command7 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command7 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command8 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command8 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command9 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Tunnisteen command9 mukaisen komennon suorittava näppäinyhdistelmä"
+
+#, fuzzy
+#~ msgid ""
+#~ "Add line (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Add point (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Advance to next slide (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Amount of brightness in percent (0-100)"
+#~ msgstr "Kirkkauden määrä prosentteina"
+
+#, fuzzy
+#~ msgid "Amount of opacity in percent (0-100)"
+#~ msgstr "Läpikuultavuuden määrä prosentteina"
+
+#, fuzzy
+#~ msgid "Amount of saturation in percent (0-100)"
+#~ msgstr "Kylläisyyden määrä prosentteina"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "Kylläisyys"
+
+#, fuzzy
+#~ msgid ""
+#~ "Clear (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Close active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Decrease window opacity (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Delay (in ms) between each rain-drop (0-3600000)"
+#~ msgstr "Kunkin sadepisaran välinen viive (ms)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Distance desktop should be zoom out while switching windows (0.0-5.0)"
+#~ msgstr ""
+#~ "Etäisyys, jonka työpöydän tulisi olla loitonnettuna ikkunoita "
+#~ "vaihdettaessa"
+
+#~ msgid "Do not modify"
+#~ msgstr "Älä muuta"
+
+#, fuzzy
+#~ msgid ""
+#~ "Draw using tool (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Drop shadow X offset (-16-16)"
+#~ msgstr "Hylkää varjon poikkeama (X)"
+
+#, fuzzy
+#~ msgid "Drop shadow Y offset (-16-16)"
+#~ msgstr "Hylkää varjon poikkeama (Y)"
+
+#, fuzzy
+#~ msgid "Drop shadow opacity (0.01-6.00)"
+#~ msgstr "Hylkää varjon vahvuus"
+
+#, fuzzy
+#~ msgid "Drop shadow radius (0.0-48.0)"
+#~ msgstr "Hylkää varjon säde"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enable pointer water effects (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Flip to left viewport and warp pointer (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Flip to right viewport and warp pointer (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#~ msgid "Focus Window Effect (None, Shiver)"
+#~ msgstr "Ikkunan kohdistustehoste (ei mitään = None, vavistus = Shiver)"
+
+#, fuzzy
+#~ msgid "Focus prevention windows (match)"
+#~ msgstr "Valitse edellinen ikkuna"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "Taittamisen kiihdytys (1.0-20.0)"
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "Taittamisen nopeus (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Fold Timestep (0.0-50.0)"
+#~ msgstr "Taittamisen aikaviive (0.1-50.0)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Go back to previous slide (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide all windows and focus desktop (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Increase window opacity (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate annotate drawing (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate annotate erasing (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate clone selection (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate rectangle screenshot (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Interval before raising selected windows (0-10000)"
+#~ msgstr "Aikaväli ennen valittujen ikkunoiden nostamista"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming all windows (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming window group (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming windows (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming windows on current output (Left, Right, "
+#~ "Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr "Asettele tämänhetkisen kohteen ikkunat ja aloita niiden muunto"
+
+#, fuzzy
+#~ msgid ""
+#~ "Lower window beneath other windows (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Make window shiver (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#~ msgid "Map Window Effect (None, Shiver)"
+#~ msgstr "Ikkunoiden ilmestymistehoste (ei mitään = None, vavistus = Shiver)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Maximize active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Maximize active window horizontally (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Maximize active window vertically (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Minimize active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Minimize speed (0.0-50.0)"
+#~ msgstr "Pienennysnopeus (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Minimize timestep (0.0-50.0)"
+#~ msgstr "Pienennysnopeus (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Minimum Vertex Grid Size (4-128)"
+#~ msgstr "Pienin mahdollinen kärkipisteen hilakoko"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops (1-36)"
+#~ msgstr "Virtuaalisten työpöytien määrä"
+
+#, fuzzy
+#~ msgid "Opacity change step (1-50)"
+#~ msgstr "Läpikuultavuuden muutosväli"
+
+#, fuzzy
+#~ msgid "Opacity level of moving windows (1-100)"
+#~ msgstr "Liikkuvien ikkunoiden läpikuultavuustaso"
+
+#, fuzzy
+#~ msgid "Opacity level of resizing windows (1-100)"
+#~ msgstr "Liikkuvien ikkunoiden läpikuultavuustaso"
+
+#, fuzzy
+#~ msgid ""
+#~ "Open a terminal (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Open window menu (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Overlay an icon on windows once they are scaled (None, Emblem, Big)"
+#~ msgstr "Aseta kuvake päälle ikkunoihin, kun ne skaalataan"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane down (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane left (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane right (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 1 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 10 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 11 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 12 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 2 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 3 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 4 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 5 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 6 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 7 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 8 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 9 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane up (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#~ msgid "Plugins that this must load before"
+#~ msgstr "Etukäteen tätä varten ladattavat liitännäiset"
+
+#~ msgid "Plugins that this requires"
+#~ msgstr "Tähän vaadittavat liitännäiset"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Tuo vaihtaja ponnahdusikkunaan, jos se ei ole näkyvissä, ja valitse "
+#~ "seuraava ikkuna kaikista ikkunoista"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window out of all windows "
+#~ "(Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Tuo vaihtaja ponnahdusikkunaan, jos se ei ole näkyvissä, ja valitse "
+#~ "seuraava ikkuna kaikista ikkunoista"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window (Left, Right, "
+#~ "Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Tuo vaihtaja ponnahdusikkunaan, jos se ei ole näkyvissä, ja valitse "
+#~ "edellinen ikkuna kaikista ikkunoista"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window out of all "
+#~ "windows (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Tuo vaihtaja ponnahdusikkunaan, jos se ei ole näkyvissä, ja valitse "
+#~ "edellinen ikkuna kaikista ikkunoista"
+
+#, fuzzy
+#~ msgid ""
+#~ "Pulse effect (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Raise window above other windows (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate left (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate left and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate right (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate right and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 1 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 1 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 10 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 10 and bring active window along (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 11 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 11 and bring active window along (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 12 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 12 and bring active window along (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 2 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 2 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 3 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 3 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 4 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 4 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 5 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 5 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 6 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 6 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 7 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 7 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 8 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 8 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 9 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 9 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to viewport (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate with window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "Taittamisen kiihdytys (1.0-20.0)"
+
+#, fuzzy
+#~ msgid "Rotation Speed (0.0-50.0)"
+#~ msgstr "Zoomauksen nopeus (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Rotation Timestep (0.0-50.0)"
+#~ msgstr "Zoomauksen aikaviive (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "Skaalauksen nopeus (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "Skaalauksen aikaviive (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Screen size multiplier for horizontal virtual size (1-32)"
+#~ msgstr "Virtuaalisen vaakatasokoon näyttökokokerroin"
+
+#, fuzzy
+#~ msgid "Screen size multiplier for vertical virtual size (1-32)"
+#~ msgstr "Virtuaalisen pystytasokoon näyttökokokerroin"
+
+#, fuzzy
+#~ msgid ""
+#~ "Select next window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Select previous window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Sensitivity of pointer movement (0.01-100.00)"
+#~ msgstr "Osoitinliikkeen herkkyys"
+
+#, fuzzy
+#~ msgid "Shade resistance (0-100)"
+#~ msgstr "Varjon vastussauma"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show Run Application dialog (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show the main menu (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Space between windows (0-250)"
+#~ msgstr "Ikkunoiden välinen tila"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "Jousikitka"
+
+#, fuzzy
+#~ msgid "Spring Konstant (0.0-10.0)"
+#~ msgstr "Jousivakio"
+
+#, fuzzy
+#~ msgid ""
+#~ "Start Rotation (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Start moving window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Start resizing window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Switcher speed (0.0-50.0)"
+#~ msgstr "Skaalauksen nopeus (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Switcher timestep (0.0-50.0)"
+#~ msgstr "Skaalauksen aikaviive (0.1-50.0)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Take a screenshot (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Take a screenshot of a window (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#~ msgid "Texture filtering (Fast, Good, Best)"
+#~ msgstr "Tekstuurisuodin (nopea = Fast, hyvälaatuinen = Good, paras = Best)"
+
+#, fuzzy
+#~ msgid "The rate at which the screen is redrawn (times/second) (1-200)"
+#~ msgstr "Nopeus, jolla näyttö piirretään uudelleen (kertaa/sekunnissa)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Time (in ms) before scale mode is terminated when hovering over a window "
+#~ "(50-10000)"
+#~ msgstr ""
+#~ "Aika (ms), jonka jälkeen skaalaustila lopetetaan, kun ikkunan päälle "
+#~ "asettaminen on käytössä"
+
+#, fuzzy
+#~ msgid "Timeout before flipping viewport (0-1000)"
+#~ msgstr "Aikakatkaisu ennen näkymän vaihtamista"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window maximized (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window maximized horizontally (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window maximized vertically (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window shaded (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle rain effect (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle use of slow animations (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle window snapping (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle wiper effect (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#~ msgid "USe linear filter when zoomed in"
+#~ msgstr "Käytä lineaarista suodinta lähennettäessä"
+
+#, fuzzy
+#~ msgid ""
+#~ "Unfold cube (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Unmaximize active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Vertex Grid Resolution (1-64)"
+#~ msgstr "Kärkipisteen hilan tarkkuus"
+
+#, fuzzy
+#~ msgid "Water offset scale (0.0-10.0)"
+#~ msgstr "Vesisiirtymän skaala"
+
+#, fuzzy
+#~ msgid ""
+#~ "Wave effect from window title (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "Ikkunan häivytyksen nopeus"
+
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "Ikkunan häivytyksen nopeus"
+
+#, fuzzy
+#~ msgid "Windows that should be affected by focus blur (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi häivyttää"
+
+#, fuzzy
+#~ msgid "Windows that should be decorated (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi häivyttää"
+
+#, fuzzy
+#~ msgid "Windows that should be fading (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi häivyttää"
+
+#, fuzzy
+#~ msgid "Windows that should be have a shadow (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi häivyttää"
+
+#, fuzzy
+#~ msgid "Windows that should be scaled in scale mode (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi skaalata skaalaustilassa"
+
+#, fuzzy
+#~ msgid "Windows that should be shown in switcher (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi näyttää vaihtajassa"
+
+#, fuzzy
+#~ msgid "Windows that should be transformed when minimized (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi muuntaa pienennettäessä"
+
+#, fuzzy
+#~ msgid "Windows that should use alpha blur by default (match)"
+#~ msgstr "Ikkunatyypit, jotka tulisi häivyttää"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when focused (match)"
+#~ msgstr "Ikkunatyypit, joiden tulisi huojua kohdistettaessa"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when grabbed (match)"
+#~ msgstr "Ikkunatyypit, joiden tulisi huojua tartuttaessa"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when mapped (match)"
+#~ msgstr "Ikkunatyypit, joiden tulisi huojua liitettäessä"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when moved (match)"
+#~ msgstr "Ikkunatyypit, joiden tulisi huojua siirrettäessä"
+
+#, fuzzy
+#~ msgid ""
+#~ "Zoom In (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Zoom Out (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Nurkat, jotka aktivoivat skaalaustilan (vasen ylänurkka = TopLeft, oikea "
+#~ "ylänurkka = TopRight, vasen alanurkka = BottomLeft, oikea alanurkka = "
+#~ "BottomRight)"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "Zoomauksen nopeus (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "Zoomauksen aikaviive (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Zoom factor (1.01-3.00)"
+#~ msgstr "Zoomauskerroin"
+
+#~ msgid "."
+#~ msgstr "."
+
+#, fuzzy
+#~ msgid "Plane To Face %d"
+#~ msgstr "Kierrä kohteen %d suuntaan"
+
+#, fuzzy
+#~ msgid "Plane to face %d"
+#~ msgstr "Kierrä kohteen %d suuntaan"
+
+#, fuzzy
+#~ msgid "Plane To Face %d with Window"
+#~ msgstr "Kierrä kohteen %d suuntaan ikkunan kanssa"
+
+#, fuzzy
+#~ msgid "Plane to face %d and bring active window along"
+#~ msgstr "Kierrä kohteen %d suuntaan ja tuo aktiivinen ikkuna mukana"
+
+#~ msgid "Rotate To Face %d"
+#~ msgstr "Kierrä kohteen %d suuntaan"
+
+#~ msgid "Rotate to face %d"
+#~ msgstr "Kierrä kohteen %d suuntaan"
+
+#~ msgid "Rotate To Face %d with Window"
+#~ msgstr "Kierrä kohteen %d suuntaan ikkunan kanssa"
+
+#~ msgid "Rotate to face %d and bring active window along"
+#~ msgstr "Kierrä kohteen %d suuntaan ja tuo aktiivinen ikkuna mukana"
+
+#~ msgid "Command line %d"
+#~ msgstr "Komentorivi %d"
+
+#~ msgid "Command line to be executed in shell when run_command%d is invoked"
+#~ msgstr ""
+#~ "Komentotulkissa suoritettava komentorivi, kun suorita_komento%d annetaan"
+
+#~ msgid "Run command %d"
+#~ msgstr "Suorita komento %d"
+
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command%d"
+#~ msgstr ""
+#~ "Pikanäppäin, joka kutsuttaessa suorittaa komentotulkin komennon komento%d"
+
+#~ msgid "Move Window Types"
+#~ msgstr "Siirrettäessä huojuvat ikkunatyypit"
+
+#~ msgid "Corners"
+#~ msgstr "Kulmat"
+
+#~ msgid "Focus window when mouse moves over them"
+#~ msgstr "Kohdista ikkunaan osoittimen liikkuessa sen päälle"
+
+#~ msgid "Initiate All Windows"
+#~ msgstr "Aktivoi kaikkien ikkunoiden ikkunanvaihtaja"
+
+#, fuzzy
+#~ msgid "Initiate Keyboard Window Move"
+#~ msgstr "Siirrä ikkunaa"
+
+#, fuzzy
+#~ msgid "Initiate Keyboard Window Resize"
+#~ msgstr "Muuta ikkunan kokoa"
+
+#~ msgid "Initiate Window Switcher"
+#~ msgstr "Aktivoi ikkunanvaihtaja"
+
+#~ msgid "Modifier to show switcher for all windows"
+#~ msgstr "Kaikkien ikkunoiden näyttämiseen käytettävä vaihtonäppäin"
+
+#~ msgid "Return from scale view"
+#~ msgstr "Poistu skaalausnäkymästä"
+
+#~ msgid "Show switcher"
+#~ msgstr "Näytä ikkunavaihtaja"
+
+#~ msgid "Sloppy Focus"
+#~ msgstr "Seuraava tarkennus"
+
+#, fuzzy
+#~ msgid "Start moving window using keyboard"
+#~ msgstr "Aloita ikkunan siirtäminen"
+
+#~ msgid "Terminate"
+#~ msgstr "Lopeta"
+
+#~ msgid "Water effect on system beep"
+#~ msgstr "Vesitehoste järjestelmän huomautuksessa"
+
+#~ msgid ""
+#~ "Window types that should be fading (Desktop, Dock, Toolbar, Menu, "
+#~ "Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Häivytettävät ikkunatyypit (työpöytä = Desktop, paneeli = Dock, "
+#~ "työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+#~ msgid ""
+#~ "Window types that should be transformed when minimized (Desktop, Dock, "
+#~ "Toolbar, Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, "
+#~ "Unknown)"
+#~ msgstr ""
+#~ "Pienennettäessä animoitavat ikkunatyypit (työpöytä = Desktop, paneeli = "
+#~ "Dock, työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+#~ msgid ""
+#~ "Window types that should scaled in scale mode (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Skaalautuvat ikkunatyypit (työpöytä = Desktop, paneeli = Dock, "
+#~ "työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+#~ msgid ""
+#~ "Window types that should shown in switcher (Desktop, Dock, Toolbar, Menu, "
+#~ "Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Ikkunavaihtajassa näkyvät ikkunatyypit(työpöytä = Desktop, paneeli = "
+#~ "Dock, työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when focused (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Ikkunatyypit, jotka huojuvat kohdistettaessa(työpöytä = Desktop, paneeli "
+#~ "= Dock, työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when grabbed (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Ikkunatyypit, jotka huojuvat tartuttaessa (työpöytä = Desktop, paneeli = "
+#~ "Dock, työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when mapped (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Ikkunatyypit, jotka huojuvat ilmestyessään (työpöytä = Desktop, paneeli = "
+#~ "Dock, työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when moved (Desktop, Dock, Toolbar, Menu, "
+#~ "Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Ikkunatyypit, jotka huojuvat liikuteltaessa (työpöytä = Desktop, paneeli "
+#~ "= Dock, työkalupalkki = Toolbar, valikko = Menu, työkalu = Utility, "
+#~ "käynnistysikkuna = Splash, valintaikkuna = Dialog, pakotettu "
+#~ "valintaikkuna = ModalDialog, tavallinen ikkuna = Normal, kokoruutuikkuna "
+#~ "= Fullscreen, tuntematon = Unknown)"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+#~ msgid "Wobble effect on system beep"
+#~ msgstr "Huojumistehoste järjestelmän huomautuksesta"

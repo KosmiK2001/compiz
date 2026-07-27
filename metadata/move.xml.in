@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="move">
+	<short>Move Window</short>
+	<long>Move window</long>
+	<category>Window Management</category>
+	<display>
+	    <group>
+		<short>General</short>
+		<option name="initiate_button" type="button">
+		    <short>Initiate Window Move</short>
+		    <long>Start moving window</long>
+		    <default>&lt;Alt&gt;Button1</default>
+		</option>
+		<option name="initiate_key" type="key">
+		    <short>Initiate Window Move</short>
+		    <long>Start moving window</long>
+		    <default>&lt;Alt&gt;F7</default>
+		</option>
+		<option name="opacity" type="int">
+		    <short>Opacity</short>
+		    <long>Opacity level of moving windows</long>
+		    <default>100</default>
+		    <min>1</min>
+		    <max>100</max>
+		</option>
+		<option name="constrain_y" type="bool">
+		    <short>Constrain Y</short>
+		    <long>Constrain Y coordinate to workspace area</long>
+		    <default>true</default>
+		</option>
+		<option name="snapoff_maximized" type="bool">
+		    <short>Snapoff maximized windows</short>
+		    <long>Snapoff and auto unmaximized maximized windows when dragging</long>
+		    <default>true</default>
+		</option>
+		<option name="lazy_positioning" type="bool">
+		    <short>Lazy Positioning</short>
+		    <long>Do not update the server-side position of windows until finished moving</long>
+		    <default>true</default>
+		</option>
+	    </group>
+	    <group>
+		<short>Off-screen windows</short>
+		<option name="offscreen_scroll" type="bool">
+		    <short>Enable off-Screen window scrolling</short>
+		    <long>Make mouse wheel scroll window if part of it is off-screen</long>
+		    <default>false</default>
+		</option>
+		<option name="offscreen_scroll_down" type="button">
+		    <short>Scroll down</short>
+		    <long>Scroll window down if part of it is off-screen</long>
+		    <default>Button4</default>
+		</option>
+		<option name="offscreen_scroll_up" type="button">
+		    <short>Scroll up</short>
+		    <long>Scroll window up if part of it is off-screen</long>
+		    <default>Button5</default>
+		</option>
+		<option name="offscreen_scroll_right" type="button">
+		    <short>Scroll right</short>
+		    <long>Scroll window right if part of it is off-screen</long>
+		    <default>&lt;Shift&gt;Button4</default>
+		</option>
+		<option name="offscreen_scroll_left" type="button">
+		    <short>Scroll left</short>
+		    <long>Scroll window left if part of it is off-screen</long>
+		    <default>&lt;Shift&gt;Button5</default>
+		</option>
+		<option name="offscreen_scroll_speed" type="int">
+		    <short>Scrolling speed</short>
+		    <long>Speed of off-screen window scrolling</long>
+		    <default>10</default>
+		    <min>1</min>
+		    <max>100</max>
+		</option>
+		<option name="offscreen_scroll_color" type="color">
+		    <short>Shadow color</short>
+		    <long>Color of the rectangle showing when one can scroll a window</long>
+		    <default>
+			<red>0x0000</red>
+			<green>0x0000</green>
+			<blue>0x0000</blue>
+			<alpha>0x8080</alpha>
+		    </default>
+		</option>
+		<option name="offscreen_scroll_width" type="int">
+		    <short>Shadow width</short>
+		    <long>Width of the rectangle showing when one can scroll a window</long>
+		    <default>20</default>
+		    <min>0</min>
+		    <max>100</max>
+		</option>
+		<option name="offscreen_scroll_gradient" type="bool">
+		    <short>Enable shadow gradient</short>
+		    <long>Enable gradient of rectangle showing when one can scroll a window</long>
+		    <default>true</default>
+		</option>
+	    </group>
+	</display>
+    </plugin>
+</compiz>

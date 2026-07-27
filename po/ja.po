@@ -1,0 +1,3233 @@
+# Japanese translation for compiz
+# Copyright (C) 2006 The Free Software Foundation, Inc.
+# This file is distributed under the same license as the compiz package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2009-05-10 21:42+0900\n"
+"Last-Translator: jiro kawada <jiro.kawada@gmail.com>\n"
+"Language-Team: Japanese <opensuse-ja@opensuse.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close Window"
+msgstr "ウィンドウを閉じる"
+
+msgid "Unmaximize Window"
+msgstr "ウィンドウの最大化解除"
+
+msgid "Maximize Window"
+msgstr "ウィンドウを最大化"
+
+msgid "Minimize Window"
+msgstr "ウィンドウを最小化"
+
+msgid "Window Menu"
+msgstr "ウィンドウメニュー"
+
+msgid "Shade"
+msgstr "シェード"
+
+msgid "Make Above"
+msgstr "最前面に表示"
+
+msgid "Stick"
+msgstr "スティック"
+
+msgid "Unshade"
+msgstr "シェード解除"
+
+msgid "Unmake Above"
+msgstr "最前面表示解除"
+
+msgid "Unstick"
+msgstr "スティッキー解除"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "ウィンドウ \"%s\" は応答していません。"
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"このアプリケーションを強制的に終了させると、未保存の変更はすべて失われます。"
+
+msgid "_Cancel"
+msgstr "キャンセル(_C)"
+
+msgid "_Force Quit"
+msgstr "強制終了(_F)"
+
+msgid "Annotate"
+msgstr "注釈線"
+
+msgid "Annotate plugin"
+msgstr "注釈線プラグイン"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "削除開始"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "注釈線の描画を開始"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "開始"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "注釈線の描画を開始"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "削除開始"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "注釈線の描画を開始"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "削除開始"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "注釈線の描画を開始"
+
+msgid "Draw"
+msgstr "描画"
+
+msgid "Draw using tool"
+msgstr "ツールを使用して描画"
+
+msgid "Initiate erase"
+msgstr "削除開始"
+
+msgid "Initiate annotate erasing"
+msgstr "注釈線の削除を開始"
+
+msgid "Clear"
+msgstr "消去"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "アクティブ・ウィンドウのシェード/解除の切り替え"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "注釈線の塗り色"
+
+msgid "Fill color for annotations"
+msgstr "注釈線の塗り色"
+
+msgid "Annotate Stroke Color"
+msgstr "注釈のストロークの色"
+
+msgid "Stroke color for annotations"
+msgstr "注釈線のストロークの色"
+
+msgid "Stroke width"
+msgstr "ストロークの幅"
+
+msgid "Stroke width for annotations"
+msgstr "注釈線のストロークの幅"
+
+msgid "Blur Windows"
+msgstr "ウィンドウのブラー"
+
+msgid "Blur windows"
+msgstr "ウィンドウをぼかす"
+
+msgid "Pulse"
+msgstr "点滅"
+
+msgid "Pulse effect"
+msgstr "点滅効果"
+
+msgid "Blur Speed"
+msgstr "ブラー速度"
+
+msgid "Window blur speed"
+msgstr "ウィンドウ・ブラーの速度"
+
+msgid "Focus blur windows"
+msgstr "フォーカス・ブラー対象ウィンドウ"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "フォーカス・ブラーの効果対象ウィンドウ"
+
+msgid "Focus Blur"
+msgstr "フォーカス・ブラー"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "フォーカスがないウィンドウをぼかす"
+
+msgid "Alpha blur windows"
+msgstr "アルファ・ブラー対象ウィンドウ"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "デフォルトでアルファ・ブラー使用対象にするウィンドウ"
+
+msgid "Alpha Blur"
+msgstr "アルファ・ブラー"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "ウィンドウの透過部分の背後をぼかす"
+
+msgid "Blur Filter"
+msgstr "ブラーフィルタ"
+
+msgid "Filter method used for blurring"
+msgstr "ブラーに使用するフィルタ方法"
+
+msgid "4xBilinear"
+msgstr "4x バイリニア"
+
+msgid "Gaussian"
+msgstr "ガウス"
+
+msgid "Mipmap"
+msgstr "ミップマップ"
+
+msgid "Gaussian Radius"
+msgstr "ガウス半径"
+
+msgid "Gaussian radius"
+msgstr "ガウス半径"
+
+msgid "Gaussian Strength"
+msgstr "ガウス強度"
+
+msgid "Gaussian strength"
+msgstr "ガウス強度"
+
+msgid "Mipmap LOD"
+msgstr "ミップマップ詳細レベル"
+
+msgid "Mipmap level-of-detail"
+msgstr "ミップマップの詳細レベル"
+
+msgid "Blur Saturation"
+msgstr "ブラー彩度"
+
+msgid "Blur saturation"
+msgstr "ぼかしの彩度"
+
+msgid "Blur Occlusion"
+msgstr "ブラー遮蔽"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "他のウィンドウで覆い隠された画面域のブラーを無効化"
+
+msgid "Independent texture fetch"
+msgstr "テクスチャの独立読み出し"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"利用可能なテクスチャ・ユニットを使用してテクスチャを可能な限り多く独立読み出"
+"しさせる"
+
+msgid "Clone Output"
+msgstr "クローン出力"
+
+msgid "Output clone handler"
+msgstr "クローン出力ハンドラ"
+
+msgid "Initiate"
+msgstr "開始"
+
+msgid "Initiate clone selection"
+msgstr "複製選択の開始"
+
+msgid "Commands"
+msgstr "コマンド"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "任意のコマンドにショートカットを割り当て"
+
+msgid "Command line 0"
+msgstr "コマンドライン 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "コマンド 0 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 1"
+msgstr "コマンドライン 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 2"
+msgstr "コマンドライン 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "コマンド 2 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 3"
+msgstr "コマンドライン 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "コマンド 3 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 4"
+msgstr "コマンドライン 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "コマンド 4 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 5"
+msgstr "コマンドライン 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "コマンド 5 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 6"
+msgstr "コマンドライン 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "コマンド 6 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 7"
+msgstr "コマンドライン 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "コマンド 7 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 8"
+msgstr "コマンドライン 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "コマンド 8 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 9"
+msgstr "コマンドライン 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "コマンド 9 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 10"
+msgstr "コマンドライン 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "コマンド 10 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 11"
+msgstr "コマンドライン 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "コマンド 11 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Command line 12"
+msgstr "コマンドライン 12"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "コマンドライン 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "コマンドライン 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "コマンドライン 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "コマンドライン 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "コマンドライン 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "コマンドライン 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "コマンドライン 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "コマンドライン 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "コマンド 0 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "コマンドライン 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "コマンド 1 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "コマンドライン 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "コマンド 2 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "コマンドライン 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "コマンド 2 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "コマンドライン 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "コマンド 2 を実行 の呼び出し時にシェルで実行されるコマンドライン"
+
+msgid "Key Bindings"
+msgstr "キー割り当て"
+
+msgid "Run command 0"
+msgstr "コマンド 0 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"呼び出し時にコマンドライン 0 で指定したシェルコマンドを実行するキー割り当て"
+
+msgid "Run command 1"
+msgstr "コマンド 1 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 2"
+msgstr "コマンド 2 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 3"
+msgstr "コマンド 3 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"呼び出し時に コマンドライン 3 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 4"
+msgstr "コマンド 4 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"呼び出し時に コマンドライン 4 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 5"
+msgstr "コマンド 5 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"呼び出し時に コマンドライン 5 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 6"
+msgstr "コマンド 6 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"呼び出し時に コマンドライン 6 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 7"
+msgstr "コマンド 7 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"呼び出し時に コマンドライン 7 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 8"
+msgstr "コマンド 8 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"呼び出し時に コマンドライン 8 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 9"
+msgstr "コマンド 9 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"呼び出し時に コマンドライン 9 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 10"
+msgstr "コマンド 10 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"呼び出し時に コマンドライン 10 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 11"
+msgstr "コマンド 11 を実行"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"呼び出し時に コマンドライン 11 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Run command 12"
+msgstr "コマンド 12 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "コマンド 1 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "コマンド 1 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "コマンド 1 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "コマンド 1 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "コマンド 1 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "コマンド 1 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "コマンド 1 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "コマンド 2 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "コマンド 2 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "コマンド 2 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "コマンド 2 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "コマンド 2 を実行"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するキー割り当"
+"て"
+
+msgid "Button Bindings"
+msgstr "ボタン割り当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"呼び出し時にコマンドライン 0 で指定したシェルコマンドを実行するボタン割り当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"呼び出し時に コマンドライン 3 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"呼び出し時に コマンドライン 4 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"呼び出し時に コマンドライン 5 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"呼び出し時に コマンドライン 6 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"呼び出し時に コマンドライン 7 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"呼び出し時に コマンドライン 8 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"呼び出し時に コマンドライン 9 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"呼び出し時に コマンドライン 10 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"呼び出し時に コマンドライン 11 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するボタン割り"
+"当て"
+
+msgid "Edge Bindings"
+msgstr "エッジ割り当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"呼び出し時にコマンドライン 0 で指定したシェルコマンドを実行するエッジ割り当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"呼び出し時に コマンドライン 3 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"呼び出し時に コマンドライン 4 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"呼び出し時に コマンドライン 5 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"呼び出し時に コマンドライン 6 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"呼び出し時に コマンドライン 7 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"呼び出し時に コマンドライン 8 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"呼び出し時に コマンドライン 9 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"呼び出し時に コマンドライン 10 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"呼び出し時に コマンドライン 11 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"呼び出し時に コマンドライン 1 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"呼び出し時に コマンドライン 2 で指定されたシェルコマンドを実行するエッジ割り"
+"当て"
+
+msgid "General Options"
+msgstr "一般オプション"
+
+msgid "General compiz options"
+msgstr "Compiz の一般オプション"
+
+msgid "Active Plugins"
+msgstr "アクティブなプラグイン"
+
+msgid "List of currently active plugins"
+msgstr "現在アクティブなプラグインのリスト"
+
+msgid "Audible Bell"
+msgstr "音響ベル"
+
+msgid "Audible system beep"
+msgstr "音響システムビープ音"
+
+msgid "Ignore Hints When Maximized"
+msgstr "最大化時にヒントを無視"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "ウィンドウ最大化時に、サイズ加算分と縦横比のジオメトリ・ヒントを無視"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "タスクバー省略ウィンドウを隠す"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"\"デスクトップの表示\"モード移行時にタスクバーにないウィンドウ（ウィジェット"
+"等）を隠す"
+
+msgid "Edge Trigger Delay"
+msgstr "エッジ開始遅延時間"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"エッジ・アクションの開始までにポインタをスクリーンエッジに置き続ける必要があ"
+"る時間"
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Ping の待ち時間"
+
+msgid "Interval between ping messages"
+msgstr "Ping メッセージ間の間隔"
+
+msgid "Display Settings"
+msgstr "ディスプレイ設定"
+
+msgid "Texture Filter"
+msgstr "テクスチャ・フィルタ"
+
+msgid "Texture filtering"
+msgstr "テクスチャ・フィルタ"
+
+msgid "Fast"
+msgstr "速さ重視"
+
+msgid "Good"
+msgstr "良"
+
+msgid "Best"
+msgstr "最高"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "フォーカスとその関連動作"
+
+msgid "Click To Focus"
+msgstr "クリックでフォーカス"
+
+msgid "Click on window moves input focus to it"
+msgstr "ウィンドウのクリックで入力フォーカスがそのウィンドウに移動"
+
+msgid "Raise On Click"
+msgstr "クリックで上げる"
+
+msgid "Raise windows when clicked"
+msgstr "クリックでウィンドウを最前面に上げる"
+
+msgid "Auto-Raise"
+msgstr "自動で最前面に上げる"
+
+msgid "Raise selected windows after interval"
+msgstr "指定時間間隔後に選択ウィンドウを最前面に上げる"
+
+msgid "Auto-Raise Delay"
+msgstr "自動最前面移動の待ち時間"
+
+msgid "Interval before raising selected windows"
+msgstr "選択ウィンドウの最前面への持ち上げを開始するまでの時間間隔"
+
+msgid "Key bindings"
+msgstr "キー割り当て"
+
+msgid "Close active window"
+msgstr "アクティブなウィンドウを閉じる"
+
+msgid "Raise Window"
+msgstr "ウィンドウを上げる"
+
+msgid "Raise window above other windows"
+msgstr "ウィンドウを他のウィンドウの前面に上げる"
+
+msgid "Lower Window"
+msgstr "ウィンドウを下げる"
+
+msgid "Lower window beneath other windows"
+msgstr "他のウィンドウの下にウィンドウを下げる"
+
+msgid "Unmaximize active window"
+msgstr "アクティブ・ウィンドウの最大化解除"
+
+msgid "Minimize active window"
+msgstr "アクティブなウィンドウを最小化"
+
+msgid "Maximize active window"
+msgstr "アクティブなウィンドウを最大化"
+
+msgid "Maximize Window Horizontally"
+msgstr "水平方向にウィンドウを最大化"
+
+msgid "Maximize active window horizontally"
+msgstr "アクティブなウィンドウを水平方向に最大化"
+
+msgid "Maximize Window Vertically"
+msgstr "垂直方向にウィンドウを最大化"
+
+msgid "Maximize active window vertically"
+msgstr "アクティブなウィンドウを垂直方向に最大化"
+
+msgid "Window menu button binding"
+msgstr "ウィンドウメニューのボタン割り当て"
+
+msgid "Window menu key binding"
+msgstr "ウィンドウメニューのキー割り当て"
+
+msgid "Show Desktop"
+msgstr "デスクトップの表示"
+
+msgid "Hide all windows and focus desktop"
+msgstr "全ウィンドウを隠してデスクトップにフォーカス"
+
+msgid "Toggle Window Maximized"
+msgstr "ウィンドウの最大化/解除の切り替え"
+
+msgid "Toggle active window maximized"
+msgstr "アクティブ・ウィンドウの最大化/解除の切り替え"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "ウィンドウの水平方向最大化/解除の切り替え"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "アクティブ・ウィンドウの水平方向最大化/解除の切り替え"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "ウィンドウの垂直方向最大化/解除の切り替え"
+
+msgid "Toggle active window maximized vertically"
+msgstr "アクティブ・ウィンドウの垂直方向最大化/解除の切り替え"
+
+msgid "Toggle Window Shaded"
+msgstr "ウィンドウのシェード/解除の切り替え"
+
+msgid "Toggle active window shaded"
+msgstr "アクティブ・ウィンドウのシェード/解除の切り替え"
+
+msgid "Slow Animations"
+msgstr "アニメーションのスロー再生"
+
+msgid "Toggle use of slow animations"
+msgstr "スロー再生アニメーション使用のオンオフ"
+
+msgid "Desktop Size"
+msgstr "デスクトップサイズ"
+
+msgid "Horizontal Virtual Size"
+msgstr "水平仮想サイズ"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "水平仮想サイズ指定のための、画面サイズに対する乗数"
+
+msgid "Vertical Virtual Size"
+msgstr "垂直仮想サイズ"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "垂直仮想サイズ指定のための、画面サイズに対する乗数"
+
+msgid "Lighting"
+msgstr "照明"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "画面の変換時に拡散反射光を使用"
+
+msgid "Detect Refresh Rate"
+msgstr "リフレッシュレートの検出"
+
+msgid "Automatic detection of refresh rate"
+msgstr "リフレッシュレートの自動検出"
+
+msgid "Refresh Rate"
+msgstr "リフレッシュレート"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "画面の再描画レート(回/秒)"
+
+msgid "Detect Outputs"
+msgstr "出力検出"
+
+msgid "Automatic detection of output devices"
+msgstr "出力デバイスの自動検出"
+
+msgid "Overlapping Output Handling"
+msgstr "マルチ出力で重なり部分がある場合の取扱い"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "マルチ出力で重なり部分がある場合にどちらのデバイスが選好されるべきか"
+
+msgid "Smart mode"
+msgstr "スマートモード"
+
+msgid "Prefer larger output"
+msgstr "大きい方の出力を選好"
+
+msgid "Prefer smaller output"
+msgstr "小さい方の出力を選好"
+
+msgid "Outputs"
+msgstr "出力"
+
+msgid "List of strings describing output devices"
+msgstr "出力デバイスを表す文字列リスト"
+
+msgid "Sync To VBlank"
+msgstr "垂直ブランクに同期化"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "垂直帰線期間にのみ画面を更新する"
+
+msgid "Focus Prevention Level"
+msgstr "フォーカス奪取防止レベル"
+
+msgid "Level of focus stealing prevention"
+msgstr "フォーカス奪取防止のレベル"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Normal"
+msgstr "通常"
+
+msgid "High"
+msgstr "高"
+
+msgid "Very High"
+msgstr "非常に高"
+
+msgid "Focus Prevention Windows"
+msgstr "フォーカス奪取防止ウィンドウ"
+
+msgid "Focus prevention windows"
+msgstr "フォーカスを奪われないようにするウィンドウ"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "全画面ウィンドウのリダイレクトを解除"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"オフスクリーン・ピクスマップにリダイレクトしない直接の全画面ウィンドウ描画を"
+"許可"
+
+msgid "Default Icon"
+msgstr "デフォルトのアイコン"
+
+msgid "Default window icon image"
+msgstr "アイコン未指定ウィンドウに適用するデフォルトのウィンドウアイコン画像"
+
+msgid "Force independent output painting."
+msgstr "各出力別に独立した描画を強制"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr "出力デバイス同士に重なり部分がある場合でも、それぞれを別個に描画"
+
+msgid "Texture Compression"
+msgstr "テクスチャ圧縮"
+
+msgid "If available use compression for textures converted from images"
+msgstr "利用可能な場合は画像から変換されたテクスチャに圧縮を使用する"
+
+msgid "Desktop Cube"
+msgstr "デスクトップ・キューブ"
+
+msgid "Place windows on cube"
+msgstr "ウィンドウをキューブに配置"
+
+msgid "Unfold"
+msgstr "展開"
+
+msgid "Unfold cube"
+msgstr "キューブを展開"
+
+msgid "Next Slide"
+msgstr "次のスライド"
+
+msgid "Advance to next slide"
+msgstr "次のスライドに進む"
+
+msgid "Prev Slide"
+msgstr "前のスライド"
+
+msgid "Go back to previous slide"
+msgstr "前のスライドに戻る"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "高品質スケーリングが可能な場合ミップマップを生成"
+
+msgid "Multi Output Mode"
+msgstr "マルチ出力の形式"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "複数の出力デバイス使用の場合におけるキューブ表示方法の選択"
+
+msgid "Automatic"
+msgstr "自動調整"
+
+msgid "Multiple cubes"
+msgstr "複数のキューブ"
+
+msgid "One big cube"
+msgstr "１つの大きなキューブ"
+
+msgid "Behavior"
+msgstr "動作"
+
+msgid "Inside Cube"
+msgstr "キューブ内部"
+
+msgid "Inside cube"
+msgstr "キューブ内部"
+
+msgid "Acceleration"
+msgstr "加速度"
+
+msgid "Fold Acceleration"
+msgstr "展開加速度"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Fold Speed"
+msgstr "展開速度"
+
+msgid "Timestep"
+msgstr "描画の時間刻み"
+
+msgid "Fold Timestep"
+msgstr "展開描画の時間刻み"
+
+msgid "Appearance"
+msgstr "外観"
+
+msgid "Cube Color"
+msgstr "キューブの色"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "キューブの上部および下部の面のカラー"
+
+msgid "Cube Caps"
+msgstr "キューブのふた"
+
+msgid "Scale image"
+msgstr "画像を拡大"
+
+msgid "Scale images to cover top face of cube"
+msgstr "キューブの上面を覆うように画像を拡大"
+
+msgid "Image files"
+msgstr "画像ファイル"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "キューブの上面に描画するPNGおよびSVGファイルのリスト"
+
+msgid "Adjust Image"
+msgstr "画像の調整"
+
+msgid "Adjust top face image to rotation"
+msgstr "上面画像を回転に合わせる"
+
+msgid "Skydome"
+msgstr "スカイドーム"
+
+msgid "Render skydome"
+msgstr "スカイドームの描画"
+
+msgid "Skydome Image"
+msgstr "スカイドーム画像"
+
+msgid "Image to use as texture for the skydome"
+msgstr "スカイドームのテクスチャとして使用する画像"
+
+msgid "Animate Skydome"
+msgstr "スカイドームをアニメーション化"
+
+msgid "Animate skydome when rotating cube"
+msgstr "キューブの回転時にスカイドームをアニメーション化"
+
+msgid "Skydome Gradient Start Color"
+msgstr "スカイドームグラデーション開始色"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"スカイドームフォールバックグラデーションの上部カラーストップに使用する色"
+
+msgid "Skydome Gradient End Color"
+msgstr "スカイドームグラデーション終了色"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"スカイドームフォールバックグラデーションの下部カラーストップに使用する色"
+
+msgid "Transparent Cube"
+msgstr "キューブの透明化"
+
+msgid "Opacity During Rotation"
+msgstr "回転時の不透明度"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "回転時のデスクトップ・ウィンドウの不透明度"
+
+msgid "Opacity When Not Rotating"
+msgstr "非回転時の不透明度"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "非回転時のデスクトップ・ウィンドウの不透明度"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "マウスによる回転時のみ透明化を使用"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "マウスによる回転時のみキューブの透明化を開始"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus 制御バックエンド"
+
+msgid "Window Decoration"
+msgstr "ウィンドウの装飾"
+
+msgid "Window decorations"
+msgstr "ウィンドウを装飾"
+
+msgid "Shadow Radius"
+msgstr "影の半径"
+
+msgid "Drop shadow radius"
+msgstr "影の半径"
+
+msgid "Shadow Opacity"
+msgstr "影の不透明度"
+
+msgid "Drop shadow opacity"
+msgstr "影の不透明度"
+
+msgid "Shadow Color"
+msgstr "影の色"
+
+msgid "Drop shadow color"
+msgstr "影の色"
+
+msgid "Shadow Offset X"
+msgstr "影オフセット X 座標"
+
+msgid "Drop shadow X offset"
+msgstr "影のオフセット X 座標"
+
+msgid "Shadow Offset Y"
+msgstr "影オフセット Y 座標"
+
+msgid "Drop shadow Y offset"
+msgstr "影のオフセット Y 座標"
+
+msgid "Command"
+msgstr "コマンド"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr "デコレータ未動作の場合に実行されるデコレータ起動コマンドライン"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "装飾テキスチャ用ミップマップの生成を許可"
+
+msgid "Decoration windows"
+msgstr "装飾適用ウィンドウ"
+
+msgid "Windows that should be decorated"
+msgstr "装飾の適用対象ウィンドウ"
+
+msgid "Shadow windows"
+msgstr "影を付けるウィンドウ"
+
+msgid "Windows that should have a shadow"
+msgstr "影を付ける対象ウィンドウ"
+
+msgid "Fading Windows"
+msgstr "ウィンドウのフェード"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "ウィンドウが開かれた時フェードイン、閉じた時フェードアウト"
+
+msgid "Fade Mode"
+msgstr "フェード・モード"
+
+msgid "Window fade mode"
+msgstr "ウィンドウのフェード形式"
+
+msgid "Constant speed"
+msgstr "一定速度"
+
+msgid "Constant time"
+msgstr "一定時間"
+
+msgid "Fade Speed"
+msgstr "フェード速度"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "「一定速度」モードのウィンドウのフェード速度"
+
+msgid "Fade Time"
+msgstr "フェード時間"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "「一定時間」モードのウィンドウのフェード時間（ミリ秒）"
+
+msgid "Fade windows"
+msgstr "フェード・ウィンドウ"
+
+msgid "Windows that should be fading"
+msgstr "フェードさせる対象ウィンドウ"
+
+msgid "Visual Bell"
+msgstr "視覚ベル"
+
+msgid "Fade effect on system beep"
+msgstr "システムビープ音時のフェード効果"
+
+msgid "Fullscreen Visual Bell"
+msgstr "全画面効果による視覚ベル"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "システムビープ音イベント時の全画面フェード効果"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "最小化/開く/閉じる 時にフェード"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "最小化/開く/閉じる イベント時のフェード効果"
+
+msgid "Dim Unresponsive Windows"
+msgstr "不応答ウィンドウを薄暗くする"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr "ウィンドウ・マネージャの要求に応答しないウィンドウを薄暗くする"
+
+msgid "Unresponsive Window Brightness"
+msgstr "不応答ウィンドウの明度"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "不応答ウィンドウの明度（パーセント）"
+
+msgid "Unresponsive Window Saturation"
+msgstr "不応答ウィンドウの彩度"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "不応答ウィンドウの彩度（パーセント）"
+
+msgid "Userspace File System"
+msgstr "ユーザ空間ファイルシステム"
+
+msgid "Userspace file system"
+msgstr "ユーザ空間ファイルシステム"
+
+msgid "Mount Point"
+msgstr "マウントポイント"
+
+msgid "Mount point"
+msgstr "マウントポイント"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "GLib main loop サポート"
+
+msgid "MATE Compatibility"
+msgstr "MATE 互換性"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr "Compiz に MATE デスクトップ環境との互換性を保たせるオプション"
+
+msgid "Show Main Menu"
+msgstr "メインメニューの表示"
+
+msgid "Show the main menu"
+msgstr "メインメニューの表示"
+
+msgid "Run Dialog"
+msgstr "アプリケーション実行ダイアログ"
+
+msgid "Show Run Application dialog"
+msgstr "\"アプリケーションの実行\"ダイアログの表示"
+
+msgid "Screenshot command line"
+msgstr "スクリーンショットのコマンドライン"
+
+msgid "Take a screenshot"
+msgstr "スクリーンショットを撮る"
+
+msgid "Window screenshot command line"
+msgstr "ウィンドウ・スクリーンショットのコマンドライン"
+
+msgid "Take a screenshot of a window"
+msgstr "ウィンドウのスクリーンショットを撮る"
+
+msgid "Run terminal command"
+msgstr "端末起動コマンド"
+
+msgid "Terminal command line"
+msgstr "端末起動コマンドライン"
+
+msgid "Open a terminal"
+msgstr "端末を開く"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Flat File バックエンドの開始"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "ファイル変更通知プラグイン"
+
+msgid "Minimize Effect"
+msgstr "最小化時の効果"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "最小化および最小化解除時のウィンドウの拡縮"
+
+msgid "Minimize speed"
+msgstr "最小化速度"
+
+msgid "Minimize timestep"
+msgstr "最小化の描画時間刻み"
+
+msgid "Minimize Windows"
+msgstr "最小化時効果ウィンドウ"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "最小化の際に縮尺させる対象ウィンドウ"
+
+msgid "Shade Resistance"
+msgstr "シェード抵抗"
+
+msgid "Shade resistance"
+msgstr "シェード抵抗"
+
+msgid "Move Window"
+msgstr "ウィンドウの移動"
+
+msgid "Move window"
+msgstr "ウィンドウの移動"
+
+msgid "Initiate Window Move"
+msgstr "ウィンドウの移動開始"
+
+msgid "Start moving window"
+msgstr "ウィンドウの移動を開始"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "Opacity level of moving windows"
+msgstr "移動ウィンドウの不透明度"
+
+msgid "Constrain Y"
+msgstr "Ｙ 座標制約"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Y 座標をワークスペースエリアに制約"
+
+msgid "Snapoff maximized windows"
+msgstr "最大化したウィンドウのスナップ解除"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "最大化ウィンドウのドラッグ時、スナップを解除して最大化を自動解除"
+
+msgid "Lazy Positioning"
+msgstr "緩慢な位置取り"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr "ウィンドウの移動完了までXサーバ側での配置位置を更新しない"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "不透明度・明度・彩度"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "不透明度や明度、彩度の調節"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "ウィンドウの不透明度を上げる"
+
+msgid "Opacity Increase"
+msgstr "不透明度を上げる"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "ウィンドウの不透明度を下げる"
+
+msgid "Opacity Decrease"
+msgstr "不透明度を下げる"
+
+msgid "Brightness"
+msgstr "明度"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "明度"
+
+msgid "Brightness Increase"
+msgstr "明度を上げる"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "明度"
+
+msgid "Brightness Decrease"
+msgstr "明度を下げる"
+
+msgid "Saturation"
+msgstr "彩度"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "ブラー彩度"
+
+msgid "Saturation Increase"
+msgstr "彩度を上げる"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "ブラー彩度"
+
+msgid "Saturation Decrease"
+msgstr "彩度を下げる"
+
+msgid "Step"
+msgstr "変化刻み"
+
+msgid "Opacity Step"
+msgstr "不透明度の変化刻み"
+
+msgid "Window specific settings"
+msgstr "ウィンドウ特定設定"
+
+msgid "Windows"
+msgstr "ウィンドウ"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "デフォルトで他と異なる不透明度を持たせるウィンドウ"
+
+msgid "Window values"
+msgstr "ウィンドウの値"
+
+msgid "Opacity values for windows"
+msgstr "ウィンドウの不透明度"
+
+msgid "Brightness Step"
+msgstr "明度の変化刻み"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "デフォルトで他と異なる明度を持たせるウィンドウ"
+
+msgid "Brightness values for windows"
+msgstr "ウィンドウに適用する明度"
+
+msgid "Saturation Step"
+msgstr "彩度の変化刻み"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "デフォルトで他と異なる彩度を持たせるウィンドウ"
+
+msgid "Saturation values for windows"
+msgstr "ウィンドウに適用する彩度"
+
+msgid "Place Windows"
+msgstr "ウィンドウの配置"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "ウィンドウが開かれた際の適切な位置への配置"
+
+msgid "Workarounds"
+msgstr "回避策"
+
+msgid "Window placement workarounds"
+msgstr "モーダルダイアログ向けの配置問題回避策"
+
+msgid "Placement Mode"
+msgstr "配置形式"
+
+msgid "Algorithm to use for window placement"
+msgstr "ウィンドウ配置に使用するアルゴリズム"
+
+msgid "Cascade"
+msgstr "カスケード"
+
+msgid "Centered"
+msgstr "中央"
+
+msgid "Smart"
+msgstr "スマート"
+
+msgid "Maximize"
+msgstr "最大化"
+
+msgid "Random"
+msgstr "ランダム"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "エッジへのポインタ移動でフリップ"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr "マルチ出力が選択されている場合の、ウィンドウ配置の振る舞いの選択"
+
+msgid "Use active output device"
+msgstr "アクティブ状態の出力デバイスを使用"
+
+msgid "Use output device with pointer"
+msgstr "ポインタが置かれている出力デバイスを使用"
+
+msgid "Use output device of focused window"
+msgstr "フォーカス・ウィンドウの出力デバイスを使用"
+
+msgid "Place across all outputs"
+msgstr "すべての出力デバイスにわたって配置"
+
+msgid "Force Placement Windows"
+msgstr "強制配置ウィンドウ"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"強制的に配置させるウィンドウ。ウィンドウ・マネージャに配置の対象外とするよう"
+"にウィンドウが指示している場合でも配置します。"
+
+msgid "Fixed Window Placement"
+msgstr "固定ウィンドウ配置位置"
+
+msgid "Windows with fixed positions"
+msgstr "固定位置に配置するウィンドウ"
+
+msgid "Positioned windows"
+msgstr "固定位置ウィンドウ"
+
+msgid "Windows that should be positioned by default"
+msgstr "デフォルトで特定位置に配置するウィンドウ"
+
+msgid "X Positions"
+msgstr "X 位置"
+
+msgid "X position values"
+msgstr "X 位置の値"
+
+msgid "Y Positions"
+msgstr "Y 位置"
+
+msgid "Y position values"
+msgstr "Y 位置の値"
+
+msgid "Keep In Workarea"
+msgstr "ワークエリアに限定"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"結果として指定位置とは異なってしまう場合でも、ウィンドウの配置位置をワークエ"
+"リア内に限定。"
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "固定位置に配置するウィンドウ"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "デフォルトで他と異なる彩度を持たせるウィンドウ"
+
+#, fuzzy
+msgid "Mode"
+msgstr "フェード・モード"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "固定位置ウィンドウ"
+
+msgid "Windows with fixed viewport"
+msgstr "固定ビューポートに配置するウィンドウ"
+
+msgid "Viewport positioned windows"
+msgstr "固定ビューポート・ウィンドウ"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "デフォルトで特定ビューポートに配置するウィンドウ"
+
+msgid "X Viewport Positions"
+msgstr "X ビューポート位置"
+
+msgid "Horizontal viewport positions"
+msgstr "水平ビューポート位置"
+
+msgid "Y Viewport Positions"
+msgstr "Y ビューポート位置"
+
+msgid "Vertical viewport positions"
+msgstr "垂直ビューポート位置"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Png 画像読み込み"
+
+msgid "Regex Matching"
+msgstr "正規表現マッチング"
+
+msgid "Regex window matching"
+msgstr "正規表現による対象ウィンドウのマッチング"
+
+msgid "Resize Window"
+msgstr "ウィンドウのサイズ変更"
+
+msgid "Resize window"
+msgstr "ウィンドウのサイズ変更"
+
+msgid "Bindings"
+msgstr "割り当て"
+
+msgid "Initiate Normal Window Resize"
+msgstr "通常形式のサイズ変更開始"
+
+msgid "Start resizing window normally"
+msgstr "通常形式のウィンドウのサイズ変更を開始"
+
+msgid "Initiate Outline Window Resize"
+msgstr "輪郭形式のサイズ変更開始"
+
+msgid "Start resizing window with outline"
+msgstr "輪郭形式のウィンドウのサイズ変更を開始"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "矩形形式のサイズ変更開始"
+
+msgid "Start resizing window with rectangle"
+msgstr "矩形形式のウィンドウのサイズ変更を開始"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "伸縮形式のサイズ変更を開始"
+
+msgid "Start resizing window by stretching it"
+msgstr "伸縮形式のウィンドウのサイズ変更を開始"
+
+msgid "Initiate Window Resize"
+msgstr "ウィンドウのサイズ変更開始"
+
+msgid "Start resizing window"
+msgstr "ウィンドウのサイズ変更を開始"
+
+msgid "Default Resize Mode"
+msgstr "デフォルトのサイズ変更形式"
+
+msgid "Default mode used for window resizing"
+msgstr "ウィンドウのサイズ変更に使用するデフォルトの描画形式"
+
+msgid "Outline"
+msgstr "輪郭"
+
+msgid "Rectangle"
+msgstr "矩形"
+
+msgid "Stretch"
+msgstr "伸縮"
+
+msgid "Border Color"
+msgstr "境界線の色"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "輪郭や矩形のサイズ変更描画形式で使用する境界線の色"
+
+msgid "Fill Color"
+msgstr "塗り色"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "矩形のサイズ変更描画形式に使用する塗り色"
+
+msgid "Normal Resize Windows"
+msgstr "通常サイズ変更ウィンドウ"
+
+msgid "Windows that normal resize should be used for"
+msgstr "サイズ変更描画に通常形式を使用するウィンドウ"
+
+msgid "Outline Resize Windows"
+msgstr "輪郭サイズ変更ウィンドウ"
+
+msgid "Windows that outline resize should be used for"
+msgstr "サイズ変更描画に輪郭形式を使用するウィンドウ"
+
+msgid "Rectangle Resize Windows"
+msgstr "矩形サイズ変更ウィンドウ"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "サイズ変更描画に矩形形式を使用するウィンドウ"
+
+msgid "Stretch Resize Windows"
+msgstr "伸縮サイズ変更ウィンドウ"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "サイズ変更描画に伸縮形式を使用するウィンドウ"
+
+msgid "Rotate Cube"
+msgstr "キューブの回転"
+
+msgid "Rotate desktop cube"
+msgstr "デスクトップ・キューブの回転"
+
+msgid "Edge Flip Pointer"
+msgstr "エッジへのポインタ移動でフリップ"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "ポインタを画面端に移動した際に、次のビューポートにフリップ"
+
+msgid "Edge Flip Move"
+msgstr "エッジへの移動でフリップ"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "ウィンドウを画面端に移動した際に、次のビューポートにフリップ"
+
+msgid "Edge Flip DnD"
+msgstr "エッジへのドラッグ＆ドロップでフリップ"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "オブジェクトを画面端にドラッグした際に、次のビューポートにフリップ"
+
+msgid "Flip Time"
+msgstr "フリップ開始時間"
+
+msgid "Timeout before flipping viewport"
+msgstr "ビューポートのフリップ移動を開始する前のタイムアウト"
+
+msgid "Raise on rotate"
+msgstr "回転時に前面に上げる"
+
+msgid "Raise window when rotating"
+msgstr "回転時にウィンドウを上げる"
+
+msgid "Rotate cube"
+msgstr "キューブの回転"
+
+msgid "Start Rotation"
+msgstr "回転の開始"
+
+msgid "Rotate Left"
+msgstr "左に回転"
+
+msgid "Rotate left"
+msgstr "左に回転"
+
+msgid "Rotate Right"
+msgstr "右に回転"
+
+msgid "Rotate right"
+msgstr "右に回転"
+
+msgid "Rotate Left with Window"
+msgstr "左に回転（ウィンドウと一緒に）"
+
+msgid "Rotate left and bring active window along"
+msgstr "左に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate Right with Window"
+msgstr "右に回転（ウィンドウと一緒に）"
+
+msgid "Rotate right and bring active window along"
+msgstr "右に回転（アクティブなウィンドウと一緒に）"
+
+# ※ バインドそのものではなく単なるその見出し。CCSMはアルファベットでソートして表示するので日本語だと変な位置に表示され紛らわしい。
+msgid "Rotate To"
+msgstr "指定先に回転"
+
+msgid "Rotate to viewport"
+msgstr "ビューポートに回転"
+
+# ※ ”Rotate to” の翻訳者コメント参照のこと
+msgid "Rotate window"
+msgstr "指定先にウィンドウと一緒に回転"
+
+msgid "Rotate with window"
+msgstr "ウィンドウと一緒に回転"
+
+msgid "Rotate Flip Left"
+msgstr "左にフリップ回転"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "左ビューポートにフリップして、ポインタをワープ"
+
+msgid "Rotate Flip Right"
+msgstr "右にフリップ回転"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "右ビューポートにフリップして、ポインタをワープ"
+
+msgid "Rotate to cube face"
+msgstr "特定キューブ面に回転"
+
+msgid "Rotate To Face 1"
+msgstr "面 1 に回転"
+
+msgid "Rotate to face 1"
+msgstr "面 1 に回転"
+
+msgid "Rotate To Face 2"
+msgstr "面 2 に回転"
+
+msgid "Rotate to face 2"
+msgstr "面 2 に回転"
+
+msgid "Rotate To Face 3"
+msgstr "面 3 に回転"
+
+msgid "Rotate to face 3"
+msgstr "面 3 に回転"
+
+msgid "Rotate To Face 4"
+msgstr "面 4 に回転"
+
+msgid "Rotate to face 4"
+msgstr "面 4 に回転"
+
+msgid "Rotate To Face 5"
+msgstr "面 5 に回転"
+
+msgid "Rotate to face 5"
+msgstr "面 5 に回転"
+
+msgid "Rotate To Face 6"
+msgstr "面 6 に回転"
+
+msgid "Rotate to face 6"
+msgstr "面 6 に回転"
+
+msgid "Rotate To Face 7"
+msgstr "面 7 に回転"
+
+msgid "Rotate to face 7"
+msgstr "面 7 に回転"
+
+msgid "Rotate To Face 8"
+msgstr "面 8 に回転"
+
+msgid "Rotate to face 8"
+msgstr "面 8 に回転"
+
+msgid "Rotate To Face 9"
+msgstr "面 9 に回転"
+
+msgid "Rotate to face 9"
+msgstr "面 9 に回転"
+
+msgid "Rotate To Face 10"
+msgstr "面 10 に回転"
+
+msgid "Rotate to face 10"
+msgstr "面 10 に回転"
+
+msgid "Rotate To Face 11"
+msgstr "面 11 に回転"
+
+msgid "Rotate to face 11"
+msgstr "面 11 に回転"
+
+msgid "Rotate To Face 12"
+msgstr "面 12 に回転"
+
+msgid "Rotate to face 12"
+msgstr "面 12 に回転"
+
+msgid "Rotate to cube face with window"
+msgstr "ウィンドウと一緒に特定キューブ面に回転"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "面 1 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "面 1 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "面 2 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "面 2 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "面 3 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "面 3 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "面 4 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "面 4 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "面 5 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "面 5 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "面 6 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "面 6 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "面 7 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "面 7 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "面 8 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "面 8 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "面 9 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "面 9 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "面 10 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "面 10 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "面 11 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "面 11 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "面 12 に回転（ウィンドウと一緒に）"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "面 12 に回転（アクティブなウィンドウと一緒に）"
+
+msgid "Pointer Invert Y"
+msgstr "ポインタ操作の Y 反転"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "ポインタ移動の Y 軸を反転"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "ポインタ操作の Y 反転"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "ポインタ移動の Y 軸を反転"
+
+msgid "Pointer Sensitivity"
+msgstr "ポインタ感度"
+
+msgid "Sensitivity of pointer movement"
+msgstr "ポインタの移動感度"
+
+msgid "Rotation Acceleration"
+msgstr "回転の加速度"
+
+msgid "Snap To Top Face"
+msgstr "キューブ上面にスナップ"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "キューブ回転をキューブ上面にスナップ"
+
+msgid "Snap To Bottom Face"
+msgstr "キューブ下面にスナップ"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "キューブ回転をキューブ下面にスナップ"
+
+msgid "Rotation Speed"
+msgstr "回転速度"
+
+msgid "Rotation Timestep"
+msgstr "回転の時間刻み"
+
+msgid "Zoom"
+msgstr "ズーム"
+
+msgid "Rotation Zoom"
+msgstr "回転時のズーム距離"
+
+msgid "Scale"
+msgstr "スケール"
+
+msgid "Scale windows"
+msgstr "ウィンドウのスケール"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "キーによるスケール・モードのオンオフ"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"キーを離すとスケール・モードが無効になる基本動作を、キーを押すたびにオンオフ"
+"が切り替わる動作に代える。"
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "ボタンによるスケール・モードのオンオフ"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"ボタンを離すとスケール・モードが無効になる基本動作を、ボタンを押すたびにオン"
+"オフが切り替わる動作に代える"
+
+msgid "Initiate Window Picker"
+msgstr "ウィンドウピッカー起動"
+
+msgid "Layout and start transforming windows"
+msgstr "ウィンドウを配列して変換を開始"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "すべてのウィンドウ対象のウィンドウピッカー起動"
+
+msgid "Layout and start transforming all windows"
+msgstr "すべてのウィンドウを配列して変換を開始"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "ウィンドウグループ対象のウィンドウピッカー起動"
+
+msgid "Layout and start transforming window group"
+msgstr "ウィンドウグループを配列して変換を開始"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "現在の出力上ウィンドウ対象のウィンドウピッカー起動"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "現在の出力デバイス上のウィンドウを配列して変換を開始"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "デスクトップのクリックでデスクトップの表示"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"スケール中にデスクトップがクリックされたとき\"デスクトップの表示\"モードに入"
+"る"
+
+msgid "Spacing"
+msgstr "間隔"
+
+msgid "Space between windows"
+msgstr "ウィンドウ間の間隔の大きさ"
+
+msgid "Scale speed"
+msgstr "スケール速度"
+
+msgid "Scale timestep"
+msgstr "スケール位置算出の時間刻み"
+
+msgid "Darken Background"
+msgstr "背景を暗くする"
+
+msgid "Darken background when scaling windows"
+msgstr "ウィンドウのスケール時に背景を暗くする"
+
+msgid "Amount of opacity in percent"
+msgstr "不透明度(%)"
+
+msgid "Overlay Icon"
+msgstr "重ね表示アイコン"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "ウィンドウ調整後にアイコンを重ね表示"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Emblem"
+msgstr "エンブレム"
+
+msgid "Big"
+msgstr "大きい"
+
+msgid "Scale Windows"
+msgstr "スケール・ウィンドウ"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "スケールモードでスケールされる対象ウィンドウ"
+
+msgid "Hover Time"
+msgstr "ホバー時間"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr "ウィンドウ上でのホバー時に、スケールモードを終了するまでの時間(ミリ秒)"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"複数の出力デバイスを使用している場合に、ウィンドウをどこにスケールするかの選"
+"択"
+
+msgid "On current output device"
+msgstr "現在の出力デバイス上に"
+
+msgid "On all output devices"
+msgstr "すべての出力デバイス上に"
+
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+msgid "Screenshot plugin"
+msgstr "スクリーンショット・プラグイン"
+
+msgid "Initiate rectangle screenshot"
+msgstr "矩形選択スクリーンショットを開始"
+
+msgid "Directory"
+msgstr "ディレクトリ"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "スクリーンショット画像をこのディレクトリに置く"
+
+msgid "Launch Application"
+msgstr "起動アプリケーション"
+
+msgid "Automatically open screenshot in this application"
+msgstr "スクリーンショット画像をこのアプリケーションで自動的に開く"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Svg 画像読み込み"
+
+msgid "Application Switcher"
+msgstr "アプリケーション・スイッチャー"
+
+msgid "Next window"
+msgstr "次のウィンドウ"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "スイッチャーが非表示の場合ポップアップして、次のウィンドウを選択"
+
+msgid "Prev window"
+msgstr "前のウィンドウ"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "スイッチャーが非表示の場合ポップアップして、前のウィンドウを選択"
+
+msgid "Next window (All windows)"
+msgstr "次のウィンドウ（全ウィンドウから）"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"スイッチャーが非表示の場合ポップアップして、すべてのウィンドウから次のウィン"
+"ドウを選択"
+
+msgid "Prev window (All windows)"
+msgstr "前のウィンドウ（全ウィンドウから）"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"スイッチャーが非表示の場合ポップアップして、すべてのウィンドウから前のウィン"
+"ドウを選択"
+
+msgid "Next window (No popup)"
+msgstr "次のウィンドウ（ポップアップなし）"
+
+msgid "Select next window without showing the popup window."
+msgstr "ポップアップウィンドウ表示なしで次のウィンドウを選択"
+
+msgid "Prev window (No popup)"
+msgstr "前のウィンドウ（ポップアップなし）"
+
+msgid "Select previous window without showing the popup window."
+msgstr "ポップアップウィンドウ表示なしで前のウィンドウを選択"
+
+msgid "Next Panel"
+msgstr "次のパネル"
+
+msgid "Select next panel type window."
+msgstr "次のパネルタイプのウィンドウを選択"
+
+msgid "Prev Panel"
+msgstr "前のパネル"
+
+msgid "Select previous panel type window."
+msgstr "前のパネルタイプのウィンドウを選択"
+
+msgid "Switcher speed"
+msgstr "スイッチャー速度"
+
+msgid "Switcher timestep"
+msgstr "スイッチャー描画の時間刻み"
+
+msgid "Switcher windows"
+msgstr "スイッチャー・ウィンドウ"
+
+msgid "Windows that should be shown in switcher"
+msgstr "スイッチャーに表示する対象ウィンドウ"
+
+msgid "Amount of saturation in percent"
+msgstr "鮮やかさの量(%)"
+
+msgid "Amount of brightness in percent"
+msgstr "明るさの量(%)"
+
+msgid "Bring To Front"
+msgstr "手前に提示"
+
+msgid "Bring selected window to front"
+msgstr "選択ウィンドウを手前に提示"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "ウィンドウのスイッチ中にデスクトップがズームアウトされる距離"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "Show icon next to thumbnail"
+msgstr "サムネイルの隣にアイコンを表示"
+
+msgid "Minimized"
+msgstr "最小化"
+
+msgid "Show minimized windows"
+msgstr "最小化されているウィンドウも表示"
+
+msgid "Auto Rotate"
+msgstr "自動回転"
+
+msgid "Rotate to the selected window while switching"
+msgstr "スイッチ中に選択ウィンドウへ回転"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "デスクトップサイズ"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "スイッチ中に選択ウィンドウへ回転"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "前のスライド"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "影の半径"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "輪郭"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "輪郭サイズ変更ウィンドウ"
+
+msgid "Background Gradient"
+msgstr ""
+
+#, fuzzy
+msgid "Base Color"
+msgstr "境界線の色"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "塗り色"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "影の色"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "X ビューポート位置"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "ウィンドウのフェード"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "スケールモードでスケールされる対象ウィンドウ"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "ウィンドウの移動"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "左に回転"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "右に回転"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "ウィンドウの移動"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "ウィンドウと一緒に回転"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "左に回転（ウィンドウと一緒に）"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "右に回転（ウィンドウと一緒に）"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "ウィンドウの移動"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "ウィンドウの移動"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "エッジ割り当て"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "左にフリップ回転"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "フリップ開始時間"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "右にフリップ回転"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "右にフリップ回転"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "フリップ開始時間"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "フリップ開始時間"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "エッジへのドラッグ＆ドロップでフリップ"
+
+msgid "Flip down"
+msgstr ""
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "スイッチャー速度"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "エッジへのドラッグ＆ドロップでフリップ"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "ポインタを画面端に移動した際に、次のビューポートにフリップ"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "ウィンドウを画面端に移動した際に、次のビューポートにフリップ"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "オブジェクトを画面端にドラッグした際に、次のビューポートにフリップ"
+
+msgid "Water Effect"
+msgstr "水効果"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "異なるデスクトップアクションに水効果を追加"
+
+msgid "Enable pointer water effects"
+msgstr "ポインタの水効果を有効にする"
+
+msgid "Toggle rain"
+msgstr "雨の切り替え"
+
+msgid "Toggle rain effect"
+msgstr "雨効果の切り替え"
+
+msgid "Toggle wiper"
+msgstr "ワイパーの切り替え"
+
+msgid "Toggle wiper effect"
+msgstr "ワイパー効果の切り替え"
+
+msgid "Offset Scale"
+msgstr "オフセットスケール"
+
+msgid "Water offset scale"
+msgstr "水オフセットスケール"
+
+msgid "Rain Delay"
+msgstr "雨の待ち時間"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "各水滴間の遅延時間（ミリ秒）"
+
+msgid "Title wave"
+msgstr "タイトルの波"
+
+msgid "Wave effect from window title"
+msgstr "ウィンドウタイトルからウェーブ効果"
+
+msgid "Point"
+msgstr "点"
+
+msgid "Add point"
+msgstr "点を追加"
+
+msgid "Line"
+msgstr "線"
+
+msgid "Add line"
+msgstr "線を追加"
+
+msgid "Wobbly Windows"
+msgstr "揺れるウィンドウ"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "揺れるウィンドウ効果用にバネモデルを使用"
+
+msgid "Snap windows"
+msgstr "ウィンドウをスナップ"
+
+msgid "Toggle window snapping"
+msgstr "ウィンドウ・スナップの切り替え"
+
+msgid "Snap Inverted"
+msgstr "スナップの反転"
+
+msgid "Inverted window snapping"
+msgstr "ウィンドウ・スナップの反転"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "震動"
+
+msgid "Make window shiver"
+msgstr "ウィンドウを震動させる"
+
+msgid "Friction"
+msgstr "摩擦"
+
+msgid "Spring Friction"
+msgstr "バネ摩擦"
+
+msgid "Spring K"
+msgstr "バネ定数"
+
+msgid "Spring Konstant"
+msgstr "バネ定数"
+
+msgid "Grid Resolution"
+msgstr "グリッド解像度"
+
+msgid "Vertex Grid Resolution"
+msgstr "頂点グリッド解像度"
+
+msgid "Minimum Grid Size"
+msgstr "最小グリッドサイズ"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "最小頂点グリッドサイズ"
+
+msgid "Map Effect"
+msgstr "開いた時の効果"
+
+msgid "Map Window Effect"
+msgstr "ウィンドウが開かれた時の効果"
+
+msgid "Focus Effect"
+msgstr "フォーカス時の効果"
+
+msgid "Focus Window Effect"
+msgstr "ウィンドウがフォーカスされた時の効果"
+
+msgid "Map Windows"
+msgstr "開く時効果ウィンドウ"
+
+msgid "Windows that should wobble when mapped"
+msgstr "開いた時に揺らす対象ウィンドウ"
+
+msgid "Focus Windows"
+msgstr "フォーカス時効果ウィンドウ"
+
+msgid "Windows that should wobble when focused"
+msgstr "フォーカス時に揺ゆらす対象ウィンドウ"
+
+msgid "Grab Windows"
+msgstr "つかみ時効果ウィンドウ"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "つかまれた時に揺らす対象ウィンドウ"
+
+msgid "Move Windows"
+msgstr "移動時効果ウィンドウ"
+
+msgid "Windows that should wobble when moved"
+msgstr "移動時に揺らす対象ウィンドウ"
+
+msgid "Maximize Effect"
+msgstr "最大化時の効果"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "ウィンドウの最大化および最大化解除時に揺れる効果"
+
+msgid "Zoom Desktop"
+msgstr "デスクトップのズーム"
+
+msgid "Zoom and pan desktop cube"
+msgstr "デスクトップ・キューブのズームとズーム域移動"
+
+msgid "Zoom In"
+msgstr "ズームイン"
+
+msgid "Zoom Out"
+msgstr "ズームアウト"
+
+msgid "Zoom Pan"
+msgstr "ズーム域の移動"
+
+msgid "Zoom pan"
+msgstr "ズーム域の移動"
+
+msgid "Zoom Speed"
+msgstr "ズーム速度"
+
+msgid "Zoom Timestep"
+msgstr "ズーム描画時間刻み"
+
+msgid "Zoom factor"
+msgstr "ズーム係数"
+
+msgid "Filter Linear"
+msgstr "線形フィルタ"
+
+msgid "Use linear filter when zoomed in"
+msgstr "ズームイン時に線形フィルタを使用"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "デスクトップ数"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "仮想デスクトップ数"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "ウィンドウのタイトルバー上でマウスホイールをスクロールさせたときのアクショ"
+#~ "ン"
+
+#~ msgid "Blur type"
+#~ msgstr "ブラーの種類"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Marco テーマのアクティブ・ウィンドウの不透明度"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Marco テーマのアクティブ・ウィンドウの半透明シェード"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Marco テーマの不透明度"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Marco テーマの半透明シェード"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "Marco テーマ装飾のアクティブ・ウィンドウに使用する不透明度"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Marco テーマ装飾に使用する不透明度"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Marco テーマ装飾のアクティブ・ウィンドウを不透明から透明にシェードさせる"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr "Marco テーマ装飾のウィンドウを不透明から透明にシェードさせる"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "タイトルバーのマウスホイール・アクション"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "ウィンドウ装飾用のブラーの種類"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Marco テーマを使用"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "ウィンドウ装飾を描画する際に Marco テーマを使用"
+
+#~ msgid "Line width"
+#~ msgstr "線幅"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "注釈線の線幅"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "GConf 制御バックエンド"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig 制御バックエンド"
+
+#~ msgid "Decrease"
+#~ msgstr "下げる"
+
+#~ msgid "Increase"
+#~ msgstr "上げる"
+
+#~ msgid "Screenshot commands"
+#~ msgstr "スクリーンショットのコマンド"
+
+#~ msgid "Screenshot key bindings"
+#~ msgstr "スクリーンショットのキー割り当て"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr "デフォルトで半透明化の対象にするウィンドウの不透明度"
+
+#~ msgid "Opacity windows"
+#~ msgstr "半透明対象ウィンドウ"

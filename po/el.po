@@ -1,0 +1,3422 @@
+# Greek translation for compiz
+# Copyright (C) 2007 launchpad.net/compiz
+# This file is distributed under the same license as the compiz package.
+# Δημήτρης (djdoo) <jimdusis@yahoo.gr>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:41+0300\n"
+"PO-Revision-Date: 2009-03-30 10:16+0200\n"
+"Last-Translator: Jim Dusis <jimdusis@yahoo.gr>\n"
+"Language-Team: Greek <el@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close Window"
+msgstr "Κλείσιμο Παραθύρου"
+
+msgid "Unmaximize Window"
+msgstr "Απομεγιστοποίηση Παραθύρου"
+
+msgid "Maximize Window"
+msgstr "Μεγιστοποίηση Παραθύρου"
+
+msgid "Minimize Window"
+msgstr "Ελαχιστοποίηση Παραθύρου"
+
+msgid "Window Menu"
+msgstr "Μενού Παραθύρου"
+
+msgid "Shade"
+msgstr "Σκίαση"
+
+msgid "Make Above"
+msgstr "Επικάλυψη"
+
+msgid "Stick"
+msgstr "Καρφίτσωμα"
+
+msgid "Unshade"
+msgstr "Αποσκίαση"
+
+msgid "Unmake Above"
+msgstr "Μη Επικάλυψη"
+
+msgid "Unstick"
+msgstr "Ξεκαρφίτσωμα"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Το παράθυρο \"%s\" δεν ανταποκρίνεται."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Ο εξαναγκασμός αυτής της εφαρμογής να τερματιστεί θα προκαλέσει απώλεια των "
+"μη σωσμένων αλλαγών."
+
+msgid "_Cancel"
+msgstr "_Ακύρωση"
+
+msgid "_Force Quit"
+msgstr "_Εξαναγκασμός Τερματισμού"
+
+msgid "Annotate"
+msgstr "Επισημείωση"
+
+msgid "Annotate plugin"
+msgstr "Πρόσθετο επισημείωση"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Εκκίνηση σβησίματος"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Εκκίνηση ζωγραφίσματος επισημείωσης"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Εκκίνηση"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Εκκίνηση ζωγραφίσματος επισημείωσης"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Εκκίνηση σβησίματος"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Εκκίνηση ζωγραφίσματος επισημείωσης"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Εκκίνηση σβησίματος"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Εκκίνηση ζωγραφίσματος επισημείωσης"
+
+msgid "Draw"
+msgstr "Σχεδίαση"
+
+msgid "Draw using tool"
+msgstr "Σχεδίαση με εργαλείο"
+
+msgid "Initiate erase"
+msgstr "Εκκίνηση σβησίματος"
+
+msgid "Initiate annotate erasing"
+msgstr "Εκκίνηση σβησίματος επισημείωσης"
+
+msgid "Clear"
+msgstr "Καθάρισμα"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Εκκίνηση-Σταμάτημα σκίασης ενεργού παραθύρου"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Χρώμα Γεμίσματος Επισημείωσης"
+
+msgid "Fill color for annotations"
+msgstr "Γέμισμα χρώματος για επισημειώσεις"
+
+msgid "Annotate Stroke Color"
+msgstr "Χρώμα Πινελιάς Επισημείωσης"
+
+msgid "Stroke color for annotations"
+msgstr "Χρώμα πινελιάς για επισημειώσεις"
+
+msgid "Stroke width"
+msgstr "Πλάτος πινελιάς"
+
+msgid "Stroke width for annotations"
+msgstr "Πλάτος πινελιάς για επισημειώσεις"
+
+msgid "Blur Windows"
+msgstr "Θόλωμα Παραθύρων"
+
+msgid "Blur windows"
+msgstr "Θόλωμα παραθύρων"
+
+msgid "Pulse"
+msgstr "Παλμός"
+
+msgid "Pulse effect"
+msgstr "Εφέ παλμού"
+
+msgid "Blur Speed"
+msgstr "Ταχύτητα Θολώματος"
+
+msgid "Window blur speed"
+msgstr "Ταχύτητα θολώματος παραθύρων"
+
+msgid "Focus blur windows"
+msgstr "Θόλωμα εστίασης"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Παράθυρα που πρέπει να επηρεαστούν απο το θολωμα εστίασης"
+
+msgid "Focus Blur"
+msgstr "Θόλωμα εστίασης"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Θόλωμα μη εστιασμένων παραθύρων"
+
+msgid "Alpha blur windows"
+msgstr "Θόλωμα άλφα παραθύρων"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Παράθυρα που πρέπει να χρησιμοποιήσουν ως προεπιλογή το θόλωμα αλφα"
+
+msgid "Alpha Blur"
+msgstr "Θόλωμα Άλφα"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Θόλωμα πίσω απ τα διάφανα τμήματα των παραθύρων"
+
+msgid "Blur Filter"
+msgstr "Φίλτρο Θολώματος"
+
+msgid "Filter method used for blurring"
+msgstr "Μέθοδος φιλταρίσματος που χρησιμοποιείται για θόλωμα"
+
+msgid "4xBilinear"
+msgstr "4xBilinear"
+
+msgid "Gaussian"
+msgstr "Gaussian"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "Ακτίνα Gaussian"
+
+msgid "Gaussian radius"
+msgstr "Ακτίνα gaussian"
+
+msgid "Gaussian Strength"
+msgstr "Ισχύς Gaussian"
+
+msgid "Gaussian strength"
+msgstr "Ισχύς gaussian"
+
+msgid "Mipmap LOD"
+msgstr "ΕΛ Mipmap"
+
+msgid "Mipmap level-of-detail"
+msgstr "Επίπεδο-λεπτομέρειας mipmap"
+
+msgid "Blur Saturation"
+msgstr "Κορεσμός Θολώματος"
+
+msgid "Blur saturation"
+msgstr "Κορεσμός θολώματος"
+
+msgid "Blur Occlusion"
+msgstr "Φράξιμο Θολώματος"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+"Απενεργοποίηση του θολώματος των περιοχών που καλυπτονται απο άλλα παραθυρα"
+
+msgid "Independent texture fetch"
+msgstr "Τέχνασμα ανεξάρτητης υφής"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Χρήση των διαθέσιμων μονάδων υφών για πραγματοποίηση όσο το δυνατό "
+"περισσότερων τεχνασμάτων ανεξάρτητης υφής."
+
+msgid "Clone Output"
+msgstr "Αποτέλεσμα Εξόδου Κλωνοποίησης"
+
+msgid "Output clone handler"
+msgstr "Χειριστής αποτελέσματος εξόδου κλωνοποίησης"
+
+msgid "Initiate"
+msgstr "Εκκίνηση"
+
+msgid "Initiate clone selection"
+msgstr "Εκκίνηση επιλογής κλωνοποίησης"
+
+msgid "Commands"
+msgstr "Εντολές"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Ορίζει συνδυασμούς σε αυθαίρετες εντολές"
+
+msgid "Command line 0"
+msgstr "Γραμμή εντολών 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής0"
+
+msgid "Command line 1"
+msgstr "Γραμμή εντολών 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+msgid "Command line 2"
+msgstr "Γραμμή εντολών 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής2"
+
+msgid "Command line 3"
+msgstr "Γραμμή εντολών 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής3"
+
+msgid "Command line 4"
+msgstr "Γραμμή εντολών 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής4"
+
+msgid "Command line 5"
+msgstr "Γραμμή εντολών 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής5"
+
+msgid "Command line 6"
+msgstr "Γραμμή εντολών 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής6"
+
+msgid "Command line 7"
+msgstr "Γραμμή εντολών 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής7"
+
+msgid "Command line 8"
+msgstr "Γραμμή εντολών 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής8"
+
+msgid "Command line 9"
+msgstr "Γραμμή εντολών 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής9"
+
+msgid "Command line 10"
+msgstr "Γραμμή εντολών 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής10"
+
+msgid "Command line 11"
+msgstr "Γραμμή εντολών 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής11"
+
+msgid "Command line 12"
+msgstr "Γραμμή εντολών 12"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Γραμμή εντολών 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Γραμμή εντολών 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Γραμμή εντολών 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Γραμμή εντολών 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Γραμμή εντολών 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Γραμμή εντολών 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Γραμμή εντολών 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Γραμμή εντολών 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής0"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Γραμμή εντολών 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής1"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Γραμμή εντολών 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής2"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Γραμμή εντολών 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής2"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Γραμμή εντολών 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Γραμμή εντολών για εκτέλεση σε κέλυφος όταν επικαλεσθεί το τρέξιμο_εντολής2"
+
+msgid "Key Bindings"
+msgstr "Συνδυασμοί Πλήκτρων"
+
+msgid "Run command 0"
+msgstr "Τρέξιμο εντολής 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή0"
+
+msgid "Run command 1"
+msgstr "Τρέξιμο εντολής 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+msgid "Run command 2"
+msgstr "Τρέξιμο εντολής 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+msgid "Run command 3"
+msgstr "Τρέξιμο εντολής 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή3"
+
+msgid "Run command 4"
+msgstr "Τρέξιμο εντολής 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή4"
+
+msgid "Run command 5"
+msgstr "Τρέξιμο εντολής 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή5"
+
+msgid "Run command 6"
+msgstr "Τρέξιμο εντολής 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή6"
+
+msgid "Run command 7"
+msgstr "Τρέξιμο εντολής 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή7"
+
+msgid "Run command 8"
+msgstr "Τρέξιμο εντολής 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή8"
+
+msgid "Run command 9"
+msgstr "Τρέξιμο εντολής 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή9"
+
+msgid "Run command 10"
+msgstr "Τρέξιμο εντολής 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή10"
+
+msgid "Run command 11"
+msgstr "Τρέξιμο εντολής 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή11"
+
+msgid "Run command 12"
+msgstr "Τρέξιμο εντολής 12"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Τρέξιμο εντολής 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Τρέξιμο εντολής 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Τρέξιμο εντολής 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Τρέξιμο εντολής 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Τρέξιμο εντολής 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Τρέξιμο εντολής 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Τρέξιμο εντολής 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Τρέξιμο εντολής 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Τρέξιμο εντολής 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Τρέξιμο εντολής 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Τρέξιμο εντολής 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Τρέξιμο εντολής 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+msgid "Button Bindings"
+msgstr "Συνδυασμοί Κουμπιών"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Ένας συνδυασμός πλήκτρων που όταν επικαλεσθεί, θα τρέξει την εντολή κέλυφους "
+"αναγνωρισμένη ως εντολή2"
+
+msgid "Edge Bindings"
+msgstr "Συνδυασμοί Άκρων Οθόνης"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή0"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή2"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή3"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή4"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή5"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή6"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή7"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή8"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή9"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή10"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Ένας συνδυασμός άκρης οθόνης που όταν επικαλεσθεί, θα τρέξει την εντολή "
+"κέλυφους αναγνωρισμένη ως εντολή2"
+
+msgid "General Options"
+msgstr "Γενικές Επιλογές"
+
+msgid "General compiz options"
+msgstr "Γενικές επιλογές του compiz"
+
+msgid "Active Plugins"
+msgstr "Ενεργά Πρόσθετα"
+
+msgid "List of currently active plugins"
+msgstr "Λίστα των τρέχοντων ενεργών προσθέτων"
+
+msgid "Audible Bell"
+msgstr "Ηχητικό Καμπανάκι"
+
+msgid "Audible system beep"
+msgstr "Ηχητικό μπιπ συστήματος"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Αγνόηση Υποδείξεων Στη Μεγιστοποίηση"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Αγνόηση αύξησης μεγέθους και υποδείξεων αναλογίας όταν το παράθυρο "
+"μεγιστοποιείται"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Απόκρυψη Αγνοημένων Παραθύρων Γραμμής Εργασιών"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Απόκρυψη παραθύρων που δεν βρίσκονται στην γραμμή εργασιων κατα την μετάβαση "
+"στην κατάσταση εμφάνισης επιφάνειας εργασίας"
+
+msgid "Edge Trigger Delay"
+msgstr "Καθυστέρηση Διακόπτη 'Ακρης"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Διάρκεια χρόνου που πρέπει ο δείκτης του ποντικιού να παραμείνει σε μια "
+"γωνία της οθόνης πριν η ενέργεια που έχει οριστεί σ αυτή την άκρη να "
+"πραγματοποιηθεί."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Καθυστέρηση Ping"
+
+msgid "Interval between ping messages"
+msgstr "Διάστημα μεταξύ των μηνυμάτων ping"
+
+msgid "Display Settings"
+msgstr "Ρυθμίσεις Οθόνης"
+
+msgid "Texture Filter"
+msgstr "Φίλτρο Υφών"
+
+msgid "Texture filtering"
+msgstr "Φιλτράρισμα υφών"
+
+msgid "Fast"
+msgstr "Γρήγορο"
+
+msgid "Good"
+msgstr "Καλό"
+
+msgid "Best"
+msgstr "Βέλτιστο"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "Εστιάση & Συμπεριφορά Ανύψωσης"
+
+msgid "Click To Focus"
+msgstr "Κλικ Για Εστίαση"
+
+msgid "Click on window moves input focus to it"
+msgstr "Κλικ σε παράθυρο μεταφέρει την εστίαση εισόδου σε αυτό"
+
+msgid "Raise On Click"
+msgstr "Ανύψωση Με Κλικ"
+
+msgid "Raise windows when clicked"
+msgstr "Ανύψωση παραθύρων όταν κλικαριστούν"
+
+msgid "Auto-Raise"
+msgstr "Αυτόματη Ανύψωση"
+
+msgid "Raise selected windows after interval"
+msgstr "Ανύψωση επιλεγμένων παραθύρων μετα απ το διάστημα"
+
+msgid "Auto-Raise Delay"
+msgstr "Καθυστέρηση Αυτόματης Ανύψωσης"
+
+msgid "Interval before raising selected windows"
+msgstr "Διάστημα πριν την ανύψωση των επιλεγμένων παραθύρων"
+
+msgid "Key bindings"
+msgstr "Συνδυασμοί πλήκτρων"
+
+msgid "Close active window"
+msgstr "Κλείσιμο ενεργού παραθύρου"
+
+msgid "Raise Window"
+msgstr "Ανύψωση Παραθύρου"
+
+msgid "Raise window above other windows"
+msgstr "Ανύψωση παραθύρου πάνω απ τα άλλα παράθυρα"
+
+msgid "Lower Window"
+msgstr "Κατέβασμα Παραθύρου"
+
+msgid "Lower window beneath other windows"
+msgstr "Κατέβασμα παραθύρου κάτω απ τα άλλα παράθυρα"
+
+msgid "Unmaximize active window"
+msgstr "Απομεγιστοποίηση ενεργού παραθύρου"
+
+msgid "Minimize active window"
+msgstr "Ελαχιστοποίηση ενεργού παραθύρου"
+
+msgid "Maximize active window"
+msgstr "Μεγιστοποίηση ενεργού παραθύρου"
+
+msgid "Maximize Window Horizontally"
+msgstr "Μεγιστοποίηση Παραθύρου Οριζόντια"
+
+msgid "Maximize active window horizontally"
+msgstr "Μεγιστοποίηση ενεργού παραθύρου οριζόντια"
+
+msgid "Maximize Window Vertically"
+msgstr "Μεγιστοποίηση Παραθύρου Κάθετα"
+
+msgid "Maximize active window vertically"
+msgstr "Μεγιστοποίηση ενεργού παραθύρου κάθετα"
+
+msgid "Window menu button binding"
+msgstr "Συνδυασμός κουμπιών μενού παραθύρου"
+
+msgid "Window menu key binding"
+msgstr "Συνδυασμός πλήκτρων μενού παραθύρου"
+
+msgid "Show Desktop"
+msgstr "Εμφάνιση Επιφάνειας Εργασίας"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Απόκρυψη όλων των παραθύρων και εστίαση στην επιφάνεια εργασίας"
+
+msgid "Toggle Window Maximized"
+msgstr "Εκκίνηση-Σταμάτημα Μεγιστοποίησης Παραθύρου"
+
+msgid "Toggle active window maximized"
+msgstr "Εκκίνηση-Σταμάτημα μεγιστοποίησης ενεργού παραθύρου"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Εκκίνηση-Σταμάτημα Μεγιστοποίησης Παραθύρου Οριζόντια"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Εκκίνηση-Σταμάτημα μεγιστοποίησης ενεργού παραθύρου οριζόντια"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Εκκίνηση-Σταμάτημα Μεγιστοποίησης Παραθύρου Κάθετα"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Εκκίνηση-Σταμάτημα μεγιστοποίησης ενεργού παραθύρου κάθετα"
+
+msgid "Toggle Window Shaded"
+msgstr "Εκκίνηση-Σταμάτημα Σκίασης Παραθύρου"
+
+msgid "Toggle active window shaded"
+msgstr "Εκκίνηση-Σταμάτημα σκίασης ενεργού παραθύρου"
+
+msgid "Slow Animations"
+msgstr "Αργές Γραφικές Απεικονίσεις"
+
+msgid "Toggle use of slow animations"
+msgstr "Εκκίνηση-Σταμάτημα της χρήσης των αργών γραφικών απεικονίσεων"
+
+msgid "Desktop Size"
+msgstr "Μέγεθος Επιφάνειας Εργασίας"
+
+msgid "Horizontal Virtual Size"
+msgstr "Οριζόντιο Εικονικό Μέγεθος"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Πολλαπλασιαστής μεγέθους οθόνης για οριζόντιο εικονικό μέγεθος"
+
+msgid "Vertical Virtual Size"
+msgstr "Κάθετο Εικονικό Μέγεθος"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Πολλαπλασιαστής μεγέθους οθόνης για κάθετο εικονικό μέγεθος"
+
+msgid "Lighting"
+msgstr "Φωτισμός"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Χρήση διάχυτου φωτός όταν η οθόνη μεταμορφώνεται"
+
+msgid "Detect Refresh Rate"
+msgstr "Ανίχνευση Ρυθμού Ανανέωσης"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Αυτόματος εντοπισμός του ρυθμού ανανέωσης"
+
+msgid "Refresh Rate"
+msgstr "Ρυθμός Ανανέωσης"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Ο ρυθμός κατα τον οποίο η οθόνη επανασχεδιάζεται (φορές/δευτερόλεπτο)"
+
+msgid "Detect Outputs"
+msgstr "Ανίχνευση Εξόδων"
+
+msgid "Automatic detection of output devices"
+msgstr "Αυτόματος εντοπισμός των συσκευών εξόδου"
+
+msgid "Overlapping Output Handling"
+msgstr "Χειρισμός Επικάλλυψης Αποτύπωσης"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Ποια απ τις επικαλλύπτουσες οθόνες πρέπει να προτιμηθεί"
+
+msgid "Smart mode"
+msgstr "Έξυπνη κατάσταση "
+
+msgid "Prefer larger output"
+msgstr "Προτίμηση μεγαλύτερης απεικόνισης"
+
+msgid "Prefer smaller output"
+msgstr "Προτίμηση μικρότερης απεικόνισης"
+
+msgid "Outputs"
+msgstr "Αποτελέσματα-Εξοδοι"
+
+msgid "List of strings describing output devices"
+msgstr "Λίστα με προσδιοριστικά στρινγκ για τις συσκευές εξόδου"
+
+msgid "Sync To VBlank"
+msgstr "Συγχρονισμός Στην Καθετη Ανανέωση"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"Πραγματοποίηση ανανεώσεων οθόνης μόνο κατα τη διάρκεια της κάθετης "
+"περιοδικής ανανέωσης"
+
+msgid "Focus Prevention Level"
+msgstr "Εστίαση Προληπτικού Επιπέδου"
+
+msgid "Level of focus stealing prevention"
+msgstr "Επίπεδο αποφυγής απόσπασης εστίασης"
+
+msgid "Off"
+msgstr "Κλειστό"
+
+msgid "Low"
+msgstr "Χαμηλό"
+
+msgid "Normal"
+msgstr "Κανονική"
+
+msgid "High"
+msgstr "Υψηλό"
+
+msgid "Very High"
+msgstr "Πολύ Υψηλό"
+
+msgid "Focus Prevention Windows"
+msgstr "Εστίαση Προστατευμένων Παραθύρων"
+
+msgid "Focus prevention windows"
+msgstr "Εστίαση προστατευμένων παραθύρων"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Μη-επανακατεύθυνση Παραθύρων Πλήρους Οθόνης"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Επέτρεψε τη σχεδίαση πλήρους οθόνης παραθύρων να μην επανακατευθύνονται στα "
+"εκτός οθόνης pixmaps"
+
+msgid "Default Icon"
+msgstr "Προεπιλεγμένο Εικονίδιο"
+
+msgid "Default window icon image"
+msgstr "Προεπιλεγμένη εικόνα εικονιδίου παραθύρου"
+
+msgid "Force independent output painting."
+msgstr "Εξαναγκασμός ανεξάρτητης απεικόνισης."
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr "Δούλεψε κάθε οθόνη ανεξάρτητα, ακόμα κ αν οι οθόνες επικαλύπτονται"
+
+msgid "Texture Compression"
+msgstr "Συμπίεση υφών"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+"Εαν είναι διαθέσιμο χρήση συμπίεσης για υφές που έχουν προέλθει από εικόνες"
+
+msgid "Desktop Cube"
+msgstr "Κύβος Επιφάνειας Εργασίας"
+
+msgid "Place windows on cube"
+msgstr "Τοποθέτηση παραθύρων στον κύβο"
+
+msgid "Unfold"
+msgstr "Ξεδίπλωμα"
+
+msgid "Unfold cube"
+msgstr "Ξεδίπλωμα κύβου"
+
+msgid "Next Slide"
+msgstr "Επόμενο Σλάιντ"
+
+msgid "Advance to next slide"
+msgstr "Προχώρημα στο επόμενο σλάιντ"
+
+msgid "Prev Slide"
+msgstr "Προηγούμενο Σλάιντ"
+
+msgid "Go back to previous slide"
+msgstr "Πήγαινε πίσω στο προηγούμενο σλάιντ"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Δημιουργία mipmaps όταν γίνεται για ανώτερη ποιότητα κλιμάκωσης"
+
+msgid "Multi Output Mode"
+msgstr "Kατάσταση Πολλαπλών Οθονών"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Επιλεγει το πως ο κύβος θα εμφανίζεται εαν χρησιμοποιηθούν πολλαπλές οθόνες."
+
+msgid "Automatic"
+msgstr "Αυτόματα"
+
+msgid "Multiple cubes"
+msgstr "Πολλαπλοί κύβοι"
+
+msgid "One big cube"
+msgstr "Ένας μεγάλος κύβος"
+
+msgid "Behavior"
+msgstr "Συμπεριφορά"
+
+msgid "Inside Cube"
+msgstr "Εσωτερικός Κύβος"
+
+msgid "Inside cube"
+msgstr "Εσωτερικός κύβος"
+
+msgid "Acceleration"
+msgstr "Επιτάχυνση"
+
+msgid "Fold Acceleration"
+msgstr "Επιτάχυνση Διπλώματος"
+
+msgid "Speed"
+msgstr "Ταχύτητα"
+
+msgid "Fold Speed"
+msgstr "Ταχύτητα Διπλώματος"
+
+msgid "Timestep"
+msgstr "Χρονικό Βήμα"
+
+msgid "Fold Timestep"
+msgstr "Χρονικό Βήμα Διπλώματος"
+
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+msgid "Cube Color"
+msgstr "Χρώμα Κύβου"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Χρώμα των πάνω κ κάτω πλευρών του κύβου"
+
+msgid "Cube Caps"
+msgstr "Καπάκια Κύβου"
+
+msgid "Scale image"
+msgstr "Κλιμάκωση εικόνας"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Κλιμάκωση εικόνων για κάλυψη της πάνω όψης του κύβου"
+
+msgid "Image files"
+msgstr "Αρχεία εικόνας"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Λίστα από αρχεία PNG και SVG που πρέπει να εμφανίζονται στην πάνω όψη του "
+"κύβου"
+
+msgid "Adjust Image"
+msgstr "Ρύθμιση Εικόνας"
+
+msgid "Adjust top face image to rotation"
+msgstr "Ρύθμιση εικόνας πάνω όψης για περιστροφή"
+
+msgid "Skydome"
+msgstr "Skydome"
+
+msgid "Render skydome"
+msgstr "Εμφάνιση skydome"
+
+msgid "Skydome Image"
+msgstr "Εικόνα Skydome"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Εικόνα για χρήση ως υφή για το skydome"
+
+msgid "Animate Skydome"
+msgstr "Κίνηση Skydome"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Κίνηση skydome όταν περιστρέφεται ο κύβος"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Αρχικό Χρώμα Διαβάθμισης Skydome"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"Χρώμα για χρήση με το κορυφαίο στοπ-χρώματος της διαβάθμισης του skydome-"
+"fallback"
+
+msgid "Skydome Gradient End Color"
+msgstr "Τελικό Χρώμα Διαβάθμισης Skydome"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"Χρώμα για χρήση με το κάτω στοπ-χρώματος της διαβάθμισης του skydome-fallback"
+
+msgid "Transparent Cube"
+msgstr "Διάφανος Κύβος"
+
+msgid "Opacity During Rotation"
+msgstr "Αδιαφάνεια Kατα την Περιστροφή"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Αδιαφάνεια του παραθύρου στην επιφάνεια εργασίας κατα την περιστροφή."
+
+msgid "Opacity When Not Rotating"
+msgstr "Αδιαφάνεια Όταν Δεν Γίνεται Περιστροφή"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr ""
+"Αδιαφάνεια του παραθύρου στην επιφάνεια εργασίας όταν δεν γίνεται περιστροφή."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Διαφάνεια Μόνο στην Περιστροφή με το Ποντίκι"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr ""
+"Εκκινεί την διαφάνεια του Κύβου μόνο όταν η περιστροφή οδηγηθεί από το "
+"ποντίκι"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Κύρια Εφαρμογή Ελέγχου του D-Bus"
+
+msgid "Window Decoration"
+msgstr "Διακοσμησή Παραθύρου"
+
+msgid "Window decorations"
+msgstr "Διακοσμήσεις παραθύρου"
+
+msgid "Shadow Radius"
+msgstr "Ακτίνα Σκιάς"
+
+msgid "Drop shadow radius"
+msgstr "Απόρριψη ακτίνας σκιάς"
+
+msgid "Shadow Opacity"
+msgstr "Αδιαφάνεια Σκιάς"
+
+msgid "Drop shadow opacity"
+msgstr "Απόρριψη αδιαφάνειας σκιάς"
+
+msgid "Shadow Color"
+msgstr "Χρώμα Σκιάς"
+
+msgid "Drop shadow color"
+msgstr "Απόρριψη χρώματος σκιάς"
+
+msgid "Shadow Offset X"
+msgstr "Μετάθεση Αρχής X της Σκιάς"
+
+msgid "Drop shadow X offset"
+msgstr "Απόρριψη μετάθεσης αρχής σκιάς Χ"
+
+msgid "Shadow Offset Y"
+msgstr "Μετάθεση Αρχής Υ της Σκιάς"
+
+msgid "Drop shadow Y offset"
+msgstr "Απόρριψη μετάθεσης αρχής σκιάς Υ"
+
+msgid "Command"
+msgstr "Εντολή"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Γραμμή εντολών διακοσμητή που θα εκτελείται αν κανένας διακοσμητής δεν "
+"τρέχει ήδη"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Επιτρέπει στα mipmaps να δημιουργούνται για υφές διακοσμήσεων"
+
+msgid "Decoration windows"
+msgstr "Διακοσμήσεις παραθύρων"
+
+msgid "Windows that should be decorated"
+msgstr "Παράθυρα που πρέπει να διακοσμηθούν"
+
+msgid "Shadow windows"
+msgstr "Παράθυρα με σκιά"
+
+msgid "Windows that should have a shadow"
+msgstr "Παράθυρα που πρέπει να έχουν σκιά"
+
+msgid "Fading Windows"
+msgstr "Ξεθωριάζοντας Παράθυρα"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Ξεθώριασμα μέσα παραθύρων όταν χαρτογραφούνται και ξεθώριασμα έξω όταν τα "
+"παράθυρα αποχαρτογραφούνται"
+
+msgid "Fade Mode"
+msgstr "Είδος Ξεθωριάσματος"
+
+msgid "Window fade mode"
+msgstr "Είδος ξεθωριάσματος παραθύρου"
+
+msgid "Constant speed"
+msgstr "Σταθερή ταχύτητα"
+
+msgid "Constant time"
+msgstr "Σταθερός χρόνος"
+
+msgid "Fade Speed"
+msgstr "Ταχύτητα Ξεθωριάσματος"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Ταχύτητα ξεθωριάσματος παραθύρου στην κατάσταση \"Σταθερής ταχύτητας\""
+
+msgid "Fade Time"
+msgstr "Χρόνος Ξεθωριάσματος"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+"Χρόνος ξεθωριάσματος παραθύρου (σε ms) στην κατάσταση \"Σταθερής Ταχύτητας\""
+
+msgid "Fade windows"
+msgstr "Ξεθώριασμα παραθύρων"
+
+msgid "Windows that should be fading"
+msgstr "Παράθυρα που πρέπει να ξεθωριάζουν"
+
+msgid "Visual Bell"
+msgstr "Οπτικό Κουδούνι"
+
+msgid "Fade effect on system beep"
+msgstr "Εφέ ξεθωριάσματος στο μπίπ συστήματος"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Οπτικό Κουδούνι Πλήρους Οθόνης"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Εφέ ξεθωριάσματος πλήρους οθόνης στο μπίπ συστήματος"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Ξεθώριασμα στο Άνοιγμα/Κλείσιμο/Ελαχιστοποίηση"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Εφέ ξεθωριάσματος στο άνοιγμα/κλείσιμο/ελαχιστοποίηση παραθύρων"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Σκοτείνιασμα Μη-Ανταποκρινόμενων Παραθύρων"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+"Σκοτείνιασμα παραθύρων που δεν ανταποκρίνονται στις εντολές του διαχειριστή "
+"παραθύρων"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Φωτεινότητα Μη-Ανταποκρινόμενων Παραθύρων"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Φωτεινότητα (σε %) των μη-ανταποκρινόμενων παραθύρων"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Κορεσμός Μή-Ανταποκρινόμενων Παραθύρων"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Κορεσμός (σε %) των μη-ανταποκρινόμενων παραθύρων"
+
+msgid "Userspace File System"
+msgstr "Σύστημα Αρχείων Userspace"
+
+msgid "Userspace file system"
+msgstr "Σύστημα αρχείων χρήστη"
+
+msgid "Mount Point"
+msgstr "Σημείο Προσάρτησης"
+
+msgid "Mount point"
+msgstr "Σημείο προσάρτησης"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Κύριος βρόγχος υποστήριξης GLib"
+
+msgid "MATE Compatibility"
+msgstr "Συμβατότητα με MATE"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+"Επιλογές που διατηρούν το Compiz συμβατό με το περιβάλλον επιφάνειας "
+"εργασίας MATE"
+
+msgid "Show Main Menu"
+msgstr "Εμφάνιση Κύριου Μενού"
+
+msgid "Show the main menu"
+msgstr "Εμφάνιση του κύριου μενού"
+
+msgid "Run Dialog"
+msgstr "Τρέξιμο Διαλόγου"
+
+msgid "Show Run Application dialog"
+msgstr "Εμφάνιση διαλόγου Τρεξίματος Εφαρμογής"
+
+msgid "Screenshot command line"
+msgstr "Γραμμή εντολών αρπαγής οθόνης"
+
+msgid "Take a screenshot"
+msgstr "Τράβα μια αρπαγή οθόνης"
+
+msgid "Window screenshot command line"
+msgstr "Γραμμή εντολών αρπαγής οθόνης παραθύρου"
+
+msgid "Take a screenshot of a window"
+msgstr "Τράβα μια αρπαγή οθόνης ενός παραθύρου"
+
+msgid "Run terminal command"
+msgstr "Τρέξε εντολή τερματικού"
+
+msgid "Terminal command line"
+msgstr "Γραμμή εντολών τερματικού"
+
+msgid "Open a terminal"
+msgstr "Ανοιγμα ενός τερματικού"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Εφαρμογή Ελέγχου των Ini Αρχείων"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Πρόσθετο ειδοποίησης αλλαγής αρχείου"
+
+msgid "Minimize Effect"
+msgstr "Εφέ Ελαχιστοποίησης"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr ""
+"Μετατροπή παραθύρων όταν είναι ελαχιστοποιημένα και μή-ελαχιστοποιημένα"
+
+msgid "Minimize speed"
+msgstr "Ταχύτητα ελαχιστοποίησης"
+
+msgid "Minimize timestep"
+msgstr "Χρονικό βήμα ελαχιστοποίησης"
+
+msgid "Minimize Windows"
+msgstr "Ελαχιστοποίηση Παραθύρων"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Παράθυρα που θα μετατραπούν οταν ελαχιστοποιηθούν"
+
+msgid "Shade Resistance"
+msgstr "Αντίσταση στη Σκίαση"
+
+msgid "Shade resistance"
+msgstr "Αντίσταση στη σκίαση"
+
+msgid "Move Window"
+msgstr "Μετακίνηση Παραθύρου"
+
+msgid "Move window"
+msgstr "Μετακίνηση παραθύρου"
+
+msgid "Initiate Window Move"
+msgstr "Έναρξη Μετακίνησης Παραθύρου"
+
+msgid "Start moving window"
+msgstr "Έναρξη μετακίνησης παραθύρου"
+
+msgid "Opacity"
+msgstr "Αδιαφάνεια"
+
+msgid "Opacity level of moving windows"
+msgstr "Επίπεδο αδιαφάνειας των παραθύρων που μετακινούνται"
+
+msgid "Constrain Y"
+msgstr "Περιορισμός Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Περιορισμός Υ συντεταγμένης στην περιοχή της επιφάνειας εργασίας"
+
+msgid "Snapoff maximized windows"
+msgstr "Αρπαγή μεγιστοποιημένων παραθύρων"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+"Αρπαγή και αυτομάτως απομεγιστοποίηση μεγιστοποιημένων παραθύρων στο τράβηγμα"
+
+msgid "Lazy Positioning"
+msgstr "Οκνηρός Προσδιορισμός Θεσης"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Μην ενημερώνεις την θέση των παραθύρων στoν server μέχρι το τέλος της "
+"μετακίνησης"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Αδιαφάνεια, Φωτεινότητα και Κορεσμός "
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Ρυθμίσεις Αδιαφάνειας, Φωτεινότητας και Κορεσμού"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Αύξηση αδιαφάνειας παραθύρου"
+
+msgid "Opacity Increase"
+msgstr "Αύξηση αδιαφάνειας"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Μείωση αδιαφάνειας παραθύρου"
+
+msgid "Opacity Decrease"
+msgstr "Μείωση αδιαφάνειας"
+
+msgid "Brightness"
+msgstr "Φωτεινότητα"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Φωτεινότητα"
+
+msgid "Brightness Increase"
+msgstr "Αύξηση Φωτεινότητας"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Φωτεινότητα"
+
+msgid "Brightness Decrease"
+msgstr "Μείωση Φωτεινότητας"
+
+msgid "Saturation"
+msgstr "Κορεσμός"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Κορεσμός Θολώματος"
+
+msgid "Saturation Increase"
+msgstr "Αύξηση Κορεσμού"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Κορεσμός Θολώματος"
+
+msgid "Saturation Decrease"
+msgstr "Μείωση Κορεσμού"
+
+msgid "Step"
+msgstr "Βήμα"
+
+msgid "Opacity Step"
+msgstr "Βήμα Αδιαφάνειας"
+
+msgid "Window specific settings"
+msgstr "Συγκεκριμένες ρυθμίσεις παραθύρου"
+
+msgid "Windows"
+msgstr "Παράθυρα"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Παράθυρα που πρέπει να έχουν διαφορετική διαφάνεια εξ' ορισμού"
+
+msgid "Window values"
+msgstr "Τιμές παραθύρου"
+
+msgid "Opacity values for windows"
+msgstr "Τιμές αδιαφάνειας παραθύρων"
+
+msgid "Brightness Step"
+msgstr "Βήμα Φωτεινότητας"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Παράθυρα που πρέπει να έχουν διαφορετική φωτεινότητα εξ' ορισμού"
+
+msgid "Brightness values for windows"
+msgstr "Τιμές φωτεινότητας παραθύρων"
+
+msgid "Saturation Step"
+msgstr "Βήμα Κορεσμού"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Παράθυρα που πρέπει να έχουν διαφορετικό κορεσμό εξ' ορισμού"
+
+msgid "Saturation values for windows"
+msgstr "Τιμές κορεσμού παραθύρων"
+
+msgid "Place Windows"
+msgstr "Τοποθέτηση Παραθύρων"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Τοποθέτηση παραθύρων στις κατάλληλες θέσεις όταν ταξινομούνται"
+
+msgid "Workarounds"
+msgstr "Μοντίφες"
+
+msgid "Window placement workarounds"
+msgstr "Μοντίφες για τοποθέτηση παραθύρων"
+
+msgid "Placement Mode"
+msgstr "Τρόπος τοποθέτησης"
+
+msgid "Algorithm to use for window placement"
+msgstr "Αλγόριθμος για τοποθέτηση των παραθύρων"
+
+msgid "Cascade"
+msgstr "Κατταράκτης"
+
+msgid "Centered"
+msgstr "Στο Κέντρο"
+
+msgid "Smart"
+msgstr "Έξυπνο"
+
+msgid "Maximize"
+msgstr "Μεγιστοποίησε"
+
+msgid "Random"
+msgstr "Τυχαία"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Γύρισμα Άκρης με Δείκτη"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Επιλέγει το πως η τοποθέτηση παραθύρων θα συμπεριφερθεί αν γινει χρήση "
+"πολλαπλών οθονών"
+
+msgid "Use active output device"
+msgstr "Χρήση της ενεργής συσκευής εξόδου"
+
+msgid "Use output device with pointer"
+msgstr "Χρήση της συσκευής εξόδου με τον δείκτη"
+
+msgid "Use output device of focused window"
+msgstr "Χρήση της συσκευής εξόδου του εστιασμένου παραθύρου"
+
+msgid "Place across all outputs"
+msgstr "Τοποθέτηση σε όλες τις οθόνες"
+
+msgid "Force Placement Windows"
+msgstr "Εξαναγκασμός Τοποθέτησης Παραθύρων"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Παράθυρα που πρέπει αναγκαστικά να τοποθετηθούν, ακόμα κ αν υποδεικνύουν "
+"στον διαχειριστή παραθύρων οτι πρέπει να αποφύγει να τα τοποθετήσει."
+
+msgid "Fixed Window Placement"
+msgstr "Σταθερή Τοποθέτηση Παραθύρου"
+
+msgid "Windows with fixed positions"
+msgstr "Παράθυρα με σταθερές θέσεις"
+
+msgid "Positioned windows"
+msgstr "Τοποθετημένα παράθυρα"
+
+msgid "Windows that should be positioned by default"
+msgstr "Παράθυρα που πρέπει να τοποθετηθούν εξ' ορισμού"
+
+msgid "X Positions"
+msgstr "Θέσεις Χ"
+
+msgid "X position values"
+msgstr "Τιμές θέσης Χ"
+
+msgid "Y Positions"
+msgstr "Θέσεις Υ"
+
+msgid "Y position values"
+msgstr "Τιμές θέσης Υ"
+
+msgid "Keep In Workarea"
+msgstr "Διατήρηση Στον Χώρο Εργασίας"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Διατήρηση του τοποθετημένου παραθύρου στον χώρο εργασίας, ακόμα κ αν αυτό "
+"σημαίνει οτι η θέση του μπορεί να διαφέρει απο την καθορισμένη του θέση"
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Παράθυρα με σταθερές θέσεις"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Παράθυρα που πρέπει να έχουν διαφορετικό κορεσμό εξ' ορισμού"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Είδος Ξεθωριάσματος"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Τοποθετημένα παράθυρα"
+
+msgid "Windows with fixed viewport"
+msgstr "Παράθυρα με σταθερές εικονικές επιφάνειες εργασίας"
+
+msgid "Viewport positioned windows"
+msgstr "Τοποθετημένα παράθυρα στις εικονικές επιφάνειες εργασίας"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+"Παράθυρα που θα τοποθετηθούν σε συγκεκριμένες εικονικές επιφάνειες εργασίας "
+"εξ' ορισμού"
+
+msgid "X Viewport Positions"
+msgstr "Θέσεις Χ Εικονικών Επιφανειών Εργασίας"
+
+msgid "Horizontal viewport positions"
+msgstr "Οριζόντιες θέσεις εικονικών επιφανειών εργασίας"
+
+msgid "Y Viewport Positions"
+msgstr "Θέσεις Υ Εικονικών Επιφανειών Εργασίας"
+
+msgid "Vertical viewport positions"
+msgstr "Κάθετες θέσεις εικονικών επιφανειών εργασίας"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Φορτωτής εικόνων Png"
+
+msgid "Regex Matching"
+msgstr "Ταίριαγμα Regex"
+
+msgid "Regex window matching"
+msgstr "Ταίριαγμα παραθύρου regex"
+
+msgid "Resize Window"
+msgstr "Μορφοποίηση Παραθύρου"
+
+msgid "Resize window"
+msgstr "Μορφοποίηση παραθύρου"
+
+msgid "Bindings"
+msgstr "Συνδυασμοί"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Εκκίνηση Κανονικής Μορφοποίησης Παραθύρου"
+
+msgid "Start resizing window normally"
+msgstr "Έναρξη μορφοποίησης παραθύρου κανονικά"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Εκκίνηση Μορφής Μορφοποίησης Περιγράμματος"
+
+msgid "Start resizing window with outline"
+msgstr "Έναρξη μορφοποίησης παραθύρου με περίγραμμα"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Εκκίνηση Τετράγωνης Μορφής Μορφοποίησης"
+
+msgid "Start resizing window with rectangle"
+msgstr "Έναρξη μορφοποίησης παραθύρου με το τετράγωνο"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Εκκίνηση Μορφής Μορφοποίησης Παραμορφώσεως"
+
+msgid "Start resizing window by stretching it"
+msgstr "Έναρξη μορφοποίησης παραθύρου παραμορφώνοντάς το"
+
+msgid "Initiate Window Resize"
+msgstr "Εκκίνηση Μορφοποίησης Παραθύρου"
+
+msgid "Start resizing window"
+msgstr "Έναρξη μορφοποίησης παραθύρου"
+
+msgid "Default Resize Mode"
+msgstr "Προκαθορισμένη Κατάσταση Μορφοποίησης"
+
+msgid "Default mode used for window resizing"
+msgstr "Προκαθορισμένη κατάσταση για μορφοποιήση παραθύρου"
+
+msgid "Outline"
+msgstr "Περίγραμμα"
+
+msgid "Rectangle"
+msgstr "Τετράγωνο"
+
+msgid "Stretch"
+msgstr "Παραμόρφωση"
+
+msgid "Border Color"
+msgstr "Χρώμα Ορίου"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Χρώμα ορίου για τις καταστάσεις μορφοποίησης τετράγωνο και περίγραμμα"
+
+msgid "Fill Color"
+msgstr "Χρώμα Γεμίσματος"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Χρώμα για χρήση στην τετράγωνη κατάσταση μορφοποίησης"
+
+msgid "Normal Resize Windows"
+msgstr "Κανονική Μορφοποίηση Παραθύρων"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Παράθυρα στα οποία θα χρησιμοποιηθεί κανονική μορφοποίηση"
+
+msgid "Outline Resize Windows"
+msgstr "Μορφοποίηση Περίγράμματος"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Παράθυρα στα οποία θα χρησιμοποιηθεί μορφοποίηση περιγράμματος"
+
+msgid "Rectangle Resize Windows"
+msgstr "Τετράγωνη Μορφοποίηση Παραθύρων"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Παράθυρα στα οποία θα χρησιμοποιηθεί τετραγωνική μορφοποίηση"
+
+msgid "Stretch Resize Windows"
+msgstr "Μορφοποίηση Παραθύρου με Παραμόρφωση"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Παράθυρα στα οποία θα χρησιμοποιηθεί μορφοποίηση με παραμόρφωση"
+
+msgid "Rotate Cube"
+msgstr "Περιστροφή Κύβου"
+
+msgid "Rotate desktop cube"
+msgstr "Περιστροφή κύβου επιφάνειας εργασίας"
+
+msgid "Edge Flip Pointer"
+msgstr "Γύρισμα Άκρης με Δείκτη"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Γύρισμα στην επόμενη εικονική επιφάνεια εργασίας όταν μετακινείται ο δείκτης "
+"στην άκρη της οθόνης"
+
+msgid "Edge Flip Move"
+msgstr "Γύρισμα Άκρης με Μετακίνηση"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Γύρισμα στην επόμενη εικονική επιφάνεια εργασίας όταν μετακινείται "
+"παράθυροστην άκρη της οθόνης"
+
+msgid "Edge Flip DnD"
+msgstr "Γύρισμα Άκρης DnD"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Γύρισμα στην επόμενη εικονική επιφάνεια εργασίας όταν τραβιέται αντικείμενο "
+"στην άκρη της οθόνης"
+
+msgid "Flip Time"
+msgstr "Χρόνος Γυρίσματος"
+
+msgid "Timeout before flipping viewport"
+msgstr "Τέλος χρόνου πριν το γύρισμα της εικονικής επιφάνειας εργασίας"
+
+msgid "Raise on rotate"
+msgstr "Ανύψωση στην περιστροφή"
+
+msgid "Raise window when rotating"
+msgstr "Ανύψωση παραθύρου στην περιστροφή"
+
+msgid "Rotate cube"
+msgstr "Περιστροφή του κύβου"
+
+msgid "Start Rotation"
+msgstr "Έναρξη Περιστροφής"
+
+msgid "Rotate Left"
+msgstr "Περιστροφή Αριστερά"
+
+msgid "Rotate left"
+msgstr "Περιστροφή αριστερά"
+
+msgid "Rotate Right"
+msgstr "Περιστροφή Δεξιά"
+
+msgid "Rotate right"
+msgstr "Περιστροφή δεξιά"
+
+msgid "Rotate Left with Window"
+msgstr "Περιστροφή Αριστερά με Παράθυρο"
+
+msgid "Rotate left and bring active window along"
+msgstr "Περιστροφή αριστερά και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate Right with Window"
+msgstr "Περιστροφή Δεξιά με Παράθυρο"
+
+msgid "Rotate right and bring active window along"
+msgstr "Περιστροφή δεξιά και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To"
+msgstr "Περιστροφή Στο"
+
+msgid "Rotate to viewport"
+msgstr "Περιστροφή στην εικονική επιφάνεια εργασίας"
+
+msgid "Rotate window"
+msgstr "Περιστροφή παραθύρου"
+
+msgid "Rotate with window"
+msgstr "Περιστροφή με παράθυρο"
+
+msgid "Rotate Flip Left"
+msgstr "Περιστροφή Γύρισμα Αριστερά"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Γύρισμα στην αριστερή εικονική επιφάνεια εργασίας και τύλιγμα δείκτη"
+
+msgid "Rotate Flip Right"
+msgstr "Περιστροφή Γύρισμα Δεξιά"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Γύρισμα στην δεξιά εικονική επιφάνεια εργασίας και τύλιγμα δείκτη"
+
+msgid "Rotate to cube face"
+msgstr "Περιστροφή του κύβου στην όψη 1"
+
+msgid "Rotate To Face 1"
+msgstr "Περιστροφή Στην Όψη 1"
+
+msgid "Rotate to face 1"
+msgstr "Περιστροφή στην όψη 1"
+
+msgid "Rotate To Face 2"
+msgstr "Περιστροφή Στην Όψη 2"
+
+msgid "Rotate to face 2"
+msgstr "Περιστροφή στην όψη 2"
+
+msgid "Rotate To Face 3"
+msgstr "Περιστροφή Στην Όψη 3"
+
+msgid "Rotate to face 3"
+msgstr "Περιστροφή στην όψη 3"
+
+msgid "Rotate To Face 4"
+msgstr "Περιστροφή Στην Όψη 4"
+
+msgid "Rotate to face 4"
+msgstr "Περιστροφή στην όψη 4"
+
+msgid "Rotate To Face 5"
+msgstr "Περιστροφή Στην Όψη 5"
+
+msgid "Rotate to face 5"
+msgstr "Περιστροφή στην όψη 5"
+
+msgid "Rotate To Face 6"
+msgstr "Περιστροφή Στην Όψη 6"
+
+msgid "Rotate to face 6"
+msgstr "Περιστροφή στην όψη 6"
+
+msgid "Rotate To Face 7"
+msgstr "Περιστροφή Στην Όψη 7"
+
+msgid "Rotate to face 7"
+msgstr "Περιστροφή στην όψη 7"
+
+msgid "Rotate To Face 8"
+msgstr "Περιστροφή Στην Όψη 8"
+
+msgid "Rotate to face 8"
+msgstr "Περιστροφή στην όψη 8"
+
+msgid "Rotate To Face 9"
+msgstr "Περιστροφή Στην Όψη 9"
+
+msgid "Rotate to face 9"
+msgstr "Περιστροφή στην όψη 9"
+
+msgid "Rotate To Face 10"
+msgstr "Περιστροφή Στην Όψη 10"
+
+msgid "Rotate to face 10"
+msgstr "Περιστροφή στην όψη 10"
+
+msgid "Rotate To Face 11"
+msgstr "Περιστροφή Στην Όψη 11"
+
+msgid "Rotate to face 11"
+msgstr "Περιστροφή στην όψη 11"
+
+msgid "Rotate To Face 12"
+msgstr "Περιστροφή Στην Όψη 12"
+
+msgid "Rotate to face 12"
+msgstr "Περιστροφή στην όψη 12"
+
+msgid "Rotate to cube face with window"
+msgstr "Περιστροφή του κύβου στην όψη 1 με παράθυρο"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Περιστροφή Στην Όψη 1 με Παράθυρο"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Περιστροφή στην όψη 1 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Περιστροφή Στην Όψη 2 με Παράθυρο"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Περιστροφή στην όψη 2 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Περιστροφή Στην Όψη 3 με Παράθυρο"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Περιστροφή στην όψη 3 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Περιστροφή Στην Όψη 4 με Παράθυρο"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Περιστροφή στην όψη 4 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Περιστροφή Στην Όψη 5 με Παράθυρο"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Περιστροφή στην όψη 5 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Περιστροφή Στην Όψη 6 με Παράθυρο"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Περιστροφή στην όψη 6 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Περιστροφή Στην Όψη 7 με Παράθυρο"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Περιστροφή στην όψη 7 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Περιστροφή Στην Όψη 8 με Παράθυρο"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Περιστροφή στην όψη 8 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Περιστροφή Στην Όψη 9 με Παράθυρο"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Περιστροφή στην όψη 9 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Περιστροφή Στην Όψη 10 με Παράθυρο"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Περιστροφή στην όψη 10 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Περιστροφή Στην Όψη 11 με Παράθυρο"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Περιστροφή στην όψη 11 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Περιστροφή Στην Όψη 12 με Παράθυρο"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Περιστροφή στην όψη 12 και μεταφορά ενεργού παραθύρου κατα μήκος"
+
+msgid "Pointer Invert Y"
+msgstr "Αναστροφή Υ Δείκτη"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Αναστροφή στον Υ άξονα για μετακίνηση του δείκτη"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Αναστροφή Υ Δείκτη"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Αναστροφή στον Υ άξονα για μετακίνηση του δείκτη"
+
+msgid "Pointer Sensitivity"
+msgstr "Ευαισθησία Δείκτη"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Ευαισθησία της μετακίνησης του δείκτη"
+
+msgid "Rotation Acceleration"
+msgstr "Επιτάχυνση Περιστροφής"
+
+msgid "Snap To Top Face"
+msgstr "Αρπαγή Στην Πάνω Όψη"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Αρπαγή Περιστροφής Κύβου στην Πάνω Όψη"
+
+msgid "Snap To Bottom Face"
+msgstr "Αρπαγή Στην Κάτω Όψη"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Αρπαγή Περιστροφής Κύβου στην Κάτω Όψη"
+
+msgid "Rotation Speed"
+msgstr "Ταχύτητα Περιστροφής"
+
+msgid "Rotation Timestep"
+msgstr "Χρονικό Βήμα Περιστροφής"
+
+msgid "Zoom"
+msgstr "Ζουμ"
+
+msgid "Rotation Zoom"
+msgstr "Ζουμ Περιστροφής"
+
+msgid "Scale"
+msgstr "Κλιμάκωση"
+
+msgid "Scale windows"
+msgstr "Κλιμάκωση παραθύρων"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Συνδυασμοί Πλήκτρων για Εκκίνηση-Σταμάτημα Κατάστασης Κλιμάκωσης"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Συνδυασμοί πλήκτρων που αντιθέτως λειτουργούν ως διακόπτης για την κατάσταση "
+"κλιμάκωσης ενεργοποιόντας την όταν πατηθούν και απενεργοποιόντας την όταν "
+"αφεθούν. "
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Συνδυασμοί Κουμπιών για Εκκίνηση-Σταμάτημα Κατάστασης Κλιμάκωσης"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Συνδυασμοί κουμπιών που αντιθέτως λειτουργούν ως διακόπτης για την κατάσταση "
+"κλιμάκωσης την ενεργοποιούν όταν πατηθούν και απενεργοποιούν όταν αφεθούν."
+
+msgid "Initiate Window Picker"
+msgstr "Εκκίνηση Διαλογέα Παραθύρου"
+
+msgid "Layout and start transforming windows"
+msgstr "Διάταξη και έναρξη μεταμόρφωσης παραθύρων"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Εκκίνηση Διαλογέα Παραθύρου Για Όλα τα Παράθυρα"
+
+msgid "Layout and start transforming all windows"
+msgstr "Διάταξη και μεταμόρφωση όλων των παραθύρων"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Εκκίνηση Διαλογέα Παραθύρου Για Ομάδα Παραθύρων"
+
+msgid "Layout and start transforming window group"
+msgstr "Διάταξη και έναρξη μεταμόρφωσης ομάδας παραθύρων"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Εκκίνηση Διαλογέα Παραθύρου Για Παράθυρα στην Τρέχουσα Έξοδο"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Διάταξη και έναρξη μεταμόρφωσης παραθύρων στην τρέχουσα έξοδο"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Κλικ στην Επιφάνεια Εργασίας για Εμφάνιση Επιφάνειας Εργασίας"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Είσοδος στην κατάσταση Εμφάνισης Επιφάνειας Εργασίας όταν η Επιφάνεια "
+"Εργασίας κλικαριστεί κατα τη διάρκεια της Κλιμάκωσης"
+
+msgid "Spacing"
+msgstr "Χωροταξία"
+
+msgid "Space between windows"
+msgstr "Χώρος μεταξύ των παραθύρων"
+
+msgid "Scale speed"
+msgstr "Ταχύτητα κλιμάκωσης"
+
+msgid "Scale timestep"
+msgstr "Χρονικό βήμα κλιμάκωσης"
+
+msgid "Darken Background"
+msgstr "Σκοτείνιασμα Φόντου"
+
+msgid "Darken background when scaling windows"
+msgstr "Σκοτείνιασμα φόντου στην κλιμάκωση παραθύρων"
+
+msgid "Amount of opacity in percent"
+msgstr "Ποσοστό αδιαφάνειας επι της εκατό"
+
+msgid "Overlay Icon"
+msgstr "Επίστρωση Εικονιδίου"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Επίστρωση ενός εικονιδίου στα παράθυρα μόλις αυτά κλιμακωθούν"
+
+msgid "None"
+msgstr "Κανένα"
+
+msgid "Emblem"
+msgstr "Έμβλημα"
+
+msgid "Big"
+msgstr "Μεγάλο"
+
+msgid "Scale Windows"
+msgstr "Κλιμάκωση Παραθύρων"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Παράθυρα που πρέπει να κλιμακωθούν σε κατάσταση κλιμάκωσης"
+
+msgid "Hover Time"
+msgstr "Χρόνος Αιώρησης"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Χρόνος (σε ms) πρίν να τερματιστεί η κατάσταση κλιμάκωσης κατά τη διάρκεια "
+"της αιώρησης πάνω από ένα παράθυρο"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Επιλέγει το αν τα παράθυρα κλιμακωθούν αν γινει χρήση πολλαπλών συσκευών "
+"εξόδου."
+
+msgid "On current output device"
+msgstr "Στην τρέχουσα συσκευή εξόδου"
+
+msgid "On all output devices"
+msgstr "Σε όλες τις συσκευές εξόδου"
+
+msgid "Screenshot"
+msgstr "Αρπαγή Οθόνης"
+
+msgid "Screenshot plugin"
+msgstr "Πρόσθετο αρπαγής οθόνης"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Εκκίνηση τετράγωνης αρπαγής οθόνης"
+
+msgid "Directory"
+msgstr "Διαδρομή"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Τοποθέτηση των εικόνων αρπαγής οθόνης σε αυτή τη διαδρομή"
+
+msgid "Launch Application"
+msgstr "Εκκίνηση Εφαρμογής"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Αυτόματο άνοιγμα αρπαγής οθόνης σε αυτή την εφαρμογή"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Φορτωτής εικόνας svg"
+
+msgid "Application Switcher"
+msgstr "Επιλογέας Εφαρμογών"
+
+msgid "Next window"
+msgstr "Επόμενο παράθυρο"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+"Κάνει popup τον επιλογέα αν δεν είναι ορατός και επιλέγει το επόμενο παράθυρο"
+
+msgid "Prev window"
+msgstr "Προηγούμενο παράθυρο"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+"Κάνει popup τον επιλογέα αν δεν είναι ορατός και επιλέγει το προηγούμενο "
+"παράθυρο"
+
+msgid "Next window (All windows)"
+msgstr "Επόμενο παράθυρο (Όλα τα παράθυρα)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Κάνει popup τον επιλογέα αν δεν είναι ορατός και επιλέγει το επόμενο "
+"παράθυρο απο όλα τα παράθυρα"
+
+msgid "Prev window (All windows)"
+msgstr "Προηγούμενο παράθυρο (Όλα τα παράθυρα)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Κάνει popup τον επιλογέα αν δεν είναι ορατός και επιλέγει το προηγούμενο "
+"παράθυρο απο όλα τα παράθυρα"
+
+msgid "Next window (No popup)"
+msgstr "Επόμενο παράθυρο (Οχι popup)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Επιλογή του επόμενου παραθύρου χωρίς εμφάνιση του παραθύρου popup."
+
+msgid "Prev window (No popup)"
+msgstr "Προηγούμενο παράθυρο (Οχι popup)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Επιλογή του προηγούμενου παραθύρου χωρίς εμφάνιση του παραθύρου popup."
+
+msgid "Next Panel"
+msgstr "Επόμενο Πάνελ"
+
+msgid "Select next panel type window."
+msgstr "Επιλογή τύπου παραθύρου του επόμενου πάνελ."
+
+msgid "Prev Panel"
+msgstr "Προηγούμενο Πάνελ"
+
+msgid "Select previous panel type window."
+msgstr "Επιλογή τύπου παραθύρου του προηγούμενου πάνελ."
+
+msgid "Switcher speed"
+msgstr "Ταχύτητα επιλογέα"
+
+msgid "Switcher timestep"
+msgstr "Χρονικό βήμα επιλογέα"
+
+msgid "Switcher windows"
+msgstr "Επιλογέας παραθύρων"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Παράθυρα που δεν πρέπει να εμφανίζονται στον επιλογέα"
+
+msgid "Amount of saturation in percent"
+msgstr "Ποσό κορεσμού σε ποσοστό επι της εκατό"
+
+msgid "Amount of brightness in percent"
+msgstr "Ποσό φωτεινότητας σε ποσοστό επι της εκατό"
+
+msgid "Bring To Front"
+msgstr "Μεταφορά Μπροστά"
+
+msgid "Bring selected window to front"
+msgstr "Μεταφορά επιλεγμένου παράθυρου μπροστά"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+"Η απόσταση της επιφάνειας εργασίας που πρέπει να ζουμαριστεί έξω κατα την "
+"εναλλαγή παραθύρων"
+
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+msgid "Show icon next to thumbnail"
+msgstr "Εμφάνιση εικονιδίου δίπλα στη μικρογραφία"
+
+msgid "Minimized"
+msgstr "Ελαχιστοποιημένο"
+
+msgid "Show minimized windows"
+msgstr "Εμφάνιση ελαχιστοποιημένων παραθύρων"
+
+msgid "Auto Rotate"
+msgstr "Αυτόματη Περιστροφή"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Περιστροφή στο επιλεγμένο παράθυρο κατα την εναλλαγή"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Μέγεθος Επιφάνειας Εργασίας"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Περιστροφή στο επιλεγμένο παράθυρο κατα την εναλλαγή"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Προηγούμενο Σλάιντ"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Ακτίνα Σκιάς"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Περίγραμμα"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Μορφοποίηση Περίγράμματος"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Εικόνες Φόντου"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Χρώμα Ορίου"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Χρώμα Γεμίσματος"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Χρώμα Σκιάς"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Θέσεις Χ Εικονικών Επιφανειών Εργασίας"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Ξεθωριάζοντας Παράθυρα"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Παράθυρα που πρέπει να κλιμακωθούν σε κατάσταση κλιμάκωσης"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Μετακίνηση παραθύρου"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Περιστροφή Αριστερά"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Περιστροφή Δεξιά"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Μετακίνηση Παραθύρου"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Περιστροφή με παράθυρο"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Περιστροφή Αριστερά με Παράθυρο"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Περιστροφή Δεξιά με Παράθυρο"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Μετακίνηση Παραθύρου"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Μετακίνηση Παραθύρου"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Συνδυασμοί Άκρων Οθόνης"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Περιστροφή Γύρισμα Αριστερά"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Χρόνος Γυρίσματος"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Περιστροφή Γύρισμα Δεξιά"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Περιστροφή Γύρισμα Δεξιά"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Χρόνος Γυρίσματος"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Χρόνος Γυρίσματος"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Γύρισμα Άκρης DnD"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Μετακίνηση πλάνου κάτω"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Ταχύτητα επιλογέα"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Γύρισμα Άκρης DnD"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Γύρισμα στην επόμενη εικονική επιφάνεια εργασίας όταν μετακινείται ο δείκτης "
+"στην άκρη της οθόνης"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Γύρισμα στην επόμενη εικονική επιφάνεια εργασίας όταν μετακινείται "
+"παράθυροστην άκρη της οθόνης"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Γύρισμα στην επόμενη εικονική επιφάνεια εργασίας όταν τραβιέται αντικείμενο "
+"στην άκρη της οθόνης"
+
+msgid "Water Effect"
+msgstr "Εφέ Νερού"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Προσθέτει τα εφέ νερού σε διαφορετικές ενέργειες επιφάνειας εργασίας"
+
+msgid "Enable pointer water effects"
+msgstr "Ενεργοποίηση των εφέ νερού για τον δείκτη"
+
+msgid "Toggle rain"
+msgstr "Εκκίνηση-Σταμάτημα βροχής"
+
+msgid "Toggle rain effect"
+msgstr "Εκκίνηση-Σταμάτημα εφέ βροχής"
+
+msgid "Toggle wiper"
+msgstr "Εκκίνηση-Σταμάτημα γυαλοκαθαριστήρα"
+
+msgid "Toggle wiper effect"
+msgstr "Εκκίνηση-Σταμάτημα εφέ γυαλοκαθαριστήρα"
+
+msgid "Offset Scale"
+msgstr "Κλιμάκωση Μετάθεσης Αρχής"
+
+msgid "Water offset scale"
+msgstr "Κλιμάκωση μετάθεσης αρχής νερού"
+
+msgid "Rain Delay"
+msgstr "Καθυστέρηση Βροχής"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Καθυστέρηση (σε χιλ.δευτερολέπτου) μεταξύ κάθε σταγόνας βροχής"
+
+msgid "Title wave"
+msgstr "Τίτλος κύματος"
+
+msgid "Wave effect from window title"
+msgstr "Εφέ κύματος από τον τίτλο παραθύρου"
+
+msgid "Point"
+msgstr "Σημείο"
+
+msgid "Add point"
+msgstr "Προσθήκη σημείου"
+
+msgid "Line"
+msgstr "Γραμμή"
+
+msgid "Add line"
+msgstr "Προσθήκη γραμμής"
+
+msgid "Wobbly Windows"
+msgstr "Ταλαντευόμενα Παράθυρα"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Χρήση μοντέλου ελατηρίου για το εφέ ταλάντωσης παραθύρου"
+
+msgid "Snap windows"
+msgstr "Άρπαγμα παραθύρων"
+
+msgid "Toggle window snapping"
+msgstr "Εκκίνηση-Σταμάτημα αρπάγματος παραθύρου"
+
+msgid "Snap Inverted"
+msgstr "Αντίστροφο Άρπαγμα"
+
+msgid "Inverted window snapping"
+msgstr "Αντίστροφο άρπαγμα παραθύρου"
+
+msgid "Shiver"
+msgstr "Τρεμούλιασμα"
+
+msgid "Make window shiver"
+msgstr "Κάνει το παράθυρο να τρέμει"
+
+msgid "Friction"
+msgstr "Τριβή"
+
+msgid "Spring Friction"
+msgstr "Τριβή Ελατηρίου"
+
+msgid "Spring K"
+msgstr "Κ Ελατηρίου"
+
+msgid "Spring Konstant"
+msgstr "Σταθερά Ελατηρίου"
+
+msgid "Grid Resolution"
+msgstr "Ανάλυση Πλέγματος"
+
+msgid "Vertex Grid Resolution"
+msgstr "Ανάλυση Κορυφαίου Πλέγματος"
+
+msgid "Minimum Grid Size"
+msgstr "Ελάχιστο Μέγεθος Πλέγματος"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Ελάχιστο Μέγεθος Κορυφαίου Πλέγματος"
+
+msgid "Map Effect"
+msgstr "Εφέ Χαρτογράφησης"
+
+msgid "Map Window Effect"
+msgstr "Εφέ Χαρτογράφησης Παραθύρου"
+
+msgid "Focus Effect"
+msgstr "Εφέ Εστίασης"
+
+msgid "Focus Window Effect"
+msgstr "Εφέ Εστίασης Παραθύρου"
+
+msgid "Map Windows"
+msgstr "Χαρτογράφηση Παραθύρων"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Παράθυρα που πρέπει να ταλαντευτούν όταν χαρτογραφηθούν"
+
+msgid "Focus Windows"
+msgstr "Εστιάζει Παράθυρα"
+
+msgid "Windows that should wobble when focused"
+msgstr "Παράθυρα που πρέπει να ταλαντευτούν όταν εστιαστούν"
+
+msgid "Grab Windows"
+msgstr "Πιάσιμο Παραθύρων"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Παράθυρα που πρέπει να ταλαντευτούν όταν πιαστούν"
+
+msgid "Move Windows"
+msgstr "Μετακίνηση Παραθύρων"
+
+msgid "Windows that should wobble when moved"
+msgstr "Παράθυρα που πρέπει να ταλαντευτούν όταν μετακινηθούν"
+
+msgid "Maximize Effect"
+msgstr "Εφέ Μεγιστοποίησης"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Εφέ ταλάντευσης όταν μεγιστοποιούνται και απομεγιστοποιούνται παράθυρα"
+
+msgid "Zoom Desktop"
+msgstr "Ζουμάρισμα Επιφάνειας Εργασίας"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Pan και ζούμ του κύβου"
+
+msgid "Zoom In"
+msgstr "Ζουμ Μέσα"
+
+msgid "Zoom Out"
+msgstr "Ζουμ Έξω"
+
+msgid "Zoom Pan"
+msgstr "Pan του Ζούμ"
+
+msgid "Zoom pan"
+msgstr "Pan του ζούμ"
+
+msgid "Zoom Speed"
+msgstr "Ταχύτητα Ζουμ"
+
+msgid "Zoom Timestep"
+msgstr "Χρονικό Βήμα Ζουμ"
+
+msgid "Zoom factor"
+msgstr "Παράγοντας ζουμ"
+
+msgid "Filter Linear"
+msgstr "Γραμμικό Φιλτράρισμα"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Χρήση γραμμικού φιλτραρίσματος όταν ζουμάρεται μέσα"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Αριθμός Επιφανειών Εργασίας"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Αριθμός ψεύτικων επιφανειών εργασίας"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Ενέργεια που θα λάβει χώρα όταν περιστρέφετε τη ρόδα του ποντικιού πάνω "
+#~ "σε μια μπάρα τίτλου ενός παραθύρου."
+
+#~ msgid "Blur type"
+#~ msgstr "Είδος θολώματος"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Αδιαφάνεια θέματος ενεργού παραθύρου του Marco"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Σκίαση αδιαφάνειας θέματος ενεργού παραθύρου του Marco"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Αδιαφάνεια θέματος του Marco"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Σκίαση αδιαφάνειας θέματος του Marco"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr ""
+#~ "Αδιαφάνεια για χρήση στα ενεργά παράθυρα με θέματα διακοσμήσεων του marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Αδιαφάνεια για χρήση στα θέματα διακοσμήσεων του marco"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Σκίαση ενεργών παραθύρων με θέματα διακοσμήσεων του marco από αδιαφανές "
+#~ "σε διάφανο"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Σκίαση παραθύρων με θέματα διακοσμήσεων του marco από αδιαφανές σε διάφανο"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Ενέργεια ρόδας ποντικιού στην μπάρα τίτλου"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Είδος θολώματος για χρήση στις διακοσμήσεις παραθύρων"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Χρήση θέματος του marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr ""
+#~ "Χρήση θέματος του marco όταν ζωγραφίζονται οι διακοσμήσεις παραθύρων"
+
+#~ msgid "Line width"
+#~ msgstr "Πλάτος γραμμής"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Πλάτος γραμμής για επισημειώσεις"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Κύρια Εφαρμογή Ελέγχου του GConf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Κύρια Εφαρμογή ελέγχου του KConfig"
+
+#~ msgid "Decrease"
+#~ msgstr "Μείωση"
+
+#~ msgid "Increase"
+#~ msgstr "Αύξηση"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Γραμμή εντολών αρπαγής οθόνης"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Γραμμή εντολών αρπαγής οθόνης"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Τιμές αδιαφάνειας για παράθυρα που πρέπει να είναι διάφανα απο προεπιλογή"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Αδιαφάνεια παραθύρων"
+
+#~ msgid "Background images"
+#~ msgstr "Εικόνες φόντου"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Τοποθέτηση παραθύρων στο πλάνο"
+
+#~ msgid "Plane Down"
+#~ msgstr "Μετακίνηση Πλάνου Κάτω"
+
+#~ msgid "Plane Left"
+#~ msgstr "Μετακίνηση Πλάνου Αριστερά"
+
+#~ msgid "Plane Right"
+#~ msgstr "Μετακίνηση Πλάνου Δεξιά"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 1"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 10"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 11"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 12"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 2"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 3"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 4"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 5"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 6"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 7"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 8"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Μετακίνηση Πλάνου Στην Όψη 9"
+
+#~ msgid "Plane Up"
+#~ msgstr "Μετακίνηση Πλάνου Πάνω"
+
+#~ msgid "Plane left"
+#~ msgstr "Μετακίνηση πλάνου αριστερά"
+
+#~ msgid "Plane right"
+#~ msgstr "Μετακίνηση πλάνου δεξιά"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 1"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 10"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 11"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 12"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 2"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 3"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 4"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 5"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 6"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 7"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 8"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Μετακίνηση πλάνου στην όψη 9"
+
+#~ msgid "Plane up"
+#~ msgstr "Μετακίνηση πλάνου πάνω"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Χρόνος Ξεθωριάσματος Αδιαφάνειας Παραθύρου Επιφάνειας Εργασίας."

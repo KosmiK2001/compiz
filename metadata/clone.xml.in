@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="clone">
+	<short>Clone Output</short>
+	<long>Output clone handler</long>
+	<category>Desktop</category>
+	<display>
+	    <option name="initiate_button" type="button">
+		<short>Initiate</short>
+		<long>Initiate clone selection</long>
+		<default>&lt;Super&gt;&lt;Shift&gt;Button1</default>
+	    </option>
+	</display>
+    </plugin>
+</compiz>

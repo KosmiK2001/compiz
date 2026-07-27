@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="fs">
+	<short>Userspace File System</short>
+	<long>Userspace file system</long>
+	<category>Utility</category>
+	<display>
+	    <option name="mount_point" type="string">
+		<short>Mount Point</short>
+		<long>Mount point</long>
+		<default>compiz</default>
+	    </option>
+	</display>
+    </plugin>
+</compiz>

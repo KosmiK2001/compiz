@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compiz>
+    <plugin name="obs">
+	<short>Opacity, Brightness and Saturation</short>
+	<long>Opacity, Brightness and Saturation adjustments</long>
+	<category>Accessibility</category>
+    	<deps>
+	    <relation type="after">
+		<plugin>decoration</plugin>
+		<plugin>blur</plugin>
+	    </relation>
+	</deps>
+	<display>
+	    <group>
+		<short>Opacity</short>
+		<option name="opacity_increase_key" type="key">
+		    <short>Increase Opacity</short>
+		    <long>Opacity Increase</long>
+		    <default/>
+		</option>
+		<option name="opacity_increase_button" type="button">
+		    <short>Increase Opacity</short>
+		    <long>Opacity Increase</long>
+		    <default>&lt;Alt&gt;Button4</default>
+		</option>
+		<option name="opacity_decrease_key" type="key">
+		    <short>Decrease Opacity</short>
+		    <long>Opacity Decrease</long>
+		    <default/>
+		</option>
+		<option name="opacity_decrease_button" type="button">
+		    <short>Decrease Opacity</short>
+		    <long>Opacity Decrease</long>
+		    <default>&lt;Alt&gt;Button5</default>
+		</option>
+	    </group>
+	    <group>
+		<short>Brightness</short>
+		<option name="brightness_increase_key" type="key">
+		    <short>Increase Brightness</short>
+		    <long>Brightness Increase</long>
+		    <default/>
+		</option>
+		<option name="brightness_increase_button" type="button">
+		    <short>Increase Brightness</short>
+		    <long>Brightness Increase</long>
+		    <default/>
+		</option>
+		<option name="brightness_decrease_key" type="key">
+		    <short>Decrease Brightness</short>
+		    <long>Brightness Decrease</long>
+		    <default/>
+		</option>
+		<option name="brightness_decrease_button" type="button">
+		    <short>Decrease Brightness</short>
+		    <long>Brightness Decrease</long>
+		    <default/>
+		</option>
+	    </group>
+	    <group>
+		<short>Saturation</short>
+		<option name="saturation_increase_key" type="key">
+		    <short>Increase Saturation</short>
+		    <long>Saturation Increase</long>
+		    <default/>
+		</option>
+		<option name="saturation_increase_button" type="button">
+		    <short>Increase Saturation</short>
+		    <long>Saturation Increase</long>
+		    <default/>
+		</option>
+		<option name="saturation_decrease_key" type="key">
+		    <short>Decrease Saturation</short>
+		    <long>Saturation Decrease</long>
+		    <default/>
+		</option>
+		<option name="saturation_decrease_button" type="button">
+		    <short>Decrease Saturation</short>
+		    <long>Saturation Decrease</long>
+		    <default/>
+		</option>
+	    </group>
+	</display>
+	<screen>
+	    <group>
+		<short>Opacity</short>
+		<option name="opacity_step" type="int">
+		    <short>Step</short>
+		    <long>Opacity Step</long>
+		    <min>1</min>
+		    <max>10</max>
+		    <default>5</default>
+		</option>
+		<subgroup>
+		    <short>Window-specific settings</short>
+		    <option name="opacity_matches" type="list">
+			<short>Windows</short>
+			<long>Windows that should have a different opacity by default</long>
+			<type>match</type>
+			<default/>
+		    </option>
+		    <option name="opacity_values" type="list">
+			<short>Window values</short>
+			<long>Opacity values for windows</long>
+			<type>int</type>
+			<default/>
+			<min>0</min>
+			<max>100</max>
+		    </option>
+		</subgroup>
+	    </group>
+	    <group>
+		<short>Brightness</short>
+		<option name="brightness_step" type="int">
+		    <short>Step</short>
+		    <long>Brightness Step</long>
+		    <min>1</min>
+		    <max>10</max>
+		    <default>5</default>
+		</option>
+		<subgroup>
+		    <short>Window-specific settings</short>
+		    <option name="brightness_matches" type="list">
+			<short>Windows</short>
+			<long>Windows that should have a different brightness by default</long>
+			<type>match</type>
+			<default/>
+		    </option>
+		    <option name="brightness_values" type="list">
+			<short>Window values</short>
+			<long>Brightness values for windows</long>
+			<type>int</type>
+			<default/>
+			<min>0</min>
+			<max>100</max>
+		    </option>
+		</subgroup>
+	    </group>
+	    <group>
+		<short>Saturation</short>
+		<option type="int" name="saturation_step">
+		    <short>Step</short>
+		    <long>Saturation Step</long>
+		    <min>1</min>
+		    <max>10</max>
+		    <default>5</default>
+		</option>
+		<subgroup>
+		    <short>Window-specific settings</short>
+		    <option name="saturation_matches" type="list">
+			<short>Windows</short>
+			<long>Windows that should have a different saturation by default</long>
+			<type>match</type>
+			<default/>
+		    </option>
+		    <option name="saturation_values" type="list">
+			<short>Window values</short>
+			<long>Saturation values for windows</long>
+			<type>int</type>
+			<default/>
+			<min>0</min>
+			<max>100</max>
+		    </option>
+		</subgroup>
+	    </group>
+	</screen>
+    </plugin>
+</compiz>
+
