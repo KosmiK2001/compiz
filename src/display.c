@@ -1803,7 +1803,7 @@ eventLoop (void)
 				    COMP_SCREEN_DAMAGE_REGION_MASK;
 			    }
 			}
-
+			s->damageMask |= COMP_SCREEN_DAMAGE_ALL_MASK;
 			if (s->damageMask & COMP_SCREEN_DAMAGE_REGION_MASK)
 			{
 			    XIntersectRegion (s->damage, &s->region,
@@ -1844,6 +1844,7 @@ eventLoop (void)
 
 			if (mask & COMP_SCREEN_DAMAGE_ALL_MASK)
 			{
+			    glFlush ();
 			    glXSwapBuffers (d->display, s->output);
 			}
 			else

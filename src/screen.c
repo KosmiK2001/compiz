@@ -4072,8 +4072,7 @@ finishScreenDrawing (CompScreen *s)
     if (s->pendingCommands)
     {
 	makeScreenCurrent (s);
-	glFinish ();
-
+	glFlush ();
 	s->pendingCommands = FALSE;
     }
 }
