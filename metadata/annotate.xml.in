@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="annotate">
+	<short>Annotate</short>
+	<long>Annotate plugin</long>
+	<category>Extras</category>
+	<display>
+	    <option name="initiate_free_draw_button" type="button">
+		<short>Initiate Free Draw</short>
+		<long>Initiate freehand drawing</long>
+		<default>&lt;Super&gt;&lt;Alt&gt;Button1</default>
+	    </option>
+	    <option name="initiate_line_button" type="button">
+		<short>Initiate Line</short>
+		<long>Initiate line drawing</long>
+		<default>&lt;Super&gt;&lt;Alt&gt;Button2</default>
+	    </option>
+	    <option name="initiate_rectangle_button" type="button">
+		<short>Initiate Rectangle</short>
+		<long>Initiate rectangle drawing</long>
+		<default>&lt;Super&gt;&lt;Alt&gt;&lt;Shift&gt;Button1</default>
+	    </option>
+	    <option name="initiate_ellipse_button" type="button">
+		<short>Initiate Ellipse</short>
+		<long>Initiate ellipse drawing</long>
+		<default>&lt;Super&gt;&lt;Alt&gt;&lt;Shift&gt;Button2</default>
+	    </option>
+	    <option name="draw" type="action">
+		<short>Draw</short>
+		<long>Draw using tool</long>
+		<allowed/>
+	    </option>
+	    <option name="erase_button" type="button">
+		<short>Initiate erase</short>
+		<long>Initiate annotate erasing</long>
+		<default>&lt;Super&gt;&lt;Alt&gt;Button3</default>
+	    </option>
+	    <option name="clear_key" type="key">
+		<short>Clear</short>
+		<long>Clear</long>
+		<default>&lt;Super&gt;&lt;Alt&gt;k</default>
+	    </option>
+	    <option name="clear_button" type="button">
+		<short>Clear</short>
+		<long>Clear</long>
+	    </option>
+	    <option name="center_key" type="key">
+		<short>Toggle center shape</short>
+		<long>Toggle whether the current shape is drawn using the center of your initial click</long>
+		<default>&lt;Super&gt;&lt;Alt&gt;c</default>
+	    </option>
+	    <option name="fill_color" type="color">
+		<short>Annotate Fill Color</short>
+		<long>Fill color for annotations</long>
+		<default>
+		    <red>0xffff</red>
+		</default>
+	    </option>
+	    <option name="stroke_color" type="color">
+		<short>Annotate Stroke Color</short>
+		<long>Stroke color for annotations</long>
+		<default>
+		    <green>0xffff</green>
+		</default>
+	    </option>
+	    <option name="stroke_width" type="float">
+		<short>Stroke width</short>
+		<long>Stroke width for annotations</long>
+		<default>3.0</default>
+		<min>0.1</min>
+		<max>20.0</max>
+		<precision>0.1</precision>
+	    </option>
+	</display>
+    </plugin>
+</compiz>

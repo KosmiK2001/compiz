@@ -1,0 +1,3469 @@
+# French translation for compiz
+# Copyright (C) 2006 SUSE LINUX GmbH, Nuernberg, Germany.
+# Copyright (C) 2007 launchpad.net/compiz
+# This file is distributed under the same license as the compiz package.
+# Tristan RABLAT <tristan.rablat@gmail.com>, 2007.
+# Bruno Patri <bruno.patri@gmail.com>, 2007.
+# Alvin Meimoun <alvin.meimoun@laposte.net>, 2009.
+# Olivier Humbert <trebmuh@tuxfamily.org>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2019-10-16 12:03+0200\n"
+"PO-Revision-Date: 2019-10-16 19:14+0200\n"
+"Last-Translator: Colomban Wendling <cwendling@hypra.fr>\n"
+"Language-Team: French <fr@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close Window"
+msgstr "Fermer la fenêtre"
+
+msgid "Unmaximize Window"
+msgstr "Restaurer la fenêtre"
+
+msgid "Maximize Window"
+msgstr "Optimiser la fenêtre"
+
+msgid "Minimize Window"
+msgstr "Minimiser la fenêtre"
+
+msgid "Window Menu"
+msgstr "Menu de la fenêtre"
+
+msgid "Shade"
+msgstr "Ombrer"
+
+msgid "Make Above"
+msgstr "Placer au dessus"
+
+msgid "Stick"
+msgstr "Coller"
+
+msgid "Unshade"
+msgstr "Ne plus ombrer"
+
+msgid "Unmake Above"
+msgstr "Ne plus placer au dessus"
+
+msgid "Unstick"
+msgstr "Décoller"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "La fenêtre \"%s\" ne répond pas."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Forcer cette application à quitter causera la perte de tout changement non "
+"enregistré."
+
+msgid "_Cancel"
+msgstr "_Annuler"
+
+msgid "_Force Quit"
+msgstr "_Forcer à quitter"
+
+msgid "Annotate"
+msgstr "Annoter"
+
+msgid "Annotate plugin"
+msgstr "Extension \"Annotation\""
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Lancer l'effacement"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Lancer le dessin d'annotations"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Lancer"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Lancer le dessin d'annotations"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Lancer l'effacement"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Lancer le dessin d'annotations"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Lancer l'effacement"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Lancer le dessin d'annotations"
+
+msgid "Draw"
+msgstr "Dessiner"
+
+msgid "Draw using tool"
+msgstr "Dessiner avec un outil"
+
+msgid "Initiate erase"
+msgstr "Lancer l'effacement"
+
+msgid "Initiate annotate erasing"
+msgstr "Lancer l'effacement des annotations"
+
+msgid "Clear"
+msgstr "Effacer"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Basculer la fenêtre active ombrée"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Couleur de remplissage des annotations"
+
+msgid "Fill color for annotations"
+msgstr "Couleur de remplissage des annotations"
+
+msgid "Annotate Stroke Color"
+msgstr "Couleur du contour des annotations"
+
+msgid "Stroke color for annotations"
+msgstr "Couleur du contour des annotations"
+
+msgid "Stroke width"
+msgstr "Largeur du contour"
+
+msgid "Stroke width for annotations"
+msgstr "Largeur du contour des annotations"
+
+msgid "Blur Windows"
+msgstr "Flouter les fenêtres"
+
+msgid "Blur windows"
+msgstr "Flouter les fenêtres"
+
+msgid "Pulse"
+msgstr "Pulsation"
+
+msgid "Pulse effect"
+msgstr "Effet de pulsation"
+
+msgid "Blur Speed"
+msgstr "Vitesse de flou"
+
+msgid "Window blur speed"
+msgstr "Vitesse de floutage de la fenêtre"
+
+msgid "Focus blur windows"
+msgstr "Le focus floute les fenêtres"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Types de fenêtres devant utiliser le flou du focus"
+
+msgid "Focus Blur"
+msgstr "Flou du focus"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Flouter les fenêtres qui n'ont pas le focus"
+
+msgid "Alpha blur windows"
+msgstr "Flou Alpha Fenêtres"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Types de fenêtres devant utiliser le fondu par défaut"
+
+msgid "Alpha Blur"
+msgstr "Flou Alpha"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Flou derrière les parties transparentes des fenêtres"
+
+msgid "Blur Filter"
+msgstr "Filtre flou"
+
+msgid "Filter method used for blurring"
+msgstr "Méthode de filtrage utilisée pour le flou"
+
+msgid "4xBilinear"
+msgstr "Bilinéaire 4x"
+
+msgid "Gaussian"
+msgstr "Gaussien"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "Rayon Gaussien"
+
+msgid "Gaussian radius"
+msgstr "Rayon Gaussien"
+
+msgid "Gaussian Strength"
+msgstr "Puissance Gaussienne"
+
+msgid "Gaussian strength"
+msgstr "Puissance Gaussienne"
+
+msgid "Mipmap LOD"
+msgstr "Mipmap LOD"
+
+msgid "Mipmap level-of-detail"
+msgstr "Niveau de détail des Mipmap"
+
+msgid "Blur Saturation"
+msgstr "Saturation du flou"
+
+msgid "Blur saturation"
+msgstr "Saturation du flou"
+
+msgid "Blur Occlusion"
+msgstr "Occlusion Floue"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+"Désactiver le flou des régions de l'écran obscurcies par d'autres fenêtres"
+
+msgid "Independent texture fetch"
+msgstr "Récupérer la texture indépendante"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"utiliser les unités de texture disponible pour récupérer autant que possible "
+"la texture indépendante"
+
+msgid "Clone Output"
+msgstr "Cloner la sortie"
+
+msgid "Output clone handler"
+msgstr "Manipulateur de clône de sortie"
+
+msgid "Initiate"
+msgstr "Lancer"
+
+msgid "Initiate clone selection"
+msgstr "Sélection du mode vidéo (clône)"
+
+msgid "Commands"
+msgstr "Commandes"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Assignation de commandes arbitraires"
+
+msgid "Command line 0"
+msgstr "Ligne de commande 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command0 est appelé"
+
+msgid "Command line 1"
+msgstr "Ligne de commande 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command1 est appelé"
+
+msgid "Command line 2"
+msgstr "Ligne de commande 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command2 est appelé"
+
+msgid "Command line 3"
+msgstr "Ligne de commande 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command3 est appelé"
+
+msgid "Command line 4"
+msgstr "Ligne de commande 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command4 est appelé"
+
+msgid "Command line 5"
+msgstr "Ligne de commande 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command5 est appelé"
+
+msgid "Command line 6"
+msgstr "Ligne de commande 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command6 est appelé"
+
+msgid "Command line 7"
+msgstr "Ligne de commande 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command7 est appelé"
+
+msgid "Command line 8"
+msgstr "Ligne de commande 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command8 est appelé"
+
+msgid "Command line 9"
+msgstr "Ligne de commande 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command9 est appelé"
+
+msgid "Command line 10"
+msgstr "Ligne de commande 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command10 est appelé"
+
+msgid "Command line 11"
+msgstr "Ligne de commande 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command11 est appelé"
+
+msgid "Command line 12"
+msgstr "Ligne de commande 12"
+
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command12 est appelé"
+
+msgid "Command line 13"
+msgstr "Ligne de commande 13"
+
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command13 est appelé"
+
+msgid "Command line 14"
+msgstr "Ligne de commande 14"
+
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command14 est appelé"
+
+msgid "Command line 15"
+msgstr "Ligne de commande 15"
+
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command15 est appelé"
+
+msgid "Command line 16"
+msgstr "Ligne de commande 16"
+
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command16 est appelé"
+
+msgid "Command line 17"
+msgstr "Ligne de commande 17"
+
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command17 est appelé"
+
+msgid "Command line 18"
+msgstr "Ligne de commande 18"
+
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command18 est appelé"
+
+msgid "Command line 19"
+msgstr "Ligne de commande 19"
+
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command19 est appelé"
+
+msgid "Command line 20"
+msgstr "Ligne de commande 20"
+
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command20 est appelé"
+
+msgid "Command line 21"
+msgstr "Ligne de commande 21"
+
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command21 est appelé"
+
+msgid "Command line 22"
+msgstr "Ligne de commande 22"
+
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command22 est appelé"
+
+msgid "Command line 23"
+msgstr "Ligne de commande 23"
+
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command23 est appelé"
+
+msgid "Command line 24"
+msgstr "Ligne de commande 24"
+
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Ligne de commande à exécuter dans le shell lorsque run_command24 est appelé"
+
+msgid "Key Bindings"
+msgstr "Assignation des touches"
+
+msgid "Run command 0"
+msgstr "Exécuter la commande 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command0"
+
+msgid "Run command 1"
+msgstr "Exécuter la commande 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+msgid "Run command 2"
+msgstr "Exécuter la commande 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+msgid "Run command 3"
+msgstr "Exécuter la commande 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command3"
+
+msgid "Run command 4"
+msgstr "Exécuter la commande 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command4"
+
+msgid "Run command 5"
+msgstr "Exécuter la commande 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command5"
+
+msgid "Run command 6"
+msgstr "Exécuter la commande 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command6"
+
+msgid "Run command 7"
+msgstr "Exécuter la commande 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command7"
+
+msgid "Run command 8"
+msgstr "Exécuter la commande 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command8"
+
+msgid "Run command 9"
+msgstr "Exécuter la commande 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command9"
+
+msgid "Run command 10"
+msgstr "Exécuter la commande 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command10"
+
+msgid "Run command 11"
+msgstr "Exécuter la commande 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command11"
+
+msgid "Run command 12"
+msgstr "Exécuter la commande 12"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command12"
+
+msgid "Run command 13"
+msgstr "Exécuter la commande 13"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command13"
+
+msgid "Run command 14"
+msgstr "Exécuter la commande 14"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command14"
+
+msgid "Run command 15"
+msgstr "Exécuter la commande 15"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command15"
+
+msgid "Run command 16"
+msgstr "Exécuter la commande 16"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command16"
+
+msgid "Run command 17"
+msgstr "Exécuter la commande 17"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command17"
+
+msgid "Run command 18"
+msgstr "Exécuter la commande 18"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command18"
+
+msgid "Run command 19"
+msgstr "Exécuter la commande 19"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command19"
+
+msgid "Run command 20"
+msgstr "Exécuter la commande 20"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command20"
+
+msgid "Run command 21"
+msgstr "Exécuter la commande 21"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command21"
+
+msgid "Run command 22"
+msgstr "Exécuter la commande 22"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command22"
+
+msgid "Run command 23"
+msgstr "Exécuter la commande 23"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command23"
+
+msgid "Run command 24"
+msgstr "Exécuter la commande 24"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command24"
+
+msgid "Button Bindings"
+msgstr "Assignation des boutons"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command11"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command12"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command13"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command14"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command15"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command16"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command17"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command18"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command19"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command20"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command21"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command22"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command23"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command24"
+
+msgid "Work any time (even when screen is locked)"
+msgstr "Fonctionner en permanence (même écran verrouillé)"
+
+msgid "When checked, commands work at any time, even when a menu is open or screen is locked. Could be a security risk."
+msgstr "Lorsque activé, les commandes fonctionnent en permanence, même lorsqu'un menu est ouvert ou l'écran est verrouillé. Cela pourrait présenter un risque de sécurité."
+
+msgid "Edge Bindings"
+msgstr "Assignation des bords"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command0"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command4"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command5"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command6"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command7"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command8"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command9"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Raccourci qui, lorsqu'il est appelé, exécute la commande du shell identifiée "
+"par command2"
+
+msgid "General Options"
+msgstr "Options Générales"
+
+msgid "General compiz options"
+msgstr "Options Générales de Compiz"
+
+msgid "Active Plugins"
+msgstr "Extensions actives"
+
+msgid "List of currently active plugins"
+msgstr "Liste des extensions (plugins) actuellement actives"
+
+msgid "Audible Bell"
+msgstr "Cloche audible"
+
+msgid "Audible system beep"
+msgstr "Signal sonore du système audible"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Ignorer les conseils lorsque la fenêtre est agrandie"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Ignorer l'incrément de taille et les conseils d'aspect lorsque la fenêtre "
+"est agrandie"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Masquer les fenêtres de la barre des tâches"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Masquer les fenêtres qui ne se trouvent pas dans la barre des tâches lorsque "
+"vous passez en mode d'affichage du bureau"
+
+msgid "Edge Trigger Delay"
+msgstr "Délai de déclenchement des bordures"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Durée pendant laquelle le pointeur doit rester au bord de l'écran avant que "
+"l'action ait lieu."
+
+msgid "Cursor theme"
+msgstr "Theme du curseur"
+
+msgid "Cursor theme name"
+msgstr "Nom du theme de curseur"
+
+msgid "Cursor size"
+msgstr "Taille du curseur"
+
+msgid "Size of the cursor"
+msgstr "Taille du curseur"
+
+msgid "Ping Delay"
+msgstr "Délai du ping"
+
+msgid "Interval between ping messages"
+msgstr "Intervalle entre les messages ping"
+
+msgid "Display Settings"
+msgstr "Paramètres d'affichage"
+
+msgid "Texture Filter"
+msgstr "Filtre de texture"
+
+msgid "Texture filtering"
+msgstr "Filtrage de texture"
+
+msgid "Fast"
+msgstr "Rapide"
+
+msgid "Good"
+msgstr "Bon"
+
+msgid "Best"
+msgstr "Meilleur"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "Comportement de la prise de focus & de l'augmentation"
+
+msgid "Click to Focus"
+msgstr "Cliquer pour obtenir le focus"
+
+msgid "Click on window moves input focus to it"
+msgstr "Si vous cliquez sur la fenêtre, vous déplacez le focus dessus"
+
+msgid "Raise On Click"
+msgstr "Remonter au clic"
+
+msgid "Raise windows when clicked"
+msgstr "Remonter les fenêtres lorsque vous cliquez dessus"
+
+msgid "Auto-Raise"
+msgstr "Remontée automatique"
+
+msgid "Raise selected windows after interval"
+msgstr "Remonter les fenêtres sélectionnées après l'intervalle"
+
+msgid "Auto-Raise Delay"
+msgstr "Délai de remontée automatique"
+
+msgid "Interval before raising selected windows"
+msgstr "Intervalle avant de remonter les fenêtres sélectionnées"
+
+msgid "Key bindings"
+msgstr "Assignation des touches"
+
+msgid "Close active window"
+msgstr "Fermer la fenêtre active"
+
+msgid "Raise Window"
+msgstr "Remonter la fenêtre"
+
+msgid "Raise window above other windows"
+msgstr "Remonter la fenêtre au-dessus des autres"
+
+msgid "Lower Window"
+msgstr "Abaisser la fenêtre"
+
+msgid "Lower window beneath other windows"
+msgstr "Abaisser la fenêtre sous d'autres fenêtres"
+
+msgid "Unmaximize active window"
+msgstr "Restaurer la fenêtre active"
+
+msgid "Minimize active window"
+msgstr "Minimiser la fenêtre active"
+
+msgid "Maximize active window"
+msgstr "Optimiser la fenêtre active"
+
+msgid "Maximize Window Horizontally"
+msgstr "Optimiser la fenêtre horizontalement"
+
+msgid "Maximize active window horizontally"
+msgstr "Optimiser la fenêtre active horizontalement"
+
+msgid "Maximize Window Vertically"
+msgstr "Optimiser la fenêtre verticalement"
+
+msgid "Maximize active window vertically"
+msgstr "Optimiser la fenêtre active verticalement"
+
+msgid "Window menu button binding"
+msgstr "Bouton de racourci du menu de la fenêtre"
+
+msgid "Window menu key binding"
+msgstr "Touche de racourci du menu de la fenêtre"
+
+msgid "Show Desktop"
+msgstr "Afficher le Bureau"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Masquer toutes les fenêtres et afficher le bureau"
+
+msgid "Toggle Window Maximized"
+msgstr "Basculer la fenêtre agrandie"
+
+msgid "Toggle active window maximized"
+msgstr "Basculer la fenêtre active agrandie"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Basculer la fenêtre agrandie horizontalement"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Basculer la fenêtre active agrandie horizontalement"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Basculer la fenêtre agrandie verticalement"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Basculer la fenêtre active agrandie verticalement"
+
+msgid "Toggle Window Shaded"
+msgstr "Basculer la fenêtre ombrée"
+
+msgid "Toggle active window shaded"
+msgstr "Basculer la fenêtre active ombrée"
+
+msgid "Slow Animations"
+msgstr "Ralentir les animations"
+
+msgid "Toggle use of slow animations"
+msgstr "Basculer l'utilisation d'animations lentes"
+
+msgid "Desktop Size"
+msgstr "Taille du bureau"
+
+msgid "Horizontal Virtual Size"
+msgstr "Taille virtuelle horizontale"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Multiplicateur de taille d'écran pour taille virtuelle horizontale"
+
+msgid "Vertical Virtual Size"
+msgstr "Taille virtuelle verticale"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Multiplicateur de taille d'écran pour taille virtuelle verticale"
+
+msgid "Lighting"
+msgstr "Éclairage"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Utiliser la lumière diffuse lorsque l'écran est transformé"
+
+msgid "Detect Refresh Rate"
+msgstr "Détecter la fréquence de rafraîchissement"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Détection automatique de la fréquence de rafraîchissement"
+
+msgid "Refresh Rate"
+msgstr "Fréquence de rafraîchissement"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Vitesse à laquelle l'écran est redessiné (fois/seconde)"
+
+msgid "Detect Outputs"
+msgstr "Détection des sorties"
+
+msgid "Automatic detection of output devices"
+msgstr "Détection automatiques des périphériques de sortie"
+
+# Traduction très peu sûre
+msgid "Overlapping Output Handling"
+msgstr "Chevauchement de manipulations de sorties"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Quel périphérique de sortie chevauchée devrait être préférée"
+
+msgid "Smart mode"
+msgstr "Mode Élégant"
+
+msgid "Prefer larger output"
+msgstr "Préférer une sortie plus grande"
+
+msgid "Prefer smaller output"
+msgstr "Préférer une sortie plus petite"
+
+msgid "Outputs"
+msgstr "Sorties"
+
+msgid "List of strings describing output devices"
+msgstr "Liste des chaînes décrivant les périphériques de sortie"
+
+msgid "Sync to VBlank"
+msgstr "Sync vers VBlank"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"N'effectuer les mises à jour de l'écran que lors de la période de vidage "
+"vertical"
+
+msgid "Focus-Stealing Prevention Level"
+msgstr "Niveau de sensibilité du Focus"
+
+# En français, on ne vole pas un focus mais je n'ai pas trouvé mieux.
+msgid "Level of focus stealing prevention"
+msgstr "Niveau de sensibilité du vol de Focus"
+
+# En français, on/off est compris par tout le monde et on préfèreéviter de réutiliser le mot désactivé
+msgid "Off"
+msgstr "Off"
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "High"
+msgstr "Élevé"
+
+msgid "Very High"
+msgstr "Très élevé"
+
+msgid "Focus-Stealing Prevention Windows"
+msgstr "Fenêtres prévenues du vol de Focus"
+
+msgid "Windows to prevent grabbing keyboard focus"
+msgstr ""
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Ne pas rediriger les fenêtres plein écran"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Empêcher la redirection vers des pixmaps hors de l'écran lors de l'affichage "
+"des fenêtres plein écran"
+
+msgid "Default Icon"
+msgstr "Icône par défaut"
+
+msgid "Default window icon image"
+msgstr "Image de l'icône de la fenêtre par défaut"
+
+msgid "Force independent output painting"
+msgstr "Forcer le rendu indépendant de chaque sortie"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Peindre chaque périphérique de sortie indépendamment, même si ils se "
+"chevauchent."
+
+msgid "Texture Compression"
+msgstr "Compression de texture"
+
+msgid "If available, use compression for textures converted from images"
+msgstr ""
+"Si elle est disponible, utiliser la compression des textures venant d'images "
+"converties"
+
+msgid "Desktop Cube"
+msgstr "Cube du Bureau"
+
+msgid "Place windows on cube"
+msgstr "Placer des fenêtres sur le cube"
+
+msgid "Unfold"
+msgstr "Déplier"
+
+msgid "Unfold cube"
+msgstr "Déplier le cube"
+
+msgid "Next Slide"
+msgstr "Diapositive suivante"
+
+msgid "Advance to next slide"
+msgstr "Passer à la diapositive suivante"
+
+msgid "Prev Slide"
+msgstr "Diapositive précédente"
+
+msgid "Go back to previous slide"
+msgstr "Revenir à la diapositive précédente"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+"Générer des mipmaps dans la mesure du possible pour une mise à l'échelle de "
+"meilleure qualité"
+
+msgid "Multi Output Mode"
+msgstr "Mode de sorties multiples"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Choisir comment le cube est affiché si plusieurs périphériques de sortie "
+"sont utilisés"
+
+msgid "Automatic"
+msgstr "Automatique"
+
+msgid "Multiple cubes"
+msgstr "Cubes multiples"
+
+msgid "One big cube"
+msgstr "Un grand cube"
+
+msgid "Behavior"
+msgstr "Comportement"
+
+msgid "Inside Cube"
+msgstr "Vue de l'intérieur du Cube"
+
+msgid "Inside cube"
+msgstr "À l'intérieur du cube"
+
+msgid "Acceleration"
+msgstr "Accélération"
+
+msgid "Fold Acceleration"
+msgstr "Accélération de pliage"
+
+msgid "Speed"
+msgstr "Vitesse"
+
+msgid "Fold Speed"
+msgstr "Vitesse de pliage"
+
+msgid "Timestep"
+msgstr "Intervalle"
+
+msgid "Fold Timestep"
+msgstr "Intervalle de pliage"
+
+msgid "Appearance"
+msgstr "Apparence"
+
+msgid "Cube Color"
+msgstr "Couleur du cube"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Couleur des côtés supérieur et inférieur du cube"
+
+msgid "Cube Caps"
+msgstr "Habillage du cube"
+
+msgid "Scale image"
+msgstr "Mettre l'image à l'échelle"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Mettre les images à l'échelle pour couvrir la face supérieure du cube"
+
+msgid "Image files"
+msgstr "Fichiers image"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "Liste de fichiers PNG et SVG à afficher sur la face supérieure du cube"
+
+msgid "Adjust Image"
+msgstr "Ajuster l'Image"
+
+msgid "Adjust top face image to rotation"
+msgstr "Ajuster l'image de la face supérieure à la rotation"
+
+msgid "Skydome"
+msgstr "Skydome"
+
+msgid "Render skydome"
+msgstr "Afficher le Skydome"
+
+msgid "Skydome Image"
+msgstr "Image du Skydome"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Image à utiliser comme texture pour le Skydome"
+
+msgid "Animate Skydome"
+msgstr "Animer le Skydome"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animer le Skydome lors de la rotation de cube"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Couleur de début du gradient du Skydome"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"Couleur à utiliser pour l'arrêt de couleur supérieure du gradient de rappel "
+"de Skydome"
+
+msgid "Skydome Gradient End Color"
+msgstr "Couleur de fin du gradient du Skydome"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"Couleur à utiliser pour l'arrêt de couleur inférieure du gradient de rappel "
+"de Skydome"
+
+msgid "Transparent Cube"
+msgstr "Cube transparent"
+
+msgid "Opacity During Rotation"
+msgstr "Opacité pendant la rotation"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Opacité de la fenêtre du bureau pendant la rotation"
+
+msgid "Opacity When Not Rotating"
+msgstr "Opacité à l'arrêt"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Opacité de la fenêtre du bureau à l'arrêt"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Transparence seulement si la souris contrôle la rotation"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr ""
+"Rendre le cube transparent seulement si la rotation est contrôlée par la "
+"souris"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Backend de contrôle D-Bus"
+
+msgid "Window Decoration"
+msgstr "Décoration de la fenêtre"
+
+msgid "Window decorations"
+msgstr "Décorations des fenêtres"
+
+msgid "Shadow Radius"
+msgstr "Rayon de l'ombre"
+
+msgid "Drop shadow radius"
+msgstr "Rayon de l'ombre des gouttes"
+
+msgid "Shadow Opacity"
+msgstr "Opacité de l'ombre"
+
+msgid "Drop shadow opacity"
+msgstr "Opacité de l'ombre des gouttes"
+
+msgid "Shadow Color"
+msgstr "Couleur de l'ombre"
+
+msgid "Drop shadow color"
+msgstr "Couleur de l'ombre des gouttes"
+
+msgid "Shadow Offset X"
+msgstr "Décalage X de l'ombre"
+
+msgid "Drop shadow X offset"
+msgstr "Décalage X de l'ombre des gouttes"
+
+msgid "Shadow Offset Y"
+msgstr "Décalage Y de l'ombre"
+
+msgid "Drop shadow Y offset"
+msgstr "Décalage Y de l'ombre des gouttes"
+
+msgid "Command"
+msgstr "Commande"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Ligne de commande du décorateur qui est exécutée si aucun décorateur ne "
+"fonctionne"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Permettre la génération de mipmaps pour les textures de décoration"
+
+msgid "Decoration windows"
+msgstr "Décoration des fenêtres"
+
+msgid "Windows that should be decorated"
+msgstr "Types de fenêtres devant être décorées"
+
+msgid "Shadow windows"
+msgstr "Ombrer les fenêtres"
+
+msgid "Windows that should have a shadow"
+msgstr "Types de fenêtres devant avoir une ombre"
+
+msgid "Fading Windows"
+msgstr "Types de fenêtres à animer"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "Apparition/disparition en fondu des fenêtres à l'ouverture/fermeture"
+
+msgid "Fade Mode"
+msgstr "Mode de Fondu"
+
+msgid "Window fade mode"
+msgstr "Mode de fondu de la fenêtre"
+
+msgid "Constant speed"
+msgstr "Vitesse constante"
+
+msgid "Constant time"
+msgstr "Temps constant"
+
+msgid "Fade Speed"
+msgstr "Vitesse de fondu"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Vitesse du fondu d'une fenêtre dans le mode de \"Vitesse constante\""
+
+msgid "Fade Time"
+msgstr "Temps de Fondu"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+"Temps (en ms) du fondu d'une fenêtre dans le mode de \"Vitesse constante\""
+
+msgid "Fade windows"
+msgstr "Fondu des Fenêtres"
+
+msgid "Windows that should be fading"
+msgstr "Types de Fenêtres devant utiliser le fondu"
+
+msgid "Visual Bell"
+msgstr "Cloche visuelle"
+
+msgid "Fade effect on system beep"
+msgstr "Effet de fondu au signal sonore du système"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Cloche visuelle plein écran"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Effet de fondu plein écran au signal sonore du système"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Fondu quand une fenêtre est Minimisée/ouverte/fermée"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Effet de fondu lors des événements Minimiser/Ouvrir/Fermer la fenêtre"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Fenêtres ne répondant pas ternes"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+"Les fenêtres ternes qui ne répondent pas aux requêtes du gestionnaire de "
+"fenêtres."
+
+msgid "Unresponsive Window Brightness"
+msgstr "Luminosité d'une fenêtre ne répondant pas"
+
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Luminosité (en %) des fenêtres ne répondant pas"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Saturation d'une fenêtre ne répondant pas"
+
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Saturation (en %) des fenêtres ne répondant pas"
+
+msgid "Userspace File System"
+msgstr "Système de fichier de l'Espace Utilisateur"
+
+msgid "Userspace file system"
+msgstr "Système de fichier de l'espace utilisateur"
+
+msgid "Mount Point"
+msgstr "Point de montage"
+
+msgid "Mount point"
+msgstr "Point de montage"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Support de la boucle principale GLib"
+
+msgid "MATE Compatibility"
+msgstr "Compatibilité avec MATE"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+"Options qui rendent Compiz compatible avec l'environnement de bureau MATE"
+
+msgid "Show Main Menu"
+msgstr "Afficher le menu principal"
+
+msgid "Show the main menu"
+msgstr "Afficher le menu principal"
+
+msgid "Run Dialog"
+msgstr "Boîte de dialogue d'exécution"
+
+msgid "Show Run Application dialog"
+msgstr "Afficher la boîte de dialogue d'exécution de l'application"
+
+msgid "Screenshot command line"
+msgstr "Ligne de commande de capture d'écran"
+
+msgid "Take a screenshot"
+msgstr "Faire une capture d'écran"
+
+msgid "Window screenshot command line"
+msgstr "Ligne de commande de capture de fenêtre"
+
+msgid "Take a screenshot of a window"
+msgstr "Faire une capture d'écran d'une fenêtre"
+
+msgid "Run terminal command"
+msgstr "Commande pour lancer le Terminal"
+
+msgid "Terminal command line"
+msgstr "Commande à lancer pour le Terminal"
+
+msgid "Open a terminal"
+msgstr "Ouvrir un terminal"
+
+msgid "Ini"
+msgstr "Ini (Ne pas modifier)"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini Flat File Backend"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Extension pour la notification de modification de fichier"
+
+msgid "Minimize Effect"
+msgstr "Effet de Minimisation"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Transformer les fenêtres lorsqu'elles sont réduites ou agrandies"
+
+msgid "Minimize speed"
+msgstr "Vitesse de minimisation"
+
+msgid "Minimize timestep"
+msgstr "Intervalle de minimisation"
+
+msgid "Minimize Windows"
+msgstr "Minimiser la fenêtre"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Types de fenêtres à transformer lorsqu'elles sont réduites"
+
+msgid "Shade Resistance"
+msgstr "Résistance de l'Ombre"
+
+msgid "Shade resistance"
+msgstr "Résistance de l'ombre"
+
+msgid "Move Window"
+msgstr "Déplacer la fenêtre"
+
+msgid "Move window"
+msgstr "Déplacer la fenêtre"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Initiate Window Move"
+msgstr "Lancer le déplacement de fenêtre"
+
+msgid "Start moving window"
+msgstr "Démarrer le déplacement de la fenêtre"
+
+msgid "Opacity"
+msgstr "Opacité"
+
+msgid "Opacity level of moving windows"
+msgstr "Niveau d'opacité pour déplacer des fenêtres"
+
+msgid "Constrain Y"
+msgstr "Contraindre Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Contraindre la coordonnée Y à être dans la zone de l'espace de travail"
+
+msgid "Snapoff maximized windows"
+msgstr "Désactiver l'alignement des fenêtres agrandies"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+"Désactiver l'alignement et la démaximisation automatique des fenêtres "
+"lorsque vous les faites glisser"
+
+msgid "Lazy Positioning"
+msgstr "Positionnement souple"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Ne pas mettre à jour la position de la fenêtre coté serveur, tant que son "
+"mouvement n'est pas fini"
+
+#, fuzzy
+msgid "Off-screen windows"
+msgstr "Fenêtres en dehors de l'écran"
+
+#, fuzzy
+msgid "Enable off-Screen window scrolling"
+msgstr "Activer le défilement des fenêtres hors-écran"
+
+msgid "Make mouse wheel scroll window if part of it is off-screen"
+msgstr ""
+
+msgid "Scroll down"
+msgstr "Défiler vers le bas"
+
+msgid "Scroll window down if part of it is off-screen"
+msgstr ""
+
+msgid "Scroll up"
+msgstr "Défiler vers le haut"
+
+msgid "Scroll window up if part of it is off-screen"
+msgstr ""
+
+msgid "Scroll right"
+msgstr "Défiler vers la droite"
+
+msgid "Scroll window right if part of it is off-screen"
+msgstr ""
+
+msgid "Scroll left"
+msgstr "Défiler vers la gauge"
+
+msgid "Scroll window left if part of it is off-screen"
+msgstr ""
+
+msgid "Scrolling speed"
+msgstr "Vitesse de défilement"
+
+msgid "Speed of off-screen window scrolling"
+msgstr ""
+
+msgid "Shadow color"
+msgstr "Couleur de l'ombre"
+
+msgid "Color of the rectangle showing when one can scroll a window"
+msgstr ""
+
+#, fuzzy
+msgid "Shadow width"
+msgstr "Ombrer les fenêtres"
+
+msgid "Width of the rectangle showing when one can scroll a window"
+msgstr ""
+
+#, fuzzy
+msgid "Enable shadow gradient"
+msgstr "Rayon de l'ombre des gouttes"
+
+msgid "Enable gradient of rectangle showing when one can scroll a window"
+msgstr ""
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Opacité, luminosité et saturation"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Ajustement de l'opacité, de la luminosité et de la saturation"
+
+msgid "Increase Opacity"
+msgstr "Augmenter l'opacité"
+
+msgid "Opacity Increase"
+msgstr "Augmenter l'opacité de la fenêtre"
+
+msgid "Decrease Opacity"
+msgstr "Réduire l'opacité"
+
+msgid "Opacity Decrease"
+msgstr "Réduire l'opacité de la fenêtre"
+
+msgid "Brightness"
+msgstr "Luminosité"
+
+msgid "Increase Brightness"
+msgstr "Augmenter la Luminosité"
+
+msgid "Brightness Increase"
+msgstr "Augmenter la luminosité de la fenêtre"
+
+msgid "Decrease Brightness"
+msgstr "Réduire la luminosité"
+
+msgid "Brightness Decrease"
+msgstr "Réduire la luminosité de la fenêtre"
+
+msgid "Saturation"
+msgstr "Saturation"
+
+msgid "Increase Saturation"
+msgstr "Augmenter la saturation"
+
+msgid "Saturation Increase"
+msgstr "Augmenter la saturation de la fenêtre"
+
+msgid "Decrease Saturation"
+msgstr "Réduire la saturation"
+
+msgid "Saturation Decrease"
+msgstr "Réduire la saturation de la fenêtre"
+
+msgid "Step"
+msgstr "Incrément"
+
+msgid "Opacity Step"
+msgstr "Incrément d'opacité"
+
+msgid "Window-specific settings"
+msgstr "Réglages spécifiques des fenêtres"
+
+msgid "Windows"
+msgstr "Fenêtres"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Fenêtres devant avoir une opacité différente par défaut"
+
+msgid "Window values"
+msgstr "Valeurs des fenêtres"
+
+msgid "Opacity values for windows"
+msgstr "Valeurs d'opacité des fenêtres"
+
+msgid "Brightness Step"
+msgstr "Incrément de luminosité"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Fenêtres devant avoir une luminosité différente par défaut"
+
+msgid "Brightness values for windows"
+msgstr "Valeur de la luminosité des fenêtres"
+
+msgid "Saturation Step"
+msgstr "Incrément de la saturation"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Fenêtres devant avoir une saturation différente par défaut"
+
+msgid "Saturation values for windows"
+msgstr "Valeurs de saturation des fenêtres"
+
+msgid "Place Windows"
+msgstr "Placer des fenêtres"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Placer des fenêtres aux positions correctes lorsqu'elles sont mappées"
+
+msgid "Workarounds"
+msgstr "Solutions"
+
+msgid "Window placement workarounds"
+msgstr "Solutions de placement de fenêtre"
+
+msgid "Placement Mode"
+msgstr "Mode de placement"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algorithme à utiliser pour le déplacement des fenêtres"
+
+msgid "Cascade"
+msgstr "Cascade"
+
+msgid "Centered"
+msgstr "Centré"
+
+msgid "Smart"
+msgstr "Intelligent"
+
+msgid "Maximize"
+msgstr "Maximiser"
+
+msgid "Random"
+msgstr "Aléatoire"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Rotation de côté - Pointeur"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Sélectionne comme un emplacement de fenêtre pourrait se comporter si "
+"plusieurs sorties sont sélectionnées"
+
+msgid "Use active output device"
+msgstr "Utilise la périphérique de sortie actif"
+
+msgid "Use output device with pointer"
+msgstr "Utilise la périphérique de sortie avec le pointeur"
+
+msgid "Use output device of focused window"
+msgstr "Utilise la périphérique de sortie sur la fenêtre active"
+
+msgid "Place across all outputs"
+msgstr "Placer à travers toutes les sorties"
+
+msgid "Force Placement Windows"
+msgstr "Forcer le Placement d'une fenêtre"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Les fenêtres pourrait être forcées à se situer, même si elles indiquent que "
+"le gestionnaire de fenêtre pourrait éviter de les situer."
+
+msgid "Fixed Window Placement"
+msgstr "Placement des fenêtres fixes"
+
+msgid "Windows with fixed positions"
+msgstr "Fenêtres avec des positions fixes"
+
+msgid "Positioned windows"
+msgstr "Fenêtres positionnées"
+
+msgid "Windows that should be positioned by default"
+msgstr "Fenêtres devant être positionnées par défaut"
+
+msgid "X Positions"
+msgstr "Positions en X"
+
+msgid "X position values"
+msgstr "Valeurs de la position en X"
+
+msgid "Y Positions"
+msgstr "Positions en Y"
+
+msgid "Y position values"
+msgstr "Valeurs de la position en Y"
+
+msgid "Keep In Workarea"
+msgstr "Garder dans la Zone de Travail"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Garder la fenêtre dans la zone de travail, même si cela signifie que la "
+"position peut différer de celle spécifiée"
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Fenêtres avec des positions fixes"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Fenêtres devant avoir une saturation différente par défaut"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Mode de Fondu"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Fenêtres positionnées"
+
+msgid "Windows with fixed viewport"
+msgstr "Fenêtres avec un \"viewport\" fixe"
+
+msgid "Viewport positioned windows"
+msgstr "Fenêtres positionnées sur un bureau"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+"Types de fenêtres qui devraient être positionnées sur un bureau spécifique "
+"par défaut"
+
+msgid "X Viewport Positions"
+msgstr "Positions du viewport en X"
+
+msgid "Horizontal viewport positions"
+msgstr "Positions du viewport horizontal"
+
+msgid "Y Viewport Positions"
+msgstr "Positions du viewport en Y"
+
+msgid "Vertical viewport positions"
+msgstr "Positions du viewport vertical"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Chargeur d'Images png"
+
+msgid "Regex Matching"
+msgstr "Correspondance Regex"
+
+msgid "Regex window matching"
+msgstr "Correspondance Regex"
+
+msgid "Resize Window"
+msgstr "Redimensionner la Fenêtre"
+
+msgid "Resize window"
+msgstr "Redimensionner la fenêtre"
+
+msgid "Bindings"
+msgstr "Assignations"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Lancer le redimensionnement de fenêtre Normal"
+
+msgid "Start resizing window normally"
+msgstr "Commencer à redimensionner la fenêtre normalement"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Lancer le redimensionnement de fenêtre Contour"
+
+msgid "Start resizing window with outline"
+msgstr "Commencer à redimensionner la fenêtre avec le contour"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Lancer le redimensionnement de fenêtre Rectangle"
+
+msgid "Start resizing window with rectangle"
+msgstr "Commencer à redimensionner la fenêtre avec un rectangle"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Lancer le redimensionnement de fenêtre Étiré"
+
+msgid "Start resizing window by stretching it"
+msgstr "Commencer à redimensionner la fenêtre en l'étirant"
+
+msgid "Initiate Window Resize"
+msgstr "Lancer le redimensionnement de fenêtre"
+
+msgid "Start resizing window"
+msgstr "Commencer à redimensionner la fenêtre"
+
+msgid "Default Resize Mode"
+msgstr "Mode de redimensionnement par défaut"
+
+msgid "Default mode used for window resizing"
+msgstr "Mode utilisé par défaut pour le redimentionnement de fenêtre"
+
+msgid "Outline"
+msgstr "Contour"
+
+msgid "Rectangle"
+msgstr "Rectangle"
+
+msgid "Stretch"
+msgstr "Étirer"
+
+msgid "Border Color"
+msgstr "Couleur de Bordure"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"Couleur de la bordure utilisée pour les modes de redimensionnement "
+"Rectangulaire et Contour"
+
+msgid "Fill Color"
+msgstr "Couleur de Remplissage"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Couleur de remplissage pour le mode de redimensionnement rectangulaire"
+
+msgid "Normal Resize Windows"
+msgstr "Redimensionne les fenêtres en mode Normal"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Types de fenêtres qui devraient utiliser le redimensionnement Normal"
+
+msgid "Outline Resize Windows"
+msgstr "Redimensionne les fenêtres en mode Contour"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Types de fenêtres qui devraient utiliser le redimensionnement Contour"
+
+msgid "Rectangle Resize Windows"
+msgstr "Redimensionne les fenêtres en mode Rectangle"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr ""
+"Types de fenêtres qui devraient utiliser le redimensionnement Rectangle"
+
+msgid "Stretch Resize Windows"
+msgstr "Redimensionne les fenêtres en mode Étiré"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Types de fenêtres qui devraient utiliser le redimensionnement Étiré"
+
+msgid "Rotate Cube"
+msgstr "Rotation du Cube"
+
+msgid "Rotate desktop cube"
+msgstr "Rotation du cube de bureau"
+
+msgid "Edge Flip Pointer"
+msgstr "Rotation de côté - Pointeur"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Rotation vers la face suivante - Déplacement du pointeur vers le côté de "
+"l'écran"
+
+msgid "Edge Flip Move"
+msgstr "Rotation de côté - Déplacement"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Rotation vers la face suivante - Déplacement de la fenêtre vers le côté de "
+"l'écran"
+
+msgid "Edge Flip DnD"
+msgstr "Rotation de côté - Glissement-déplacement"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Rotation vers la face suivante - Glissement d'un objet vers le côté de "
+"l'écran"
+
+msgid "Flip Time"
+msgstr "Temps de rotation"
+
+msgid "Timeout before flipping viewport"
+msgstr "Délai avant la rotation du bureau"
+
+msgid "Raise on rotate"
+msgstr "Remonter lors de la rotation"
+
+msgid "Raise window when rotating"
+msgstr "Remonter la fenêtre lors de la rotation"
+
+msgid "Rotate cube"
+msgstr "Rotation du Cube"
+
+msgid "Start Rotation"
+msgstr "Démarrer la rotation"
+
+msgid "Rotate Left"
+msgstr "Rotation à gauche"
+
+msgid "Rotate left"
+msgstr "Rotation à gauche"
+
+msgid "Rotate Right"
+msgstr "Rotation à droite"
+
+msgid "Rotate right"
+msgstr "Rotation à droite"
+
+msgid "Rotate Left with Window"
+msgstr "Rotation à gauche avec la fenêtre"
+
+msgid "Rotate left and bring active window along"
+msgstr "Rotation à gauche avec la fenêtre active"
+
+msgid "Rotate Right with Window"
+msgstr "Rotation à droite avec la fenêtre"
+
+msgid "Rotate right and bring active window along"
+msgstr "Rotation à droite avec la fenêtre active"
+
+msgid "Rotate To"
+msgstr "Rotation vers"
+
+msgid "Rotate to viewport"
+msgstr "Rotation vers un bureau (une face)"
+
+msgid "Rotate window"
+msgstr "Rotation de la fenêtre"
+
+msgid "Rotate with window"
+msgstr "Rotation avec la fenêtre"
+
+msgid "Rotate Flip Left"
+msgstr "Rotation sur le côté gauche"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Rotation sur le coté gauche avec le pointeur"
+
+msgid "Rotate Flip Right"
+msgstr "Rotation sur le côté droit"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Rotation sur le coté droit avec le pointeur"
+
+msgid "Rotate to cube face"
+msgstr "Rotation vers la face du cube"
+
+msgid "Rotate To Face 1"
+msgstr "Rotation vers la face 1"
+
+msgid "Rotate to face 1"
+msgstr "Rotation vers la face 1"
+
+msgid "Rotate To Face 2"
+msgstr "Rotation vers la face 2"
+
+msgid "Rotate to face 2"
+msgstr "Rotation vers la face 2"
+
+msgid "Rotate To Face 3"
+msgstr "Rotation vers la face 3"
+
+msgid "Rotate to face 3"
+msgstr "Rotation vers la face 3"
+
+msgid "Rotate To Face 4"
+msgstr "Rotation vers la face 4"
+
+msgid "Rotate to face 4"
+msgstr "Rotation vers la face 4"
+
+msgid "Rotate To Face 5"
+msgstr "Rotation vers la face 5"
+
+msgid "Rotate to face 5"
+msgstr "Rotation vers la face 5"
+
+msgid "Rotate To Face 6"
+msgstr "Rotation vers la face 6"
+
+msgid "Rotate to face 6"
+msgstr "Rotation vers la face 6"
+
+msgid "Rotate To Face 7"
+msgstr "Rotation vers la face 7"
+
+msgid "Rotate to face 7"
+msgstr "Rotation vers la face 7"
+
+msgid "Rotate To Face 8"
+msgstr "Rotation vers la face 8"
+
+msgid "Rotate to face 8"
+msgstr "Rotation vers la face 8"
+
+msgid "Rotate To Face 9"
+msgstr "Rotation vers la face 9"
+
+msgid "Rotate to face 9"
+msgstr "Rotation vers la face 9"
+
+msgid "Rotate To Face 10"
+msgstr "Rotation vers la face 10"
+
+msgid "Rotate to face 10"
+msgstr "Rotation vers la face 10"
+
+msgid "Rotate To Face 11"
+msgstr "Rotation vers la face 11"
+
+msgid "Rotate to face 11"
+msgstr "Rotation vers la face 11"
+
+msgid "Rotate To Face 12"
+msgstr "Rotation vers la face 12"
+
+msgid "Rotate to face 12"
+msgstr "Rotation vers la face 12"
+
+msgid "Rotate to cube face with window"
+msgstr "Rotation vers la face du cube avec fenêtre"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Rotation vers la face 1 avec la fenêtre"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Rotation vers la face 1 avec la fenêtre active"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Rotation vers la face 2 avec la fenêtre"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Rotation vers la face 2 avec la fenêtre active"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Rotation vers la face 3 avec la fenêtre"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Rotation vers la face 3 avec la fenêtre active"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Rotation vers la face 4 avec la fenêtre"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Rotation vers la face 4 avec la fenêtre active"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Rotation vers la face 5 avec la fenêtre"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Rotation vers la face 5 avec la fenêtre active"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Rotation vers la face 6 avec la fenêtre"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Rotation vers la face 6 avec la fenêtre active"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Rotation vers la face 7 avec la fenêtre"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Rotation vers la face 7 avec la fenêtre active"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Rotation vers la face 8 avec la fenêtre"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Rotation vers la face 8 avec la fenêtre active"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Rotation vers la face 9 avec la fenêtre"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Rotation vers la face 9 avec la fenêtre active"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Rotation vers la face 10 avec la fenêtre"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Rotation vers la face 10 avec la fenêtre active"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Rotation vers la face 11 avec la fenêtre"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Rotation vers la face 11 avec la fenêtre active"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Rotation vers la face 12 avec la fenêtre"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Rotation vers la face 12 avec la fenêtre active"
+
+msgid "Pointer Invert Y"
+msgstr "Inversion Y du pointeur"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Insérer l'axe Y pour le mouvement du pointeur"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Inversion Y du pointeur"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Insérer l'axe Y pour le mouvement du pointeur"
+
+msgid "Pointer Sensitivity"
+msgstr "Sensibilité du pointeur"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Sensibilité du mouvement du pointeur"
+
+msgid "Rotation Acceleration"
+msgstr "Accélération de la rotation"
+
+msgid "Snap To Top Face"
+msgstr "Aligner avec la face supérieure"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Aligner la rotation du cube avec la face supérieure"
+
+msgid "Snap To Bottom Face"
+msgstr "Aligner avec la face inférieure"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Aligner la rotation du cube avec la face inférieure"
+
+msgid "Rotation Speed"
+msgstr "Vitesse de la rotation"
+
+msgid "Rotation Timestep"
+msgstr "Intervalle de la rotation"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Rotation Zoom"
+msgstr "Zoom de la rotation"
+
+msgid "Scale"
+msgstr "Échelle"
+
+msgid "Scale windows"
+msgstr "Mettre toutes les fenêtres à la même échelle"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Assignation des touches de bascule du mode échelle"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Assignation des boutons de bascule du mode échelle au lieu de l'activer en "
+"pressant et le désactiver en relâchant."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Assignation des boutons de bascule du mode échelle"
+
+#, fuzzy
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Assignation des boutons de bascule du mode échelle au lieu de l'activer une "
+"fois pressé et de le désactiver une foi relâché"
+
+msgid "Initiate Window Picker"
+msgstr "Lancer le sélecteur de fenêtre"
+
+msgid "Layout and start transforming windows"
+msgstr "Disposer et commencer à transformer les fenêtres"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Lancer le sélecteur de fenêtre pour toutes les fenêtres"
+
+msgid "Layout and start transforming all windows"
+msgstr "Disposer et commencer à transformer toutes les fenêtres"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Lancer le sélecteur de fenêtre pour un groupe de fenêtres"
+
+msgid "Layout and start transforming window group"
+msgstr "Disposer et commencer à transformer un groupe de fenêtres"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr ""
+"Lancer le sélecteur de fenêtre pour les fenêtres sur la sortie actuelle"
+
+msgid "Layout and start transforming windows on current output"
+msgstr ""
+"Disposer et commencer à transformer des fenêtres sur la sortie actuelle"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Cliquez sur le Bureau pour l'afficher"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Entrer en mode Affichage Du Bureau quand celui-ci est cliqué pendant la Mise "
+"à l'Échelle"
+
+msgid "Spacing"
+msgstr "Espacement"
+
+msgid "Space between windows"
+msgstr "Espace entre les fenêtres"
+
+msgid "Scale speed"
+msgstr "Vitesse de mise à l'échelle"
+
+msgid "Scale timestep"
+msgstr "Intervalle de mise à l'échelle"
+
+msgid "Darken Background"
+msgstr "Assombrir l'arrière-plan"
+
+msgid "Darken background when scaling windows"
+msgstr "Assombrir l'arrière-plan lors de la Mise à l'Échelle des fenêtres"
+
+msgid "Amount of opacity in percent"
+msgstr "Quantité d'opacité en pourcentage"
+
+msgid "Overlay Icon"
+msgstr "Superposer l'icône"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr ""
+"Superposer une icône sur les fenêtres lorsqu'elles ont été mises à l'échelle"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Emblem"
+msgstr "Emblème"
+
+msgid "Big"
+msgstr "Grand"
+
+msgid "Scale Windows"
+msgstr "Mettre les fenêtres à l'échelle"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Types de fenêtres à mettre à l'échelle en mode Échelle"
+
+msgid "Hover Time"
+msgstr "Temps de survol"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Temps (en ms) avant que le mode Échelle soit terminé lors du survol au-"
+"dessus d'une fenêtre"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Choisir où les fenêtres sont mises à l'échelle si plusieurs périphériques de "
+"sortie sont utilisés."
+
+msgid "On current output device"
+msgstr "Sur le périphérique de sortie courant"
+
+msgid "On all output devices"
+msgstr "Sur tous les périphériques de sortie"
+
+msgid "Screenshot"
+msgstr "Capture d'écran"
+
+msgid "Screenshot plugin"
+msgstr "Extension de capture d'écran"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Lancer une capture d'écran"
+
+msgid "Directory"
+msgstr "Répertoire"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Mettre les captures d'écran dans ce répertoire"
+
+msgid "Launch Application"
+msgstr "Lancer une Application"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Ouvrir automatiquement la capture d'écran dans cette application"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Chargeur d'images Svg"
+
+msgid "Application Switcher"
+msgstr "Sélecteur d'Application"
+
+msgid "Next window"
+msgstr "Fenêtre suivante"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+"Afficher le sélecteur s'il n'est pas visible et sélectionner la fenêtre "
+"suivante"
+
+msgid "Prev window"
+msgstr "Fenêtre précédente"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+"Afficher le sélecteur s'il n'est pas visible et sélectionner la fenêtre "
+"précédente"
+
+msgid "Next window (All windows)"
+msgstr "Fenêtre suivante (toutes les fenêtres)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Afficher le sélecteur s'il n'est pas visible et sélectionner la fenêtre "
+"suivante parmi toutes les fenêtres"
+
+msgid "Prev window (All windows)"
+msgstr "Fenêtre précédente (toutes les fenêtres)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Afficher le sélecteur s'il n'est pas visible et sélectionner la fenêtre "
+"précédente parmi toutes les fenêtres"
+
+msgid "Next window (No popup)"
+msgstr "Fenêtre suivante (pas de sélecteur)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Sélectionner la fenêtre suivante sans montrer le sélecteur"
+
+msgid "Prev window (No popup)"
+msgstr "Fenêtre précédente (pas de sélecteur)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Sélectionner la fenêtre précédente sans montrer le sélecteur"
+
+msgid "Next Panel"
+msgstr "Panneau Suivant"
+
+# Ca ne veut rien dire...
+msgid "Select next panel type window."
+msgstr "Sélectionner la prochaine fenêtre de la police du panneau"
+
+msgid "Prev Panel"
+msgstr "Panneau Précédent"
+
+msgid "Select previous panel type window."
+msgstr "Sélectionner la précédente fenêtre de la police du panneau"
+
+msgid "Switcher speed"
+msgstr "Vitesse du sélecteur"
+
+msgid "Switcher timestep"
+msgstr "Intervalle du sélecteur"
+
+msgid "Switcher windows"
+msgstr "Types de fenêtres du sélecteur"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Types de fenêtres à afficher dans le sélecteur"
+
+msgid "Amount of saturation in percent"
+msgstr "Quantité de saturation en pourcentage"
+
+msgid "Amount of brightness in percent"
+msgstr "Quantité de luminosité en pourcentage"
+
+msgid "Bring To Front"
+msgstr "Placer au-dessus"
+
+msgid "Bring selected window to front"
+msgstr "Placer la fenêtre sélectionnée au-dessus"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+"Le bureau à distance doit être en zoom arrière lors du passage d'une fenêtre "
+"à une autre"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Show icon next to thumbnail"
+msgstr "Afficher l'icône à côté de la miniature"
+
+msgid "Minimized"
+msgstr "Minimisé"
+
+msgid "Show minimized windows"
+msgstr "Afficher des fenêtres réduites"
+
+msgid "Auto Rotate"
+msgstr "Rotation automatique"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Tourner vers la fenêtre sélectionnée pendant la commutation"
+
+msgid "Desktop Wall"
+msgstr "Mur de bureau"
+
+msgid "Desktop Wall Plugin"
+msgstr "Greffon du mur de bureau"
+
+msgid "Viewport Switch Preview"
+msgstr "Aperçu du commutateur de la fenêtre d'affichage"
+
+msgid "Show Viewport Switcher Preview"
+msgstr "Aperçu du sélecteur de fenêtre d'affichage"
+
+msgid "Show switcher window while switching viewports"
+msgstr "Tourner vers la fenêtre sélectionnée pendant la commutation"
+
+msgid "Show Live Viewport Previews"
+msgstr "Afficher les aperçus en direct de la fenêtre d'affichage"
+
+msgid "Show live viewport previews in switcher window"
+msgstr "Afficher les aperçus en direct dans la fenêtre du commutateur"
+
+msgid "Switch Target Preview Visibility Time"
+msgstr "Changer le temps de visibilité de l'aperçu de la cible"
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+"Durée (en s) pendant laquelle l'aperçu de la cible de commutation doit "
+"rester visible après la fin de la commutation."
+
+msgid "Preview Scale"
+msgstr "Échelle de l'aperçu"
+
+msgid "Size of the preview in %"
+msgstr "Taille de l'aperçu en %"
+
+msgid "Edge Radius"
+msgstr "Rayon du bord"
+
+msgid "Radius of the rounded edge"
+msgstr "Rayon du bord arrondi"
+
+msgid "Border Width"
+msgstr "Largeur de la bordure"
+
+msgid "Width of the border between the previews"
+msgstr "Largeur de la bordure entre les aperçus"
+
+msgid "Outline Color"
+msgstr "Couleur du contour"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Redimensionne les fenêtres en mode Contour"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Images de Fond"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Couleur de Bordure"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Couleur de Remplissage"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Couleur de l'ombre"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Positions du viewport en X"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Types de fenêtres à animer"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Types de fenêtres à mettre à l'échelle en mode Échelle"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Déplacer la fenêtre"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Rotation à gauche"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Rotation à droite"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Déplacer la fenêtre"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Rotation avec la fenêtre"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Rotation à gauche avec la fenêtre"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Rotation à droite avec la fenêtre"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Déplacer la fenêtre"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Déplacer la fenêtre"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Assignation des bords"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Rotation sur le côté gauche"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Temps de rotation"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Rotation sur le côté droit"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Rotation sur le côté droit"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Temps de rotation"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Temps de rotation"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Rotation de côté - Glissement-déplacement"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Faire glisser la vue vers le bureau inférieur"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Vitesse du sélecteur"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Rotation de côté - Glissement-déplacement"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Rotation vers la face suivante - Déplacement du pointeur vers le côté de "
+"l'écran"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Rotation vers la face suivante - Déplacement de la fenêtre vers le côté de "
+"l'écran"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Rotation vers la face suivante - Glissement d'un objet vers le côté de "
+"l'écran"
+
+msgid "Water Effect"
+msgstr "Effet d'eau"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Ajoute des effets d'eau à différentes opérations du bureau"
+
+msgid "Enable pointer water effects"
+msgstr "Activer les effets d'eau du pointeur"
+
+msgid "Toggle rain"
+msgstr "Activer/désactiver la pluie"
+
+msgid "Toggle rain effect"
+msgstr "Activer/désactiver l'effet de pluie"
+
+msgid "Toggle wiper"
+msgstr "Activer/désactiver l'essuie-glace"
+
+msgid "Toggle wiper effect"
+msgstr "Activer/désactiver l'effet d'essuie-glace"
+
+msgid "Offset Scale"
+msgstr "Échelle de décalage"
+
+msgid "Water offset scale"
+msgstr "Échelle de décalage d'eau"
+
+msgid "Rain Delay"
+msgstr "Délai de pluie"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Délai (en ms) entre chaque goutte de pluie"
+
+msgid "Title wave"
+msgstr "Vague sur le titre"
+
+msgid "Wave effect from window title"
+msgstr "Effet de vague sur le titre de la fenêtre"
+
+msgid "Point"
+msgstr "Point"
+
+msgid "Add point"
+msgstr "Ajouter un point"
+
+msgid "Line"
+msgstr "Ligne"
+
+msgid "Add line"
+msgstr "Ajouter une ligne"
+
+msgid "Wobbly Windows"
+msgstr "Déformer les Fenêtres"
+
+msgid "Use spring model for wobbly window effect"
+msgstr ""
+"Utiliser le modèle physique du ressort pour créer un effet de déformation "
+"des fenêtres"
+
+msgid "Snap windows"
+msgstr "Aligner les fenêtres"
+
+msgid "Toggle window snapping"
+msgstr "Basculer l'alignement des fenêtres"
+
+msgid "Snap Inverted"
+msgstr "Alignement inversé"
+
+msgid "Inverted window snapping"
+msgstr "Alignement inversé de la fenêtre"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Déformation"
+
+msgid "Make window shiver"
+msgstr "Déformer la fenêtre"
+
+msgid "Friction"
+msgstr "Friction"
+
+msgid "Spring Friction"
+msgstr "Friction ressort"
+
+msgid "Spring K"
+msgstr "Ressort K"
+
+msgid "Spring Konstant"
+msgstr "Constante de ressort"
+
+msgid "Grid Resolution"
+msgstr "Résolution de la grille"
+
+msgid "Vertex Grid Resolution"
+msgstr "Résolution de la grille de sommets"
+
+msgid "Minimum Grid Size"
+msgstr "Taille de grille minimale"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Taille de grille de sommet minimale"
+
+msgid "Map Effect"
+msgstr "Mapper l'effet"
+
+msgid "Map Window Effect"
+msgstr "Mapper l'effet de la fenêtre"
+
+msgid "Focus Effect"
+msgstr "Effet de focus"
+
+msgid "Focus Window Effect"
+msgstr "Effet de focus de la fenêtre"
+
+msgid "Map Windows"
+msgstr "Mapper les types de fenêtres"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Types de fenêtres à déformer lorsqu'elles sont mappées"
+
+msgid "Focus Windows"
+msgstr "Focus sur les Fenêtres"
+
+msgid "Windows that should wobble when focused"
+msgstr "Types de fenêtres à déformer lorsque le focus est sur celles-ci"
+
+msgid "Grab Windows"
+msgstr "Saisir les Fenêtres"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Types de fenêtres à déformer lorsqu'elles sont saisies"
+
+msgid "Move Windows"
+msgstr "Déplacer les fenêtres"
+
+msgid "Windows that should wobble when moved"
+msgstr "Types de fenêtres à déformer lorsqu'elles sont déplacées"
+
+msgid "Maximize Effect"
+msgstr "Optimiser l'effet"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr ""
+"Effet de déformation lors de la maximisation et de la démaximisation des "
+"fenêtres"
+
+msgid "Zoom Desktop"
+msgstr "Zoom du Bureau"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Zoom et panoramique du cube du bureau"
+
+msgid "Zoom In"
+msgstr "Zoom avant"
+
+msgid "Zoom Out"
+msgstr "Zoom arrière"
+
+msgid "Zoom Pan"
+msgstr "Zoom Panoramique"
+
+msgid "Zoom pan"
+msgstr "Zoom panoramique"
+
+msgid "Zoom Speed"
+msgstr "Vitesse du zoom"
+
+msgid "Zoom Timestep"
+msgstr "Intervalle du zoom"
+
+msgid "Zoom factor"
+msgstr "Facteur de zoom"
+
+msgid "Filter Linear"
+msgstr "Filtre linéaire"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Utiliser le filtre linéaire pour le zoom avant"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+msgid "compiz"
+msgstr "compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+msgid "Size multiplier"
+msgstr "Facteur d'agrandissement"
+
+msgid "Adjusts the size of the switcher windows"
+msgstr "Ajuste la taille du sélecteur de fenêtre"
+
+msgid "Only show icon"
+msgstr "N'afficher que l'icône"
+
+msgid "Only show the window icon and do not display a thumbnail at all"
+msgstr "N'afficher que l'icône de la fenêtre et pas son aperçu"
+
+#~ msgid "Focus prevention windows"
+#~ msgstr "fenêtres prévenues du focus"
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Nombre de bureaux"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Nombre de bureaux virtuels"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Action à accomplir en tournant la molette de la souris sur la barre de "
+#~ "titre d'une fenêtre"
+
+#~ msgid "Blur type"
+#~ msgstr "Type de flou"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Opacité de la fenêtre active du thème Marco"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Nuance de l'opacité de la fenêtre active du thème Marco"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Opacité du thème Marco"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Nuance de l'opacité du thème Marco"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr ""
+#~ "Opacité à utiliser pour les fenêtres actives avec les décorations des "
+#~ "thèmes Marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Opacité à utiliser pour les décorations des thèmes Marco"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Nuancer les fenêtres actives avec les décorations du thème Marco, "
+#~ "d'opaque à transparent"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Nuancer les fenêtres avec les décorations du thème Marco, d'opaque à "
+#~ "transparent"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Action de la molette de souris sur la barre de titre"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Type de flou utilisé pour les décorations des fenêtres"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Utiliser le thème Marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Utiliser le thème Marco pour dessiner les décorations de fenêtres"
+
+#~ msgid "Line width"
+#~ msgstr "Largeur de ligne"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Largeur de ligne des annotations"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Backend de contrôle GConf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Backend de contrôle Kconfig"
+
+#~ msgid "Decrease"
+#~ msgstr "Réduire"
+
+#~ msgid "Increase"
+#~ msgstr "Augmenter"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Ligne de commande de capture d'écran"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Ligne de commande de capture d'écran"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Valeurs de l'opacité pour les fenêtres qui devraient être transparentes "
+#~ "par défaut"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Transparence des fenêtres"
+
+#~ msgid "Background images"
+#~ msgstr "Images de fond"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Placer tous les bureaux sur un plan"
+
+#~ msgid "Plane Down"
+#~ msgstr "Planer vers le Bas"
+
+#~ msgid "Plane Left"
+#~ msgstr "Planer à Gauche"
+
+#~ msgid "Plane Right"
+#~ msgstr "Planer à Droite"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Planer vers la Face 1"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Planer vers la Face 10"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Planer vers la Face 11"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Planer vers la Face 12"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Planer vers la Face 2"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Planer vers la Face 3"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Planer vers la Face 4"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Planer vers la Face 5"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Planer vers la Face 6"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Planer vers la Face 7"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Planer vers la Face 8"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Planer vers la Face 9"
+
+#~ msgid "Plane Up"
+#~ msgstr "Planer vers le Haut"
+
+#~ msgid "Plane left"
+#~ msgstr "Faire glisser la vue vers le bureau de gauche"
+
+#~ msgid "Plane right"
+#~ msgstr "Faire glisser la vue vers le bureau de droite"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Faire glisser la vue vers la face 1"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Faire glisser la vue vers la face 10"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Faire glisser la vue vers la face 11"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Faire glisser la vue vers la face 12"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Faire glisser la vue vers la face 2"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Faire glisser la vue vers la face 3"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Faire glisser la vue vers la face 4"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Faire glisser la vue vers la face 5"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Faire glisser la vue vers la face 6"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Faire glisser la vue vers la face 7"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Faire glisser la vue vers la face 8"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Faire glisser la vue vers la face 9"
+
+#~ msgid "Plane up"
+#~ msgstr "Faire glisser la vue vers le bureau supérieur"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Temps de fondu de l'opacité de la fenêtre du bureau"

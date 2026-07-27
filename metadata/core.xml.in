@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<compiz>
+    <core>
+	<short>General Options</short>
+	<long>General compiz options</long>
+	<category>General</category>
+	<display>
+	    <option name="abi" type="int" read_only="true"/>
+	    <option name="active_plugins" type="list">
+		<short>Active Plugins</short>
+		<long>List of currently active plugins</long>
+		<type>string</type>
+		<default>
+		    <value>core</value>
+		</default>
+	    </option>
+	    <option name="audible_bell" type="bool">
+		<short>Audible Bell</short>
+		<long>Audible system beep</long>
+		<default>true</default>
+	    </option>
+	    <option name="ignore_hints_when_maximized" type="bool">
+		<short>Ignore Hints When Maximized</short>
+		<long>Ignore size increment and aspect hints when window is maximized</long>
+		<default>true</default>
+	    </option>
+	    <option name="hide_skip_taskbar_windows" type="bool">
+		<short>Hide Skip Taskbar Windows</short>
+		<long>Hide windows not in taskbar when entering show desktop mode</long>
+		<default>true</default>
+	    </option>
+	    <option name="edge_delay" type="int">
+		<short>Edge Trigger Delay</short>
+		<long>Duration the pointer must rest in a screen edge before an edge action is taken.</long>
+		<default>0</default>
+		<min>0</min>
+		<max>10000</max>
+	    </option>
+	    <option name="cursor_theme" type="string">
+		<short>Cursor theme</short>
+		<long>Cursor theme name</long>
+		<default></default>
+	    </option>
+	    <option name="cursor_size" type="int">
+		<short>Cursor size</short>
+		<long>Size of the cursor</long>
+		<default>24</default>
+		<min>8</min>
+		<max>128</max>
+	    </option>
+	    <option name="ping_delay" type="int">
+		<short>Ping Delay</short>
+		<long>Interval between ping messages</long>
+		<default>5000</default>
+		<min>1000</min>
+		<max>30000</max>
+	    </option>
+	    <group>
+		<short>Display Settings</short>
+		<option name="texture_filter" type="int">
+		    <short>Texture Filter</short>
+		    <long>Texture filtering</long>
+		    <default>1</default>
+		    <min>0</min>
+		    <max>2</max>
+		    <desc>
+			<value>0</value>
+			<name>Fast</name>
+		    </desc>
+		    <desc>
+			<value>1</value>
+			<name>Good</name>
+		    </desc>
+		    <desc>
+			<value>2</value>
+			<name>Best</name>
+		    </desc>
+		</option>
+	    </group>
+	    <group>
+		<short>Focus &amp; Raise Behavior</short>
+		<option name="click_to_focus" type="bool">
+		    <short>Click to Focus</short>
+		    <long>Click on window moves input focus to it</long>
+		    <default>true</default>
+		</option>
+		<option name="raise_on_click" type="bool">
+		    <short>Raise On Click</short>
+		    <long>Raise windows when clicked</long>
+		    <default>true</default>
+		</option>
+		<option name="autoraise" type="bool">
+		    <short>Auto-Raise</short>
+		    <long>Raise selected windows after interval</long>
+		    <default>true</default>
+		</option>
+		<option name="autoraise_delay" type="int">
+		    <short>Auto-Raise Delay</short>
+		    <long>Interval before raising selected windows</long>
+		    <default>1000</default>
+		    <min>0</min>
+		    <max>10000</max>
+		</option>
+	    </group>
+
+	    <group>
+		<short>Key bindings</short>
+		<option name="close_window_key" type="key">
+		    <short>Close Window</short>
+		    <long>Close active window</long>
+		    <default>&lt;Alt&gt;F4</default>
+		</option>
+		<option name="close_window_button" type="button">
+		    <short>Close Window</short>
+		    <long>Close active window</long>
+		</option>
+		<option name="raise_window_key" type="key">
+		    <short>Raise Window</short>
+		    <long>Raise window above other windows</long>
+		</option>
+		<option name="raise_window_button" type="button">
+		    <short>Raise Window</short>
+		    <long>Raise window above other windows</long>
+		    <default>&lt;Primary&gt;Button6</default>
+		</option>
+		<option name="lower_window_key" type="key">
+		    <short>Lower Window</short>
+		    <long>Lower window beneath other windows</long>
+		</option>
+		<option name="lower_window_button" type="button">
+		    <short>Lower Window</short>
+		    <long>Lower window beneath other windows</long>
+		    <default>&lt;Alt&gt;Button6</default>
+		</option>
+		<option name="unmaximize_window_key" type="key">
+		    <short>Unmaximize Window</short>
+		    <long>Unmaximize active window</long>
+		    <default>&lt;Alt&gt;F5</default>
+		</option>
+		<option name="minimize_window_key" type="key">
+		    <short>Minimize Window</short>
+		    <long>Minimize active window</long>
+		    <default>&lt;Alt&gt;F9</default>
+		</option>
+		<option name="minimize_window_button" type="button">
+		    <short>Minimize Window</short>
+		    <long>Minimize active window</long>
+		</option>
+		<option name="maximize_window_key" type="key">
+		    <short>Maximize Window</short>
+		    <long>Maximize active window</long>
+		    <default>&lt;Alt&gt;F10</default>
+		</option>
+		<option name="maximize_window_horizontally_key" type="key">
+		    <short>Maximize Window Horizontally</short>
+		    <long>Maximize active window horizontally</long>
+		</option>
+		<option name="maximize_window_vertically_key" type="key">
+		    <short>Maximize Window Vertically</short>
+		    <long>Maximize active window vertically</long>
+		</option>
+		<option name="window_menu_button" type="button">
+		    <short>Window Menu</short>
+		    <long>Window menu button binding</long>
+		    <default>&lt;Alt&gt;Button3</default>
+		</option>
+		<option name="window_menu_key" type="key">
+		    <short>Window Menu</short>
+		    <long>Window menu key binding</long>
+		    <default>&lt;Alt&gt;space</default>
+		</option>
+		<option name="show_desktop_key" type="key">
+		    <short>Show Desktop</short>
+		    <long>Hide all windows and focus desktop</long>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;d</default>
+		</option>
+		<option name="show_desktop_edge" type="edge">
+		    <short>Show Desktop</short>
+		    <long>Hide all windows and focus desktop</long>
+		    <default/>
+		</option>
+		<option name="toggle_window_maximized_key" type="key">
+		    <short>Toggle Window Maximized</short>
+		    <long>Toggle active window maximized</long>
+		</option>
+		<option name="toggle_window_maximized_button" type="button">
+		    <short>Toggle Window Maximized</short>
+		    <long>Toggle active window maximized</long>
+		</option>
+		<option name="toggle_window_maximized_horizontally_key" type="key">
+		    <short>Toggle Window Maximized Horizontally</short>
+		    <long>Toggle active window maximized horizontally</long>
+		</option>
+		<option name="toggle_window_maximized_vertically_key" type="key">
+		    <short>Toggle Window Maximized Vertically</short>
+		    <long>Toggle active window maximized vertically</long>
+		</option>
+		<option name="toggle_window_shaded_key" type="key">
+		    <short>Toggle Window Shaded</short>
+		    <long>Toggle active window shaded</long>
+		    <default>&lt;Primary&gt;&lt;Alt&gt;s</default>
+		</option>
+		<option name="slow_animations_key" type="key">
+		    <short>Slow Animations</short>
+		    <long>Toggle use of slow animations</long>
+		</option>
+	    </group>
+	</display>
+	<screen>
+	    <group>
+		<short>Desktop Size</short>
+		<option name="hsize" type="int">
+		    <short>Horizontal Virtual Size</short>
+		    <long>Screen size multiplier for horizontal virtual size</long>
+		    <default>4</default>
+		    <min>1</min>
+		    <max>32</max>
+		</option>
+		<option name="vsize" type="int">
+		    <short>Vertical Virtual Size</short>
+		    <long>Screen size multiplier for vertical virtual size</long>
+		    <default>1</default>
+		    <min>1</min>
+		    <max>32</max>
+		</option>
+	    </group>
+	    <group>
+		<short>Display Settings</short>
+		<option name="lighting" type="bool">
+		    <short>Lighting</short>
+		    <long>Use diffuse light when screen is transformed</long>
+		    <default>false</default>
+		</option>
+		<option name="detect_refresh_rate" type="bool">
+		    <short>Detect Refresh Rate</short>
+		    <long>Automatic detection of refresh rate</long>
+		    <default>true</default>
+		</option>
+		<option name="refresh_rate" type="int">
+		    <short>Refresh Rate</short>
+		    <long>The rate at which the screen is redrawn (times/second)</long>
+		    <default>50</default>
+		    <min>1</min>
+		    <max>200</max>
+		</option>
+		<option name="detect_outputs" type="bool">
+		    <short>Detect Outputs</short>
+		    <long>Automatic detection of output devices</long>
+		    <default>true</default>
+		</option>
+		<option name="overlapping_outputs" type="int">
+		    <short>Overlapping Output Handling</short>
+		    <long>Which one of overlapping output devices should be preferred</long>
+		    <default>0</default>
+		    <min>0</min>
+		    <max>2</max>
+		    <desc>
+			<value>0</value>
+			<name>Smart mode</name>
+		    </desc>
+		    <desc>
+			<value>1</value>
+			<name>Prefer larger output</name>
+		    </desc>
+		    <desc>
+			<value>2</value>
+			<name>Prefer smaller output</name>
+		    </desc>
+		</option>
+		<option name="outputs" type="list">
+		    <short>Outputs</short>
+		    <long>List of strings describing output devices</long>
+		    <type>string</type>
+		    <default>
+			<value>640x480+0+0</value>
+		    </default>
+		</option>
+		<option name="sync_to_vblank" type="bool">
+		    <short>Sync to VBlank</short>
+		    <long>Only perform screen updates during vertical blanking period</long>
+		    <default>true</default>
+		</option>
+	    </group>
+	    <group>
+		<short>Focus &amp; Raise Behavior</short>
+		<option name="focus_prevention_level" type="int">
+		    <short>Focus-Stealing Prevention Level</short>
+		    <long>Level of focus stealing prevention</long>
+		    <min>0</min>
+		    <max>4</max>
+		    <default>0</default>
+		    <desc>
+			<value>0</value>
+			<name>Off</name>
+		    </desc>
+		    <desc>
+			<value>1</value>
+			<name>Low</name>
+		    </desc>
+		    <desc>
+			<value>2</value>
+			<name>Normal</name>
+		    </desc>
+		    <desc>
+			<value>3</value>
+			<name>High</name>
+		    </desc>
+		    <desc>
+			<value>4</value>
+			<name>Very High</name>
+		    </desc>
+		</option>
+		<option name="focus_prevention_match" type="match">
+		    <short>Focus-Stealing Prevention Windows</short>
+		    <long>Windows to prevent grabbing keyboard focus</long>
+		    <default>any</default>
+		</option>
+	    </group>
+	    <option name="unredirect_fullscreen_windows" type="bool">
+		<short>Unredirect Fullscreen Windows</short>
+		<long>Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps</long>
+		<default>false</default>
+	    </option>
+	    <option name="default_icon" type="string">
+		<short>Default Icon</short>
+		<long>Default window icon image</long>
+		<default>icon</default>
+	    </option>
+	    <option name="force_independent_output_painting" type="bool">
+		<short>Force independent output painting</short>
+		<long>Paint each output device independly, even if the output devices overlap</long>
+		<default>false</default>
+	    </option>
+	    <option name="texture_compression" type="bool">
+		<short>Texture Compression</short>
+		<long>If available, use compression for textures converted from images</long>
+		<default>false</default>
+	    </option>
+	</screen>
+    </core>
+</compiz>

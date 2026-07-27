@@ -1,0 +1,3656 @@
+# Turkish translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+# Serdar Soytetir <tulliana@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:43+0300\n"
+"PO-Revision-Date: 2008-10-28 17:44+0100\n"
+"Last-Translator: Emre KURNAZ <kurnaz@yeacon.com.tr>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# clients/inst_target_part.ycp:404
+msgid "Close Window"
+msgstr "Pencereyi Kapat"
+
+msgid "Unmaximize Window"
+msgstr "Pencereyi Büyütme"
+
+msgid "Maximize Window"
+msgstr "Pencereyi Büyüt"
+
+# clients/inst_target_part.ycp:387
+msgid "Minimize Window"
+msgstr "Pencereyi Küçült"
+
+# clients/inst_sw_single.ycp:188
+msgid "Window Menu"
+msgstr "Pencere Menüsü"
+
+# menuentries/menuentry_scanner.ycp:36
+msgid "Shade"
+msgstr "Gölgelendir"
+
+msgid "Make Above"
+msgstr "Üstte Göster"
+
+msgid "Stick"
+msgstr "Yapıştır"
+
+msgid "Unshade"
+msgstr "Gölgelendirme"
+
+msgid "Unmake Above"
+msgstr "Üstte Gösterme"
+
+msgid "Unstick"
+msgstr "Yapıştırma"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Pencere \"%s\" yanıt vermiyor."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Bu uygulamayı kapatmaya zorlamak, kaydetmediğiniz değişiklikleri "
+"kaybetmenize neden olacaktır."
+
+msgid "_Cancel"
+msgstr "_İptal Et"
+
+msgid "_Force Quit"
+msgstr "_Kapatmaya Zorla"
+
+msgid "Annotate"
+msgstr "Notlar"
+
+msgid "Annotate plugin"
+msgstr "Not eklentisi"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Silmeye başla"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Not çizmeye başla"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Başla"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Not çizmeye başla"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Silmeye başla"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Not çizmeye başla"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Silmeye başla"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Not çizmeye başla"
+
+msgid "Draw"
+msgstr "Çiz"
+
+msgid "Draw using tool"
+msgstr "Çizmek için kullanılacak araç"
+
+msgid "Initiate erase"
+msgstr "Silmeye başla"
+
+msgid "Initiate annotate erasing"
+msgstr "Not silmeye başla"
+
+msgid "Clear"
+msgstr "Temizle"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Etkin pencereyi gölgele / geri yükle"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+# include/security/ui.ycp:774
+msgid "Annotate Fill Color"
+msgstr "Not Dolgu Rengi"
+
+msgid "Fill color for annotations"
+msgstr "Notlar için dolgu rengi"
+
+msgid "Annotate Stroke Color"
+msgstr "Not Vurgu Rengi"
+
+msgid "Stroke color for annotations"
+msgstr "Notlar için vurgulama rengi"
+
+msgid "Stroke width"
+msgstr "Vurgu genişliği"
+
+msgid "Stroke width for annotations"
+msgstr "Notlar için vurgu genişliği"
+
+# clients/inst_target_part.ycp:404
+msgid "Blur Windows"
+msgstr "Pencereleri Bulanıklaştır"
+
+# clients/inst_target_part.ycp:404
+msgid "Blur windows"
+msgstr "Pencereleri bulanıklaştır"
+
+msgid "Pulse"
+msgstr "Darbe"
+
+msgid "Pulse effect"
+msgstr "Darbe efekti"
+
+msgid "Blur Speed"
+msgstr "Bulanıklaştırma Hızı"
+
+# clients/inst_resize_ui.ycp:597
+msgid "Window blur speed"
+msgstr "Pencere bulanıklaştırma hızı"
+
+# clients/inst_target_part.ycp:404
+msgid "Focus blur windows"
+msgstr "Odaklanan pencereleri bulanıklaştır"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Odaklama bulanıklaştırmasından etkilenecek pencereler"
+
+# clients/inst_target_part.ycp:404
+msgid "Focus Blur"
+msgstr "Odaklama Bulanıklaştırması"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Odaklanmamış pencereleri bulanıklaştır"
+
+# clients/inst_target_part.ycp:404
+msgid "Alpha blur windows"
+msgstr "Pencereleri alpha kanalı ile bulanıklaştır"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Öntanımlı olarak alpha bulanıklaştırması kullanan pencereler"
+
+# clients/inst_target_part.ycp:404
+msgid "Alpha Blur"
+msgstr "Alpha Bulanıklaştırma"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Pencerelerin saydam kısımlarının arkasını bulanıklaştır"
+
+# include/tv/ui.ycp:493
+msgid "Blur Filter"
+msgstr "Bulanıklaştırma Filtresi"
+
+msgid "Filter method used for blurring"
+msgstr "Bulanıklaştırma işlemi için kullanılacak filtre"
+
+msgid "4xBilinear"
+msgstr "4 kat Çift Doğrusal"
+
+# RU
+msgid "Gaussian"
+msgstr "Gaussian"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+# RU
+msgid "Gaussian Radius"
+msgstr "Gaussian Yarıçapı"
+
+# RU
+msgid "Gaussian radius"
+msgstr "Gaussian yarıçapı"
+
+# /usr/lib/YaST2/keyboard_raw.ycp:638
+msgid "Gaussian Strength"
+msgstr "Gaussian Sertliği"
+
+# /usr/lib/YaST2/keyboard_raw.ycp:638
+msgid "Gaussian strength"
+msgstr "Gaussian sertliği"
+
+msgid "Mipmap LOD"
+msgstr "Mipmap LOD"
+
+msgid "Mipmap level-of-detail"
+msgstr "Mipmap ayrıntı-düzeyi"
+
+msgid "Blur Saturation"
+msgstr "Bulanıklaştırma Doygunluğu"
+
+msgid "Blur saturation"
+msgstr "Bulanıklaştırma doygunluğu"
+
+msgid "Blur Occlusion"
+msgstr "Bulanıklaştırma Emilimi"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Diğer pencereler tarafından örtülen ekran bölgelerini bulanıklaştırma"
+
+msgid "Independent texture fetch"
+msgstr "Bağımsız doku getirmek"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Mümkün olduğunca çok bağımsız doku getirisi sağlamak için, müsait olan doku "
+"birimlerini kullan."
+
+msgid "Clone Output"
+msgstr "Çıktı İkilemesi"
+
+msgid "Output clone handler"
+msgstr "Çıktı ikilemesi sağlayıcı"
+
+msgid "Initiate"
+msgstr "Başla"
+
+msgid "Initiate clone selection"
+msgstr "İkileme seçimini başlat"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Commands"
+msgstr "Komut"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+# clients/support_registration.ycp:66
+msgid "Command line 0"
+msgstr "0. komut satırı"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "Komut0_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 1"
+msgstr "1. komut satırı"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 2"
+msgstr "2. komut satırı"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "Komut2_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 3"
+msgstr "3. komut satırı"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "Komut3_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 4"
+msgstr "4. komut satırı"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "Komut4_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 5"
+msgstr "5. komut satırı"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "Komut5_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 6"
+msgstr "6. komut satırı"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "Komut6_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 7"
+msgstr "7. komut satırı"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "Komut7_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 8"
+msgstr "8. komut satırı"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "Komut8_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 9"
+msgstr "9. komut satırı"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "Komut9_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 10"
+msgstr "10. komut satırı"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "Komut10_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+msgid "Command line 11"
+msgstr "11. komut satırı"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "Komut11_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 12"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 13"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 14"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 15"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 16"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 17"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 18"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 19"
+msgstr "1. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 20"
+msgstr "2. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "Komut0_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 21"
+msgstr "2. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "Komut1_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 22"
+msgstr "2. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "Komut2_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 23"
+msgstr "2. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "Komut2_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Command line 24"
+msgstr "2. komut satırı"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "Komut2_çalıştır çağrıldığında kabukta çalıştırılacak komut"
+
+msgid "Key Bindings"
+msgstr ""
+
+msgid "Run command 0"
+msgstr "0. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Tetiklendiğinde komut0 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+msgid "Run command 1"
+msgstr "1. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 2"
+msgstr "2. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 3"
+msgstr "3. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Tetiklendiğinde komut3 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 4"
+msgstr "4. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Tetiklendiğinde komut4 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 5"
+msgstr "5. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Tetiklendiğinde komut5 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 6"
+msgstr "6. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Tetiklendiğinde komut6 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 7"
+msgstr "7. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Tetiklendiğinde komut7 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 8"
+msgstr "8. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Tetiklendiğinde komut8 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+msgid "Run command 9"
+msgstr "9. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Tetiklendiğinde komut9 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+msgid "Run command 10"
+msgstr "10. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Tetiklendiğinde komut10 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+msgid "Run command 11"
+msgstr "11. komutu çalıştır"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Tetiklendiğinde komut11 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "1. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Run command 20"
+msgstr "2. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Run command 21"
+msgstr "2. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Run command 22"
+msgstr "2. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Run command 23"
+msgstr "2. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# clients/support_registration.ycp:66
+#, fuzzy
+msgid "Run command 24"
+msgstr "2. komutu çalıştır"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+# Kastedileni tam olarak anlayamadım. (drake)
+#, fuzzy
+msgid "Button Bindings"
+msgstr "Ölçeklendirme Kipine Geçen Düğme Bağlayıcıları"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Tetiklendiğinde komut0 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Tetiklendiğinde komut3 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Tetiklendiğinde komut4 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Tetiklendiğinde komut5 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Tetiklendiğinde komut6 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Tetiklendiğinde komut7 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Tetiklendiğinde komut8 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Tetiklendiğinde komut9 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Tetiklendiğinde komut10 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Tetiklendiğinde komut11 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Tetiklendiğinde komut0 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Tetiklendiğinde komut3 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Tetiklendiğinde komut4 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Tetiklendiğinde komut5 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Tetiklendiğinde komut6 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Tetiklendiğinde komut7 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Tetiklendiğinde komut8 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Tetiklendiğinde komut9 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Tetiklendiğinde komut10 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Tetiklendiğinde komut11 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Tetiklendiğinde komut1 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Tetiklendiğinde komut2 olarak tanımlanmış olan kabuk komutunu çalıştıracak "
+"bir kısayol birleşimi"
+
+msgid "General Options"
+msgstr "Genel Seçenekler"
+
+msgid "General compiz options"
+msgstr "Genel compiz seçenekleri"
+
+msgid "Active Plugins"
+msgstr "Etkin Eklentiler"
+
+# include/scanner/scanner_functions.ycp:218
+msgid "List of currently active plugins"
+msgstr "Algılanan eklentilerin listesi"
+
+msgid "Audible Bell"
+msgstr "İşitilebilir Zil"
+
+# include/partitioning/custom_part_dialogs.ycp:288
+msgid "Audible system beep"
+msgstr "İşitilebilir sistem bip sesi"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Büyütülünce ipuçlarını yoksay"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "Pencere büyütülmüşse boyut büyütmeyi ve ipuçlarını pasifleştir"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Görev Çubuğu Pencerelerini Atlamayı Gizle"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Masaüstünü Göster Kipine geçerken görev çubuğunda olmayan pencereleri gizle"
+
+msgid "Edge Trigger Delay"
+msgstr "Kenar Tetikleme Gecikmesi"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+# clients/hwinfo.ycp:71
+msgid "Ping Delay"
+msgstr "Ping Gecikmesi"
+
+msgid "Interval between ping messages"
+msgstr "Ping mesajları arasında geçecek süre"
+
+msgid "Display Settings"
+msgstr ""
+
+# include/tv/ui.ycp:493
+msgid "Texture Filter"
+msgstr "Doku Filtresi"
+
+# include/tv/ui.ycp:493
+msgid "Texture filtering"
+msgstr "Doku filtreleme"
+
+msgid "Fast"
+msgstr "Hızlı"
+
+msgid "Good"
+msgstr "İyi"
+
+msgid "Best"
+msgstr "En iyi"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Odaklamak için Tıkla"
+
+msgid "Click on window moves input focus to it"
+msgstr "Pencereyi odaklamaya almak için tıkla"
+
+msgid "Raise On Click"
+msgstr "Tıklayınca Yükselt"
+
+msgid "Raise windows when clicked"
+msgstr "Tıklayınca pencereleri yükselt"
+
+msgid "Auto-Raise"
+msgstr "Otomatik-Yükselt"
+
+msgid "Raise selected windows after interval"
+msgstr "Süre bittiğinde seçilen pencereleri yükselt"
+
+msgid "Auto-Raise Delay"
+msgstr "Otomatik-Yükselme Gecikmesi"
+
+msgid "Interval before raising selected windows"
+msgstr "Seçilen pencerelerin yükseltilmesinden önce geçecek süre"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "Etkin pencereyi kapat"
+
+msgid "Raise Window"
+msgstr "Pencereyi Yükselt"
+
+msgid "Raise window above other windows"
+msgstr "Pencereyi diğer pencerelerin üzerine yükselt"
+
+# clients/inst_resize_ui.ycp:688
+msgid "Lower Window"
+msgstr "Pencereyi Alta Gönder"
+
+msgid "Lower window beneath other windows"
+msgstr "Pencereyi diğer pencerelerin altına gönder"
+
+msgid "Unmaximize active window"
+msgstr "Etkin pencereyi büyütme"
+
+msgid "Minimize active window"
+msgstr "Etkin pencereyi küçült"
+
+msgid "Maximize active window"
+msgstr "Etkin pencereyi büyüt"
+
+# clients/inst_target_part.ycp:387
+msgid "Maximize Window Horizontally"
+msgstr "Pencereyi Yatay Olarak Büyüt"
+
+msgid "Maximize active window horizontally"
+msgstr "Etkin pencereyi yatay olarak büyüt"
+
+# clients/inst_target_part.ycp:387
+msgid "Maximize Window Vertically"
+msgstr "Pencereyi Dikey Olarak Büyüt"
+
+msgid "Maximize active window vertically"
+msgstr "Etkin pencereyi dikey olarak büyüt"
+
+msgid "Window menu button binding"
+msgstr "Pencere menüsü düğme bağlayıcısı"
+
+msgid "Window menu key binding"
+msgstr "Pencere menüsü kısayol bağlayıcısı"
+
+# clients/inst_sw_single.ycp:146
+msgid "Show Desktop"
+msgstr "Masaüstünü Göster"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Tüm pencereleri gizle ve masaüstünü odakla"
+
+msgid "Toggle Window Maximized"
+msgstr "Pencereyi Büyüt / Küçült"
+
+msgid "Toggle active window maximized"
+msgstr "Etkin pencereyi büyüt / geri yükle"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Pencereyi Yatay Olarak Büyüt / Küçült"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Etkin pencereyi yatay olarak büyüt / geri yükle"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Pencereyi Dikey Olarak Büyüt / Küçült"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Etkin pencereyi dikey olarak büyüt / geri yükle"
+
+msgid "Toggle Window Shaded"
+msgstr "Pencereyi Gölgele / Geri Yükle"
+
+msgid "Toggle active window shaded"
+msgstr "Etkin pencereyi gölgele / geri yükle"
+
+msgid "Slow Animations"
+msgstr "Yavaş Animasyonlar"
+
+msgid "Toggle use of slow animations"
+msgstr "Yavaş canlandırmaları aç / kapat"
+
+# clients/inst_sw_single.ycp:146
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Masaüstü Küpü"
+
+msgid "Horizontal Virtual Size"
+msgstr "Yatay Sanal Boyut"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Yatay sanal boyut için ekran boyutu çoklayıcı"
+
+msgid "Vertical Virtual Size"
+msgstr "Dikey Sanal Boyut"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Dikey sanal boyut için ekran boyutu çoklayıcı"
+
+msgid "Lighting"
+msgstr "Aydınlatma"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Ekran boyutu değiştirildiğinde geçirgenlik ışığı kullan"
+
+# clients/inst_sw_single.ycp:1620
+msgid "Detect Refresh Rate"
+msgstr "Tazeleme Oranını Bul"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Tazeleme oranını otomatik bul"
+
+msgid "Refresh Rate"
+msgstr "Tazeleme Oranı"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Ekranın yeniden çizilmesinde kullanılacak oran (tekrar sayısı/saniye)"
+
+msgid "Detect Outputs"
+msgstr "Çıktıları Bul"
+
+msgid "Automatic detection of output devices"
+msgstr "Çıktı aygıtlarını otomatik bul"
+
+msgid "Overlapping Output Handling"
+msgstr "Örtüşen Çıktı İşlemesi"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Üst üste binen çıktı aygıtlarından hangisi tercih edilmeli"
+
+msgid "Smart mode"
+msgstr "Akıllı kip"
+
+msgid "Prefer larger output"
+msgstr "Daha büyük çıktıyı tercih et"
+
+msgid "Prefer smaller output"
+msgstr "Daha küçük çıktıyı tercih et"
+
+msgid "Outputs"
+msgstr "Çıktılar"
+
+msgid "List of strings describing output devices"
+msgstr "Çıktı aygıtlarını tanımlayan sözcüklerin listesi"
+
+msgid "Sync To VBlank"
+msgstr "Dikey Boşaltma ile Eşzamanla"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Ekran güncellemeyi sadece dikey boşaltma sürecinde yap"
+
+msgid "Focus Prevention Level"
+msgstr "Odaklanma Önleyici Seviyesi"
+
+msgid "Level of focus stealing prevention"
+msgstr "Odaklanma çalınmasının önlenme seviyesi"
+
+msgid "Off"
+msgstr "Kapalı"
+
+msgid "Low"
+msgstr "Düşük"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "High"
+msgstr "Yüksek"
+
+msgid "Very High"
+msgstr "Çok Yüksek"
+
+msgid "Focus Prevention Windows"
+msgstr "Odaklanma Önleyici Pencereleri"
+
+# include/nis_server/io.ycp:465
+msgid "Focus prevention windows"
+msgstr "Odaklanma önleyici pencereleri"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Tam Ekran Pencerelerin Yönlendirmesini Geri Al"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Pencere dışındaki gözek haritalarına yönlendirilmemeleri için tam ekran "
+"pencerelerini germeye izin ver"
+
+# include/tv/ui.ycp:398
+msgid "Default Icon"
+msgstr "Öntanımlı Simge"
+
+msgid "Default window icon image"
+msgstr "Öntanımlı pencere simge resmi"
+
+msgid "Force independent output painting."
+msgstr "Bağımsız çıkış boyamasına zorla"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Çıktı aygıtları birbiriyle örtüşse dahi her çıktı aygıtını bağımsız olarak "
+"boya"
+
+# include/tv/ui.ycp:493
+msgid "Texture Compression"
+msgstr "Doku Sıkıştırma"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+"Eğer mümkünse, görüntülerden dönüştürülmüş dokular için sıkıştırma kullan"
+
+# clients/inst_sw_single.ycp:146
+msgid "Desktop Cube"
+msgstr "Masaüstü Küpü"
+
+# clients/inst_target_part.ycp:404
+msgid "Place windows on cube"
+msgstr "Pencereleri küp üzerine yerleştir"
+
+msgid "Unfold"
+msgstr "Katlamayı Geri Al"
+
+msgid "Unfold cube"
+msgstr "Küpü Katlamayı Geri Al"
+
+# clients/inst_sw_single.ycp:1623
+msgid "Next Slide"
+msgstr "Sonraki Slayt"
+
+msgid "Advance to next slide"
+msgstr "Sonraki slayta ilerle"
+
+msgid "Prev Slide"
+msgstr "Önceki Slayt"
+
+msgid "Go back to previous slide"
+msgstr "Önceki slayta geri dön"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Yüksek kalitede ölçeklendirme için mümkün olduğunda mipmapler oluştur"
+
+msgid "Multi Output Mode"
+msgstr "Çoklu Çıktı Kipi"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "Çoklu çıktı aygıtı kullanılırken küpün nasıl gösterileceğini seçer."
+
+msgid "Automatic"
+msgstr "Otomatik"
+
+msgid "Multiple cubes"
+msgstr "Çoklu küp"
+
+msgid "One big cube"
+msgstr "Tek büyük küp"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "Küpün İçerisine Gir"
+
+msgid "Inside cube"
+msgstr "Küpün içerisine gir"
+
+# include/x11/resolution_dialog.ycp:81
+msgid "Acceleration"
+msgstr "Hızlandırma"
+
+# include/x11/resolution_dialog.ycp:81
+msgid "Fold Acceleration"
+msgstr "Katlama Hızlandırması"
+
+msgid "Speed"
+msgstr "Hız"
+
+msgid "Fold Speed"
+msgstr "Katlama Hızı"
+
+# classnames.ycp:73
+msgid "Timestep"
+msgstr "Süre aralığı"
+
+# classnames.ycp:73
+msgid "Fold Timestep"
+msgstr "Katlama Zaman Aralığı"
+
+msgid "Appearance"
+msgstr ""
+
+# include/security/ui.ycp:774
+msgid "Cube Color"
+msgstr "Küp Rengi"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Küpün taban ve tavan rengi"
+
+# include/security/ui.ycp:774
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Küp Rengi"
+
+# clients/inst_environment.ycp:306
+msgid "Scale image"
+msgstr "Resmi boyutlandır"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Küpün tavan yüzünü kaplamak için resimleri boyutlandır"
+
+msgid "Image files"
+msgstr "Resim dosyaları"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Küpün üst kapağı için hazırlanması gereken PNG ve SVG dosyalarının listesi"
+
+msgid "Adjust Image"
+msgstr "Resmi Ayarla"
+
+msgid "Adjust top face image to rotation"
+msgstr "Üst kapak resmini döndürmeye göre ayarla"
+
+msgid "Skydome"
+msgstr "Arkaplan"
+
+msgid "Render skydome"
+msgstr "Arkaplanı hazırla"
+
+msgid "Skydome Image"
+msgstr "Arkaplan Resmi"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Arkaplan dokusu olarak kullanılacak resim"
+
+msgid "Animate Skydome"
+msgstr "Arkaplanı Canlandır"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Küpü döndürürken arkaplanı canlandır"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Arkaplan Gradyan Başlangıç Rengi"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Gök kubbe-geri düşüş-eğiminin üstteki renk-durağında kullanılacak renk"
+
+msgid "Skydome Gradient End Color"
+msgstr "Arkaplan Gradyan Bitim Rengi"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Gök kubbe-geri düşüş-eğiminin alttaki renk-durağında kullanılacak renk"
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr "Döndürme Sırasındaki Matlık"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Döndürme sırasında masaüstü penceresinin matlığı."
+
+msgid "Opacity When Not Rotating"
+msgstr "Döndürülmezken Kullanılan Matlık"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Döndürülmediği esnada masaüstü penceresinin matlığı."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Sadece Fare ile Döndürüldüğünde Şeffaflaştır"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Küp şeffaflığını sadece döndürme işlemi fare ile yapılıyorsa başlatır."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus Denetim Altyapısı"
+
+msgid "Window Decoration"
+msgstr "Pencere Dekorasyonu"
+
+msgid "Window decorations"
+msgstr "Pencere dekorasyonları"
+
+msgid "Shadow Radius"
+msgstr "Gölge Yarıçapı"
+
+msgid "Drop shadow radius"
+msgstr "Düşen gölge yarıçapı"
+
+msgid "Shadow Opacity"
+msgstr "Gölge Matlığı"
+
+msgid "Drop shadow opacity"
+msgstr "Düşen gölge matlığı"
+
+# clients/inst_target_part.ycp:387
+msgid "Shadow Color"
+msgstr "Gölge Rengi"
+
+msgid "Drop shadow color"
+msgstr "Düşen gölge rengi"
+
+msgid "Shadow Offset X"
+msgstr "Gölge Konumu X"
+
+msgid "Drop shadow X offset"
+msgstr "Düşen gölge Yatay konumu"
+
+msgid "Shadow Offset Y"
+msgstr "Gölge Konumu Y"
+
+msgid "Drop shadow Y offset"
+msgstr "Düşen gölge Dikey konumu"
+
+# clients/support_registration.ycp:66
+msgid "Command"
+msgstr "Komut"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Eğer hiçbir pencere dekorasyonu çalışmıyorsa çalıştırılacak dekoratör komut "
+"satırı"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Dekorasyon dokuları için mipmaplerin yaratılmalarına izin ver"
+
+# clients/inst_target_part.ycp:404
+msgid "Decoration windows"
+msgstr "Pencere dekorasyonu"
+
+msgid "Windows that should be decorated"
+msgstr "Dekorasyon kullanılması gereken pencereler"
+
+# clients/inst_target_part.ycp:387
+msgid "Shadow windows"
+msgstr "Pencereleri gölgelendir"
+
+msgid "Windows that should have a shadow"
+msgstr "Gölge kullanılması gereken pencereler"
+
+# clients/inst_target_part.ycp:387
+msgid "Fading Windows"
+msgstr "Solan Pencereler"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Haritalandıklarında pencereler belirsin, haritalanmadıklarında kaybolsun"
+
+# clients/online_update.ycp:223
+msgid "Fade Mode"
+msgstr "Solma Kipi"
+
+# clients/inst_resize_ui.ycp:597
+msgid "Window fade mode"
+msgstr "Pencere solma kipi"
+
+# classnames.ycp:73
+#, fuzzy
+msgid "Constant speed"
+msgstr "Döndürme Hızı"
+
+# include/ui/common_messages.ycp:23
+#, fuzzy
+msgid "Constant time"
+msgstr "Dikey (Y) Sınırlama"
+
+msgid "Fade Speed"
+msgstr "Solma Hızı"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Boyutlandırma kipinde boyutlandırılacak pencereler"
+
+# clients/online_update.ycp:223
+msgid "Fade Time"
+msgstr "Solma Süresi"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+# clients/inst_target_part.ycp:404
+msgid "Fade windows"
+msgstr "Pencereleri soldur"
+
+msgid "Windows that should be fading"
+msgstr "Solması gereken pencereler"
+
+msgid "Visual Bell"
+msgstr "Görünür Zil"
+
+# include/partitioning/custom_part_dialogs.ycp:288
+msgid "Fade effect on system beep"
+msgstr "Sistem bip sesinde solma efekti açık"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Tam Ekran Görünür Zil"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Sistem bip durumunda tam ekran solma efektini uygula"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Küçültme /Açma /Kapatma durumunda Solsun"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Küçültme /açma /kapatma olayarında solma efekti kullan"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Tepki Vermeyen Pencreleri Donuklaştır"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+"Pencere yöneticisinin isteklerine yanıt vermeyen pencereleri donuklaştır"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Tepki Vermeyen Pencere Parlaklığı"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr "Tepki Vermeyen Pencere Doygunluğu"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Tepki vermeyen pencerelerin doygunluğu (in %)"
+
+msgid "Userspace File System"
+msgstr "Kullanıcı Alanı Dosya Sistemi"
+
+msgid "Userspace file system"
+msgstr "Kullanıcıya ait dosya sistemi"
+
+# clients/inst_custom_part.ycp:2928
+msgid "Mount Point"
+msgstr "Bağlanma Noktası"
+
+# clients/inst_custom_part.ycp:2928
+msgid "Mount point"
+msgstr "Bağlanma noktası"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "GLib ana döngü desteği"
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Ana Menüyü Göster"
+
+msgid "Show the main menu"
+msgstr "Ana menüyü göster"
+
+msgid "Run Dialog"
+msgstr "Çalıştırma Penceresi"
+
+msgid "Show Run Application dialog"
+msgstr "Uygulama Çalıştırma Penceresini Göster"
+
+msgid "Screenshot command line"
+msgstr "Ekran görüntüsü komut satırı"
+
+msgid "Take a screenshot"
+msgstr "Ekran görüntüsü al"
+
+msgid "Window screenshot command line"
+msgstr "Pencere ekran görüntüsü alma komutu"
+
+msgid "Take a screenshot of a window"
+msgstr "Bir pencerenin ekran görüntüsünü al"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Uçbirim komut satırı"
+
+msgid "Terminal command line"
+msgstr "Uçbirim komut satırı"
+
+msgid "Open a terminal"
+msgstr "Bir konsol aç"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini Düz Dosya Arka Ucu"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Dosya değişimi uyarı eklentisi"
+
+# clients/inst_target_part.ycp:387
+msgid "Minimize Effect"
+msgstr "Küçültme Efekti"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Pencereleri küçültüldüklerinde ve geri yüklendiklerinde dönüştür"
+
+# clients/inst_target_part.ycp:387
+msgid "Minimize speed"
+msgstr "Küçültme Hızı"
+
+# clients/inst_target_part.ycp:387
+msgid "Minimize timestep"
+msgstr "Küçültme zaman aralığı"
+
+# clients/inst_target_part.ycp:387
+msgid "Minimize Windows"
+msgstr "Pencereleri Küçült"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Küçültüldüklerinde ve geri yüklendiklerinde dönüştürülecek pencereler"
+
+msgid "Shade Resistance"
+msgstr "Gölgeleme Direnci"
+
+msgid "Shade resistance"
+msgstr "Gölgeleme direnci"
+
+msgid "Move Window"
+msgstr "Pencereyi Taşı"
+
+msgid "Move window"
+msgstr "Pencereyi taşı"
+
+msgid "Initiate Window Move"
+msgstr "Pencereleri Taşımaya Başla"
+
+# include/nis_server/io.ycp:465
+msgid "Start moving window"
+msgstr "Pencereleri taşımaya başla"
+
+msgid "Opacity"
+msgstr "Matlık"
+
+# include/nis_server/io.ycp:465
+msgid "Opacity level of moving windows"
+msgstr "Taşınan pencerelerin matlık düzeyi"
+
+# include/ui/common_messages.ycp:23
+msgid "Constrain Y"
+msgstr "Dikey (Y) Sınırlama"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Y eksenini çalışma alanı ile sınırla"
+
+# clients/inst_target_part.ycp:387
+msgid "Snapoff maximized windows"
+msgstr "Büyütülmüş pencerelerde koparma efekti kapalı"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+"Büyütülmüş pencereleri sürüklerken kopar ve otomatik olarak büyütülmemiş "
+"hale getir"
+
+msgid "Lazy Positioning"
+msgstr "Tembel Konumlandırma"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Taşıma işi bitirilene kadar pencerenin konumunu sunucu tarafında güncelleme"
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "Döndürme Sırasındaki Matlık"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Pencere matlığını arttır"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Matlık değiştirme adımı"
+
+# include/partitioning/auto_part_ui.ycp:147
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Pencere matlığını düşür"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Matlık değiştirme adımı"
+
+# classnames.ycp:50 classnames.ycp:59
+msgid "Brightness"
+msgstr "Parlaklık"
+
+# classnames.ycp:50 classnames.ycp:59
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Parlaklık"
+
+# classnames.ycp:50 classnames.ycp:59
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Parlaklık"
+
+# classnames.ycp:50 classnames.ycp:59
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Parlaklık"
+
+# classnames.ycp:50 classnames.ycp:59
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Parlaklık"
+
+msgid "Saturation"
+msgstr "Doygunluk"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Bulanıklaştırma Doygunluğu"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Doygunluk"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Bulanıklaştırma Doygunluğu"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Doygunluk"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "Matlık Adımı"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Pencere dekorasyonları"
+
+# clients/inst_resize_ui.ycp:688
+#, fuzzy
+msgid "Windows"
+msgstr "Pencereleri Haritala"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "Öntanımlı olarak saydam olması gereken pencereler"
+
+#, fuzzy
+msgid "Window values"
+msgstr "Pencereleri matlaştır değerleri"
+
+# include/nis_server/io.ycp:465
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Taşınan pencerelerin matlık düzeyi"
+
+# classnames.ycp:50 classnames.ycp:59
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Parlaklık"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "Öntanımlı olarak konumlandırılacak pencereler"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Doygunluk"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "Öntanımlı olarak konumlandırılacak pencereler"
+
+#, fuzzy
+msgid "Saturation values for windows"
+msgstr "Tepki vermeyen pencerelerin doygunluğu (in %)"
+
+# clients/inst_target_part.ycp:404
+msgid "Place Windows"
+msgstr "Pencereleri Yerleştir"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Haritalandıklarında pencereleri belirli bir konuma yerleştir"
+
+msgid "Workarounds"
+msgstr "Hızlı Çözümler"
+
+msgid "Window placement workarounds"
+msgstr "Pencere konumlandırma hızlı çözümleri"
+
+msgid "Placement Mode"
+msgstr "Yerleştirme Kipi"
+
+msgid "Algorithm to use for window placement"
+msgstr "Pencere yerleşimi için kullanılacak algoritma"
+
+msgid "Cascade"
+msgstr "Basamakla"
+
+msgid "Centered"
+msgstr "Ortalanmış"
+
+msgid "Smart"
+msgstr "Akıllı"
+
+# clients/inst_target_part.ycp:387
+msgid "Maximize"
+msgstr "Büyüt"
+
+msgid "Random"
+msgstr "Rastgele"
+
+# clients/inst_custom_part.ycp:2928
+#, fuzzy
+msgid "Under pointer"
+msgstr "Nokta ekle"
+
+#, fuzzy
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr "Çoklu çıktı aygıtı kullanılıyorken boyutlandırılmış pencereleri seçer."
+
+#, fuzzy
+msgid "Use active output device"
+msgstr "Tüm çıktı aygıtları üzerinde"
+
+msgid "Use output device with pointer"
+msgstr "Çıktı aygıtını işaretçi ile kullan"
+
+msgid "Use output device of focused window"
+msgstr ""
+
+msgid "Place across all outputs"
+msgstr ""
+
+# clients/inst_target_part.ycp:404
+msgid "Force Placement Windows"
+msgstr "Pencerelerin Yetleşimini Zorla"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+# clients/inst_sw_single.ycp:188
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Pencere Yönetimi"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Pencere dekorasyonları"
+
+msgid "Positioned windows"
+msgstr "Konumlandırılmış pencereler"
+
+msgid "Windows that should be positioned by default"
+msgstr "Öntanımlı olarak konumlandırılacak pencereler"
+
+msgid "X Positions"
+msgstr "X Konumları"
+
+msgid "X position values"
+msgstr "X konum değerleri"
+
+msgid "Y Positions"
+msgstr "Y Konumları"
+
+msgid "Y position values"
+msgstr "Y konum değerleri"
+
+msgid "Keep In Workarea"
+msgstr "Çalışma Bölgesinde Kal"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Pencere dekorasyonları"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Öntanımlı olarak konumlandırılacak pencereler"
+
+# clients/online_update.ycp:223
+#, fuzzy
+msgid "Mode"
+msgstr "Solma Kipi"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Konumlandırılmış pencereler"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+msgid "Viewport positioned windows"
+msgstr "Masaüstüne konumlandırılacak pencereler"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Öntanımlı olarak belirli bir masaüstüne konumlandırılacak pencereler"
+
+msgid "X Viewport Positions"
+msgstr "X Görünüm Yüzü Konumları"
+
+msgid "Horizontal viewport positions"
+msgstr "Yatay masaüstü konumları"
+
+msgid "Y Viewport Positions"
+msgstr "Y Görünüm Yüzü Konumları"
+
+msgid "Vertical viewport positions"
+msgstr "Dikey masaüstü konumları"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Png resim yükleyici"
+
+msgid "Regex Matching"
+msgstr "Düzenli İfade Eşlemesi"
+
+msgid "Regex window matching"
+msgstr "Düzenli ifade pencere eşlemesi"
+
+msgid "Resize Window"
+msgstr "Pencereyi Yeniden Boyutlandır"
+
+msgid "Resize window"
+msgstr "Pencereyi yeniden boyutlandır"
+
+msgid "Bindings"
+msgstr ""
+
+msgid "Initiate Normal Window Resize"
+msgstr "Normal Yeniden Boyutlandırmaya Başla"
+
+# include/nis_server/io.ycp:465
+msgid "Start resizing window normally"
+msgstr "Pencereyi normal şekilde yeniden boyutlandırmaya başla"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Taslak Göstererek Yeniden Boyutlandırmaya Başla"
+
+# include/nis_server/io.ycp:465
+msgid "Start resizing window with outline"
+msgstr "Pencereyi taslak göstererek yeniden boyutlandırmaya başla"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Dikdörtgen Yeniden Boyutlandırmaya Başla"
+
+# include/nis_server/io.ycp:465
+msgid "Start resizing window with rectangle"
+msgstr "Pencereyi dikdörtgen şeklinde yeniden boyutlandırmaya başla"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Gergin Yeniden Boyutlandırmaya Başla"
+
+# include/nis_server/io.ycp:465
+msgid "Start resizing window by stretching it"
+msgstr "Pencereyi esneterek yeniden boyutlandırmaya başla"
+
+msgid "Initiate Window Resize"
+msgstr "Pencereyi Yeniden Boyutlandırmaya Başla"
+
+# include/nis_server/io.ycp:465
+msgid "Start resizing window"
+msgstr "Pencereyi yeniden boyutlandırmaya başla"
+
+msgid "Default Resize Mode"
+msgstr "Öntanımlı Yeniden Boyutlandırma Kipi"
+
+msgid "Default mode used for window resizing"
+msgstr "Pencereleri yeniden boyutlandırmak için kullanılacak öntanımlı kip"
+
+msgid "Outline"
+msgstr "Taslak"
+
+msgid "Rectangle"
+msgstr "Dikdörtgen"
+
+msgid "Stretch"
+msgstr "Gergin"
+
+# include/security/ui.ycp:774
+msgid "Border Color"
+msgstr "Kenarlık Rengi"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"Taslak görünümü ve dikdörtgen yeniden boyutlandırma kipinde kullanılacak "
+"kenarlık rengi"
+
+# include/security/ui.ycp:774
+msgid "Fill Color"
+msgstr "Dolgu Rengi"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Dolgu rengi dikdörtgen şeklinde yeniden boyutlandırmada kullanılır"
+
+msgid "Normal Resize Windows"
+msgstr "Pencereleri Normal Şekilde Yeniden Boyutlandır"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Normal yeniden boyutlandırma kullanılacak pencereler"
+
+msgid "Outline Resize Windows"
+msgstr "Yeniden Boyutlandırmada Taslak Göster"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Taslak görünümünde yeniden boyutlandırma kullanılacak pencereler"
+
+msgid "Rectangle Resize Windows"
+msgstr "Pencereleri Dikdörtgen Şeklinde Yeniden Boyutlandır"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Dikdörtgen yeniden boyutlandırma kullanılacak pencereler"
+
+msgid "Stretch Resize Windows"
+msgstr "Pencereleri Gergin Şekilde Yeniden Boyutlandır"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Gerginlik kullanılarak yeniden boyutlandırma kullanılacak pencereler"
+
+msgid "Rotate Cube"
+msgstr "Küpü Döndür"
+
+msgid "Rotate desktop cube"
+msgstr "Masaüstü küpünü döndür"
+
+msgid "Edge Flip Pointer"
+msgstr ""
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+
+msgid "Edge Flip Move"
+msgstr ""
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+
+msgid "Edge Flip DnD"
+msgstr ""
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+
+# clients/online_update.ycp:223
+msgid "Flip Time"
+msgstr "Çevirme Zamanı"
+
+msgid "Timeout before flipping viewport"
+msgstr "Masaüstü değiştirme zamanaşımı"
+
+msgid "Raise on rotate"
+msgstr "Döndürürken Yüksel"
+
+msgid "Raise window when rotating"
+msgstr "Döndürülürken pencereleri yükselt"
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Küpü Döndür"
+
+# include/ui/wizard_hw.ycp:51
+msgid "Start Rotation"
+msgstr "Döndürmeyi Başlat"
+
+msgid "Rotate Left"
+msgstr "Sola Döndür"
+
+msgid "Rotate left"
+msgstr "Sola döndür"
+
+msgid "Rotate Right"
+msgstr "Sağa Döndür"
+
+msgid "Rotate right"
+msgstr "Sağa döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate Left with Window"
+msgstr "Pencere ile birlikte Sola Döndür"
+
+msgid "Rotate left and bring active window along"
+msgstr "Sola döndür ve etkin pencereyi getir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate Right with Window"
+msgstr "Pencere ile birlikte Sağa Döndür"
+
+msgid "Rotate right and bring active window along"
+msgstr "Sağa döndür ve etkin pencereyi getir"
+
+msgid "Rotate To"
+msgstr "Buraya Döndür"
+
+msgid "Rotate to viewport"
+msgstr "Masaüstüne döndür"
+
+msgid "Rotate window"
+msgstr "Pencereyi döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate with window"
+msgstr "Pencere ile birlikte döndür"
+
+msgid "Rotate Flip Left"
+msgstr "Döndürürken Sola Çevir"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr ""
+
+msgid "Rotate Flip Right"
+msgstr "Döndürürken Sağa Çevir"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "1. yüze döndür ve etkin pencereyi yerleştir"
+
+msgid "Rotate To Face 1"
+msgstr "1. Yüze Döndür"
+
+msgid "Rotate to face 1"
+msgstr "1. yüze döndür ve etkin pencereyi yerleştir"
+
+msgid "Rotate To Face 2"
+msgstr "2. Yüze Döndür"
+
+msgid "Rotate to face 2"
+msgstr "2. yüze döndür"
+
+msgid "Rotate To Face 3"
+msgstr "3. Yüze Döndür"
+
+msgid "Rotate to face 3"
+msgstr "3. yüze döndür"
+
+msgid "Rotate To Face 4"
+msgstr "4. Yüze Döndür"
+
+msgid "Rotate to face 4"
+msgstr "4. yüze döndür"
+
+msgid "Rotate To Face 5"
+msgstr "5. Yüze Döndür"
+
+msgid "Rotate to face 5"
+msgstr "5. yüze döndür"
+
+msgid "Rotate To Face 6"
+msgstr "6. Yüze Döndür"
+
+msgid "Rotate to face 6"
+msgstr "6. yüze döndür"
+
+msgid "Rotate To Face 7"
+msgstr "7. Yüze Döndür"
+
+msgid "Rotate to face 7"
+msgstr "7. yüze döndür"
+
+msgid "Rotate To Face 8"
+msgstr "8. Yüze Döndür"
+
+msgid "Rotate to face 8"
+msgstr "8. yüze döndür"
+
+msgid "Rotate To Face 9"
+msgstr "9. Yüze Döndür"
+
+msgid "Rotate to face 9"
+msgstr "9. yüze döndür"
+
+msgid "Rotate To Face 10"
+msgstr "10. Yüze Döndür"
+
+msgid "Rotate to face 10"
+msgstr "10. yüze döndür"
+
+msgid "Rotate To Face 11"
+msgstr "11. Yüze Döndür"
+
+msgid "Rotate to face 11"
+msgstr "11. yüze döndür"
+
+msgid "Rotate To Face 12"
+msgstr "12. Yüze Döndür"
+
+msgid "Rotate to face 12"
+msgstr "12. yüze döndür"
+
+# include/nis_server/io.ycp:465
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "1. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 1 with Window"
+msgstr "1. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 1 and bring active window along"
+msgstr "1. yüze döndür "
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 2 with Window"
+msgstr "2. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 2 and bring active window along"
+msgstr "2. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 3 with Window"
+msgstr "3. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 3 and bring active window along"
+msgstr "3. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 4 with Window"
+msgstr "4. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 4 and bring active window along"
+msgstr "4. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 5 with Window"
+msgstr "5. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 5 and bring active window along"
+msgstr "5. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 6 with Window"
+msgstr "6. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 6 and bring active window along"
+msgstr "6. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 7 with Window"
+msgstr "7. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 7 and bring active window along"
+msgstr "7. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 8 with Window"
+msgstr "8. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 8 and bring active window along"
+msgstr "8. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 9 with Window"
+msgstr "9. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 9 and bring active window along"
+msgstr "9. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 10 with Window"
+msgstr "10. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 10 and bring active window along"
+msgstr "10. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 11 with Window"
+msgstr "11. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 11 and bring active window along"
+msgstr "11. yüze döndür ve etkin pencereyi yerleştir"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate To Face 12 with Window"
+msgstr "12. Yüze Pencere ile Döndür"
+
+# include/nis_server/io.ycp:465
+msgid "Rotate to face 12 and bring active window along"
+msgstr "12. yüze döndür ve etkin pencereyi yerleştir"
+
+msgid "Pointer Invert Y"
+msgstr ""
+
+msgid "Invert Y axis for pointer movement"
+msgstr ""
+
+# include/cups/ui.ycp:541
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "İşaretçi Hassasiyeti"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "İşaretçi hareketinin hassaslığı"
+
+# include/cups/ui.ycp:541
+msgid "Pointer Sensitivity"
+msgstr "İşaretçi Hassasiyeti"
+
+msgid "Sensitivity of pointer movement"
+msgstr "İşaretçi hareketinin hassaslığı"
+
+# include/x11/resolution_dialog.ycp:81
+msgid "Rotation Acceleration"
+msgstr "Döndürme Hızlandırması"
+
+msgid "Snap To Top Face"
+msgstr ""
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr ""
+
+msgid "Snap To Bottom Face"
+msgstr ""
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr ""
+
+# classnames.ycp:73
+msgid "Rotation Speed"
+msgstr "Döndürme Hızı"
+
+# classnames.ycp:73
+msgid "Rotation Timestep"
+msgstr "Döndürme zaman aralığı"
+
+msgid "Zoom"
+msgstr "Büyüt"
+
+# classnames.ycp:73
+msgid "Rotation Zoom"
+msgstr "Döndürme Büyütmesi"
+
+# menuentries/menuentry_scanner.ycp:36
+msgid "Scale"
+msgstr "Boyutlandır"
+
+# clients/inst_target_part.ycp:404
+msgid "Scale windows"
+msgstr "Pencereleri boyutlandır"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+# Kastedileni tam olarak anlayamadım. (drake)
+#, fuzzy
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Ölçeklendirme Kipine Geçen Düğme Bağlayıcıları"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Initiate Window Picker"
+msgstr "Pencere Tutucuyu Başlat"
+
+msgid "Layout and start transforming windows"
+msgstr "Pencereleri yerleştir ve dönüştür"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Tüm Pencereler için Pencere Yakalayıcıyı Başlat"
+
+msgid "Layout and start transforming all windows"
+msgstr "Tüm pencereleri yerleştir ve dönüştür"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Pencere Grubu için Pencere Yakalayıcıyı Başlat"
+
+msgid "Layout and start transforming window group"
+msgstr "Pencere grubunu yerleştir ve dönüştür"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Geçerli Çıktıyı Kullanan Pencereler için Pencere Yakalayıcıyı Başlat"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Geçerli çıktıyı kullanan pencereleri yerleştir ve dönüştür"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Masaüstünü Göstermek için Masaüstüne Tıkla"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Boyutlandırma sırasında masaüstüne tıklanırsa Masaüstünü Göster kipine geç"
+
+# /usr/lib/YaST2/keyboard_raw.ycp:200
+msgid "Spacing"
+msgstr "Aralık"
+
+# clients/inst_target_part.ycp:404
+msgid "Space between windows"
+msgstr "Pencereler arasında bırakılacak boşluk"
+
+# clients/inst_environment.ycp:306
+msgid "Scale speed"
+msgstr "Boyutlandırma hızı"
+
+# clients/inst_environment.ycp:306
+msgid "Scale timestep"
+msgstr "Boyutlandırma zamanı basamağı"
+
+msgid "Darken Background"
+msgstr "Arkaplanı Koyulaştır"
+
+msgid "Darken background when scaling windows"
+msgstr "Pencereleri yeniden boyutlandırırken arkaplanı koyulaştır"
+
+msgid "Amount of opacity in percent"
+msgstr "Yüzde olarak matlık miktarı"
+
+msgid "Overlay Icon"
+msgstr "Örtülü Durum Simgesi"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Boyutlandırılan pencerelerin üzerinde simge göster"
+
+msgid "None"
+msgstr "Hiçbiri"
+
+msgid "Emblem"
+msgstr "Simge"
+
+msgid "Big"
+msgstr "Büyük"
+
+# clients/inst_target_part.ycp:404
+msgid "Scale Windows"
+msgstr "Pencereleri Boyutlandır"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Boyutlandırma kipinde boyutlandırılacak pencereler"
+
+msgid "Hover Time"
+msgstr "Üzerine Gelme Süresi"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Bir pencerenin üzerindeyken boyutlandırma kipi bitirilmeden önce geçmesi "
+"gereken süre (ms olarak)"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr "Çoklu çıktı aygıtı kullanılıyorken boyutlandırılmış pencereleri seçer."
+
+msgid "On current output device"
+msgstr "Sadece geçerli çıktı aygıtı üzerinde"
+
+msgid "On all output devices"
+msgstr "Tüm çıktı aygıtları üzerinde"
+
+msgid "Screenshot"
+msgstr "Ekran Görüntüsü"
+
+msgid "Screenshot plugin"
+msgstr "Ekran görüntüsü yakalama eklentisi"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Dikdörtgen ekran görüntüsünü başlat"
+
+msgid "Directory"
+msgstr "Dizin"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Ekran görüntülerini bu dizine kaydet"
+
+msgid "Launch Application"
+msgstr "Uygulamayı Başlat"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Ekran görüntüsünü otomatik olarak bu uygulama ile aç"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Svg resim yükleyici"
+
+msgid "Application Switcher"
+msgstr "Uygulama Seçici"
+
+# clients/inst_target_part.ycp:404
+msgid "Next window"
+msgstr "Sonraki pencere"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+
+# clients/inst_resize_ui.ycp:688
+msgid "Prev window"
+msgstr "Önceki pencere"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+
+# clients/inst_target_part.ycp:404
+msgid "Next window (All windows)"
+msgstr "Sonraki pencere (Tüm pencereler)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+
+# clients/inst_resize_ui.ycp:688
+msgid "Prev window (All windows)"
+msgstr "Önceki pencere (Tüm pencereler)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+
+# clients/inst_target_part.ycp:404
+msgid "Next window (No popup)"
+msgstr "Sonraki pencere (Açılabilir pencere yok)"
+
+msgid "Select next window without showing the popup window."
+msgstr ""
+
+# clients/inst_resize_ui.ycp:688
+msgid "Prev window (No popup)"
+msgstr "Önceki pencere (Açılabilir pencere yok)"
+
+msgid "Select previous window without showing the popup window."
+msgstr ""
+
+# clients/inst_sw_single.ycp:146
+msgid "Next Panel"
+msgstr "Sonraki Panel"
+
+msgid "Select next panel type window."
+msgstr ""
+
+msgid "Prev Panel"
+msgstr "Önceki Panel"
+
+msgid "Select previous panel type window."
+msgstr ""
+
+# clients/inst_environment.ycp:306
+msgid "Switcher speed"
+msgstr "Değiştirici hızı"
+
+# clients/inst_environment.ycp:306
+msgid "Switcher timestep"
+msgstr "Değiştirici zaman aralığı"
+
+# clients/inst_target_part.ycp:404
+msgid "Switcher windows"
+msgstr "Pencere değiştirici"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Değiştiricide gösterilmesi gereken pencereler"
+
+msgid "Amount of saturation in percent"
+msgstr "Yüzde olarak doygunluk miktarı"
+
+msgid "Amount of brightness in percent"
+msgstr "Yüzde olarak parlaklık miktarı"
+
+msgid "Bring To Front"
+msgstr "Öne Getir"
+
+msgid "Bring selected window to front"
+msgstr "Seçilen pencereyi öne getir"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Masaüstünün pencereler değiştirilirken uzaklaştırılacağı mesafe"
+
+msgid "Icon"
+msgstr "Simge"
+
+msgid "Show icon next to thumbnail"
+msgstr ""
+
+# clients/inst_target_part.ycp:387
+msgid "Minimized"
+msgstr "Küçültülmüş"
+
+# clients/inst_target_part.ycp:387
+msgid "Show minimized windows"
+msgstr "Küçültülmüş pencereleri göster"
+
+msgid "Auto Rotate"
+msgstr "Otomatik Döndür"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Değiştirirken seçilen pencereyi döndür"
+
+# clients/inst_sw_single.ycp:146
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Masaüstü Küpü"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Değiştirirken seçilen pencereyi döndür"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Önceki Slayt"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Gölge Yarıçapı"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Taslak"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Yeniden Boyutlandırmada Taslak Göster"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Arkaplan Resimleri"
+
+# include/security/ui.ycp:774
+#, fuzzy
+msgid "Base Color"
+msgstr "Kenarlık Rengi"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+# include/security/ui.ycp:774
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Dolgu Rengi"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+# clients/inst_target_part.ycp:387
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Gölge Rengi"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "X Görünüm Yüzü Konumları"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+# clients/inst_target_part.ycp:387
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Solan Pencereler"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Boyutlandırma kipinde boyutlandırılacak pencereler"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Pencereyi taşı"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Sola Döndür"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Sağa Döndür"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Pencereyi Taşı"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+# include/nis_server/io.ycp:465
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Pencere ile birlikte döndür"
+
+# include/nis_server/io.ycp:465
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Pencere ile birlikte Sola Döndür"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+# include/nis_server/io.ycp:465
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Pencere ile birlikte Sağa Döndür"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Pencereyi Taşı"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Pencereyi Taşı"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+msgid "Edge flipping"
+msgstr ""
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Döndürürken Sola Çevir"
+
+# clients/online_update.ycp:223
+#, fuzzy
+msgid "Flip left"
+msgstr "Çevirme Zamanı"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Döndürürken Sağa Çevir"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Döndürürken Sağa Çevir"
+
+# clients/online_update.ycp:223
+#, fuzzy
+msgid "Flip Up"
+msgstr "Çevirme Zamanı"
+
+# clients/online_update.ycp:223
+#, fuzzy
+msgid "Flip up"
+msgstr "Çevirme Zamanı"
+
+# clients/inst_target_part.ycp:404
+#, fuzzy
+msgid "Flip Down"
+msgstr "Aşağıya Uçur"
+
+# clients/inst_target_part.ycp:404
+#, fuzzy
+msgid "Flip down"
+msgstr "Aşağıya Uçur"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+# clients/inst_environment.ycp:306
+#, fuzzy
+msgid "Switch separately"
+msgstr "Değiştirici hızı"
+
+msgid "Edge Flipping"
+msgstr ""
+
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+
+msgid "Water Effect"
+msgstr "Su Efekti"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Değişik masaüstü hareketlerine su efekti ekler"
+
+msgid "Enable pointer water effects"
+msgstr "İşaretçi su efektini etkinleştir"
+
+msgid "Toggle rain"
+msgstr "Yağmuru aç / kapat"
+
+msgid "Toggle rain effect"
+msgstr "Yağmur efektini aç / kapat"
+
+msgid "Toggle wiper"
+msgstr "Siliciyi aç /kapat"
+
+msgid "Toggle wiper effect"
+msgstr "Siliciyi efektini aç /kapat"
+
+msgid "Offset Scale"
+msgstr "Yerleşim Boyutu"
+
+msgid "Water offset scale"
+msgstr "Su yerleşim boyutu"
+
+# clients/hwinfo.ycp:71
+msgid "Rain Delay"
+msgstr "Yağmur Gecikmesi"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Yağmur damlaları arasında geçecek süre (ms olarak)"
+
+msgid "Title wave"
+msgstr "Pencere başlığı dalgası"
+
+msgid "Wave effect from window title"
+msgstr "Pencere başlığı dalga efekti"
+
+msgid "Point"
+msgstr "Nokta"
+
+# clients/inst_custom_part.ycp:2928
+msgid "Add point"
+msgstr "Nokta ekle"
+
+msgid "Line"
+msgstr "Satır"
+
+msgid "Add line"
+msgstr "Çizgi ekle"
+
+# clients/inst_resize_ui.ycp:688
+msgid "Wobbly Windows"
+msgstr "Sallanan Pencereler"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Sallanan pencere efekti için esneklik modelini kullan"
+
+# clients/inst_target_part.ycp:387
+msgid "Snap windows"
+msgstr "Pencereleri kopar"
+
+# clients/inst_target_part.ycp:404
+msgid "Toggle window snapping"
+msgstr "Pencere koparma efektini aç / kapat"
+
+msgid "Snap Inverted"
+msgstr "Ters Çevrilmiş Şekilde Kopar"
+
+msgid "Inverted window snapping"
+msgstr "Ters çevrilmiş pencere koparma efekti"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Titreme"
+
+# clients/inst_target_part.ycp:404
+msgid "Make window shiver"
+msgstr "Pencereyi titret"
+
+msgid "Friction"
+msgstr "Sürtünme"
+
+msgid "Spring Friction"
+msgstr "Sıçrama Sürtünmesi"
+
+# clients/hwinfo.ycp:104
+msgid "Spring K"
+msgstr "K Sıçraması"
+
+# clients/hwinfo.ycp:104
+msgid "Spring Konstant"
+msgstr "Sıçrama Sabiti"
+
+msgid "Grid Resolution"
+msgstr "Izgara Çözünürlüğü"
+
+msgid "Vertex Grid Resolution"
+msgstr "Tepe Izgara Çözünürlüğü"
+
+# clients/ui_widgets.ycp:182 clients/ui_widgets.ycp:210
+msgid "Minimum Grid Size"
+msgstr "En Küçük Izgara Boyutu"
+
+# clients/ui_widgets.ycp:182 clients/ui_widgets.ycp:210
+msgid "Minimum Vertex Grid Size"
+msgstr "En Küçük Tepe Izgara Boyutu"
+
+# clients/inst_resize_ui.ycp:688
+msgid "Map Effect"
+msgstr "Haritalama Efekti"
+
+# clients/inst_resize_ui.ycp:688
+msgid "Map Window Effect"
+msgstr "Pencere Haritalama Efekti"
+
+msgid "Focus Effect"
+msgstr "Odaklama Efekti"
+
+# clients/inst_resize_ui.ycp:688
+msgid "Focus Window Effect"
+msgstr "Pencere Odaklama Efekti"
+
+# clients/inst_resize_ui.ycp:688
+msgid "Map Windows"
+msgstr "Pencereleri Haritala"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Haritalandığında sallanacak pencereler"
+
+# clients/inst_target_part.ycp:404
+msgid "Focus Windows"
+msgstr "Pencereleri Odakla"
+
+msgid "Windows that should wobble when focused"
+msgstr "Odaklandığında sallanacak pencereler"
+
+# clients/inst_target_part.ycp:404
+msgid "Grab Windows"
+msgstr "Pencereleri Yakala"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Yakalandığında sallanacak pencereler"
+
+msgid "Move Windows"
+msgstr "Pencereleri Taşı"
+
+msgid "Windows that should wobble when moved"
+msgstr "Taşındığında sallanacak pencereler"
+
+# clients/inst_resize_ui.ycp:688
+msgid "Maximize Effect"
+msgstr "Büyütme Efekti"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Büyütülmüş ve büyütülmemiş durumdaki pencereler için sallanma efekti"
+
+# clients/inst_sw_single.ycp:146
+msgid "Zoom Desktop"
+msgstr "Masaüstünü Büyüt"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Masaüstü küpünü büyüt ve görüntüsünü bindir"
+
+msgid "Zoom In"
+msgstr "Büyüt"
+
+msgid "Zoom Out"
+msgstr "Küçült"
+
+msgid "Zoom Pan"
+msgstr "Büyüterek Görüntü Bindirme"
+
+msgid "Zoom pan"
+msgstr "Büyüt ve görüntüyü bindir"
+
+msgid "Zoom Speed"
+msgstr "Büyütme Hızı"
+
+# classnames.ycp:73
+msgid "Zoom Timestep"
+msgstr "Büyütme Zamanı Basamağı"
+
+msgid "Zoom factor"
+msgstr "Büyütme aralığı"
+
+msgid "Filter Linear"
+msgstr "Doğrusal Filtrele"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Büyütüldüğünde doğrusal filtreleme kullan"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+# clients/inst_sw_single.ycp:146
+#~ msgid "Number of Desktops"
+#~ msgstr "Masaüstü Sayısı"
+
+# clients/inst_sw_single.ycp:146
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Sanal masaüstü sayısı"
+
+# clients/inst_target_part.ycp:387
+#, fuzzy
+#~ msgid "Maximize Horizontally"
+#~ msgstr "Pencereyi Yatay Olarak Büyüt"
+
+# clients/inst_target_part.ycp:387
+#, fuzzy
+#~ msgid "Maximize Vertically"
+#~ msgstr "Pencereyi Dikey Olarak Büyüt"
+
+# clients/inst_target_part.ycp:387
+#, fuzzy
+#~ msgid "Minimize"
+#~ msgstr "Küçültülmüş"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Bir pencerenin başlık çubuğu üzerinde fare tekeri ile yaptırılacak "
+#~ "davranış."
+
+#~ msgid "Blur type"
+#~ msgstr "Bulanıklaştırma tipi"
+
+# include/partitioning/auto_part_ui.ycp:147
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Marco teması etkin pencere matlığı"
+
+# include/partitioning/auto_part_ui.ycp:147
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Marco teması etkin pencere matlık gölgesi"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Marco teması matlığı"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Marco teması matlık gölgesi"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr ""
+#~ "Etkin pencereler ve Marco tema dekorasyonları için kullanılacak matlık"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Marco dekorasyonları için kullanılacak matlık"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Etkin pencereleri marco dekorasyonu ile matlıktan şeffaflığa doğru gölgele"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Pencereleri marco dekorasyonu ile matlıktan şeffaflığa doğru gölgele"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Başlık çubuğu fare tekeri davranışı"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Pencere dekorasyonları için kullanılacak bulanıklaştırma tipi"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Marco teması kullan"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Pencere dekorasyonlarını oluştururken marco temasını kullan"
+
+#~ msgid "Line width"
+#~ msgstr "Satır genişliği"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Notlar için satır genişliği"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "GConf Denetim Arka Ucu"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig Denetim Arka Ucu"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Matlığı Düşür"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "Matlığı Arttır"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Ekran görüntüsü komut satırı"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Ekran görüntüsü komut satırı"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Öntanımlı olarak saydam olması gereken, pencereler için matlık değerleri"
+
+# clients/inst_target_part.ycp:404
+#~ msgid "Opacity windows"
+#~ msgstr "Pencereleri matlaştır"
+
+#~ msgid "Background images"
+#~ msgstr "Arkaplan resimleri"
+
+# clients/inst_target_part.ycp:404
+#~ msgid "Place windows on a plane"
+#~ msgstr "Pencereleri bir uçağın üzerine koy"
+
+#~ msgid "Plane Left"
+#~ msgstr "Sola Uçur"
+
+#~ msgid "Plane Right"
+#~ msgstr "Sağa Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 1"
+#~ msgstr "1. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 10"
+#~ msgstr "10. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 11"
+#~ msgstr "11. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 12"
+#~ msgstr "12. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 2"
+#~ msgstr "2. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 3"
+#~ msgstr "3. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 4"
+#~ msgstr "4. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 5"
+#~ msgstr "5. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 6"
+#~ msgstr "6. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 7"
+#~ msgstr "7. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 8"
+#~ msgstr "8. Yüze Uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane To Face 9"
+#~ msgstr "9. Yüze Uçur"
+
+# clients/inst_target_part.ycp:404
+#~ msgid "Plane Up"
+#~ msgstr "Yukarıya Uçur"
+
+#~ msgid "Plane left"
+#~ msgstr "Sola uçur"
+
+#~ msgid "Plane right"
+#~ msgstr "Sağa uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 1"
+#~ msgstr "1. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 10"
+#~ msgstr "10. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 11"
+#~ msgstr "11. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 12"
+#~ msgstr "12. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 2"
+#~ msgstr "2. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 3"
+#~ msgstr "3. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 4"
+#~ msgstr "4. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 5"
+#~ msgstr "5. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 6"
+#~ msgstr "6. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 7"
+#~ msgstr "7. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 8"
+#~ msgstr "8. yüze uçur"
+
+# include/nis_server/io.ycp:465
+#~ msgid "Plane to face 9"
+#~ msgstr "9. yüze uçur"
+
+# clients/inst_target_part.ycp:404
+#~ msgid "Plane up"
+#~ msgstr "Uçur"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Masaüstü Penceresinin Matlığının Solma Zamanı."

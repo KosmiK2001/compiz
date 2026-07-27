@@ -1,0 +1,3863 @@
+# Hindi translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+# Prasanth Kurian <prasanth.kurian@agreeya.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2007-12-16 17:03+0530\n"
+"Last-Translator: Sangeeta Kumari\n"
+"Language-Team: Hindi <hi@li.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#, fuzzy
+msgid "Close Window"
+msgstr "windows"
+
+msgid "Unmaximize Window"
+msgstr "विंडो अधिकतम खत्म करें"
+
+msgid "Maximize Window"
+msgstr "विंडो अधिकतम करें"
+
+msgid "Minimize Window"
+msgstr "विंडो न्यूनतम करें"
+
+#, fuzzy
+msgid "Window Menu"
+msgstr "विन्डो मैनेजर"
+
+#, fuzzy
+msgid "Shade"
+msgstr "स्कैनर"
+
+msgid "Make Above"
+msgstr ""
+
+msgid "Stick"
+msgstr ""
+
+msgid "Unshade"
+msgstr ""
+
+msgid "Unmake Above"
+msgstr ""
+
+msgid "Unstick"
+msgstr ""
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr ""
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+
+msgid "_Cancel"
+msgstr "रद्द करें (_C)"
+
+msgid "_Force Quit"
+msgstr ""
+
+#, fuzzy
+msgid "Annotate"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Annotate plugin"
+msgstr "सक्रिय"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "भारत"
+
+msgid "Draw"
+msgstr "खीचें"
+
+msgid "Draw using tool"
+msgstr "औजार के प्रयोग से खीचें"
+
+#, fuzzy
+msgid "Initiate erase"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate annotate erasing"
+msgstr "भारत"
+
+msgid "Clear"
+msgstr "साफ करें"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "सक्रिय विंडो छायांकित रूप में टॉगल करें"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+#, fuzzy
+msgid "Annotate Fill Color"
+msgstr "रंग"
+
+msgid "Fill color for annotations"
+msgstr "व्याख्या के लिए रंग भरें"
+
+msgid "Annotate Stroke Color"
+msgstr "स्ट्रोक रंग की व्याख्या करें"
+
+msgid "Stroke color for annotations"
+msgstr "व्याख्या के लिए स्ट्रोक रंग"
+
+msgid "Stroke width"
+msgstr "स्ट्रोक चौड़ाई"
+
+msgid "Stroke width for annotations"
+msgstr "व्याख्या के लिए स्ट्रोक चौड़ाई"
+
+#, fuzzy
+msgid "Blur Windows"
+msgstr "windows"
+
+#, fuzzy
+msgid "Blur windows"
+msgstr "windows"
+
+msgid "Pulse"
+msgstr "पल्स"
+
+msgid "Pulse effect"
+msgstr "पल्स प्रभाव"
+
+#, fuzzy
+msgid "Blur Speed"
+msgstr "छोडं दिया \n"
+
+#, fuzzy
+msgid "Window blur speed"
+msgstr "windows"
+
+#, fuzzy
+msgid "Focus blur windows"
+msgstr "windows"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "विंडोज़ को फोसक ब्लर के द्वारा प्रभावित किया जाना चाहिए"
+
+#, fuzzy
+msgid "Focus Blur"
+msgstr "windows"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "विंडोज को धुंधला करें जो फोकस नहीं रखता है"
+
+#, fuzzy
+msgid "Alpha blur windows"
+msgstr "windows"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "विंडोज़ जिसे मूलभूत रूप से अल्फा धुंधला का प्रयोग करना चाहिए"
+
+#, fuzzy
+msgid "Alpha Blur"
+msgstr "windows"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "विंडो के पारदर्शी हिस्से को ब्लर करें"
+
+#, fuzzy
+msgid "Blur Filter"
+msgstr "फिल्टर सैट करें"
+
+msgid "Filter method used for blurring"
+msgstr "धुंधलेपन के लिए प्रयुक्त फिल्टर विधि"
+
+#, fuzzy
+msgid "4xBilinear"
+msgstr "फिल्टर:"
+
+msgid "Gaussian"
+msgstr "गॉसियन"
+
+#, fuzzy
+msgid "Mipmap"
+msgstr "लीमा"
+
+msgid "Gaussian Radius"
+msgstr "गॉसियन त्रिज्या"
+
+msgid "Gaussian radius"
+msgstr "गॉसियन त्रिज्या"
+
+msgid "Gaussian Strength"
+msgstr "गॉसियन शक्ति"
+
+msgid "Gaussian strength"
+msgstr "गॉसियन शक्ति"
+
+#, fuzzy
+msgid "Mipmap LOD"
+msgstr "लीमा"
+
+msgid "Mipmap level-of-detail"
+msgstr "विस्तार का मिपमैप स्तर"
+
+#, fuzzy
+msgid "Blur Saturation"
+msgstr "अवधि"
+
+#, fuzzy
+msgid "Blur saturation"
+msgstr "अवधि"
+
+#, fuzzy
+msgid "Blur Occlusion"
+msgstr "अवधि"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "दूसरे विंडो के द्वारा धुंधला बनाये गये स्क्रीन क्षेत्र के धुंधलेपन को निष्क्रिय करें."
+
+msgid "Independent texture fetch"
+msgstr ""
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+
+msgid "Clone Output"
+msgstr "क्लोन आउटपुट"
+
+msgid "Output clone handler"
+msgstr "आउटपुट क्लोन नियंत्रक"
+
+#, fuzzy
+msgid "Initiate"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Initiate clone selection"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Commands"
+msgstr "कमांड:"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 0"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command0 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 1"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 2"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command2 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 3"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command3 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 4"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command4 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 5"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command5 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 6"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command6 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 7"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command7 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 8"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command8 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 9"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command9 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 10"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command10 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 11"
+msgstr "कमांड:"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command11 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command0 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command1 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command2 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command2 को बुलाया जाता है"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "कमांड लाइन जिसे शेल में चलाया जाना है जब run_command2 को बुलाया जाता है"
+
+msgid "Key Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 0"
+msgstr "कमान्ड '%1'"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand0 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 1"
+msgstr "कमान्ड '%1'"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 2"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 3"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand3 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 4"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand4 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 5"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand5 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 6"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand6 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 7"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand7 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 8"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand8 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 9"
+msgstr "कमांड:"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand9 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 10"
+msgstr "कमान्ड '%1'"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand10 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 11"
+msgstr "कमान्ड '%1'"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand11 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "कमान्ड '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "कमांड:"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+msgid "Button Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand0 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand3 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand4 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand5 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand6 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand7 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand8 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand9 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand10 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand11 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand0 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand3 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand4 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand5 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand6 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand7 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand8 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand9 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand10 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand11 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand1 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"एक कीबाइंडिंग को जब बुलाया जाता है शेल कमांड को चलायेगा जो पहचाना जाता हैcommand2 के "
+"द्वारा"
+
+msgid "General Options"
+msgstr "सामान्य विकल्प"
+
+msgid "General compiz options"
+msgstr "सामान्य कोंपिज विकल्प"
+
+#, fuzzy
+msgid "Active Plugins"
+msgstr "सक्रिय"
+
+#, fuzzy
+msgid "List of currently active plugins"
+msgstr "सिर्फ मिटाए गए प्रिंटर  क्यू सूचीबद्ध करेंद्ध करें"
+
+msgid "Audible Bell"
+msgstr "सुनने योग्य घंटी"
+
+#, fuzzy
+msgid "Audible system beep"
+msgstr "फाइल सिस्टम"
+
+msgid "Ignore Hints When Maximized"
+msgstr "अधिकतम करने पर संकेत नजरअंदाज करें"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "विंडो के अधिकतम किए जाने पर आकार बढ़त और पहलू संकेत नजरअंदाज करें"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "स्किप टास्कबार विंडोज़ छिपायें"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr "जब दाखिल होने पर डेस्कटॉप मोड दिखाता है टास्कबार में विंडो छिपाएं"
+
+msgid "Edge Trigger Delay"
+msgstr ""
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+#, fuzzy
+msgid "Ping Delay"
+msgstr "डिले"
+
+msgid "Interval between ping messages"
+msgstr "पिंग संदेश के बीच का अंतराल"
+
+msgid "Display Settings"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Filter"
+msgstr "फिल्टर सैट करें"
+
+#, fuzzy
+msgid "Texture filtering"
+msgstr "फिल्टर सैट करें"
+
+msgid "Fast"
+msgstr "तेज"
+
+msgid "Good"
+msgstr "अच्छा"
+
+msgid "Best"
+msgstr "सर्वोत्तम"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "फोकस में क्लिक करें"
+
+msgid "Click on window moves input focus to it"
+msgstr "विंडो पर क्लिक करना इनपुट फोकस को इसपर खिसकाता है"
+
+#, fuzzy
+msgid "Raise On Click"
+msgstr "रेडियो क्लोक (&R)"
+
+msgid "Raise windows when clicked"
+msgstr "क्लिक किये जाने पर विंडो उठाएं"
+
+#, fuzzy
+msgid "Auto-Raise"
+msgstr "स्वचालित"
+
+msgid "Raise selected windows after interval"
+msgstr "चयनित विंडो अंतराल के बाद उठाएं"
+
+msgid "Auto-Raise Delay"
+msgstr "स्वचालित उठान विलंब"
+
+msgid "Interval before raising selected windows"
+msgstr "चयनित विंडो को बढ़ाने के पहले अंतराल"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "सक्रिय विंडो बन्द करें"
+
+#, fuzzy
+msgid "Raise Window"
+msgstr "windows"
+
+msgid "Raise window above other windows"
+msgstr "विंडो को अन्य विंडो के ऊपर रखें"
+
+#, fuzzy
+msgid "Lower Window"
+msgstr "लोवर सोर्बियन"
+
+msgid "Lower window beneath other windows"
+msgstr "अन्य विंडो के नीचे निचला विंडो"
+
+msgid "Unmaximize active window"
+msgstr "सक्रिय विंडो अधिकतम खत्म करें"
+
+msgid "Minimize active window"
+msgstr "सक्रिय विंडो न्यूनतम करें"
+
+msgid "Maximize active window"
+msgstr "सक्रिय विंडो अधिकतम करें"
+
+msgid "Maximize Window Horizontally"
+msgstr "विंडो क्षैतिज रूप से अधिकतम करें"
+
+msgid "Maximize active window horizontally"
+msgstr "सक्रिय विंडो क्षैतिज रूप से अधिकतम करें"
+
+msgid "Maximize Window Vertically"
+msgstr "विंडो लंबवत रूप से अधिकतम करें"
+
+msgid "Maximize active window vertically"
+msgstr "सक्रिय विंडो लंबवत रूप से अधिकतम करें"
+
+msgid "Window menu button binding"
+msgstr "विंडो मेनू बटन बाइंडिंग"
+
+msgid "Window menu key binding"
+msgstr "विंडो मेनू की बाइंडिंग"
+
+#, fuzzy
+msgid "Show Desktop"
+msgstr "डेसक्टाप"
+
+msgid "Hide all windows and focus desktop"
+msgstr "सभी विंडो छुपाएँ और डेस्कटॉप पर फ़ोकस करें"
+
+msgid "Toggle Window Maximized"
+msgstr "विंडो अधिकतम पर टॉगल करें"
+
+msgid "Toggle active window maximized"
+msgstr "सक्रिय विंडो अधिकतम रूप में टॉगल करें"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "विंडो अधिकतम पर क्षैतिज रूप से टॉगल करें"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "सक्रिय विंडो अधिकतम रूप में क्षैतिज प्रकार से टॉगल करें"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "विंडो अधिकतम पर लंबवत रूप से टॉगल करें"
+
+msgid "Toggle active window maximized vertically"
+msgstr "सक्रिय विंडो अधिकतम रूप में लंवबत प्रकार से टॉगल करें"
+
+msgid "Toggle Window Shaded"
+msgstr "विंडो छायांकित रूप में टॉगल करें"
+
+msgid "Toggle active window shaded"
+msgstr "सक्रिय विंडो छायांकित रूप में टॉगल करें"
+
+#, fuzzy
+msgid "Slow Animations"
+msgstr "सिमुलेशन"
+
+msgid "Toggle use of slow animations"
+msgstr "धीमा संजीवन के प्रयोग को टॉगल करें"
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "डेसक्टाप"
+
+#, fuzzy
+msgid "Horizontal Virtual Size"
+msgstr "विरचयुल उपकरण"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "क्षैतिज वर्चुअल आकार के लिए स्क्रीन आकार गुणक"
+
+#, fuzzy
+msgid "Vertical Virtual Size"
+msgstr "विरचयुल उपकरण"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "लंबवत वर्चुअल आकार के लिए स्क्रीन आकार गुणक"
+
+#, fuzzy
+msgid "Lighting"
+msgstr "लोगिगं"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "स्क्रीन के बदले जाने पर विसरित प्रकाश का प्रयोग करें"
+
+#, fuzzy
+msgid "Detect Refresh Rate"
+msgstr "अपडेट के लिए चुनें"
+
+msgid "Automatic detection of refresh rate"
+msgstr "ताज़ा दर की स्वचालित जांच"
+
+#, fuzzy
+msgid "Refresh Rate"
+msgstr "ताजा करो"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "दर जिसपर स्क्रीन फिर खीचा जाता है (समय/सेकेंड)"
+
+msgid "Detect Outputs"
+msgstr "आउटपुट जांचें"
+
+msgid "Automatic detection of output devices"
+msgstr "आउटपुट डिवायस की स्वचालित जांच"
+
+msgid "Overlapping Output Handling"
+msgstr ""
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr ""
+
+#, fuzzy
+msgid "Smart mode"
+msgstr "स्मार्ट"
+
+msgid "Prefer larger output"
+msgstr ""
+
+msgid "Prefer smaller output"
+msgstr ""
+
+msgid "Outputs"
+msgstr "आउटपुट"
+
+msgid "List of strings describing output devices"
+msgstr "आउटपुट डिवायस को वर्णन करते स्ट्रिंग की सूची"
+
+msgid "Sync To VBlank"
+msgstr "VBlank में तुल्यकालित करें"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "लंबवत रिक्ति अवधि के दौरान सिर्फ स्क्रीन अद्यतन निष्पादित करें"
+
+#, fuzzy
+msgid "Focus Prevention Level"
+msgstr "फोकस बचाव विंडोज़"
+
+msgid "Level of focus stealing prevention"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Normal"
+msgstr "सामान्य"
+
+msgid "High"
+msgstr ""
+
+msgid "Very High"
+msgstr ""
+
+msgid "Focus Prevention Windows"
+msgstr "फोकस बचाव विंडोज़"
+
+#, fuzzy
+msgid "Focus prevention windows"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "पूर्ण स्क्रीन विंडोज़ को पुनर्निर्देशित मत करें"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"ऑफस्क्रीन पिक्समैप में फिर नहीं निर्देशित किए जाने के लिए पूर्णस्क्रीण विंडो के आरेख को स्वीकृति "
+"दें"
+
+#, fuzzy
+msgid "Default Icon"
+msgstr "अकरण डोमैन"
+
+#, fuzzy
+msgid "Default window icon image"
+msgstr "अकरण डोमैन"
+
+msgid "Force independent output painting."
+msgstr ""
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Compression"
+msgstr "फिल्टर सैट करें"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Cube"
+msgstr "डेसक्टाप"
+
+#, fuzzy
+msgid "Place windows on cube"
+msgstr "windows"
+
+msgid "Unfold"
+msgstr "खोलें"
+
+msgid "Unfold cube"
+msgstr "घन खोलें"
+
+#, fuzzy
+msgid "Next Slide"
+msgstr "अगला अप्डेट "
+
+#, fuzzy
+msgid "Advance to next slide"
+msgstr "एडवांस विकल्प"
+
+#, fuzzy
+msgid "Prev Slide"
+msgstr "पीछे का"
+
+#, fuzzy
+msgid "Go back to previous slide"
+msgstr "पीछे का"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "उच्चतर गुणवत्ता के स्केलिंग के लिए मिपमैप बनाएं जब संभव हो"
+
+msgid "Multi Output Mode"
+msgstr "मल्टी आउटपुट प्रकार"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "चुनता है कि कैसे घन प्रदर्शित होता है यदि बहुल आउटपुट डिवायस प्रयुक्त होता है."
+
+#, fuzzy
+msgid "Automatic"
+msgstr "स्वचालित"
+
+msgid "Multiple cubes"
+msgstr "बहुमुखी घन"
+
+#, fuzzy
+msgid "One big cube"
+msgstr "बड़े घन पर शुरू"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "भीतरी घन"
+
+msgid "Inside cube"
+msgstr "भीतरी घन"
+
+#, fuzzy
+msgid "Acceleration"
+msgstr "3D "
+
+#, fuzzy
+msgid "Fold Acceleration"
+msgstr "3D "
+
+#, fuzzy
+msgid "Speed"
+msgstr "छोडं दिया \n"
+
+#, fuzzy
+msgid "Fold Speed"
+msgstr "छोडं दिया \n"
+
+#, fuzzy
+msgid "Timestep"
+msgstr "टाइम"
+
+#, fuzzy
+msgid "Fold Timestep"
+msgstr "टाइम"
+
+msgid "Appearance"
+msgstr ""
+
+#, fuzzy
+msgid "Cube Color"
+msgstr "रंग"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "घन के ऊपर और नीचे के हिस्से का रंग"
+
+#, fuzzy
+msgid "Cube Caps"
+msgstr "रंग"
+
+#, fuzzy
+msgid "Scale image"
+msgstr "लोकल टाइम"
+
+msgid "Scale images to cover top face of cube"
+msgstr "घन के कवर शीर्ष फेस में चित्रों को मापें"
+
+#, fuzzy
+msgid "Image files"
+msgstr "डिस्क इमेज फाइल"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "PNG और SVG फाइलों की सूची जिसे घन के शीर्ष फेस में रेंडर किया होना चाहिए"
+
+msgid "Adjust Image"
+msgstr "चित्र समायोजित करें"
+
+msgid "Adjust top face image to rotation"
+msgstr "शीर्ष फेस चित्र को घुमाने के लिए समायोजित करें"
+
+#, fuzzy
+msgid "Skydome"
+msgstr "डिस्क इमेज"
+
+msgid "Render skydome"
+msgstr "स्काइडोम रेंडर करें"
+
+#, fuzzy
+msgid "Skydome Image"
+msgstr "डिस्क इमेज"
+
+msgid "Image to use as texture for the skydome"
+msgstr "स्काइडोम के लिए एक बनावट के रूप में प्रयोग के लिए चित्र"
+
+msgid "Animate Skydome"
+msgstr "स्काइडोम एनिमेट करें"
+
+msgid "Animate skydome when rotating cube"
+msgstr "स्काइडोम एनीमेट करें जब घन को घुमाया जा रहा है"
+
+msgid "Skydome Gradient Start Color"
+msgstr "स्काइडोम ढाल प्रारंभ रंग"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "स्काइडोम फालबैक ढ़ाल के शीर्ष रंग स्टॉप के लिए प्रयोग का रंग"
+
+msgid "Skydome Gradient End Color"
+msgstr "झुकाव ढाल अंत रंग"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "स्काइडोम फालबैक ढ़ाल के तलवर्ती रंग स्टॉप के लिए प्रयोग का रंग"
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr "घुमाव के दौरान अपारदर्शिता"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "घुमाव के दौरान डेस्कटॉप विंडो की अपारदर्शिता"
+
+msgid "Opacity When Not Rotating"
+msgstr "नहीं घुमाव के दौरान अपारदर्शिता"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "नहीं घुमाव के दौरान डेस्कटॉप विंडो की अपारदर्शिता"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "पारदर्शिता सिर्फ माउस घुमाव पर"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "घन पारदर्शिता आरंभ करता है सिर्फ तभी जब घुमाव माउस परिचालित है."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus नियंत्रण बैकेंड"
+
+#, fuzzy
+msgid "Window Decoration"
+msgstr "समनुरूपण"
+
+#, fuzzy
+msgid "Window decorations"
+msgstr "ypbind विकल्प"
+
+#, fuzzy
+msgid "Shadow Radius"
+msgstr "त्रिज्या"
+
+#, fuzzy
+msgid "Drop shadow radius"
+msgstr "त्रिज्या"
+
+#, fuzzy
+msgid "Shadow Opacity"
+msgstr "त्रिज्या"
+
+#, fuzzy
+msgid "Drop shadow opacity"
+msgstr "त्रिज्या"
+
+#, fuzzy
+msgid "Shadow Color"
+msgstr "windows"
+
+#, fuzzy
+msgid "Drop shadow color"
+msgstr "त्रिज्या"
+
+msgid "Shadow Offset X"
+msgstr "छाया ऑफसेट X"
+
+#, fuzzy
+msgid "Drop shadow X offset"
+msgstr "त्रिज्या"
+
+msgid "Shadow Offset Y"
+msgstr "छाया ऑफसेट Y"
+
+#, fuzzy
+msgid "Drop shadow Y offset"
+msgstr "त्रिज्या"
+
+#, fuzzy
+msgid "Command"
+msgstr "कमांड:"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr "सजावटी कमांड लाइन जो चलाया जाता है यदि कोई सजावटकर्ता पहले से नहीं चल रहा है"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "सजावटी बनावट के लिए उत्पन्न करने के लिए मिपमैप स्वीकारें"
+
+#, fuzzy
+msgid "Decoration windows"
+msgstr "windows"
+
+msgid "Windows that should be decorated"
+msgstr "विंडोज़ जिसे सजाया जाना चाहिए"
+
+#, fuzzy
+msgid "Shadow windows"
+msgstr "windows"
+
+msgid "Windows that should have a shadow"
+msgstr "विंडोज़ जिसे एक छाया रखना चाहिए"
+
+#, fuzzy
+msgid "Fading Windows"
+msgstr "windows"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "मैप रहने पर फेड इन विंडोज और मैप नहीं रहने पर फीका बाहर विंडोज"
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "असली समय "
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "windows"
+
+#, fuzzy
+msgid "Constant speed"
+msgstr "टाइम"
+
+#, fuzzy
+msgid "Constant time"
+msgstr "रखता है"
+
+#, fuzzy
+msgid "Fade Speed"
+msgstr "छोडं दिया \n"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "विंडो जिसे स्केल मोड में स्केल किया जाना चाहिए"
+
+#, fuzzy
+msgid "Fade Time"
+msgstr "असली समय "
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+#, fuzzy
+msgid "Fade windows"
+msgstr "windows"
+
+msgid "Windows that should be fading"
+msgstr "विंडोज़ जिसे फेड करना चाहिए"
+
+msgid "Visual Bell"
+msgstr "दृश्य बेल"
+
+#, fuzzy
+msgid "Fade effect on system beep"
+msgstr "फाइल सिस्टम"
+
+msgid "Fullscreen Visual Bell"
+msgstr "पूर्ण स्क्रीन दृश्य बेल"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "सिस्टम बीप पर पूर्ण स्क्रीन फेड प्रभाव"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "न्यूनतम/ खोलें/ बन्द करें पर फीका कीजिये"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "विंडो घटना न्यूनतम/ खोलें /बंद करें पर फीका प्रभाव"
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "windows"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr "यूजरस्पेस फाइल सिस्टम"
+
+msgid "Userspace file system"
+msgstr "यूजरस्पेस फाइल सिस्टम"
+
+msgid "Mount Point"
+msgstr "आरोह बिंदु"
+
+msgid "Mount point"
+msgstr "आरोह बिंदु"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "GLib मुख्य लूप समर्थन"
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "दिखाएँ मुख्य मेनू"
+
+msgid "Show the main menu"
+msgstr "मुख्य मेनू दिखाएँ"
+
+#, fuzzy
+msgid "Run Dialog"
+msgstr "टोण डायलिन्क (&T)"
+
+msgid "Show Run Application dialog"
+msgstr "रन अनुप्रयोग संवाद दिखाएँ"
+
+#, fuzzy
+msgid "Screenshot command line"
+msgstr "कमाडं लैन पार्स करने पर्ड खराबी आ गया।"
+
+msgid "Take a screenshot"
+msgstr "स्क्रीनशॉट का चित्र लें"
+
+msgid "Window screenshot command line"
+msgstr "विंडो स्क्रीनशॉट कमांड लाइन"
+
+msgid "Take a screenshot of a window"
+msgstr "विंडो का स्क्रीनशॉट लें"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "कमाडं लैन पार्स करने पर्ड खराबी आ गया।"
+
+#, fuzzy
+msgid "Terminal command line"
+msgstr "कमाडं लैन पार्स करने पर्ड खराबी आ गया।"
+
+msgid "Open a terminal"
+msgstr "टर्मिनल खोलें"
+
+#, fuzzy
+msgid "Ini"
+msgstr "किसी को लोग न करें"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini समतल फाइल बैकेंड"
+
+#, fuzzy
+msgid "Inotify"
+msgstr "किसी को लोग न करें"
+
+msgid "File change notification plugin"
+msgstr "फाइल बदलाव अधिसूचना प्लगिन"
+
+#, fuzzy
+msgid "Minimize Effect"
+msgstr "windows"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "विंडो बदलें जब वे न्यूनतम और अधिकतम किए जाते हैं"
+
+#, fuzzy
+msgid "Minimize speed"
+msgstr "windows"
+
+#, fuzzy
+msgid "Minimize timestep"
+msgstr "windows"
+
+#, fuzzy
+msgid "Minimize Windows"
+msgstr "windows"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "विंडोज़ जो न्यूनतम करने पर रूपांतरित किए जाने चाहिए"
+
+msgid "Shade Resistance"
+msgstr "छाया प्रतिरोध"
+
+msgid "Shade resistance"
+msgstr "छाया प्रतिरोध"
+
+#, fuzzy
+msgid "Move Window"
+msgstr "windows"
+
+#, fuzzy
+msgid "Move window"
+msgstr "windows"
+
+#, fuzzy
+msgid "Initiate Window Move"
+msgstr "windows"
+
+#, fuzzy
+msgid "Start moving window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Opacity"
+msgstr "windows"
+
+#, fuzzy
+msgid "Opacity level of moving windows"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Constrain Y"
+msgstr "रखता है"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Y कोआर्डिनेट को कार्यस्थान क्षेत्र में सीमित करें"
+
+#, fuzzy
+msgid "Snapoff maximized windows"
+msgstr "windows"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "खीचने पर स्नैपऑफ और स्वतः गैर अधिकतम अधिकतम विंडो"
+
+#, fuzzy
+msgid "Lazy Positioning"
+msgstr "windows"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr "विंडो के सर्वर साइड स्थिति को अद्यतन मत करें जबतक कि खिसकाना समाप्त न हो"
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "घुमाव के दौरान अपारदर्शिता"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "विंडो अपारदर्शिता बढायें"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "अपारदर्शिता बदलाव चरण"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "विंडो अपारदर्शिता घटायें"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "अपारदर्शिता बदलाव चरण"
+
+#, fuzzy
+msgid "Brightness"
+msgstr "ब्रिज"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "ब्रिज"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "ब्रिज"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "ब्रिज"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "ब्रिज"
+
+#, fuzzy
+msgid "Saturation"
+msgstr "अवधि"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "अवधि"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "अवधि"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "अवधि"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "अवधि"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "अपारदर्शिता चरण"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "ypbind विकल्प"
+
+#, fuzzy
+msgid "Windows"
+msgstr "windows"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "विंडोज़ जिसे मूलभूत रूप से पारभासी होना चाहिए"
+
+#, fuzzy
+msgid "Window values"
+msgstr "windows"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "ब्रिज"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "विंडोज़ जिसे मूलभूत रूप से स्थिति पर रखा जाना चाहिए"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "अवधि"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "विंडोज़ जिसे मूलभूत रूप से स्थिति पर रखा जाना चाहिए"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Place Windows"
+msgstr "windows"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "मैप किए जाने पर उचित स्थिति पर विंडो रखें"
+
+#, fuzzy
+msgid "Workarounds"
+msgstr "वर्कग्रुप "
+
+#, fuzzy
+msgid "Window placement workarounds"
+msgstr "ypbind विकल्प"
+
+msgid "Placement Mode"
+msgstr "नियोजन प्रकार"
+
+msgid "Algorithm to use for window placement"
+msgstr "विंडो स्थापन के लिए प्रयोग के लिए अलगोरिथम"
+
+msgid "Cascade"
+msgstr "प्रपाती"
+
+msgid "Centered"
+msgstr "केंद्रित"
+
+msgid "Smart"
+msgstr "स्मार्ट"
+
+#, fuzzy
+msgid "Maximize"
+msgstr "windows"
+
+msgid "Random"
+msgstr "क्रमहीन"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "किनारा झटका सूचक"
+
+#, fuzzy
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"चुनें कि कहां विंडो को स्केल किया जाता है यदि बहुल आउटपुट डिवायस प्रयोग किया जाता है."
+
+#, fuzzy
+msgid "Use active output device"
+msgstr "सभी आउटपुट डिवायस पर"
+
+msgid "Use output device with pointer"
+msgstr ""
+
+msgid "Use output device of focused window"
+msgstr ""
+
+msgid "Place across all outputs"
+msgstr ""
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "फोकस बचाव विंडोज़"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "विन्डो मैनेजर"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "ypbind विकल्प"
+
+#, fuzzy
+msgid "Positioned windows"
+msgstr "windows"
+
+msgid "Windows that should be positioned by default"
+msgstr "विंडोज़ जिसे मूलभूत रूप से स्थिति पर रखा जाना चाहिए"
+
+#, fuzzy
+msgid "X Positions"
+msgstr "windows"
+
+msgid "X position values"
+msgstr "X स्थिति मान"
+
+#, fuzzy
+msgid "Y Positions"
+msgstr "windows"
+
+msgid "Y position values"
+msgstr "Y स्थिति मान"
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "ypbind विकल्प"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "विंडोज़ जिसे मूलभूत रूप से स्थिति पर रखा जाना चाहिए"
+
+#, fuzzy
+msgid "Mode"
+msgstr "असली समय "
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "windows"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport positioned windows"
+msgstr "windows"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "विंडोज़ जिसे मूलभूत रूप से विशेष व्यूपोर्ट में रखा जाना चाहिए"
+
+#, fuzzy
+msgid "X Viewport Positions"
+msgstr "विरचयुल उपकरण"
+
+#, fuzzy
+msgid "Horizontal viewport positions"
+msgstr "विरचयुल उपकरण"
+
+#, fuzzy
+msgid "Y Viewport Positions"
+msgstr "विरचयुल उपकरण"
+
+#, fuzzy
+msgid "Vertical viewport positions"
+msgstr "विरचयुल उपकरण"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Png चित्र लोडर"
+
+msgid "Regex Matching"
+msgstr "रिजेक्स मिलान"
+
+msgid "Regex window matching"
+msgstr "रिजेक्स विंडो मिलान"
+
+#, fuzzy
+msgid "Resize Window"
+msgstr "windows"
+
+#, fuzzy
+msgid "Resize window"
+msgstr "windows"
+
+msgid "Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Normal Window Resize"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Start resizing window normally"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Initiate Outline Window Resize"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Start resizing window with outline"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Initiate Rectangle Window Resize"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Start resizing window with rectangle"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Initiate Stretch Window Resize"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Start resizing window by stretching it"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Initiate Window Resize"
+msgstr "भारत"
+
+#, fuzzy
+msgid "Start resizing window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+msgid "Default Resize Mode"
+msgstr "मूलभूत आकार बदलाव प्रकार"
+
+msgid "Default mode used for window resizing"
+msgstr "विंडो पुनः आकार के लिए प्रयुक्त मूलभूत विधि"
+
+#, fuzzy
+msgid "Outline"
+msgstr "रंग"
+
+msgid "Rectangle"
+msgstr "आयत"
+
+msgid "Stretch"
+msgstr "विस्तार"
+
+#, fuzzy
+msgid "Border Color"
+msgstr "रंग"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "खाके व आयताकार पुनः आकार मोड के लिए किनारा रंग"
+
+#, fuzzy
+msgid "Fill Color"
+msgstr "रंग"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "आयताकार पुनः आकार मोड के लिए प्रयुक्त रंग"
+
+#, fuzzy
+msgid "Normal Resize Windows"
+msgstr "windows"
+
+msgid "Windows that normal resize should be used for"
+msgstr "विंडोज़ जो सामान्य आकार बदलाव के लिए प्रयोग किया जाना चाहिए"
+
+#, fuzzy
+msgid "Outline Resize Windows"
+msgstr "windows"
+
+msgid "Windows that outline resize should be used for"
+msgstr "विंडोज़ जो खाका आकार बदलाव के लिए प्रयोग किया जाना चाहिए"
+
+#, fuzzy
+msgid "Rectangle Resize Windows"
+msgstr "windows"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "विंडोज़ जो आयत आकार बदलाव के लिए प्रयोग किया जाना चाहिए"
+
+#, fuzzy
+msgid "Stretch Resize Windows"
+msgstr "windows"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "विंडोज़ जो विस्तार आकार बदलाव के लिए प्रयोग किया जाना चाहिए"
+
+#, fuzzy
+msgid "Rotate Cube"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate desktop cube"
+msgstr "रिमोट सबनेट:"
+
+msgid "Edge Flip Pointer"
+msgstr "किनारा झटका सूचक"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "अगला व्यूपोर्ट में झटकें जब संकेतक को स्क्रीन किनारा में खिसका रहा है"
+
+msgid "Edge Flip Move"
+msgstr "किनारा झटका हटाएं"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "अगला व्यूपोर्ट में झटकें जब स्क्रीन किनारा में विंडो खिसका रहा है"
+
+msgid "Edge Flip DnD"
+msgstr "किनारा झटका DnD"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "अगला व्यूपोर्ट में झटकें जब स्क्रीन किनारा में वस्तु खींच रहा है"
+
+#, fuzzy
+msgid "Flip Time"
+msgstr "असली समय "
+
+msgid "Timeout before flipping viewport"
+msgstr "व्यूपोर्ट झटकने के पहले समय समाप्ति"
+
+msgid "Raise on rotate"
+msgstr "घुमाव पर उठाएं"
+
+msgid "Raise window when rotating"
+msgstr "विंडो को घुमाने के दौरान उठाएं"
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Start Rotation"
+msgstr "इंसटालेशन शुरु करें"
+
+#, fuzzy
+msgid "Rotate Left"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate left"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate Right"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate right"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate Left with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate left and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate Right with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate right and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to viewport"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate window"
+msgstr "windows"
+
+#, fuzzy
+msgid "Rotate with window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+msgid "Rotate Flip Left"
+msgstr "झटका बायाँ घुमाएँ"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "बायें व्यूपोर्ट में जाएं और संकेतक लपेटें"
+
+msgid "Rotate Flip Right"
+msgstr "घुमाएँ झटकें दाहिना"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "दायाँ व्यूपोर्ट में झटकें और संकेतक लपेटें"
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 1"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 1"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 2"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 2"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 3"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 3"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 4"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 4"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 5"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 5"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 6"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 6"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 7"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 7"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 8"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 8"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 9"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 9"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 10"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 10"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 11"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 11"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate To Face 12"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to face 12"
+msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 1 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 1 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 2 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 2 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 3 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 3 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 4 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 4 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 5 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 5 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 6 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 6 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 7 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 7 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 8 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 8 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 9 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 9 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 10 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 10 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 11 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 11 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate To Face 12 with Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Rotate to face 12 and bring active window along"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Pointer Invert Y"
+msgstr "प्रिंटर का विवरण"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "संकेतक गति के लिए Y अक्ष उलटें"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "प्रिंटर का विवरण"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "संकेतक गति के लिए Y अक्ष उलटें"
+
+#, fuzzy
+msgid "Pointer Sensitivity"
+msgstr "प्रिंटर विवरण"
+
+msgid "Sensitivity of pointer movement"
+msgstr "संकेतक गति की संवेदनशीलता"
+
+#, fuzzy
+msgid "Rotation Acceleration"
+msgstr "3D "
+
+msgid "Snap To Top Face"
+msgstr "ऊपरी मुखरे में स्नैप लें"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "ऊपरी मुखरे में घन घुमाव स्नैप करें"
+
+#, fuzzy
+msgid "Snap To Bottom Face"
+msgstr "ऊपरी मुखरे में स्नैप लें"
+
+#, fuzzy
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "ऊपरी मुखरे में घन घुमाव स्नैप करें"
+
+#, fuzzy
+msgid "Rotation Speed"
+msgstr "टाइम"
+
+#, fuzzy
+msgid "Rotation Timestep"
+msgstr "टाइम"
+
+msgid "Zoom"
+msgstr "ज़ूम"
+
+#, fuzzy
+msgid "Rotation Zoom"
+msgstr "टाइम"
+
+#, fuzzy
+msgid "Scale"
+msgstr "स्कैनर"
+
+#, fuzzy
+msgid "Scale windows"
+msgstr "windows"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker"
+msgstr "windows"
+
+msgid "Layout and start transforming windows"
+msgstr "अभिन्यास और विंडोज को बदलना आरंभ करें"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "सभी विंडोज़ के लिए विंडो चयनक आरंभ करें"
+
+msgid "Layout and start transforming all windows"
+msgstr "अभिन्यास और सभी विंडोज को बदलना आरंभ करें"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "विंडो समूह के लिए विंडो चयनक आरंभ करें"
+
+msgid "Layout and start transforming window group"
+msgstr "अभिन्यास और विंडो समूह को रूपांतरित करना आरंभ करें"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "मौज़ूदा आउटपुट पर विंडो के लिए विंडो चयनक आरंभ करें"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "अभिन्यास और मौजूदा आउटपुट पर विंडोज बदलना आरंभ करें"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "डेस्कटॉप दिखाने के लिए डेस्कटॉप क्लिक करें"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "डेस्कटॉप प्रदर्शन मोड दाखिल करें जब डेस्कटॉप मापक के दौरान क्लिक किया जाता है"
+
+#, fuzzy
+msgid "Spacing"
+msgstr "स्पेन"
+
+#, fuzzy
+msgid "Space between windows"
+msgstr "windows"
+
+#, fuzzy
+msgid "Scale speed"
+msgstr "लोकल टाइम"
+
+#, fuzzy
+msgid "Scale timestep"
+msgstr "लोकल टाइम"
+
+#, fuzzy
+msgid "Darken Background"
+msgstr "पृष्ठभूमि"
+
+msgid "Darken background when scaling windows"
+msgstr "विंडो मापन के दौरान पृष्ठभूमि गहरा करें"
+
+msgid "Amount of opacity in percent"
+msgstr "प्रतिशत में अपारदर्शिता की मात्रा"
+
+msgid "Overlay Icon"
+msgstr "प्रतीक ढ़कें"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "विंडो पर प्रतीक को ढ़कें जब वे स्केल किये जाते हैं"
+
+msgid "None"
+msgstr "कुछ नहीं"
+
+msgid "Emblem"
+msgstr "प्रतीक"
+
+msgid "Big"
+msgstr "बड़ा"
+
+#, fuzzy
+msgid "Scale Windows"
+msgstr "windows"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "विंडो जिसे स्केल मोड में स्केल किया जाना चाहिए"
+
+msgid "Hover Time"
+msgstr "समय आगे पीछे करें"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr "विंडो पर आच्छादित होने पर स्केल मोड के खत्म होने के पहले समय (ms में)"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"चुनें कि कहां विंडो को स्केल किया जाता है यदि बहुल आउटपुट डिवायस प्रयोग किया जाता है."
+
+msgid "On current output device"
+msgstr "मौजूदा आउटपुट डिवायस पर"
+
+msgid "On all output devices"
+msgstr "सभी आउटपुट डिवायस पर"
+
+#, fuzzy
+msgid "Screenshot"
+msgstr "कमाडं लैन पार्स करने पर्ड खराबी आ गया।"
+
+#, fuzzy
+msgid "Screenshot plugin"
+msgstr "कमाडं लैन पार्स करने पर्ड खराबी आ गया।"
+
+#, fuzzy
+msgid "Initiate rectangle screenshot"
+msgstr "भारत"
+
+msgid "Directory"
+msgstr "निर्देशिका"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "इस निर्देशिका में स्क्रीनशॉट चित्र रखें"
+
+msgid "Launch Application"
+msgstr "अनुप्रयोग लांच करें"
+
+msgid "Automatically open screenshot in this application"
+msgstr "इस अनुप्रयोग में स्वतः स्क्रीनशॉट खोलें"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Svg चित्र लोडर"
+
+#, fuzzy
+msgid "Application Switcher"
+msgstr "कम्प्यूटर प्रोग्राम आडिट  रिपोर्ट"
+
+#, fuzzy
+msgid "Next window"
+msgstr "windows"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "पॉप अप स्विचर यदि दृष्टिगोच़र नहीं है और अगला विंडो चुनें"
+
+#, fuzzy
+msgid "Prev window"
+msgstr "windows"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "पॉप अप स्विचर यदि दृष्टिगोच़र नहीं है और पिछला विंडो चुनें"
+
+#, fuzzy
+msgid "Next window (All windows)"
+msgstr "windows"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr "पॉप अप स्विचर यदि दृष्टिगोच़र नहीं है और अगला विंडो सभी विंडो में से चुनें"
+
+#, fuzzy
+msgid "Prev window (All windows)"
+msgstr "windows"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr "पॉप अप स्विचर यदि दृष्टिगोच़र नहीं है और पिछला विंडो सभी विंडो में से चुनें"
+
+#, fuzzy
+msgid "Next window (No popup)"
+msgstr "windows"
+
+msgid "Select next window without showing the popup window."
+msgstr "पॉपअप विंडो को बिना दिखाए अगले विंडो को चुनें."
+
+#, fuzzy
+msgid "Prev window (No popup)"
+msgstr "windows"
+
+msgid "Select previous window without showing the popup window."
+msgstr "पॉपअप विंडो को बिना दिखाए पिछले विंडो को चुनें."
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "डेसक्टाप"
+
+#, fuzzy
+msgid "Select next panel type window."
+msgstr "windows"
+
+#, fuzzy
+msgid "Prev Panel"
+msgstr "पीछे का"
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Switcher speed"
+msgstr "लोकल टाइम"
+
+#, fuzzy
+msgid "Switcher timestep"
+msgstr "लोकल टाइम"
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "windows"
+
+msgid "Windows that should be shown in switcher"
+msgstr "विंडोज जिसे स्विचर में दिखाया जाना चाहिए"
+
+msgid "Amount of saturation in percent"
+msgstr "प्रतिशत में संतृप्ति की मात्रा"
+
+msgid "Amount of brightness in percent"
+msgstr "प्रतिशत में चमकीलापन की मात्रा"
+
+#, fuzzy
+msgid "Bring To Front"
+msgstr "बूट के दौरान"
+
+msgid "Bring selected window to front"
+msgstr "चयनित विंडो को सामने लायें"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "दूरी डेस्कटॉप को जूम आउट किया जाना चाहिए जब विंडो में स्विच कर रहे हों"
+
+#, fuzzy
+msgid "Icon"
+msgstr "आइकंश्श"
+
+msgid "Show icon next to thumbnail"
+msgstr "थंबनेल के बगल के प्रतीक को दिखाएं"
+
+#, fuzzy
+msgid "Minimized"
+msgstr "windows"
+
+#, fuzzy
+msgid "Show minimized windows"
+msgstr "windows"
+
+#, fuzzy
+msgid "Auto Rotate"
+msgstr "स्वचालित"
+
+msgid "Rotate to the selected window while switching"
+msgstr "स्विचिंग के दौरान चयनित विंडो में घुमाएं"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "डेसक्टाप"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "स्विचिंग के दौरान चयनित विंडो में घुमाएं"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "पीछे का"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "त्रिज्या"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "रंग"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "windows"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "पृष्ठभूमि चित्र"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "रंग"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "रंग"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "windows"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "विरचयुल उपकरण"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "windows"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "विंडो जिसे स्केल मोड में स्केल किया जाना चाहिए"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "windows"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "रिमोट सबनेट:"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "रिमोट सबनेट:"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "windows"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "डेइमण शुरू कर रहा हैं।"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "windows"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "windows"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "किनारा झटका DnD"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "झटका बायाँ घुमाएँ"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "असली समय "
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "घुमाएँ झटकें दाहिना"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "घुमाएँ झटकें दाहिना"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "असली समय "
+
+#, fuzzy
+msgid "Flip up"
+msgstr "असली समय "
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "किनारा झटका DnD"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "windows"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "लोकल टाइम"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "किनारा झटका DnD"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "अगला व्यूपोर्ट में झटकें जब संकेतक को स्क्रीन किनारा में खिसका रहा है"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "अगला व्यूपोर्ट में झटकें जब स्क्रीन किनारा में विंडो खिसका रहा है"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "अगला व्यूपोर्ट में झटकें जब स्क्रीन किनारा में वस्तु खींच रहा है"
+
+msgid "Water Effect"
+msgstr "जल प्रभाव"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "विभिन्न डेस्कटॉप क्रिया में जल प्रभाव जोड़ें"
+
+msgid "Enable pointer water effects"
+msgstr "संकेतक जल चिह्न सक्रिय करें"
+
+#, fuzzy
+msgid "Toggle rain"
+msgstr "टोकन रिंग"
+
+#, fuzzy
+msgid "Toggle rain effect"
+msgstr "टोकन रिंग"
+
+#, fuzzy
+msgid "Toggle wiper"
+msgstr "टोकन रिंग"
+
+#, fuzzy
+msgid "Toggle wiper effect"
+msgstr "टोकन रिंग"
+
+msgid "Offset Scale"
+msgstr "ऑफसेट मापक"
+
+msgid "Water offset scale"
+msgstr "जल ऑफसेट स्केल"
+
+#, fuzzy
+msgid "Rain Delay"
+msgstr "डिले"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "हर वर्षा बूंद के बीच विलंब (ms में)"
+
+msgid "Title wave"
+msgstr "शीर्षक तरंग"
+
+msgid "Wave effect from window title"
+msgstr "विंडो शीर्षक से लहर प्रभाव"
+
+msgid "Point"
+msgstr "बिन्दु"
+
+msgid "Add point"
+msgstr "बिंदु जोड़ें"
+
+msgid "Line"
+msgstr "रेखा"
+
+msgid "Add line"
+msgstr "पंक्ति जोड़ें"
+
+#, fuzzy
+msgid "Wobbly Windows"
+msgstr "windows"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "वूबली विंडो प्रभाव के लिए स्प्रिंग मॉडल का प्रयोग करें"
+
+#, fuzzy
+msgid "Snap windows"
+msgstr "windows"
+
+#, fuzzy
+msgid "Toggle window snapping"
+msgstr "windows"
+
+msgid "Snap Inverted"
+msgstr "स्नैप उलटें"
+
+msgid "Inverted window snapping"
+msgstr "उलट विंडो स्नैपिंग"
+
+msgid "Shiver"
+msgstr "भुरभुरा"
+
+#, fuzzy
+msgid "Make window shiver"
+msgstr "windows"
+
+#, fuzzy
+msgid "Friction"
+msgstr "क्रिया"
+
+#, fuzzy
+msgid "Spring Friction"
+msgstr "क्रिया"
+
+#, fuzzy
+msgid "Spring K"
+msgstr "स्टेपिगं"
+
+#, fuzzy
+msgid "Spring Konstant"
+msgstr "स्टेपिगं"
+
+#, fuzzy
+msgid "Grid Resolution"
+msgstr "रिजोल्यूशन"
+
+#, fuzzy
+msgid "Vertex Grid Resolution"
+msgstr "सेर्वर सार"
+
+#, fuzzy
+msgid "Minimum Grid Size"
+msgstr "निम्नतम &GID"
+
+#, fuzzy
+msgid "Minimum Vertex Grid Size"
+msgstr "निम्नतम &GID"
+
+#, fuzzy
+msgid "Map Effect"
+msgstr "windows"
+
+#, fuzzy
+msgid "Map Window Effect"
+msgstr "windows"
+
+msgid "Focus Effect"
+msgstr "प्रभाव फोकस करें"
+
+#, fuzzy
+msgid "Focus Window Effect"
+msgstr "windows"
+
+#, fuzzy
+msgid "Map Windows"
+msgstr "windows"
+
+msgid "Windows that should wobble when mapped"
+msgstr "विंडोज़ जिसे मैप करने वक्त बूबल करना चाहिए"
+
+#, fuzzy
+msgid "Focus Windows"
+msgstr "windows"
+
+msgid "Windows that should wobble when focused"
+msgstr "विंडोज़ जिसे बूबल करना चाहिए जब फोकस हो"
+
+#, fuzzy
+msgid "Grab Windows"
+msgstr "windows"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "विंडोज़ जिसे बूबल करना चाहिए जब पकड़ा जाए"
+
+#, fuzzy
+msgid "Move Windows"
+msgstr "windows"
+
+msgid "Windows that should wobble when moved"
+msgstr "विंडोज़ जिसे खिसकाने वक्त बूबल करना चाहिए"
+
+#, fuzzy
+msgid "Maximize Effect"
+msgstr "windows"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "विंडो को अधिकतम व न्यूनतम करने के दौरान बूबल प्रभाव"
+
+#, fuzzy
+msgid "Zoom Desktop"
+msgstr "डेसक्टाप"
+
+msgid "Zoom and pan desktop cube"
+msgstr "ज़ूम और पैन डेस्कटॉप घन"
+
+msgid "Zoom In"
+msgstr "ज़ूम इन"
+
+#, fuzzy
+msgid "Zoom Out"
+msgstr "डेसक्टाप"
+
+#, fuzzy
+msgid "Zoom Pan"
+msgstr "डेसक्टाप"
+
+#, fuzzy
+msgid "Zoom pan"
+msgstr "छोडं दिया \n"
+
+#, fuzzy
+msgid "Zoom Speed"
+msgstr "छोडं दिया \n"
+
+#, fuzzy
+msgid "Zoom Timestep"
+msgstr "टाइम"
+
+#, fuzzy
+msgid "Zoom factor"
+msgstr "डेसक्टाप"
+
+#, fuzzy
+msgid "Filter Linear"
+msgstr "फिल्टर:"
+
+msgid "Use linear filter when zoomed in"
+msgstr "जूम इन करने के दौरान रैखिक फिल्टर का प्रयोग करें"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Number of Desktops"
+#~ msgstr "डेसक्टाप"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops"
+#~ msgstr "डेसक्टाप"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr "विंडो शीर्षक बार में माउस स्क्रॉल के दौरान ली जाने वाली क्रिया"
+
+#, fuzzy
+#~ msgid "Blur type"
+#~ msgstr "छोडं दिया \n"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "मेटासिटी थीम सक्रिय विंडो अपारदर्शिता"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "मेटासिटी थीम सक्रिय विंडो अपारदर्शिता छाया"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "मेटासिटी थीम अपारदर्शिता"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "मेटासिटी थीम अपारदर्शिता छाया"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "मेटासिटी थीम सजावट के साथ सक्रिय विंडो के लिए प्रयोग करने के लिए अपारदर्शिता"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "मेटासिटी थीम सजावट के लिए प्रयोग के लिए अपारदर्शिता"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr "अपारदर्शी से पारभासी में मेटासिटी थीम सजावट के साथ छाया सक्रिय विंडो"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr "अपारदर्शी से पारभासी में मेटासिटी थीम सजावट के साथ छाया विंडो"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "शीर्षक बार माउस ह्वील क्रिया"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "विंडो सजावट के लिए प्रयुक्त ब्लर का प्रकार"
+
+#~ msgid "Use marco theme"
+#~ msgstr "मेटासिटी थीम का उपयोग करें"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "विंडो सजवाट खींचने के दौरान मेटासिटी थीम का उपयोग करें"
+
+#~ msgid "Line width"
+#~ msgstr "रेखा चौड़ाई"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "व्याख्या के लिए रेखा चौड़ाई"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "GConf नियंत्रण बैकेंड"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig नियंत्रण बैकेंड"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "अपारदर्शिता घटायें"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "अपारदर्शिता बढायें"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "कमाडं लैन पार्स करने पर्ड खराबी आ गया।"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "कमाडं लैन पार्स करने पर्ड खराबी आ गया।"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr "विंडो के अपारदर्शिता मानजो कि मूलभूत रूप से पारभासी होना चाहिए"
+
+#~ msgid "Opacity window values"
+#~ msgstr "अपारदर्शिता विंडो मान"
+
+#, fuzzy
+#~ msgid "Opacity windows"
+#~ msgstr "windows"
+
+#~ msgid "Background images"
+#~ msgstr "पृष्ठभूमि चित्र"
+
+#, fuzzy
+#~ msgid "Place windows on a plane"
+#~ msgstr "windows"
+
+#, fuzzy
+#~ msgid "Plane Down"
+#~ msgstr "windows"
+
+#, fuzzy
+#~ msgid "Plane Left"
+#~ msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+#~ msgid "Plane Right"
+#~ msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+#~ msgid "Plane To Face 1"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 10"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 11"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 12"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 2"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 3"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 4"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 5"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 6"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 7"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 8"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane To Face 9"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane Up"
+#~ msgstr "windows"
+
+#, fuzzy
+#~ msgid "Plane left"
+#~ msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+#~ msgid "Plane right"
+#~ msgstr "रिमोट सबनेट:"
+
+#, fuzzy
+#~ msgid "Plane to face 1"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 10"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 11"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 12"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 2"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 3"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 4"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 5"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 6"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 7"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 8"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane to face 9"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Plane up"
+#~ msgstr "windows"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "डेस्कटॉप विंडो अपारदर्शिता धुंधला समय."
+
+#, fuzzy
+#~ msgid "Dialog"
+#~ msgstr "टोण डायलिन्क (&T)"
+
+#, fuzzy
+#~ msgid "DropdownMenu"
+#~ msgstr "विन्डो मैनेजर"
+
+#, fuzzy
+#~ msgid "Notification"
+#~ msgstr "क्रिया"
+
+#~ msgid "Unknown"
+#~ msgstr "अनंजान"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "अवधि"
+
+#, fuzzy
+#~ msgid "Do not modify"
+#~ msgstr "किसी को लोग न करें"
+
+#, fuzzy
+#~ msgid "Drop shadow radius (0.0-48.0)"
+#~ msgstr "त्रिज्या"
+
+#, fuzzy
+#~ msgid "Focus prevention windows (match)"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "3D "
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "3D "
+
+#, fuzzy
+#~ msgid "Fold Timestep (0.0-50.0)"
+#~ msgstr "टाइम"
+
+#, fuzzy
+#~ msgid "Map Window Effect (None, Shiver)"
+#~ msgstr "windows"
+
+#, fuzzy
+#~ msgid "Minimum Vertex Grid Size (4-128)"
+#~ msgstr "निम्नतम &GID"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops (1-36)"
+#~ msgstr "डेसक्टाप"
+
+#, fuzzy
+#~ msgid "Opacity level of moving windows (1-100)"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Opacity level of resizing windows (1-100)"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "3D "
+
+#, fuzzy
+#~ msgid "Rotation Timestep (0.0-50.0)"
+#~ msgstr "टाइम"
+
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "लोकल टाइम"
+
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "लोकल टाइम"
+
+#, fuzzy
+#~ msgid "Space between windows (0-250)"
+#~ msgstr "windows"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "क्रिया"
+
+#, fuzzy
+#~ msgid "Spring Konstant (0.0-10.0)"
+#~ msgstr "स्टेपिगं"
+
+#, fuzzy
+#~ msgid "Texture filtering (Fast, Good, Best)"
+#~ msgstr "फिल्टर सैट करें"
+
+#, fuzzy
+#~ msgid "Vertex Grid Resolution (1-64)"
+#~ msgstr "सेर्वर सार"
+
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "windows"
+
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "windows"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "छोडं दिया \n"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "टाइम"
+
+#, fuzzy
+#~ msgid "Zoom factor (1.01-3.00)"
+#~ msgstr "डेसक्टाप"
+
+#, fuzzy
+#~ msgid "Plane To Face %d with Window"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Command line %d"
+#~ msgstr "कमांड:"
+
+#, fuzzy
+#~ msgid "Run command %d"
+#~ msgstr "कमांड:"
+
+#, fuzzy
+#~ msgid "Move Window Types"
+#~ msgstr "संभरक"
+
+#, fuzzy
+#~ msgid "Corners"
+#~ msgstr "कोर्निश"
+
+#, fuzzy
+#~ msgid "Sloppy Focus"
+#~ msgstr "फ्लोपी डिस्क"
+
+#, fuzzy
+#~ msgid "Start moving window using keyboard"
+#~ msgstr "डेइमण शुरू कर रहा हैं।"
+
+#, fuzzy
+#~ msgid "Terminate"
+#~ msgstr "टर्मिनल"

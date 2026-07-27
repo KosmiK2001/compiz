@@ -1,0 +1,3233 @@
+# Basque translation for compiz
+# Copyright (C) 2007 The Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Ander Elortondo <ander.elor@gmail.com>, 2007, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2009-06-23 15:38+0200\n"
+"Last-Translator: Ander Elortondo <ander.elor@gmail.com>\n"
+"Language-Team: Basque <librezale@librezale.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Close Window"
+msgstr "Itxi leihoa"
+
+msgid "Unmaximize Window"
+msgstr "Leheneratu leihoa"
+
+msgid "Maximize Window"
+msgstr "Maximizatu leihoa"
+
+msgid "Minimize Window"
+msgstr "Leihoa Minimizatu"
+
+msgid "Window Menu"
+msgstr "Leiho Menua"
+
+msgid "Shade"
+msgstr "Itzala"
+
+msgid "Make Above"
+msgstr "Ezarri gainean"
+
+msgid "Stick"
+msgstr "Itsatsi"
+
+msgid "Unshade"
+msgstr "Itzala kendu"
+
+msgid "Unmake Above"
+msgstr "Gainean ezartzea kendu"
+
+msgid "Unstick"
+msgstr "itsastea kendu"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "\"%s\" leihoak ez du erantzuten."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Aplikazio honi irtetzera behartuz, gorde gabeko aldaketak galtzea ekar "
+"dezake."
+
+msgid "_Cancel"
+msgstr "_Utzi"
+
+msgid "_Force Quit"
+msgstr "_Irtetzera behartu"
+
+msgid "Annotate"
+msgstr "Oharrak idatzi"
+
+msgid "Annotate plugin"
+msgstr "Oharren plugina"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Hasi ezabatzea"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Hasi oharren marraztea"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Hasi"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Hasi oharren marraztea"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Hasi ezabatzea"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Hasi oharren marraztea"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Hasi ezabatzea"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Hasi oharren marraztea"
+
+msgid "Draw"
+msgstr "Marraztu"
+
+msgid "Draw using tool"
+msgstr "Marraztu tresna erabiliz"
+
+msgid "Initiate erase"
+msgstr "Hasi ezabatzea"
+
+msgid "Initiate annotate erasing"
+msgstr "Hasi oharren ezabatzea"
+
+msgid "Clear"
+msgstr "Garbitu"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Gaitu/ezgaitu leiho aktiboa itzaldua"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Betetze kolorea oharretan"
+
+msgid "Fill color for annotations"
+msgstr "Betetze kolorea oharrentzat"
+
+msgid "Annotate Stroke Color"
+msgstr "Oharren marra kolorea"
+
+msgid "Stroke color for annotations"
+msgstr "Marra kolorea oharrenzat"
+
+msgid "Stroke width"
+msgstr "Marra zabalera"
+
+msgid "Stroke width for annotations"
+msgstr "Marra zabalera oharrentzat"
+
+msgid "Blur Windows"
+msgstr "Lausotze leihoak"
+
+msgid "Blur windows"
+msgstr "Lausotze leihoak"
+
+msgid "Pulse"
+msgstr "Pultso"
+
+msgid "Pulse effect"
+msgstr "Pultso efektua"
+
+msgid "Blur Speed"
+msgstr "Lausotze abiadura"
+
+msgid "Window blur speed"
+msgstr "Leiho lausotze abiadura"
+
+msgid "Focus blur windows"
+msgstr "Leihoen foko lausotzea"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Foko lausotzeak eragina izango duen leihoak"
+
+msgid "Focus Blur"
+msgstr "Fokoaren Lausotzea"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Fokua ez duten leihoen lausotzea"
+
+msgid "Alpha blur windows"
+msgstr "Alfa lausotze leihoak"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Alfa lausotzea lehenetsita izango duten leihoak"
+
+msgid "Alpha Blur"
+msgstr "Alfa lausotzea"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Leiho atal transluzidoen atzeko lausotzea"
+
+msgid "Blur Filter"
+msgstr "Lausotze iragazkia"
+
+msgid "Filter method used for blurring"
+msgstr "Lausotzerako erabilitako iragazki metodoa"
+
+msgid "4xBilinear"
+msgstr "4xBilinear"
+
+msgid "Gaussian"
+msgstr "Gaussiar"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "Gauss Erradioa"
+
+msgid "Gaussian radius"
+msgstr "Gauss erradioa"
+
+msgid "Gaussian Strength"
+msgstr "Gaussiar Indarra"
+
+msgid "Gaussian strength"
+msgstr "Gaussiar indarra"
+
+msgid "Mipmap LOD"
+msgstr "Mipmap DM"
+
+msgid "Mipmap level-of-detail"
+msgstr "Mipmap Detaile Maila"
+
+msgid "Blur Saturation"
+msgstr "Lausotze saturazioa"
+
+msgid "Blur saturation"
+msgstr "Lausotze saturazioa"
+
+msgid "Blur Occlusion"
+msgstr "Lausotze oklusioa"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Beste leiho batek ilundutako pantaila eremuen lausotzea ezgaitu"
+
+msgid "Independent texture fetch"
+msgstr "Testura independente lagina"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Erabili testura eskuragarriak ahal bezain testura independente lagin "
+"sortzeko."
+
+msgid "Clone Output"
+msgstr "Klonatu irteera"
+
+msgid "Output clone handler"
+msgstr "Irteera klonatze kudeatzailea"
+
+msgid "Initiate"
+msgstr "Hasi"
+
+msgid "Initiate clone selection"
+msgstr "Hasi klonatze hautapena"
+
+msgid "Commands"
+msgstr "Komandoak"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Esleitu laster-tekla hautazko komandori"
+
+msgid "Command line 0"
+msgstr "0 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_0komandoa abiaraztean"
+
+msgid "Command line 1"
+msgstr "1 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+msgid "Command line 2"
+msgstr "2 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_2komandoa abiaraztean"
+
+msgid "Command line 3"
+msgstr "3 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_3komandoa abiaraztean"
+
+msgid "Command line 4"
+msgstr "4 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_4komandoa abiaraztean"
+
+msgid "Command line 5"
+msgstr "5 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_5komandoa abiaraztean"
+
+msgid "Command line 6"
+msgstr "6 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_6komandoa abiaraztean"
+
+msgid "Command line 7"
+msgstr "7 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_7komandoa abiaraztean"
+
+msgid "Command line 8"
+msgstr "8 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_8komandoa abiaraztean"
+
+msgid "Command line 9"
+msgstr "9 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_9komandoa abiaraztean"
+
+msgid "Command line 10"
+msgstr "10 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_10komandoa abiaraztean"
+
+msgid "Command line 11"
+msgstr "11 komando lerroa"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_11komandoa abiaraztean"
+
+msgid "Command line 12"
+msgstr "12 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "1 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "1 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "1 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "1 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "1 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "1 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "1 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "2 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_0komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "2 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_1komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "2 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_2komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "2 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_2komandoa abiaraztean"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "2 komando lerroa"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Shellean exekutatu beharreko komando lerroa exekutatu_2komandoa abiaraztean"
+
+msgid "Key Bindings"
+msgstr "Laster-teklak"
+
+msgid "Run command 0"
+msgstr "Exekutatu 0 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Shell command0 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 1"
+msgstr "Exekutatu 1 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 2"
+msgstr "Exekutatu 2 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 3"
+msgstr "Exekutatu 3 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Shell command3 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 4"
+msgstr "Exekutatu 4 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Shell command4 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 5"
+msgstr "Exekutatu 5 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Shell command5 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 6"
+msgstr "Exekutatu 6 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Shell command6 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 7"
+msgstr "Exekutatu 7 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Shell command7 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 8"
+msgstr "Exekutatu 8 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Shell command8 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 9"
+msgstr "Exekutatu 9 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Shell command9 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 10"
+msgstr "Exekutatu 10 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Shell command10 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 11"
+msgstr "Exekutatu 11 komandoa"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Shell command11 komandoa exekutatuko duen laster-tekla"
+
+msgid "Run command 12"
+msgstr "Exekutatu 12 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Exekutatu 1 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Exekutatu 1 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Exekutatu 1 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Exekutatu 1 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Exekutatu 1 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Exekutatu 1 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Exekutatu 1 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Exekutatu 2 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Exekutatu 2 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Exekutatu 2 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Exekutatu 2 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Exekutatu 2 komandoa"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+msgid "Button Bindings"
+msgstr "Botoi Laster-bideak"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Shell command0 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Shell command3 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Shell command4 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Shell command5 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Shell command6 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Shell command7 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Shell command8 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Shell command9 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Shell command10 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Shell command11 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+msgid "Edge Bindings"
+msgstr "Ertzetako laster-bideak"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Shell command0 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Shell command3 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Shell command4 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Shell command5 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Shell command6 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Shell command7 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Shell command8 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Shell command9 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Shell command10 komandoa exekutatuko duen laster-tekla"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Shell command11 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Shell command1 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Shell command2 komandoa exekutatuko duen laster-tekla"
+
+msgid "General Options"
+msgstr "Aukera orokorrak"
+
+msgid "General compiz options"
+msgstr "Compiz aukera orokorrak"
+
+msgid "Active Plugins"
+msgstr "Plugin aktiboak"
+
+msgid "List of currently active plugins"
+msgstr "Orain aktibo dauden plugin zerrenda"
+
+msgid "Audible Bell"
+msgstr "Kanpai entzungarri"
+
+msgid "Audible system beep"
+msgstr "Sistemako beep entzungarri"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Ez ikusi iradokizunak maximizatua dagoenean"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Ez ikusi tamaina handitze eta itxura iradokizunak leihoa maximizatua "
+"dagoenean"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Ezkutatu ataza-barran ez dauden leihoak"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Gorde ataza-barran ez dauden leihoak mahaigain erakuste moduan sartzean"
+
+msgid "Edge Trigger Delay"
+msgstr "Ertz abiarazlearen atzerapen denbora"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Saguaren erakuslea pantaila ertzean egon behar duen denbora akzioa hasi "
+"aurretik."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Ping atzerapena"
+
+msgid "Interval between ping messages"
+msgstr "Ping mezuen arteko tartea"
+
+msgid "Display Settings"
+msgstr "Erakutsi ezarpenak"
+
+msgid "Texture Filter"
+msgstr "Testura iragazkia"
+
+msgid "Texture filtering"
+msgstr "Testura iragazten"
+
+msgid "Fast"
+msgstr "Azkarra"
+
+msgid "Good"
+msgstr "Ona"
+
+msgid "Best"
+msgstr "Onena"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Klik enfokatzeko"
+
+msgid "Click on window moves input focus to it"
+msgstr "Leihoan klik egitean mugi sarrera fokua berari"
+
+msgid "Raise On Click"
+msgstr "Goratu klikatzean"
+
+msgid "Raise windows when clicked"
+msgstr "Goratu leihoak klikatzean"
+
+msgid "Auto-Raise"
+msgstr "Automatikoki goratu"
+
+msgid "Raise selected windows after interval"
+msgstr "Goratu hautatutako leihoa denbora tarte baten ondoren"
+
+msgid "Auto-Raise Delay"
+msgstr "Automatikoki goratzeraren atzerapena"
+
+msgid "Interval before raising selected windows"
+msgstr "Hautatutako leihoak goratu arretiko tartea"
+
+msgid "Key bindings"
+msgstr "Laster-teklak"
+
+msgid "Close active window"
+msgstr "Itxi leiho aktiboa"
+
+msgid "Raise Window"
+msgstr "Goratu leihoa"
+
+msgid "Raise window above other windows"
+msgstr "Goratu leihoa beste leihoen gainetik"
+
+msgid "Lower Window"
+msgstr "Azpiko leihoa"
+
+msgid "Lower window beneath other windows"
+msgstr "Azpiko leihoa beste leihoen atzean"
+
+msgid "Unmaximize active window"
+msgstr "Leheneratu leiho aktiboa"
+
+msgid "Minimize active window"
+msgstr "Leiho aktiboa minimizatu"
+
+msgid "Maximize active window"
+msgstr "Leiho aktiboa maximizatu"
+
+msgid "Maximize Window Horizontally"
+msgstr "Horizontalki maximizatu leihoa"
+
+msgid "Maximize active window horizontally"
+msgstr "Leiho aktiboa horizontalki maximizatu"
+
+msgid "Maximize Window Vertically"
+msgstr "Bertikalki maximizatu leihoa"
+
+msgid "Maximize active window vertically"
+msgstr "Leiho aktiboa bertikalki maximizatu"
+
+msgid "Window menu button binding"
+msgstr "Leiho menu tekla konbinazioa"
+
+msgid "Window menu key binding"
+msgstr "Leiho menu laster-tekla"
+
+msgid "Show Desktop"
+msgstr "Ikus mahaigaina"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Ezkutatu leiho guztiak eta mahaigaina enfokatu"
+
+msgid "Toggle Window Maximized"
+msgstr "Gaitu/ezgaitu leihoa maximizatua"
+
+msgid "Toggle active window maximized"
+msgstr "Gaitu/ezgaitu leiho aktiboa maximizatua"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Gaitu/ezgaitu leihoa maximizatua horizontalki"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Gaitu/ezgaitu leiho aktiboa maximizatua horizontalki"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Gaitu/ezgaitu leihoa maximizatua bertikalki"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Gaitu/ezgaitu leiho aktiboa maximizatua bertikalki"
+
+msgid "Toggle Window Shaded"
+msgstr "Gaitu/ezgaitu leihoa itzalduta"
+
+msgid "Toggle active window shaded"
+msgstr "Gaitu/ezgaitu leiho aktiboa itzaldua"
+
+msgid "Slow Animations"
+msgstr "Animazioak motel"
+
+msgid "Toggle use of slow animations"
+msgstr "Gaitu/ezgaitu animazio motelen erabilpena"
+
+msgid "Desktop Size"
+msgstr "Mahaigain tamaina"
+
+msgid "Horizontal Virtual Size"
+msgstr "Horizontal tamaina birtuala"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Pantaila tamaina biderkatzailea tamaina horizontal birtualerako"
+
+msgid "Vertical Virtual Size"
+msgstr "Tamaina Birtual Bertikala"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Pantaila tamaina biderkatzailea tamaina bertikal birtualerako"
+
+msgid "Lighting"
+msgstr "Argitasuna"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Erabili argi barreiatua pantaila transformatzean"
+
+msgid "Detect Refresh Rate"
+msgstr "Freskatze-tasa detektatu"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Freskatze tasaren detekzio automatikoa"
+
+msgid "Refresh Rate"
+msgstr "Freskatze-tasa"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Pantaila marrazteko maiztasuna (aldiz/segunduko) "
+
+msgid "Detect Outputs"
+msgstr "Irteerak detektatu"
+
+msgid "Automatic detection of output devices"
+msgstr "Irteera gailuen detekzio automatikoa"
+
+msgid "Overlapping Output Handling"
+msgstr "Gainjartze irteeren kudeaketa"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Gainjartze irteera gailuen artean hobetsiko dena"
+
+msgid "Smart mode"
+msgstr "Modu adimentsua"
+
+msgid "Prefer larger output"
+msgstr "Hobetsi irteera handiagoa"
+
+msgid "Prefer smaller output"
+msgstr "Hobetsi irteera txikiagoa"
+
+msgid "Outputs"
+msgstr "Irteerak"
+
+msgid "List of strings describing output devices"
+msgstr "Irteera gailuak deskribatzeko kateen zerrenda"
+
+msgid "Sync To VBlank"
+msgstr "VBlank-era sinkronizatu"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Pantaila eguneratzeak zuritze bertikalaren denboran bakarrik baimendu"
+
+msgid "Focus Prevention Level"
+msgstr "Foku Prebentzio maila"
+
+msgid "Level of focus stealing prevention"
+msgstr "Foku lapurtze prebentzio maila"
+
+msgid "Off"
+msgstr "Itzali"
+
+msgid "Low"
+msgstr "Azpian"
+
+msgid "Normal"
+msgstr "Normala"
+
+msgid "High"
+msgstr "Altura"
+
+msgid "Very High"
+msgstr "Oso altua"
+
+msgid "Focus Prevention Windows"
+msgstr "Foku Prebentzioa Leihoak"
+
+msgid "Focus prevention windows"
+msgstr "Foku prebentzioa leihoak"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Ez-birbideratu pantaila osoko leihoak"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Gaitu pantaila osoa marraztean ez birbideratzea  pantailaz kanpoko pixmapsera"
+
+msgid "Default Icon"
+msgstr "Lehenetsitako ikonoa"
+
+msgid "Default window icon image"
+msgstr "Lehenetsitako leihoaren ikono irudia"
+
+msgid "Force independent output painting."
+msgstr "Behartu irteera independenteko margotzea."
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Margotu gailu bakoitza independente, nahiz eta irteera gailuak gainjarri"
+
+msgid "Texture Compression"
+msgstr "Testura trinkotzea"
+
+msgid "If available use compression for textures converted from images"
+msgstr "Ahal denean erabili trinkotzea irudietatik eratorritako testurentzat"
+
+msgid "Desktop Cube"
+msgstr "Mahaigain Kuboa"
+
+msgid "Place windows on cube"
+msgstr "Kokatu leihoak kuboan"
+
+msgid "Unfold"
+msgstr "Zabaldu"
+
+msgid "Unfold cube"
+msgstr "Zabaldu kuboa"
+
+msgid "Next Slide"
+msgstr "Hurrengo diapositiba"
+
+msgid "Advance to next slide"
+msgstr "Aurreratu hurrengo diapositibara"
+
+msgid "Prev Slide"
+msgstr "Aurreko diapositiba"
+
+msgid "Go back to previous slide"
+msgstr "Joan atzera aurreko diapositibara"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Kalitate handiagoko eskalan sortu mipmaps posible denean"
+
+msgid "Multi Output Mode"
+msgstr "Irteera anitzeko modua"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "Hautatu nola erakutsi kuboa irteera anitzeko gailuak erabiltzean."
+
+msgid "Automatic"
+msgstr "Automatiko"
+
+msgid "Multiple cubes"
+msgstr "Kubo anitz"
+
+msgid "One big cube"
+msgstr "Kubo handian"
+
+msgid "Behavior"
+msgstr "Portaera"
+
+msgid "Inside Cube"
+msgstr "Kubo Barrua"
+
+msgid "Inside cube"
+msgstr "Kubo barrua"
+
+msgid "Acceleration"
+msgstr "Azelerazioa"
+
+msgid "Fold Acceleration"
+msgstr "Bueltatze azelerazioa"
+
+msgid "Speed"
+msgstr "Abiadura"
+
+msgid "Fold Speed"
+msgstr "Bueltatze abiadura"
+
+msgid "Timestep"
+msgstr "denbora-pausoa"
+
+msgid "Fold Timestep"
+msgstr "Bueltatze denbora-pausoa"
+
+msgid "Appearance"
+msgstr "Itxura"
+
+msgid "Cube Color"
+msgstr "Kubo kolorea"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Kuboaren goiko eta azpiko aurpegien kolorea"
+
+msgid "Cube Caps"
+msgstr "Kubo estalkiak"
+
+msgid "Scale image"
+msgstr "Irudia eskalatu"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Eskalatu irudia kuboaren goi aurpegia estaltzeko"
+
+msgid "Image files"
+msgstr "Irudi fitxategiak"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "Kuboko goi aurpegian errenderatuko diren PNG eta SVG irudien zerrenda"
+
+msgid "Adjust Image"
+msgstr "Irudia doitu"
+
+msgid "Adjust top face image to rotation"
+msgstr "Goiko aurpegiko irudia doitu biratzeko"
+
+msgid "Skydome"
+msgstr "Skydome"
+
+msgid "Render skydome"
+msgstr "Errendatu skydome"
+
+msgid "Skydome Image"
+msgstr "Skydome irudia"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Skydomean testura bezala erabiltzeko irudia"
+
+msgid "Animate Skydome"
+msgstr "Skydome animatu"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animatu skydome kuboa biratzean"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Skydomeko gradientearen hasiera kolorea"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"skydome atzera biratze gradientean, goiko kolore-gelditzean erabili "
+"beharreko kolorea"
+
+msgid "Skydome Gradient End Color"
+msgstr "Skydomeko gradientearen amaiera kolorea"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"skydome atzera biratze gradientean, azpiko kolore-gelditzean erabili "
+"beharreko kolorea"
+
+msgid "Transparent Cube"
+msgstr "Kubo gardena"
+
+msgid "Opacity During Rotation"
+msgstr "Opakutasuna biratzean"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Mahaigain leihoaren opakutasuna biratzean."
+
+msgid "Opacity When Not Rotating"
+msgstr "Opakutasuna biratzen ez dabilenean"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Mahaigain lehioaren opakutasuna biratzen ez dabilenean."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Gardentasuna saguaz biratzean bakarrik"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Kuboaren gardentasuna hasi, biratzea saguak gidatzen badu"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus kontrol tresna"
+
+msgid "Window Decoration"
+msgstr "Leiho Dekorazioa"
+
+msgid "Window decorations"
+msgstr "Leiho dekorazioak"
+
+msgid "Shadow Radius"
+msgstr "Itzalaren Erradioa"
+
+msgid "Drop shadow radius"
+msgstr "Itzalaren erradio salto"
+
+msgid "Shadow Opacity"
+msgstr "Itzalaren opakutasuna"
+
+msgid "Drop shadow opacity"
+msgstr "Itzalaren opakutasuna salto"
+
+msgid "Shadow Color"
+msgstr "Itzal Kolorea"
+
+msgid "Drop shadow color"
+msgstr "Itzalaren kolorea salto"
+
+msgid "Shadow Offset X"
+msgstr "Itzalaren X desplazamendua"
+
+msgid "Drop shadow X offset"
+msgstr "Itzalaren X desplazamendua salto"
+
+msgid "Shadow Offset Y"
+msgstr "Itzalaren Y desplazamendua"
+
+msgid "Drop shadow Y offset"
+msgstr "Itzalaren Y desplazamendua salto"
+
+msgid "Command"
+msgstr "Komandoa"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Jadanik dekoratzailerik ez badago martxan, exekutatuko den komando lerroa"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Gaitu mipmaps sortzea dekorazio testurentzat"
+
+msgid "Decoration windows"
+msgstr "Dekorazio leihoak"
+
+msgid "Windows that should be decorated"
+msgstr "Dekoratuko diren leihoak"
+
+msgid "Shadow windows"
+msgstr "Leihoak itzaldu"
+
+msgid "Windows that should have a shadow"
+msgstr "Itzala izango duten leihoak"
+
+msgid "Fading Windows"
+msgstr "Leihoak iraungitzen"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Leihoak iraungiz agertu aukeratzean eta iraungiz desagertu aukeraketa "
+"galtzean"
+
+msgid "Fade Mode"
+msgstr "Iraungitze modua"
+
+msgid "Window fade mode"
+msgstr "Leiho iraungitze modua"
+
+msgid "Constant speed"
+msgstr "Abiadura konstantea"
+
+msgid "Constant time"
+msgstr "Denbora konstantea"
+
+msgid "Fade Speed"
+msgstr "Iraungitze abiadura"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Leiho iraungitze abiadura \"abiadura konstante\" moduan"
+
+msgid "Fade Time"
+msgstr "Iraungitze denbora"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "Leiho iraungitze denbora (ms) \"denbora konstante\" moduan"
+
+msgid "Fade windows"
+msgstr "Iraungi leihoak"
+
+msgid "Windows that should be fading"
+msgstr "Iraungitu beharreko leihoak"
+
+msgid "Visual Bell"
+msgstr "Ikus-Kanpaia"
+
+msgid "Fade effect on system beep"
+msgstr "Sistemako kanpaian iraungitze efektua"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Pantaila osoko ikus-kanpaia"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Pantaila osoko iraungitzea sistema kanpaiak jotzean"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Iraungi minimizatu/ireki/ixtean"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Iraungitze efektua ondorengo leiho gertaeretan minimizatu/ireki/itxi"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Erantzuten ez duten leihoen tamaina aldatu"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+"Leiho kudeatzailearen eskariei erantzuten ez duten leihoen tamaina aldatu"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Erantzuten ez duen leiho distira"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Distira (%tan) erantzuten ez duen leihoek"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Erantzuten ez duen leiho saturazioa"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Erantzuten ez duten leihoen saturazioa (%tan)"
+
+msgid "Userspace File System"
+msgstr "Erabiltzailearen-espazio Fitxategi Sistema"
+
+msgid "Userspace file system"
+msgstr "Erabiltzailearen-espazio fitxategi sistema"
+
+msgid "Mount Point"
+msgstr "Muntatze puntua"
+
+msgid "Mount point"
+msgstr "Muntatze puntua"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "GLib loop nagusiaren euskarria"
+
+msgid "MATE Compatibility"
+msgstr "MATE bateragarritasuna"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr "Compiz MATE mahaigain inguruneaz bateragarriak egiten duten aukerak"
+
+msgid "Show Main Menu"
+msgstr "Ikus Menu Nagusia"
+
+msgid "Show the main menu"
+msgstr "Ikus menu nagusia"
+
+msgid "Run Dialog"
+msgstr "Exekuzio elkarrizketa"
+
+msgid "Show Run Application dialog"
+msgstr "Ikus aplikazio exekuzio elkarrizketa"
+
+msgid "Screenshot command line"
+msgstr "Pantaila-argazkia komando lerroa"
+
+msgid "Take a screenshot"
+msgstr "Egin pantaila-argazkia"
+
+msgid "Window screenshot command line"
+msgstr "Leiho pantaila -argazki komando lerroa"
+
+msgid "Take a screenshot of a window"
+msgstr "Egin pantaila-argazkia leiho batena"
+
+msgid "Run terminal command"
+msgstr "Terminal komandoa exekutatu"
+
+msgid "Terminal command line"
+msgstr "Terminal komando lerroa"
+
+msgid "Open a terminal"
+msgstr "Terminala zabaldu"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini fitxategi lauaren tresna"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Fitxategi aldaketaren jakinarazpen plugina"
+
+msgid "Minimize Effect"
+msgstr "Ikonotze Efektua"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Eraldatu leihoak ikonotzean edo handitzean"
+
+msgid "Minimize speed"
+msgstr "Ikonotze abiadura"
+
+msgid "Minimize timestep"
+msgstr "Ikonotze denbora-pausoa"
+
+msgid "Minimize Windows"
+msgstr "Ikonotu leihoak"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Leihoak ikonotzean eraldatuko dira"
+
+msgid "Shade Resistance"
+msgstr "Itzaltze Erresistentzia"
+
+msgid "Shade resistance"
+msgstr "Itzaltze erresistentzia"
+
+msgid "Move Window"
+msgstr "Leiho Mugimendua"
+
+msgid "Move window"
+msgstr "Leiho mugimendua"
+
+msgid "Initiate Window Move"
+msgstr "Hasi leiho mugimendua"
+
+msgid "Start moving window"
+msgstr "Hasi leihoa mugitzen"
+
+msgid "Opacity"
+msgstr "Opakutasuna"
+
+msgid "Opacity level of moving windows"
+msgstr "Mugitzen ari diren leihoaen opakutasuna"
+
+msgid "Constrain Y"
+msgstr "Mugatu Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Mugatu Y koordenatua laneko areara"
+
+msgid "Snapoff maximized windows"
+msgstr "Askatu maximizatutako leihoak"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+"Maximizatutako leihoak arrastatzean automatikoki askatu eta desmaximizatu"
+
+msgid "Lazy Positioning"
+msgstr "Kokapen alferra"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr "Ez eguneratu kokapena leiho zerbitzarian, mugitzen amaitu arte"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Opakutasuna, distira eta saturazioa"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Opakutasun, distira eta saturazio doitzeak"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Handitu leiho opakutasuna"
+
+msgid "Opacity Increase"
+msgstr "Opakutasuna handitu"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Txikitu leiho opakutasuna"
+
+msgid "Opacity Decrease"
+msgstr "Opakutasuna txikitu"
+
+msgid "Brightness"
+msgstr "Distira"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Distira"
+
+msgid "Brightness Increase"
+msgstr "Distira handitu"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Distira"
+
+msgid "Brightness Decrease"
+msgstr "Distira txikitu"
+
+msgid "Saturation"
+msgstr "Saturazioa"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Lausotze saturazioa"
+
+msgid "Saturation Increase"
+msgstr "Saturazioa handitu"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Lausotze saturazioa"
+
+msgid "Saturation Decrease"
+msgstr "Saturazioa txikitu"
+
+msgid "Step"
+msgstr "Pausoa"
+
+msgid "Opacity Step"
+msgstr "Opakotasun pausoa"
+
+msgid "Window specific settings"
+msgstr "Leiho zehatz ezarpenak"
+
+msgid "Windows"
+msgstr "Leihoak"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Opakutasun lehenetsi ezberdina izan behar duten leihoak"
+
+msgid "Window values"
+msgstr "Leihoaren balioak"
+
+msgid "Opacity values for windows"
+msgstr "Opakutasun balioa leihoentzat"
+
+msgid "Brightness Step"
+msgstr "Distira pausoa"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Distira lehenetsi ezberdina izan behar duten leihoak"
+
+msgid "Brightness values for windows"
+msgstr "Distira balioak leihoentzat"
+
+msgid "Saturation Step"
+msgstr "Saturazio pausoa"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Saturazio lehenetsi ezberdina izan behar duten leihoak"
+
+msgid "Saturation values for windows"
+msgstr "Saturazio balioa leihoentzat"
+
+msgid "Place Windows"
+msgstr "Kokatu leihoak"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Kokatu leihoak toki egokian mapeatzerakoan"
+
+msgid "Workarounds"
+msgstr "Konponbideak"
+
+msgid "Window placement workarounds"
+msgstr "Leihoak kokatzeko konponbideak"
+
+msgid "Placement Mode"
+msgstr "Kokapen Modua"
+
+msgid "Algorithm to use for window placement"
+msgstr "Leiho kokapenerako algoritmoa"
+
+msgid "Cascade"
+msgstr "Kaskadan"
+
+msgid "Centered"
+msgstr "Zentratua"
+
+msgid "Smart"
+msgstr "Adimentsua"
+
+msgid "Maximize"
+msgstr "Maximizatu"
+
+msgid "Random"
+msgstr "Ausaz"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Ertz Iraultze Erakuslea"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Hautatu nola kokatuko diren leihoak hainbat irteera gailu erabiltzen badira."
+
+msgid "Use active output device"
+msgstr "Irteera gailu aktiboa erabili"
+
+msgid "Use output device with pointer"
+msgstr "Aukeratu irteera gailuan erakusleaz"
+
+msgid "Use output device of focused window"
+msgstr "Fokua duen leihoaren irteera gailua erabili"
+
+msgid "Place across all outputs"
+msgstr "Kokatu irteera guztietan zehar "
+
+msgid "Force Placement Windows"
+msgstr "Behartu leihoen kokatzea"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Kokatzera behartuko diren leihoak, nahiz eta leiho kudeatzaileak horiek "
+"kokatzea saihestu "
+
+msgid "Fixed Window Placement"
+msgstr "Leiho kokapen antolatua"
+
+msgid "Windows with fixed positions"
+msgstr "Posizio zehaztuko leihoak"
+
+msgid "Positioned windows"
+msgstr "Kokatutako leihoak"
+
+msgid "Windows that should be positioned by default"
+msgstr "Berez kokatuko diren leihoak"
+
+msgid "X Positions"
+msgstr "X kokapenak"
+
+msgid "X position values"
+msgstr "X kokapen balioak"
+
+msgid "Y Positions"
+msgstr "Y kokapenak"
+
+msgid "Y position values"
+msgstr "Y kokapen balioak"
+
+msgid "Keep In Workarea"
+msgstr "Mantendu lan arean"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Mantendu leiho kokapena lan arean, nahiz eta kokapen hau ez etorri bat "
+"kokapen zehatzaz"
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Posizio zehaztuko leihoak"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Saturazio lehenetsi ezberdina izan behar duten leihoak"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Iraungitze modua"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Kokatutako leihoak"
+
+msgid "Windows with fixed viewport"
+msgstr "Mahaigain aurkezpen zehaztuko leihoak"
+
+msgid "Viewport positioned windows"
+msgstr "Mahaigain aurkezpenan kokatutako leihoak"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Mahaigain aurkezpen konkretuan berez kokatuko diren leihoak"
+
+msgid "X Viewport Positions"
+msgstr "X mahaigain aurkezpen kokapenak"
+
+msgid "Horizontal viewport positions"
+msgstr "Mahaigain aurkezpen horizontalen kokapena"
+
+msgid "Y Viewport Positions"
+msgstr "Y mahaigain aurkezpen kokapenak"
+
+msgid "Vertical viewport positions"
+msgstr "Mahaigain aurkezpen bertikalen kokapenak"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Png irudi kargatzailea"
+
+msgid "Regex Matching"
+msgstr "Regex parekatzea"
+
+msgid "Regex window matching"
+msgstr "Regex leiho parekatzea"
+
+msgid "Resize Window"
+msgstr "Tamaina-aldatu Leihoari"
+
+msgid "Resize window"
+msgstr "Tamaina-aldatu leihoari"
+
+msgid "Bindings"
+msgstr "Laster-bideak"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Hasi leiho tamaina aldatze normala"
+
+msgid "Start resizing window normally"
+msgstr "Hasi tamaina-aldatzen leihoari normal"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Hasi kanpoko-lerro leiho tamaina aldaketa"
+
+msgid "Start resizing window with outline"
+msgstr "Hasi tamaina-aldatzen leihoari kanpo-lerroaz"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Hasi lauki leiho tamaina aldaketa"
+
+msgid "Start resizing window with rectangle"
+msgstr "Hasi tamaina-aldatzen leihoari laukiaz"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Hasi tiratze leiho tamaina aldaketa"
+
+msgid "Start resizing window by stretching it"
+msgstr "Hasi tamaina-aldatzen leihoari tiratuz"
+
+msgid "Initiate Window Resize"
+msgstr "Hasi Lehio Tamaina-aldaketa"
+
+msgid "Start resizing window"
+msgstr "Hasi tamaina-aldatzen leihoari"
+
+msgid "Default Resize Mode"
+msgstr "Lehenetsitako Tamaina aldaketa Modua"
+
+msgid "Default mode used for window resizing"
+msgstr "Lehenetsitako modua leiho tamaina aldaketan"
+
+msgid "Outline"
+msgstr "Kanpo-lerroa"
+
+msgid "Rectangle"
+msgstr "Laukia"
+
+msgid "Stretch"
+msgstr "Tiratu"
+
+msgid "Border Color"
+msgstr "Ertz Kolorea"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Kanpoko-lerro eta lauki tamaina aldaketa moduan ertz kolorea"
+
+msgid "Fill Color"
+msgstr "Betetze Kolorea"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Kanpoko-lerro eta lauki tamaina aldaketa moduan betetze kolorea"
+
+msgid "Normal Resize Windows"
+msgstr "Leihoak Normal Tamainaz-aldatu"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Tamaina-aldatze normala erabiliko duten leihoak"
+
+msgid "Outline Resize Windows"
+msgstr "Kanpo-lerroaz Tamaina-aldatu Leihoei"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Tamaina-aldatzea kanpo-lerroaz egingo duten leihoak"
+
+msgid "Rectangle Resize Windows"
+msgstr "Laukiaz Tamaina-aldatu Leihoei"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Tamaina-aldatzea laukiaz egingo duten leihoak"
+
+msgid "Stretch Resize Windows"
+msgstr "Tamaina-aldatu leihoei tiratuz"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Tamaina-aldatzea tiratuz egingo duten leihoak"
+
+msgid "Rotate Cube"
+msgstr "Biratu kuboa"
+
+msgid "Rotate desktop cube"
+msgstr "Mahaigain kuboa biratu"
+
+msgid "Edge Flip Pointer"
+msgstr "Ertz Iraultze Erakuslea"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Irauli hurrengo mahaigain aurkezpenera, erakuslea pantaila ertzera mugitzean"
+
+msgid "Edge Flip Move"
+msgstr "Mugitu Ertz Iraultzea"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Irauli hurrengo mahaigain aurkezpenera, leihoa pantaila ertzera mugitzean"
+
+msgid "Edge Flip DnD"
+msgstr "DnD ertza irauli"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Irauli hurrengo mahaigain aurkezpenera, objektua pantaila ertzera "
+"arrastatzean"
+
+msgid "Flip Time"
+msgstr "Iraultze Denbora"
+
+msgid "Timeout before flipping viewport"
+msgstr "Denbora-muga mahaigain aurkezpena irauli aurretik"
+
+msgid "Raise on rotate"
+msgstr "Altzatu biratzean"
+
+msgid "Raise window when rotating"
+msgstr "Altzatu leihoa biratzean"
+
+msgid "Rotate cube"
+msgstr "Biratu kuboa"
+
+msgid "Start Rotation"
+msgstr "Hasi Biratzea"
+
+msgid "Rotate Left"
+msgstr "Ezkerrera biratu"
+
+msgid "Rotate left"
+msgstr "Ezkerrera biratu"
+
+msgid "Rotate Right"
+msgstr "Eskumara biratu"
+
+msgid "Rotate right"
+msgstr "Eskumara biratu"
+
+msgid "Rotate Left with Window"
+msgstr "Ezkerrera biratu leihoaz"
+
+msgid "Rotate left and bring active window along"
+msgstr "Ezkerrera biratu eta eraman leiho aktiboa"
+
+msgid "Rotate Right with Window"
+msgstr "Eskumara biratu leihoaz"
+
+msgid "Rotate right and bring active window along"
+msgstr "Eskumara biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To"
+msgstr "Nora Biratu"
+
+msgid "Rotate to viewport"
+msgstr "Biratu mahaigain aurkezpena"
+
+msgid "Rotate window"
+msgstr "Biratu leihoa"
+
+msgid "Rotate with window"
+msgstr "Biratu leihoaz"
+
+msgid "Rotate Flip Left"
+msgstr "Biratu ezkerrera irauliz"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Irauli ezkerreko mahaigain aurkezpen eta okertu erakuslea"
+
+msgid "Rotate Flip Right"
+msgstr "Biratu eskumara irauliz"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Irauli eskumako mahaigain aurkezpenera eta okertu erakuslea"
+
+msgid "Rotate to cube face"
+msgstr "Biratu kubo aurpegira"
+
+msgid "Rotate To Face 1"
+msgstr "1 Aurpegira Biratu"
+
+msgid "Rotate to face 1"
+msgstr "1 aurpegira biratu"
+
+msgid "Rotate To Face 2"
+msgstr "2 Aurpegira Biratu"
+
+msgid "Rotate to face 2"
+msgstr "2 aurpegira biratu"
+
+msgid "Rotate To Face 3"
+msgstr "3 Aurpegira Biratu"
+
+msgid "Rotate to face 3"
+msgstr "3 aurpegira biratu"
+
+msgid "Rotate To Face 4"
+msgstr "4 Aurpegira Biratu"
+
+msgid "Rotate to face 4"
+msgstr "4 aurpegira biratu"
+
+msgid "Rotate To Face 5"
+msgstr "5 Aurpegira Biratu"
+
+msgid "Rotate to face 5"
+msgstr "5 aurpegira biratu"
+
+msgid "Rotate To Face 6"
+msgstr "6 Aurpegira Biratu"
+
+msgid "Rotate to face 6"
+msgstr "6 aurpegira biratu"
+
+msgid "Rotate To Face 7"
+msgstr "7 Aurpegira Biratu"
+
+msgid "Rotate to face 7"
+msgstr "7 aurpegira biratu"
+
+msgid "Rotate To Face 8"
+msgstr "8 Aurpegira Biratu"
+
+msgid "Rotate to face 8"
+msgstr "8 aurpegira biratu"
+
+msgid "Rotate To Face 9"
+msgstr "9 Aurpegira Biratu"
+
+msgid "Rotate to face 9"
+msgstr "9 aurpegira biratu"
+
+msgid "Rotate To Face 10"
+msgstr "10 Aurpegira Biratu"
+
+msgid "Rotate to face 10"
+msgstr "10 aurpegira biratu"
+
+msgid "Rotate To Face 11"
+msgstr "11 Aurpegira Biratu"
+
+msgid "Rotate to face 11"
+msgstr "11 aurpegira biratu"
+
+msgid "Rotate To Face 12"
+msgstr "12 Aurpegira Biratu"
+
+msgid "Rotate to face 12"
+msgstr "12 aurpegira biratu"
+
+msgid "Rotate to cube face with window"
+msgstr "Biratu leihoa duen aurpegira"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "1 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "1 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "2 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "2 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "3 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "3 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "4 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "4 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "5 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "5 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "6 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "6 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "7 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "7 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "8 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "8 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "9 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "9 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "10 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "10 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "11 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "11 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "12 Aurpegira Biratu Leihoaz"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "12 aurpegira biratu eta eraman leiho aktiboa"
+
+msgid "Pointer Invert Y"
+msgstr "Alderantzikatu Y erakuslean"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Alderantzikatu Y ardatza erakusle mugimendurako"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Alderantzikatu Y erakuslean"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Alderantzikatu Y ardatza erakusle mugimendurako"
+
+msgid "Pointer Sensitivity"
+msgstr "Erakuslearen Sentikortasuna"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Erakusle mugimenduaren sentikortasuna"
+
+msgid "Rotation Acceleration"
+msgstr "Biratze azelerazioa"
+
+msgid "Snap To Top Face"
+msgstr "Atxiki Goiko Aurpegiari"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Atxiki kubo biratzea goiko aurpegiari"
+
+msgid "Snap To Bottom Face"
+msgstr "Atxiki Azpiko Aurpegiari"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Atxiki kubo biratzea azpiko aurpegiari"
+
+msgid "Rotation Speed"
+msgstr "Biratze abiadura"
+
+msgid "Rotation Timestep"
+msgstr "Biratze denbora-pausua"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Rotation Zoom"
+msgstr "Biratze zoom"
+
+msgid "Scale"
+msgstr "Eskalatu"
+
+msgid "Scale windows"
+msgstr "Eskalatu lehioak"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Initiate Window Picker"
+msgstr "Abiarazi Leiho Hautatzailea"
+
+msgid "Layout and start transforming windows"
+msgstr "Diseinua eta transformatzen hasi leihoak"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Abiarazi leiho hautatzailea leiho guztientzat"
+
+msgid "Layout and start transforming all windows"
+msgstr "Diseinua eta transformatzen hasi leiho guztiak"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Abiarazi leiho hautatzailea leiho taldearentzat"
+
+msgid "Layout and start transforming window group"
+msgstr "Diseinua eta transformatzen hasi leiho taldea"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Abiarazi leiho hautatzailea uneko irteerako leihoentzat"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Diseinua eta transformatzen hasi uneko irteerako leihoak"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Klikatu mahaigaina, mahaigaina ikusteko"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "Sartu Mahaigain Ikusteko moduan, eskalatzean mahaigaina klikatzean"
+
+msgid "Spacing"
+msgstr "Tartea"
+
+msgid "Space between windows"
+msgstr "Leiho arteko tartea"
+
+msgid "Scale speed"
+msgstr "Eskalatze abiadura"
+
+msgid "Scale timestep"
+msgstr "Eskalatze denbora-pausoa"
+
+msgid "Darken Background"
+msgstr "Ilundu atzeko-planoa"
+
+msgid "Darken background when scaling windows"
+msgstr "Ilundu atzeko-planoa leihoak eskalatzean"
+
+msgid "Amount of opacity in percent"
+msgstr "Opakutasun kopurua ehunekotan"
+
+msgid "Overlay Icon"
+msgstr "Gainjarri Ikonoa"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Gainjarri ikonoa leihoetan eskalatu eta gero"
+
+msgid "None"
+msgstr "Bat ere ez"
+
+msgid "Emblem"
+msgstr "Ikurra"
+
+msgid "Big"
+msgstr "Handia"
+
+msgid "Scale Windows"
+msgstr "Eskalatu Lehioak"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Eskalatze moduan eskalatuko diren leihoak"
+
+msgid "Hover Time"
+msgstr "Nabarmentze Denbora"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Denbora (ms) eskalatze modua amaitzeko, erakuslea leiho gainetik pasatzean"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Hautatu non eskalatuko diren leihoak hainbat irteera gailu erabiltzen badira."
+
+msgid "On current output device"
+msgstr "Uneko irteera gailuan"
+
+msgid "On all output devices"
+msgstr "Irteera gailu guztietan"
+
+msgid "Screenshot"
+msgstr "Pantaila argazkia"
+
+msgid "Screenshot plugin"
+msgstr "Pantaila argazkia plugin"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Hasi laukizuzen pantaila argazkia"
+
+msgid "Directory"
+msgstr "Direktorioa"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Pantaila argazkiak direktorio honetan sartu"
+
+msgid "Launch Application"
+msgstr "Abiarazi aplikazioa"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Auomatikoki ireki pantaila argazkia aplikazio honetan"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Svg irudi kargatzailea"
+
+msgid "Application Switcher"
+msgstr "Aplikazio Aldatzailea"
+
+msgid "Next window"
+msgstr "Hurrengo leihoa"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Popup aldatzailea bistara ez badago eta hautatu hurrengo leihoa"
+
+msgid "Prev window"
+msgstr "Aurreko leihoa"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Popup aldatzailea bistara ez badago eta hautatu aurreko leihoa"
+
+msgid "Next window (All windows)"
+msgstr "Hurrengo leihoa (Leiho guztiak)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Popup aldatzailea bistara ez badago eta hautatu hurrengo leihoa, leiho "
+"guztien artean"
+
+msgid "Prev window (All windows)"
+msgstr "Aurreko leihoa (leiho guztiak)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Popup aldatzailea bistara ez badago eta hautatu aurreko leihoa, leiho "
+"guztien artean"
+
+msgid "Next window (No popup)"
+msgstr "Hurrengo leihoa (popup ez)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Hautatu hurrengo leihoa popup leihoa ikusi gabe."
+
+msgid "Prev window (No popup)"
+msgstr "Aurreko leihoa (popup ez)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Hautatu aurreko leihoa popup leihoa ikusi gabe."
+
+msgid "Next Panel"
+msgstr "Hurrengo panela"
+
+msgid "Select next panel type window."
+msgstr "Hautatu hurrengo paneleko leiho mota."
+
+msgid "Prev Panel"
+msgstr "Aurreko panela"
+
+msgid "Select previous panel type window."
+msgstr "Hautatu aurreko paneleko leiho mota."
+
+msgid "Switcher speed"
+msgstr "Aldatzailearen abiadura"
+
+msgid "Switcher timestep"
+msgstr "Aldatzailearen denbora-pausoa"
+
+msgid "Switcher windows"
+msgstr "Leiho aldatzailea"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Aldatzailean erakutsiko diren leihoak"
+
+msgid "Amount of saturation in percent"
+msgstr "Saturazio kopurua ehunekotan"
+
+msgid "Amount of brightness in percent"
+msgstr "Distira kopurua ehunekotan"
+
+msgid "Bring To Front"
+msgstr "Eraman aurrealdera"
+
+msgid "Bring selected window to front"
+msgstr "Eraman hautatutako leihoak aurrealdera"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Leihoak aldatzerakoan hurruntze zooma mahaigainari"
+
+msgid "Icon"
+msgstr "Ikonoa"
+
+msgid "Show icon next to thumbnail"
+msgstr "Erakutsi ikonoa koadro txiki ondoan."
+
+msgid "Minimized"
+msgstr "Ikonotua"
+
+msgid "Show minimized windows"
+msgstr "Erakutsi txikitutako leihoak"
+
+msgid "Auto Rotate"
+msgstr "Auto-biratu"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Biratu hautatutako leihoa aldatu bitartean"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Mahaigain tamaina"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Biratu hautatutako leihoa aldatu bitartean"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Aurreko diapositiba"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Itzalaren Erradioa"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Kanpo-lerroa"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Kanpo-lerroaz Tamaina-aldatu Leihoei"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Atzeko plano Irudiak"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Ertz Kolorea"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Betetze Kolorea"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Itzal Kolorea"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "X mahaigain aurkezpen kokapenak"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Leihoak iraungitzen"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Eskalatze moduan eskalatuko diren leihoak"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Leiho mugimendua"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Ezkerrera biratu"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Eskumara biratu"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Leiho Mugimendua"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Biratu leihoaz"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Ezkerrera biratu leihoaz"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Eskumara biratu leihoaz"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Leiho Mugimendua"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Leiho Mugimendua"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Ertzetako laster-bideak"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Biratu ezkerrera irauliz"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Iraultze Denbora"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Biratu eskumara irauliz"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Biratu eskumara irauliz"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Iraultze Denbora"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Iraultze Denbora"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "DnD ertza irauli"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Planoa behera"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Aldatzailearen abiadura"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "DnD ertza irauli"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Irauli hurrengo mahaigain aurkezpenera, erakuslea pantaila ertzera mugitzean"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Irauli hurrengo mahaigain aurkezpenera, leihoa pantaila ertzera mugitzean"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Irauli hurrengo mahaigain aurkezpenera, objektua pantaila ertzera "
+"arrastatzean"
+
+msgid "Water Effect"
+msgstr "Ur efektua"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Gehitu ur efektuak mahaigain ezberdinen akzioei"
+
+msgid "Enable pointer water effects"
+msgstr "Gaitu erakuslearen ur efektuak"
+
+msgid "Toggle rain"
+msgstr "Gaitu/ezgaitu euria"
+
+msgid "Toggle rain effect"
+msgstr "Gaitu/ezgaitu euri efektua"
+
+msgid "Toggle wiper"
+msgstr "Gaitu/ezgaitu wiper"
+
+msgid "Toggle wiper effect"
+msgstr "Gaitu/ezgaitu wiper efektua"
+
+msgid "Offset Scale"
+msgstr "Eskala desplazamendua"
+
+msgid "Water offset scale"
+msgstr "Ur desplazamendu eskala"
+
+msgid "Rain Delay"
+msgstr "Euri atzerapena"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Euri-tanten arteko denbora (ms)"
+
+msgid "Title wave"
+msgstr "Uhin titulua"
+
+msgid "Wave effect from window title"
+msgstr "Uhin efektua leiho titulutik"
+
+msgid "Point"
+msgstr "Puntua"
+
+msgid "Add point"
+msgstr "Gehitu puntua"
+
+msgid "Line"
+msgstr "Lerroa"
+
+msgid "Add line"
+msgstr "Gehitu lerroa"
+
+msgid "Wobbly Windows"
+msgstr "Dardara duten leihoak"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Erabili malguki modua dar-dar leiho efekturako"
+
+msgid "Snap windows"
+msgstr "Atxikitu leihoak"
+
+msgid "Toggle window snapping"
+msgstr "Gaitu/ezgaitu leiho atxikitzea"
+
+msgid "Snap Inverted"
+msgstr "Atxikitze alderantzikatua"
+
+msgid "Inverted window snapping"
+msgstr "Leiho atxikitze alderantzikatua "
+
+msgid "Shiver"
+msgstr "Dardara"
+
+msgid "Make window shiver"
+msgstr "Leihoak dardara egin dezala"
+
+msgid "Friction"
+msgstr "Marruskadura"
+
+msgid "Spring Friction"
+msgstr "Malguki marruskadura"
+
+msgid "Spring K"
+msgstr "Malguki K"
+
+msgid "Spring Konstant"
+msgstr "Malguki konstantea "
+
+msgid "Grid Resolution"
+msgstr "Sareta erresoluzioa"
+
+msgid "Vertex Grid Resolution"
+msgstr "Vertex sareta erresoluzioa"
+
+msgid "Minimum Grid Size"
+msgstr "Sareta tamaina minimoa"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Vertex sareta tamaina minimoa"
+
+msgid "Map Effect"
+msgstr "Map Efektua"
+
+msgid "Map Window Effect"
+msgstr "Map leiho efektua"
+
+msgid "Focus Effect"
+msgstr "Foku efektua"
+
+msgid "Focus Window Effect"
+msgstr "Leiho foku efektua"
+
+msgid "Map Windows"
+msgstr "Map leihoak"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Dar-dar egin behar duten leihoak mapatzean"
+
+msgid "Focus Windows"
+msgstr "Leihoak enfokatu "
+
+msgid "Windows that should wobble when focused"
+msgstr "Dar-dar egin behar duten leihoak enfokatzean"
+
+msgid "Grab Windows"
+msgstr "Harrapatu leihoak"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Dar-dar egin behar duten leihoak eustean "
+
+msgid "Move Windows"
+msgstr "Mugitu leihoak"
+
+msgid "Windows that should wobble when moved"
+msgstr "Dar-dar egin behar duten leihoak mugitzean"
+
+msgid "Maximize Effect"
+msgstr "Maximizatu efektua"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Dar-dar efektua leihoak maximizatzean eta maximizatzea kentzean"
+
+msgid "Zoom Desktop"
+msgstr "Mahaigain zooma"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Zoom eta pan mahaigain kuboa"
+
+msgid "Zoom In"
+msgstr "Zoom gerturatzea"
+
+msgid "Zoom Out"
+msgstr "Zoom urrundu"
+
+msgid "Zoom Pan"
+msgstr "Zoom pan"
+
+msgid "Zoom pan"
+msgstr "Zoom pan"
+
+msgid "Zoom Speed"
+msgstr "Zoom abiadura"
+
+msgid "Zoom Timestep"
+msgstr "Zoom denbora-pausoa"
+
+msgid "Zoom factor"
+msgstr "Zoom faktorea"
+
+msgid "Filter Linear"
+msgstr "Iragazki lineala"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Erabili iragazki lineala zooma gerturatzean"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Mahaigain kopurua"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Mahaigain birtualen kopurua"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Leihoko titulu barra gainetik sagu gurpila biratzean hartu beharreko "
+#~ "ekintza."
+
+#~ msgid "Blur type"
+#~ msgstr "Lausotze mota"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Marco gaian leiho aktiboko opakutasuna"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Marco gaian leiho aktiboko opakotasun itzala"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Marco gaiaren opakutasuna"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Marco gaiaren opakotasun itzala"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr ""
+#~ "Marco gaiaren dekorazioaetan erabili beharreko opakutasuna leiho "
+#~ "aktiborako"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Marco gaiaren dekorazioaetan erabili beharreko opakutasuna"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Itzaldu leiho aktiboa marco dekorazio gaia erabiliz, opakutik "
+#~ "transluzidora."
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Itzaldu leihoak marco dekorazio gaia erabiliz, opakutik transluzidora."
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Sagu gurpil ekintza titulu-barran"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Leiho dekoraziorako lausotze mota"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Erabili marco gaia"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Erabili marco gaia leiho dekorazioa marraztean"
+
+#~ msgid "Line width"
+#~ msgstr "Lerro zabalera"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Lerro zabalera oharrentzat"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "GConf kontrol tresna"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig kontrol tresna"
+
+#~ msgid "Decrease"
+#~ msgstr "Txikitu"
+
+#~ msgid "Increase"
+#~ msgstr "Handitu"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Pantaila-argazkia komando lerroa"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Pantaila-argazkia komando lerroa"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Lehenetsita transluzidoak izango diren leihoentzako opakutasun balioak"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Leihoen opakutasuna"
+
+#~ msgid "Background images"
+#~ msgstr "Atzeko plano irudiak"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Kokatu leihoak planoan"
+
+#~ msgid "Plane Down"
+#~ msgstr "Planoa Behera"
+
+#~ msgid "Plane Left"
+#~ msgstr "Planoa Ezkerrera"
+
+#~ msgid "Plane Right"
+#~ msgstr "Planoa Eskumara"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Planoa 1 Aurpegira"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Planoa 10 Aurpegira"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Planoa 11 Aurpegira"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Planoa 12 Aurpegira"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Planoa 2 Aurpegira"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Planoa 3 Aurpegira"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Planoa 4 Aurpegira"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Planoa 5 Aurpegira"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Planoa 6 Aurpegira"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Planoa 7 Aurpegira"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Planoa 8 Aurpegira"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Planoa 9 Aurpegira"
+
+#~ msgid "Plane Up"
+#~ msgstr "Planoa Gora"
+
+#~ msgid "Plane left"
+#~ msgstr "Planoa ezkerrera"
+
+#~ msgid "Plane right"
+#~ msgstr "Planoa eskumara"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Planoa 1 aurpegira"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Planoa 10 aurpegira"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Planoa 11 aurpegira"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Planoa 12 aurpegira"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Planoa 2 aurpegira"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Planoa 3 aurpegira"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Planoa 4 aurpegira"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Planoa 5 aurpegira"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Planoa 6 aurpegira"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Planoa 7 aurpegira"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Planoa 8 aurpegira"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Planoa 9 aurpegira"
+
+#~ msgid "Plane up"
+#~ msgstr "Planoa gora"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Mahaigain leiho opakotasun iraungitze denbora."

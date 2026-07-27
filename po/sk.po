@@ -1,0 +1,3273 @@
+# Slovak translation for compiz
+# Copyright (C) 2008 The Free Software Foundation, Inc.
+# This file is distributed under the same license as the compiz package.
+# Ivan Masár <helix84@centrum.sk>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:43+0300\n"
+"PO-Revision-Date: 2008-05-17 10:28+0200\n"
+"Last-Translator: Brusnica P <pepino@pobox.sk>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close Window"
+msgstr "Zatvoriť okno"
+
+msgid "Unmaximize Window"
+msgstr "Zrušiť maximalizáciu okna"
+
+msgid "Maximize Window"
+msgstr "Maximalizovať okno"
+
+msgid "Minimize Window"
+msgstr "Minimalizovať Okno"
+
+msgid "Window Menu"
+msgstr "Menu Okna"
+
+msgid "Shade"
+msgstr "Tieň"
+
+msgid "Make Above"
+msgstr "Vykonať vyššie uvedené"
+
+msgid "Stick"
+msgstr "Prilepiť"
+
+msgid "Unshade"
+msgstr "Netieňovať"
+
+msgid "Unmake Above"
+msgstr "Odvolať vyššie uvedené"
+
+msgid "Unstick"
+msgstr "Odlepiť"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Okno „%s“ neodpovedá."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr "Vynútené ukončenie tejto aplikácie spôsobí stratu neuložených zmien."
+
+msgid "_Cancel"
+msgstr "_Zrušiť"
+
+msgid "_Force Quit"
+msgstr "_Vynútiť ukončenie"
+
+msgid "Annotate"
+msgstr "Poznámka"
+
+msgid "Annotate plugin"
+msgstr "Zásuvný modul poznámok"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Začať mazanie"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Začať kreslenie poznámky"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Začať"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Začať kreslenie poznámky"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Začať mazanie"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Začať kreslenie poznámky"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Začať mazanie"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Začať kreslenie poznámky"
+
+msgid "Draw"
+msgstr "Kresliť"
+
+msgid "Draw using tool"
+msgstr "Vykresliť použitím nástroja"
+
+msgid "Initiate erase"
+msgstr "Začať mazanie"
+
+msgid "Initiate annotate erasing"
+msgstr "Začať mazanie poznámky"
+
+msgid "Clear"
+msgstr "Vyčistiť"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Prepnúť tieňovanie aktívneho okna"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Farba výplne poznámky"
+
+msgid "Fill color for annotations"
+msgstr "Farba výplne poznámok"
+
+msgid "Annotate Stroke Color"
+msgstr "Štýl ťahu poznám"
+
+msgid "Stroke color for annotations"
+msgstr "Štýl ťahu poznámok"
+
+msgid "Stroke width"
+msgstr "Šírka ťahu"
+
+msgid "Stroke width for annotations"
+msgstr "Šírka ťahu poznámok"
+
+msgid "Blur Windows"
+msgstr "Rozostrovať okná"
+
+msgid "Blur windows"
+msgstr "Rozostrovať okná"
+
+msgid "Pulse"
+msgstr "Pulz"
+
+msgid "Pulse effect"
+msgstr "Efekt pulzu"
+
+msgid "Blur Speed"
+msgstr "Rýchlosť rozostrenia"
+
+msgid "Window blur speed"
+msgstr "Rýchlosť rozmazania okna"
+
+msgid "Focus blur windows"
+msgstr "Rozmazať aktívne okná"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Okná, ktoré majú byť ovplyvnené rozmazaním"
+
+msgid "Focus Blur"
+msgstr "Rozmazať aktívne"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Rozostrovať okná, ktoré nie sú aktívne"
+
+msgid "Alpha blur windows"
+msgstr "Alfa rozostrenie okien"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Okná, ktoré by mali štandardne použiť alfa rozmazanie"
+
+msgid "Alpha Blur"
+msgstr "Rozmaznie alfa"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Rozmazanie za priehľadnými časťami okien"
+
+msgid "Blur Filter"
+msgstr "Filter rozostrenia"
+
+msgid "Filter method used for blurring"
+msgstr "Metóda filtra použitá pre rozmazanie"
+
+msgid "4xBilinear"
+msgstr "Filter:"
+
+msgid "Gaussian"
+msgstr "Gaussovské rozostrenie"
+
+msgid "Mipmap"
+msgstr "Mipmapy"
+
+msgid "Gaussian Radius"
+msgstr "Polomer gaussovského rozostrenia"
+
+msgid "Gaussian radius"
+msgstr "Polomer gaussovského rozostrenia"
+
+msgid "Gaussian Strength"
+msgstr "Sila gaussovského rozostrenia"
+
+msgid "Gaussian strength"
+msgstr "Sila gausovského rozostrenia"
+
+msgid "Mipmap LOD"
+msgstr "Úroveň detailu mipmáp"
+
+msgid "Mipmap level-of-detail"
+msgstr "Úroveň podrobností mipmáp"
+
+msgid "Blur Saturation"
+msgstr "Sýtosť rozostrenia"
+
+msgid "Blur saturation"
+msgstr "Sýtosť rozostrenia"
+
+msgid "Blur Occlusion"
+msgstr "Oklúzia rozostrenia"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Zakázať rozmazanie častí obrazovky, ktoré sú zakryté inými oknami."
+
+msgid "Independent texture fetch"
+msgstr "Nezávislé stiahnutia textúr"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Použiť dostupné jednotky textúr na vykonanie čo najväčšieho počtu "
+"nezávislých stiahnutí textúr"
+
+msgid "Clone Output"
+msgstr "Klonovať výstup"
+
+msgid "Output clone handler"
+msgstr "Obsluha klonovania výstupu"
+
+msgid "Initiate"
+msgstr "Začať"
+
+msgid "Initiate clone selection"
+msgstr "Začať klonovať výber"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Príkaz"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+msgid "Command line 0"
+msgstr "Príkazový riadok 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command0"
+
+msgid "Command line 1"
+msgstr "Príkazový riadok 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+msgid "Command line 2"
+msgstr "Príkazový riadok 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command2"
+
+msgid "Command line 3"
+msgstr "Príkazový riadok 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command3"
+
+msgid "Command line 4"
+msgstr "Príkazový riadok 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command4"
+
+msgid "Command line 5"
+msgstr "Príkazový riadok 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command5"
+
+msgid "Command line 6"
+msgstr "Príkazový riadok 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command6"
+
+msgid "Command line 7"
+msgstr "Príkazový riadok 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command7"
+
+msgid "Command line 8"
+msgstr "Príkazový riadok 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command8"
+
+msgid "Command line 9"
+msgstr "Príkazový riadok 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command9"
+
+msgid "Command line 10"
+msgstr "Príkazový riadok 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command10"
+
+msgid "Command line 11"
+msgstr "Príkazový riadok 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command11"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Príkazový riadok 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Príkazový riadok 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command0"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Príkazový riadok 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command1"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Príkazový riadok 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command2"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Príkazový riadok 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command2"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Príkazový riadok 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "Príkaz, ktorý sa vykoná, ak sa v shelli volá run_command2"
+
+msgid "Key Bindings"
+msgstr ""
+
+msgid "Run command 0"
+msgstr "Spustiť príkaz 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command0"
+
+msgid "Run command 1"
+msgstr "Spustiť príkaz 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+msgid "Run command 2"
+msgstr "Spustiť príkaz 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+msgid "Run command 3"
+msgstr "Spustiť príkaz 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command3"
+
+msgid "Run command 4"
+msgstr "Spustiť príkaz 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command4"
+
+msgid "Run command 5"
+msgstr "Spustiť príkaz 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command5"
+
+msgid "Run command 6"
+msgstr "Spustiť príkaz 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command6"
+
+msgid "Run command 7"
+msgstr "Spustiť príkaz 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command7"
+
+msgid "Run command 8"
+msgstr "Spustiť príkaz 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command8"
+
+msgid "Run command 9"
+msgstr "Spustiť príkaz 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command9"
+
+msgid "Run command 10"
+msgstr "Spustiť príkaz 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command10"
+
+msgid "Run command 11"
+msgstr "Spustiť príkaz 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command11"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Spustiť príkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Spustiť príkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Spustiť príkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Spustiť príkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Spustiť príkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Spustiť príkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+msgid "Button Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command0"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command3"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command4"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command5"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command6"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command7"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command8"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command9"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command10"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command0"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command4"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command5"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command6"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command7"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command8"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command9"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Klávesové skratky, ktoré spustia príkaz identifikovaný ako command2"
+
+msgid "General Options"
+msgstr "Všeobecné nastavenia"
+
+msgid "General compiz options"
+msgstr "Všeobecné nastavenia Compiz"
+
+msgid "Active Plugins"
+msgstr "Aktívne zásuvné moduly"
+
+msgid "List of currently active plugins"
+msgstr "Zoznam práve aktívnych modulov"
+
+msgid "Audible Bell"
+msgstr "Akustický zvonček"
+
+msgid "Audible system beep"
+msgstr "Akustické systémové pípnutie"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Pri maximalizovaní ignorovať tipy"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "Pri maximalizovaní okna ignorovať veľkosť nárastu a vzhľad tipov"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Skryť okná neprítomné v lište úloh"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Skryť okná neprítomné v lište úloh pri vstupe do režimu zobrazenia pracovnej "
+"plochy"
+
+msgid "Edge Trigger Delay"
+msgstr "Oneskorenie operácie na okraji"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Interval, počas ktorého musí ukazovateľ zostať na okraji obrazovky, než sa "
+"vykoná operácia."
+
+msgid "Cursor theme"
+msgstr "Téma kurzora"
+
+msgid "Cursor theme name"
+msgstr "Názov témy kurzora"
+
+msgid "Cursor size"
+msgstr "Veľkosť kurzora"
+
+msgid "Size of the cursor"
+msgstr "Veľkosť kurzora"
+
+msgid "Ping Delay"
+msgstr "Oneskorenie pingu"
+
+msgid "Interval between ping messages"
+msgstr "Interval medzi odosielaním pingu"
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Texture Filter"
+msgstr "Filter textúr"
+
+msgid "Texture filtering"
+msgstr "Filtrovanie textúr"
+
+msgid "Fast"
+msgstr "Rýchlo"
+
+msgid "Good"
+msgstr "V poriadku"
+
+msgid "Best"
+msgstr "Najlepšie"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Zamerať kliknutím"
+
+msgid "Click on window moves input focus to it"
+msgstr "Kliknutím na okno presunúť zameranie na okno"
+
+msgid "Raise On Click"
+msgstr "Kliknutím dať do popredia"
+
+msgid "Raise windows when clicked"
+msgstr "Presunúť okno do popredia po kliknutí"
+
+msgid "Auto-Raise"
+msgstr "Automaticky do popredia"
+
+msgid "Raise selected windows after interval"
+msgstr "Prepnúť vybrané okná do popredia po uplynutí intervalu"
+
+msgid "Auto-Raise Delay"
+msgstr "Oneskorenie automatického presunu do popredia"
+
+msgid "Interval before raising selected windows"
+msgstr "Interval pred presunutím vybraných okien do popredia"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "Zatvoriť aktívne okno"
+
+msgid "Raise Window"
+msgstr "Presunúť okno do popredia"
+
+msgid "Raise window above other windows"
+msgstr "Presunúť okno dopredu nad ostatné okná"
+
+msgid "Lower Window"
+msgstr "Presunúť okno do pozadia"
+
+msgid "Lower window beneath other windows"
+msgstr "Presunúť okno do pozadia"
+
+msgid "Unmaximize active window"
+msgstr "Zrušiť maximalizáciu aktívneho okna"
+
+msgid "Minimize active window"
+msgstr "Minimalizovať aktívne okno"
+
+msgid "Maximize active window"
+msgstr "Maximalizovať aktívne okno"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maximalizovať okno vodorovne"
+
+msgid "Maximize active window horizontally"
+msgstr "Maximalizovať aktívne okno vodorovne"
+
+msgid "Maximize Window Vertically"
+msgstr "Maximalizovať okno zvisle"
+
+msgid "Maximize active window vertically"
+msgstr "Maximalizovať aktívne okno zvisle"
+
+msgid "Window menu button binding"
+msgstr "Klávesová skratka tlačidla hlavnej ponuky okna"
+
+msgid "Window menu key binding"
+msgstr "Klávesová skratka hlavnej ponuky okna"
+
+msgid "Show Desktop"
+msgstr "Zobraziť Plochu"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Skryť všetky okná a zobraziť pracovnú plochu"
+
+msgid "Toggle Window Maximized"
+msgstr "Prepnúť maximalizáciu okna"
+
+msgid "Toggle active window maximized"
+msgstr "Prepnúť maximalizáciu aktívneho okna"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Prepnúť vodorovnú maximalizáciu okna"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Prepnúť horizontálnu maximalizáciu aktívneho okna"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Prepnúť zvislú maximalizáciu okna"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Prepnúť vertikálnu maximalizáciu aktívneho okna"
+
+msgid "Toggle Window Shaded"
+msgstr "Prepnúť tieňovanie okna"
+
+msgid "Toggle active window shaded"
+msgstr "Prepnúť tieňovanie aktívneho okna"
+
+msgid "Slow Animations"
+msgstr "Pomalé animácie"
+
+msgid "Toggle use of slow animations"
+msgstr "Prepnúť použitie pomalých animácií"
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Kocka plochy"
+
+msgid "Horizontal Virtual Size"
+msgstr "Vodorovná virtuálna veľkosť"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Násobiteľ vodorovnej virtuálnej veľkosti obrazovky"
+
+msgid "Vertical Virtual Size"
+msgstr "Vertikálna Virtuálna Veľkosť"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Násobiteľ zvislej virtuálnej veľkosti obrazovky"
+
+msgid "Lighting"
+msgstr "Osvetlenie"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Použiť rozptýlené svetlo pri transformácii obrazovky"
+
+msgid "Detect Refresh Rate"
+msgstr "Deteguj Obnovovaciu Frekvenciu"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Automatická detekcia obnovovacej frekvencie"
+
+msgid "Refresh Rate"
+msgstr "Obnovovacia frekvencia"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Frekvencia prekresľovania obrazovky v Hz"
+
+msgid "Detect Outputs"
+msgstr "Detekovať výstupy"
+
+msgid "Automatic detection of output devices"
+msgstr "Automatická detekcia výstupných zariadení"
+
+msgid "Overlapping Output Handling"
+msgstr "Obsluha prekrývajúceho sa výstupu"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Ktoré z prekrývajúcich sa výstupných zariadení sa má uprednostniť"
+
+msgid "Smart mode"
+msgstr "Inteligentný režim"
+
+msgid "Prefer larger output"
+msgstr "Uprednostniť väčší výstup"
+
+msgid "Prefer smaller output"
+msgstr "Uprednostniť menší výstup"
+
+msgid "Outputs"
+msgstr "Výstupy"
+
+msgid "List of strings describing output devices"
+msgstr "Zoznam reťazcov popisujúcich výstupné zariadenia"
+
+msgid "Sync To VBlank"
+msgstr "Synchronizovať pri VBlank"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"Vykonávať aktualizácie obrazovky počas intervalu vertikálneho zatemnenia"
+
+msgid "Focus Prevention Level"
+msgstr "Predchádzať ukradnutiu aktivity"
+
+msgid "Level of focus stealing prevention"
+msgstr "Úroveň prevencie pred ukradnutím aktivity okna"
+
+msgid "Off"
+msgstr "Vypnuté"
+
+msgid "Low"
+msgstr "Nízke"
+
+msgid "Normal"
+msgstr "Normálny"
+
+msgid "High"
+msgstr "Vysoké"
+
+msgid "Very High"
+msgstr "Veľmi vysoké"
+
+msgid "Focus Prevention Windows"
+msgstr "Predchádzať zameraniu okien"
+
+msgid "Focus prevention windows"
+msgstr "Predchádzať zameraniu okien"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Nepresmerovať okná v celoobrazovkovom režime"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Povoliť vykresľovanie celoobrazovkových okien bez presmerovania do "
+"mimoobrazovkových pixmapov"
+
+msgid "Default Icon"
+msgstr "Východzia ikona"
+
+msgid "Default window icon image"
+msgstr "Východzí obrázok ikony okna"
+
+msgid "Force independent output painting."
+msgstr "Vynútenie vykreslenia nezávislého výstupu"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Vykresli každý výstup zariadenia nezávisle aj keď sa výstupy zariadení "
+"prekrývajú"
+
+msgid "Texture Compression"
+msgstr "Kompersia textúr"
+
+msgid "If available use compression for textures converted from images"
+msgstr "Ak sa dá, použiť kompresiu textúr, ktoré boli konvertované z obrázkov."
+
+msgid "Desktop Cube"
+msgstr "Kocka plochy"
+
+msgid "Place windows on cube"
+msgstr "Umiestniť okná na kocke"
+
+msgid "Unfold"
+msgstr "Roztvoriť"
+
+msgid "Unfold cube"
+msgstr "Roztvoriť kocku"
+
+msgid "Next Slide"
+msgstr "Ďalšia snímka"
+
+msgid "Advance to next slide"
+msgstr "Prejsť na nasledujúcu snímku"
+
+msgid "Prev Slide"
+msgstr "Predchádzajúca snímka"
+
+msgid "Go back to previous slide"
+msgstr "Choď späť na predchádzajúci snímok"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Ak je to možné, vytvárať pre vysoko kvalitné modelovanie mipmapy"
+
+msgid "Multi Output Mode"
+msgstr "Viacnásobný výstupný režim"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Zvoliť zobrazenie kocky v prípade, že budú použité viacnásobné výstupné "
+"zariadenia."
+
+msgid "Automatic"
+msgstr "Automatický"
+
+msgid "Multiple cubes"
+msgstr "Viacnásobné kocky"
+
+msgid "One big cube"
+msgstr "Jedna veľká kocka"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "Vnútri kocky"
+
+msgid "Inside cube"
+msgstr "Vnútri kocky"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+#  ...
+#  at the end of the suggestion text we will add the
+#  3D status. Therefore the D3Active variable is handled
+#  if the status is false we had to check if the card
+#  or the environment is capable of using 3D
+#  ---
+msgid "Acceleration"
+msgstr "Akcelerácia"
+
+msgid "Fold Acceleration"
+msgstr "Zrýchlenie zloženia"
+
+msgid "Speed"
+msgstr "Rýchlosť"
+
+msgid "Fold Speed"
+msgstr "Rýchlosť zloženia"
+
+msgid "Timestep"
+msgstr "Krok"
+
+msgid "Fold Timestep"
+msgstr "Časový skok zloženia"
+
+msgid "Appearance"
+msgstr ""
+
+# KM
+msgid "Cube Color"
+msgstr "Farba kocky"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Farba vrchnej a spodnej strany kocky"
+
+# KM
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Farba kocky"
+
+msgid "Scale image"
+msgstr "Zmeniť veľkosť obrázka"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Zmeniť mierku obrázka aby pokrýval vrch kocky"
+
+msgid "Image files"
+msgstr "Obrázkové súbory"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "Zoznam PNG a SVG súborov, ktoré môžu byť vykreslené na vrchu kocky"
+
+msgid "Adjust Image"
+msgstr "Prispôsobiť obrázok"
+
+msgid "Adjust top face image to rotation"
+msgstr "Prispôsobiť vrchný obrázok otáčaniu"
+
+msgid "Skydome"
+msgstr "Skydome"
+
+msgid "Render skydome"
+msgstr "Vykresliť Skydome"
+
+msgid "Skydome Image"
+msgstr "Obrázok Skydome"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Obrázok, ktorý sa použije ako textúra pre skydome"
+
+msgid "Animate Skydome"
+msgstr "Animovať Skydome"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animovať skydome pri rotácii kocky"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Počiatočná farba gradientu Skydome"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Farba, ktorá sa použije na hornú časť gradientu skydome"
+
+msgid "Skydome Gradient End Color"
+msgstr "Konečná farba gradientu Skydome"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Farba, ktorá sa použije na dolnú časť gradientu skydome"
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr "Nepriehľadnosť počas otáčania"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Nepriehľadnosť plochy okna počas otáčania."
+
+msgid "Opacity When Not Rotating"
+msgstr "Nepriehľadnosť v prípade neotáčania"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Nepriehľadnosť plochy okna počas neotáčania."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Priehľadnosť iba v prípade otáčania použitím myši"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr ""
+"Aktivuje priehľadnosť kocky iba v prípade, ak je rotácia vykonaná pomocou "
+"myši."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Backend pre riadenie D-Bus"
+
+msgid "Window Decoration"
+msgstr "Dekorácie okna"
+
+msgid "Window decorations"
+msgstr "Dekorácie okna"
+
+msgid "Shadow Radius"
+msgstr "Polomer tieňa"
+
+msgid "Drop shadow radius"
+msgstr "Polomer vrhaného tieňa"
+
+msgid "Shadow Opacity"
+msgstr "Krytie tieňa"
+
+msgid "Drop shadow opacity"
+msgstr "Nepriehľadnosť vrhaného tieňa"
+
+msgid "Shadow Color"
+msgstr "Farba tieňa"
+
+msgid "Drop shadow color"
+msgstr "Farba vrhaného tieňa"
+
+msgid "Shadow Offset X"
+msgstr "Posun tieňa X"
+
+msgid "Drop shadow X offset"
+msgstr "Posun X vrhaného tieňa"
+
+msgid "Shadow Offset Y"
+msgstr "Posun tieňa Y"
+
+msgid "Drop shadow Y offset"
+msgstr "Posun Y vrhaného tieňa"
+
+msgid "Command"
+msgstr "Príkaz"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Príkazový riadok programu pre dekorácie, ktorý sa vykoná, pokiaľ nebude "
+"spustený žiadny program pre dekorácie"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Umožniť tvorbu mipmáp pre dekoračné textúry"
+
+msgid "Decoration windows"
+msgstr "Dekorované okná"
+
+msgid "Windows that should be decorated"
+msgstr "Okná, ktoré by mali byť dekorované"
+
+msgid "Shadow windows"
+msgstr "Tieňované okná"
+
+msgid "Windows that should have a shadow"
+msgstr "Okná, ktoré by mali mať tieň"
+
+msgid "Fading Windows"
+msgstr "Stmievanie okien"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "Rozsvecovanie okien pri mapovaní a stmievania pri odmapovaní"
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "Doba stmavnutia"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Rýchlosť stmievania okna"
+
+#, fuzzy
+msgid "Constant speed"
+msgstr "Rýchlosť otáčania"
+
+#, fuzzy
+msgid "Constant time"
+msgstr "Obmedzenie Y"
+
+msgid "Fade Speed"
+msgstr "Rýchlosť stmievania"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Okná, ktoré majú meniť veľkosť v režime zmeny mierky"
+
+msgid "Fade Time"
+msgstr "Doba stmavnutia"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+msgid "Fade windows"
+msgstr "Stmievanie okien"
+
+msgid "Windows that should be fading"
+msgstr "Okná, ktoré by mali blednúť"
+
+msgid "Visual Bell"
+msgstr "Vizuálny zvonček"
+
+msgid "Fade effect on system beep"
+msgstr "Efekt stmievania pri systémovom pípnutí"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Celoobrazovkový vizuálny zvonček"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Celoobrazovkový efekt blednutia pri systémovom pípnutí"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Stmievať pri minimalizovaní/otvorení/zatvorení"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Efekt stmievania pri minimalizovaní/otvorení/zatvorení okna"
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Normálna veľkosť okien"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr "Používateľský súborový systém"
+
+msgid "Userspace file system"
+msgstr "Používateľský súborový systém"
+
+msgid "Mount Point"
+msgstr "Bod pripojenia"
+
+msgid "Mount point"
+msgstr "Bod pripojenia"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Podpora hlavného napojenia na GLib"
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Zobraziť Hlavnú ponuku"
+
+msgid "Show the main menu"
+msgstr "Zobraziť hlavné menu"
+
+msgid "Run Dialog"
+msgstr "Spustiť Dialóg"
+
+msgid "Show Run Application dialog"
+msgstr "Zobraziť dialóg spustenia aplikácie"
+
+msgid "Screenshot command line"
+msgstr "Príkaz pre snímanie obrazovky"
+
+msgid "Take a screenshot"
+msgstr "Zosnímať obrazovku"
+
+msgid "Window screenshot command line"
+msgstr "Príkazový na zosnímania okna"
+
+msgid "Take a screenshot of a window"
+msgstr "Zosnímať okno"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Príkaz pre terminál"
+
+msgid "Terminal command line"
+msgstr "Príkaz pre terminál"
+
+msgid "Open a terminal"
+msgstr "Otvoriť terminál"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Pozadie ini súboru"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Modul upozornenia zmeny súboru"
+
+msgid "Minimize Effect"
+msgstr "Efekt pri minimalizovaní"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Transformovať okná pri ich minimalizovaní a spätnom obnovení"
+
+msgid "Minimize speed"
+msgstr "Minimalizovať rýchlosť"
+
+msgid "Minimize timestep"
+msgstr "Minimalizovať časový krok"
+
+msgid "Minimize Windows"
+msgstr "Minimalizovať okná"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Okná, ktoré by mali byť transformované pri minimalizovaní"
+
+msgid "Shade Resistance"
+msgstr "Stálosť tieňa"
+
+msgid "Shade resistance"
+msgstr "Stálosť tieňa"
+
+msgid "Move Window"
+msgstr "Presunúť okno"
+
+msgid "Move window"
+msgstr "Presunúť okno"
+
+msgid "Initiate Window Move"
+msgstr "Zahájiť presun okna"
+
+msgid "Start moving window"
+msgstr "Začať pohyb okna"
+
+msgid "Opacity"
+msgstr "Nepriehľadnosť"
+
+msgid "Opacity level of moving windows"
+msgstr "Úroveň nepriehľadnosti presúvaných okien"
+
+msgid "Constrain Y"
+msgstr "Obmedzenie Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Obmedziť súradnicu Y na priestor pracovnej plochy"
+
+msgid "Snapoff maximized windows"
+msgstr "Odtrhávať maximalizované okná"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Odtrhávať a automaticky obnoviť maximalizované okná počas ťahania"
+
+msgid "Lazy Positioning"
+msgstr "Lenivé presúvanie"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr "Aktualizovať pozíciu okna až po dokončení presunu"
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "Nepriehľadnosť počas otáčania"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Zvýšiť nepriehľadnosť okna"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Krok zmeny nepriehľadnosti"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Znížiť nepriehľadnosť okna"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Krok zmeny nepriehľadnosti"
+
+msgid "Brightness"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Jas"
+
+msgid "Saturation"
+msgstr "Sýtosť"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Sýtosť rozostrenia"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Sýtosť"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Sýtosť rozostrenia"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Sýtosť"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "Krok nepriehľadnosti"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Dekorácie okna"
+
+#, fuzzy
+msgid "Windows"
+msgstr "Mapované okná"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "Okná, ktoré by mali byť implicitne priehľadné"
+
+#, fuzzy
+msgid "Window values"
+msgstr "Hodnoty nepriehľadnosti okna"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Úroveň nepriehľadnosti presúvaných okien"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "Okná, ktoré by mali byť štandardne umiestnené"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Sýtosť"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "Okná, ktoré by mali byť štandardne umiestnené"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+msgid "Place Windows"
+msgstr "Rozmiestniť okná"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Umiestniť mapované okná na zodpovedajúce pozície"
+
+msgid "Workarounds"
+msgstr "Núdzové riešenia"
+
+msgid "Window placement workarounds"
+msgstr "Núdzové riešenia umiestnenia okna"
+
+msgid "Placement Mode"
+msgstr "Spôsob rozmiestnenia"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algoritmus použitý pre rozmiestnenie okna"
+
+msgid "Cascade"
+msgstr "Kaskáda"
+
+msgid "Centered"
+msgstr "Vystrednené"
+
+msgid "Smart"
+msgstr "Inteligentné"
+
+msgid "Maximize"
+msgstr "Maximalizovať"
+
+msgid "Random"
+msgstr "Náhodné"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Ukazovateľ pri prepínaní na hrane"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Označuje ako by sa malo správať umiestňovanie okien ak je označených viacero "
+"výstupov"
+
+msgid "Use active output device"
+msgstr "Použiť aktívne výstupné zariadenie"
+
+msgid "Use output device with pointer"
+msgstr "Použiť výstupné zariadenie s ukazovateľom"
+
+#, fuzzy
+msgid "Use output device of focused window"
+msgstr "Použiť výstupné zariadenie s ukazovateľom"
+
+#, fuzzy
+msgid "Place across all outputs"
+msgstr "Uprednostniť menší výstup"
+
+msgid "Force Placement Windows"
+msgstr "Vynútené umiestnenie okien"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Okná ktoré by mali byť nútene umiestnené aj keď by sa okenný manažér mal "
+"vyhnúť takémuto umiestneniu."
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Správa okien"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Dekorácie okna"
+
+msgid "Positioned windows"
+msgstr "Umiestnené okná"
+
+msgid "Windows that should be positioned by default"
+msgstr "Okná, ktoré by mali byť štandardne umiestnené"
+
+msgid "X Positions"
+msgstr "Pozície X"
+
+msgid "X position values"
+msgstr "Hodnoty pozíce na osi X"
+
+msgid "Y Positions"
+msgstr "Pozície Y"
+
+msgid "Y position values"
+msgstr "Hodnoty pozíce na osi Y"
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Dekorácie okna"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Okná, ktoré by mali byť štandardne umiestnené"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Doba stmavnutia"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Umiestnené okná"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+msgid "Viewport positioned windows"
+msgstr "Okná umiestnené v pohľadoch"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Okná, ktoré by mali byť štandardne umiestnené na konkrétnu plochu"
+
+msgid "X Viewport Positions"
+msgstr "Pozície plochy na osi X"
+
+msgid "Horizontal viewport positions"
+msgstr "Vodorovné pozície pohľadov"
+
+msgid "Y Viewport Positions"
+msgstr "Pozície plochy na osi Y"
+
+msgid "Vertical viewport positions"
+msgstr "Zvislé pozície pohľadov"
+
+msgid "Png"
+msgstr "PNG"
+
+msgid "Png image loader"
+msgstr " Načítanie PNG obrázkov"
+
+msgid "Regex Matching"
+msgstr "Vyhodnocovanie regulárnych výrazov"
+
+msgid "Regex window matching"
+msgstr "Zodpovedajúce regulárne výrazy okna"
+
+msgid "Resize Window"
+msgstr "Zmeniť veľkosť okna"
+
+msgid "Resize window"
+msgstr "Zmeniť veľkosť okna"
+
+msgid "Bindings"
+msgstr ""
+
+msgid "Initiate Normal Window Resize"
+msgstr "Začať normálnu zmenu veľkosti okna"
+
+msgid "Start resizing window normally"
+msgstr "Začať normálnu zmenu veľkosti okna"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Začať obrysovú zmenu veľkosti okna"
+
+msgid "Start resizing window with outline"
+msgstr "Začať zmenu veľkosti okna s obrysom"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Začať zmenu veľkosti pravouhlého okna"
+
+msgid "Start resizing window with rectangle"
+msgstr "Začať zmenu veľkosti okna obdĺžnikom"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Začať zmenu veľkosti okna roztiahnutím"
+
+msgid "Start resizing window by stretching it"
+msgstr "Začať zmenu veľkosti okna roztiahnutím"
+
+msgid "Initiate Window Resize"
+msgstr "Začať zmenu veľkosti okna"
+
+msgid "Start resizing window"
+msgstr "Začať zmenu veľkosti okna"
+
+msgid "Default Resize Mode"
+msgstr "Štandardný režim zmeny veľkosti"
+
+msgid "Default mode used for window resizing"
+msgstr "Štandardný režim použitý pre zmenu veľkosti okna"
+
+msgid "Outline"
+msgstr "Obrys"
+
+msgid "Rectangle"
+msgstr "Obdĺžnik"
+
+msgid "Stretch"
+msgstr "Roztiahnutie"
+
+msgid "Border Color"
+msgstr "Farba ohraničenia"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"Farba okraja, ktorý sa použije pri režimoch obrysov a zmeny veľkosti "
+"obdĺžnikom"
+
+msgid "Fill Color"
+msgstr "Farba výplne"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Farba výplne použitá pre pravouhlú zmenu veľkosti"
+
+msgid "Normal Resize Windows"
+msgstr "Normálna veľkosť okien"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Okná, pre ktoré bude použitá normálna zmena veľkosti"
+
+msgid "Outline Resize Windows"
+msgstr "Obrysová zmena veľkosti okien"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Okná, pre ktoré bude použitá zmena veľkosti s efektom obrysu"
+
+msgid "Rectangle Resize Windows"
+msgstr "Pravouhlá zmena veľkosti okien"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Okná, pre ktoré bude použitá zmena veľkosti s efektom obdĺžnika"
+
+msgid "Stretch Resize Windows"
+msgstr "Zmena veľkosti okien roztiahnutím"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Okná, pre ktoré bude použitá zmena veľkosti s efektom roztiahnutia"
+
+msgid "Rotate Cube"
+msgstr "Otáčať kockou"
+
+msgid "Rotate desktop cube"
+msgstr "Otočiť kocku pracovnej plochy"
+
+msgid "Edge Flip Pointer"
+msgstr "Ukazovateľ pri prepínaní na hrane"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "Prepnúť na ďalší pohľad pri presunutí ukazovateľa na okraj obrazovky"
+
+msgid "Edge Flip Move"
+msgstr "Pohyb pri prepínaní na hrane"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "Prepnúť na ďalší pohľad pri presunutí okna na okraj obrazovky"
+
+msgid "Edge Flip DnD"
+msgstr "DnD pri prepínaní na hrane"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "Prepnúť na ďalší pohľad pri ťahaní okna na okraj obrazovky"
+
+msgid "Flip Time"
+msgstr "Doba preklopenia"
+
+msgid "Timeout before flipping viewport"
+msgstr "Časový limit pred preklopením zorného poľa"
+
+msgid "Raise on rotate"
+msgstr "Aktivácia pri otáčaní"
+
+msgid "Raise window when rotating"
+msgstr "Pri otáčaní prenášať okná do popredia"
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Otáčať kockou"
+
+msgid "Start Rotation"
+msgstr "Začať otáčanie"
+
+msgid "Rotate Left"
+msgstr "Otočiť vľavo"
+
+msgid "Rotate left"
+msgstr "Otočiť vľavo"
+
+msgid "Rotate Right"
+msgstr "Otočiť vpravo"
+
+msgid "Rotate right"
+msgstr "Otočiť vpravo"
+
+msgid "Rotate Left with Window"
+msgstr "Otočiť vľavo s oknom"
+
+msgid "Rotate left and bring active window along"
+msgstr "Otočiť vľavo a vziať aktívne okno so sebou"
+
+msgid "Rotate Right with Window"
+msgstr "Otočiť vpravo s oknom"
+
+msgid "Rotate right and bring active window along"
+msgstr "Otočiť vpravo a vziať aktívne okno so sebou"
+
+msgid "Rotate To"
+msgstr "Otočiť na"
+
+msgid "Rotate to viewport"
+msgstr "Otočiť na zorné pole"
+
+msgid "Rotate window"
+msgstr "Otočiť okno"
+
+msgid "Rotate with window"
+msgstr "Otočiť s oknom"
+
+msgid "Rotate Flip Left"
+msgstr "Otočiť preklopením vľavo"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Prepnúť na pohľad vľavo a preniesť ukazovateľ"
+
+msgid "Rotate Flip Right"
+msgstr "Otočiť preklopením vpravo"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Prepnúť na pohľad vpravo a preniesť ukazovateľ"
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Otočiť na stranu 1"
+
+msgid "Rotate To Face 1"
+msgstr "Otočiť na stranu 1"
+
+msgid "Rotate to face 1"
+msgstr "Otočiť na stranu 1"
+
+msgid "Rotate To Face 2"
+msgstr "Otočiť na stranu 2"
+
+msgid "Rotate to face 2"
+msgstr "Otočiť na stranu 2"
+
+msgid "Rotate To Face 3"
+msgstr "Otočiť na stranu 3"
+
+msgid "Rotate to face 3"
+msgstr "Otočiť na stranu 3"
+
+msgid "Rotate To Face 4"
+msgstr "Otočiť na stranu 4"
+
+msgid "Rotate to face 4"
+msgstr "Otočiť na stranu 4"
+
+msgid "Rotate To Face 5"
+msgstr "Otočiť na stranu 5"
+
+msgid "Rotate to face 5"
+msgstr "Otočiť na stranu 5"
+
+msgid "Rotate To Face 6"
+msgstr "Otočiť na stranu 6"
+
+msgid "Rotate to face 6"
+msgstr "Otočiť na stranu 6"
+
+msgid "Rotate To Face 7"
+msgstr "Otočiť na stranu 7"
+
+msgid "Rotate to face 7"
+msgstr "Otočiť na stranu 7"
+
+msgid "Rotate To Face 8"
+msgstr "Otočiť na stranu 8"
+
+msgid "Rotate to face 8"
+msgstr "Otočiť na stranu 8"
+
+msgid "Rotate To Face 9"
+msgstr "Otočiť na stranu 9"
+
+msgid "Rotate to face 9"
+msgstr "Otočiť na stranu 9"
+
+msgid "Rotate To Face 10"
+msgstr "Otočiť na stranu 10"
+
+msgid "Rotate to face 10"
+msgstr "Otočiť na stranu 10"
+
+msgid "Rotate To Face 11"
+msgstr "Otočiť na stranu 11"
+
+msgid "Rotate to face 11"
+msgstr "Otočiť na stranu 11"
+
+msgid "Rotate To Face 12"
+msgstr "Otočiť na stranu 12"
+
+msgid "Rotate to face 12"
+msgstr "Otočiť na stranu 12"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "Otočiť na stranu 1 s oknom"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Otočiť na stranu 1 s oknom"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Otočiť na stranu 1 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Otočiť na stranu 2 s oknom"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Otočiť na stranu 2 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Otočiť na stranu 3 s oknom"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Otočiť na stranu 3 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Otočiť na stranu 4 s oknom"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Otočiť na stranu 4 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Otočiť na stranu 5 s oknom"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Otočiť na stranu 5 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Otočiť na stranu 6 s oknom"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Otočiť na stranu 6 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Otočiť na stranu 7 s oknom"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Otočiť na stranu 7 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Otočiť na stranu 8 s oknom"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Otočiť na stranu 8 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Otočiť na stranu 9 s oknom"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Otočiť na stranu 9 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Otočiť na stranu 10 s oknom"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Otočiť na stranu 10 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Otočiť na stranu 11 s oknom"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Otočiť na stranu 11 a vziať aktívne okno so sebou"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Otočiť na stranu 12 s oknom"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Otočiť na stranu 12 a vziať aktívne okno so sebou"
+
+msgid "Pointer Invert Y"
+msgstr "Invertovať os Y ukazovateľa"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Prevrátiť os Y pre pohyb ukazateľa"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Invertovať os Y ukazovateľa"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Prevrátiť os Y pre pohyb ukazateľa"
+
+msgid "Pointer Sensitivity"
+msgstr "Citlivosť ukazateľa"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Citlivosť pohybu ukazateľa"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+#  ...
+#  at the end of the suggestion text we will add the
+#  3D status. Therefore the D3Active variable is handled
+#  if the status is false we had to check if the card
+#  or the environment is capable of using 3D
+#  ---
+msgid "Rotation Acceleration"
+msgstr "Akcelerácia pri otáčaní"
+
+msgid "Snap To Top Face"
+msgstr "Prichytiť k hornej strane"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Prichytiť otáčajúcu sa kocku za hornú stranu"
+
+msgid "Snap To Bottom Face"
+msgstr "Prichytiť k dolnej strane"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Prichytiť otáčajúcu sa kocku za dolnú stranu"
+
+msgid "Rotation Speed"
+msgstr "Rýchlosť otáčania"
+
+msgid "Rotation Timestep"
+msgstr "Časový krok otáčania"
+
+msgid "Zoom"
+msgstr "Priblíženie"
+
+msgid "Rotation Zoom"
+msgstr "Rýchlosť otáčania"
+
+msgid "Scale"
+msgstr "Zmena mierky"
+
+msgid "Scale windows"
+msgstr "Meniť mierku okien"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Initiate Window Picker"
+msgstr "Začať výber okna"
+
+msgid "Layout and start transforming windows"
+msgstr "Rozmiestnenie a začiatok transformácie okien"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Začať výber okna pre všetky okná"
+
+msgid "Layout and start transforming all windows"
+msgstr "Rozložiť a začať transformáciu všetkých okien"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Začať výber okna pre skupinu okien"
+
+msgid "Layout and start transforming window group"
+msgstr "Rozložiť a začať transformáciu skupiny okien"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Spustiť vyberanie okien na štandardnom výstupe"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Rozmiestnenie a začiatok transformácie okien na aktuálnom výstupe"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Zobraziť pracovnú plochu kliknutím na plochu"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Vstúpiť do režimu Zobraziť plochu, keď sa na plochu klikne počas zmeny mierky"
+
+msgid "Spacing"
+msgstr "Vzdialenosť"
+
+msgid "Space between windows"
+msgstr "Medzera medzi oknami"
+
+msgid "Scale speed"
+msgstr "Rýchlosť zmeny mierky"
+
+msgid "Scale timestep"
+msgstr "Časový krok zmeny mierky"
+
+msgid "Darken Background"
+msgstr "Stmaviť pozadie"
+
+msgid "Darken background when scaling windows"
+msgstr "Stmaviť pozadie pri vykreslovaní okien"
+
+msgid "Amount of opacity in percent"
+msgstr "Miera nepriehľadnosti v percentách"
+
+msgid "Overlay Icon"
+msgstr "Prekladať ikonou"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Pri zmene veľkosti okien prekladať okná ikonou"
+
+msgid "None"
+msgstr "Žiadna"
+
+msgid "Emblem"
+msgstr "Emblém"
+
+msgid "Big"
+msgstr "Veľký"
+
+msgid "Scale Windows"
+msgstr "Zmena mierky okna"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Okná, ktoré majú meniť veľkosť v režime zmeny mierky"
+
+msgid "Hover Time"
+msgstr "Čas vznášania"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr "Čas (v ms) pred ukončením režimu zmeny mierky pri kurzore nad oknom"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr "Či sa mení veľkosť okien pri použití viacerých výstupných zariadení."
+
+msgid "On current output device"
+msgstr "Na aktuálnom výstupnom zariadení"
+
+msgid "On all output devices"
+msgstr "Na všetkých výstupných zariadeniach"
+
+msgid "Screenshot"
+msgstr "Snímka obrazovky"
+
+msgid "Screenshot plugin"
+msgstr "Modul snímky obrazovky"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Zosnímať obrazovku"
+
+msgid "Directory"
+msgstr "Priečinok"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Vložiť snímky obrazovky do tohto priečinka"
+
+msgid "Launch Application"
+msgstr "Spustiť aplikáciu"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Automaticky otvoriť snímku v tejto aplikácii"
+
+msgid "Svg"
+msgstr "SVG"
+
+msgid "Svg image loader"
+msgstr "Načítanie SVG obrázkov"
+
+msgid "Application Switcher"
+msgstr "Prepínač aplikácií"
+
+msgid "Next window"
+msgstr "Nasledujúce okno"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Zobraziť prepínač ak nie je viditeľný a vybrať ďalšie okno"
+
+msgid "Prev window"
+msgstr "Predchádzajúce okno"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Zobraziť prepínač ak nie je viditeľný a vybrať predchádzajúce okno"
+
+msgid "Next window (All windows)"
+msgstr "Nasledujúce okno (všetky okná)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Zobraziť prepínač ak nie je viditeľný a vybrať ďalšie okno spomedzi všetkých "
+"okien"
+
+msgid "Prev window (All windows)"
+msgstr "Predchádzajúce okno (všetky okná)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Zobraziť prepínač ak nie je viditeľný a vybrať predchádzajúce okno zo "
+"všetkých okien"
+
+msgid "Next window (No popup)"
+msgstr "Nasledujúce okno (žiadne vyskakovacie okno)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Vybrať ďalšie okno bez ukázania vyskakovacieho okna"
+
+msgid "Prev window (No popup)"
+msgstr "Predchádzajúce okno (žiadne vyskakovacie okno)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Vybrať predchádzajúce okno bez ukázania vyskakovacieho okna"
+
+msgid "Next Panel"
+msgstr "Nasledujúca výplň"
+
+msgid "Select next panel type window."
+msgstr "Označ nasledujúci typ výplne okna"
+
+msgid "Prev Panel"
+msgstr "Predchádzajúca výplň"
+
+msgid "Select previous panel type window."
+msgstr "Vybrať predchádzajúci typ výplne okna"
+
+msgid "Switcher speed"
+msgstr "Rýchlosť prepínača"
+
+msgid "Switcher timestep"
+msgstr "Časový krok prepínača"
+
+msgid "Switcher windows"
+msgstr "Okná prepínača"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Okná, ktoré budú zobrazené v prepínači"
+
+msgid "Amount of saturation in percent"
+msgstr "Hodnota sýtosti v percentách"
+
+msgid "Amount of brightness in percent"
+msgstr "Hodnota jasu v percentách"
+
+msgid "Bring To Front"
+msgstr "Preniesť do popredia"
+
+msgid "Bring selected window to front"
+msgstr "Preniesť vybrané okno do popredia"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+"Vzdialenosť, na ktorú by sa mala plocha oddialiť počas prepínania okien"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "Show icon next to thumbnail"
+msgstr "Ukázať ikonu vedľa náhľadu"
+
+msgid "Minimized"
+msgstr "Minimalizované"
+
+msgid "Show minimized windows"
+msgstr "Zobraziť minimalizované okná"
+
+msgid "Auto Rotate"
+msgstr "Automatické otáčanie"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Otočiť na vybrané okno pri prepínaní"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Kocka plochy"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Otočiť na vybrané okno pri prepínaní"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Predchádzajúca snímka"
+
+#, fuzzy, no-c-format
+msgid "Size of the preview in %"
+msgstr "Veľkosť kurzora"
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Polomer tieňa"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Obrys"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Obrysová zmena veľkosti okien"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Obrázky pozadia"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Farba ohraničenia"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Farba výplne"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Farba tieňa"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Pozície plochy na osi X"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Stmievanie okien"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Okná, ktoré majú meniť veľkosť v režime zmeny mierky"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Presunúť okno"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Otočiť vľavo"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Otočiť vpravo"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Presunúť okno"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Otočiť s oknom"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Otočiť vľavo s oknom"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Otočiť vpravo s oknom"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Presunúť okno"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Presunúť okno"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "DnD pri prepínaní na hrane"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Otočiť preklopením vľavo"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Doba preklopenia"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Otočiť preklopením vpravo"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Otočiť preklopením vpravo"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Doba preklopenia"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Doba preklopenia"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "DnD pri prepínaní na hrane"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Rovina dole"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Rýchlosť prepínača"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "DnD pri prepínaní na hrane"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "Prepnúť na ďalší pohľad pri presunutí ukazovateľa na okraj obrazovky"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "Prepnúť na ďalší pohľad pri presunutí okna na okraj obrazovky"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "Prepnúť na ďalší pohľad pri ťahaní okna na okraj obrazovky"
+
+msgid "Water Effect"
+msgstr "Efekt vody"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Do rôznych akcií plochy pridávať efekt vody"
+
+msgid "Enable pointer water effects"
+msgstr "Povoliť vodné efekty ukazateľa"
+
+msgid "Toggle rain"
+msgstr "Prepnúť dážď"
+
+msgid "Toggle rain effect"
+msgstr "Prepnúť efekt dažďa"
+
+msgid "Toggle wiper"
+msgstr "Prepnúť stierač"
+
+msgid "Toggle wiper effect"
+msgstr "Prepnúť efekt stierača"
+
+msgid "Offset Scale"
+msgstr "Mierka posunutia"
+
+msgid "Water offset scale"
+msgstr "Mierka posunutia vody"
+
+msgid "Rain Delay"
+msgstr "Oneskorenie dažďa"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Oneskorenie (v ms) medzi jednotlivými kvapkami"
+
+msgid "Title wave"
+msgstr "Vlna v nadpise"
+
+msgid "Wave effect from window title"
+msgstr "Efekt vlny v nadpise okna"
+
+msgid "Point"
+msgstr "Bod"
+
+msgid "Add point"
+msgstr "Pridať bod"
+
+msgid "Line"
+msgstr "Čiara"
+
+msgid "Add line"
+msgstr "Pridať čiaru"
+
+msgid "Wobbly Windows"
+msgstr "Trasúce sa okná"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Použiť na efekt chvenia pružinový model"
+
+msgid "Snap windows"
+msgstr "Prichytiť okná"
+
+msgid "Toggle window snapping"
+msgstr "Prepnúť prichytávanie okien"
+
+msgid "Snap Inverted"
+msgstr "Obrátené prichytávanie"
+
+msgid "Inverted window snapping"
+msgstr "Obrátené prichytávanie okien"
+
+msgid "Shiver"
+msgstr "Chvenie"
+
+msgid "Make window shiver"
+msgstr "Rozochvieť okno"
+
+msgid "Friction"
+msgstr "Trenie"
+
+msgid "Spring Friction"
+msgstr "Trenie pružiny"
+
+msgid "Spring K"
+msgstr "Pružina K"
+
+msgid "Spring Konstant"
+msgstr "Konštanta pružiny"
+
+msgid "Grid Resolution"
+msgstr "Rozlíšenie mriežky"
+
+msgid "Vertex Grid Resolution"
+msgstr "Rozlíšenie vrcholu mriežky"
+
+msgid "Minimum Grid Size"
+msgstr "Minimálna veľkosť mriežky"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Minimálna veľkosť vrcholu mriežky"
+
+msgid "Map Effect"
+msgstr "Efekt mapovania"
+
+msgid "Map Window Effect"
+msgstr "Efekt mapovania okna"
+
+msgid "Focus Effect"
+msgstr "Efekt zamerania"
+
+msgid "Focus Window Effect"
+msgstr "Efekt pri zameraní okna"
+
+msgid "Map Windows"
+msgstr "Mapované okná"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Okná, ktoré by sa mali chvieť, keď sú mapované"
+
+msgid "Focus Windows"
+msgstr "Zamerať okná"
+
+msgid "Windows that should wobble when focused"
+msgstr "Okná, ktoré by sa mali chvieť, keď sú aktivované"
+
+msgid "Grab Windows"
+msgstr "Uchopiť okná"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Okná, ktoré by sa mali chvieť, keď sú zachytené"
+
+msgid "Move Windows"
+msgstr "Presunúť okná"
+
+msgid "Windows that should wobble when moved"
+msgstr "Okná, ktoré sa budú triasť pri presune"
+
+msgid "Maximize Effect"
+msgstr "Efekt maximalizácie"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Efekt trasúcich sa okien pri maximalizácii a späť"
+
+msgid "Zoom Desktop"
+msgstr "Priblížiť plochu"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Priblížiť a posúvať kocku plochy"
+
+msgid "Zoom In"
+msgstr "Priblížiť"
+
+msgid "Zoom Out"
+msgstr "Oddialiť"
+
+msgid "Zoom Pan"
+msgstr "Posúvanie priblíženia"
+
+msgid "Zoom pan"
+msgstr "Posúvanie priblíženia"
+
+msgid "Zoom Speed"
+msgstr "Rýchlosť priblíženia"
+
+msgid "Zoom Timestep"
+msgstr "Časový krok priblíženia"
+
+msgid "Zoom factor"
+msgstr "Pomer zväčšenia"
+
+msgid "Filter Linear"
+msgstr "Lineárny filter"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Pri priblížení použiť lineárny filter"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Počet Pracovných plôch"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Počet virtuálnych pracovných plôch"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Akcia, ktorá sa vykoná pri otáčaní kolieskom myši nad titulkom okna."
+
+#~ msgid "Blur type"
+#~ msgstr "Typ rozostrenia"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Priehľadnosť aktívneho okna témy marco"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Tieň aktívneho okna témy marco"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Priehľadnosť témy marco"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Tieň témy marco"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "Priehľadnosť pre aktívne okná s dekoráciami témy marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Priehľadnosť s dekoráciami témy marco"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Vytieňovať aktívne okná s dekoráciou témy marco z nepriehľadnej do "
+#~ "priehľadnej."
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Vytieňovať okná s dekoráciou témy marco z nepriehľadnej do priehľadnej."
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Akcia pri rolovaní nad titulkom okna"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Typ rozostrenia použitej na dekoráciu okna"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Použiť tému marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Použiť tému marco pri vykresľovaní dekorácií okna"
+
+#~ msgid "Line width"
+#~ msgstr "Šírka čiary"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Šírka riadka pre komentáre"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Backend pre riadenie GConf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Backend pre riadenie Kconfig"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Znížiť nepriehľadnosť"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "Zvýšiť nepriehľadnosť"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Príkaz pre snímanie obrazovky"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Príkaz pre snímanie obrazovky"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Hodnoty nepriehľadnosti pre okná, ktoré by mali byť implicitne priehľadné"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Priehľadné okná"
+
+#~ msgid "Background images"
+#~ msgstr "Obrázky pozadia"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Umiestniť okná na rovinu"
+
+#~ msgid "Plane Down"
+#~ msgstr "Rovina dole"
+
+#~ msgid "Plane Left"
+#~ msgstr "Rovina vľavo"
+
+#~ msgid "Plane Right"
+#~ msgstr "Rovina vpravo"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Rovina na stranu 1"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Rovina na stranu 10"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Rovina na stranu 11"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Rovina na stranu 12"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Rovina na stranu 2"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Rovina na stranu 3"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Rovina na stranu 4"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Rovina na stranu 5"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Rovina na stranu 6"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Rovina na stranu 7"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Rovina na stranu 8"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Rovina na stranu 9"
+
+#~ msgid "Plane Up"
+#~ msgstr "Rovina hore"
+
+#~ msgid "Plane left"
+#~ msgstr "Rovina vľavo"
+
+#~ msgid "Plane right"
+#~ msgstr "Rovina vpravo"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Rovina na stranu 1"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Rovina na stranu 10"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Rovina na stranu 11"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Rovina na stranu 12"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Rovina na stranu 2"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Rovina na stranu 3"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Rovina na stranu 4"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Rovina na stranu 5"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Rovina na stranu 6"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Rovina na stranu 7"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Rovina na stranu 8"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Rovina na stranu 9"
+
+#~ msgid "Plane up"
+#~ msgstr "Rovina hore"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Čas pozvolného miznutia nepriehľadnosťi okna."

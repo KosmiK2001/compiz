@@ -1,0 +1,3831 @@
+# Bulgarian translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:41+0300\n"
+"PO-Revision-Date: 2009-05-20 00:43+0200\n"
+"Last-Translator: Svetoslav Stefanov <lfu.project@gmail.com>\n"
+"Language-Team: Bulgarian <opensuse-translation@opensuse.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=0;\n"
+
+msgid "Close Window"
+msgstr "Затваряне на прозорец"
+
+msgid "Unmaximize Window"
+msgstr "Демаксимизиране на прозорец"
+
+msgid "Maximize Window"
+msgstr "Максимизиране на прозорец"
+
+msgid "Minimize Window"
+msgstr "Минимизиране на прозорец"
+
+msgid "Window Menu"
+msgstr "Меню на прозорец"
+
+msgid "Shade"
+msgstr "Сянка"
+
+msgid "Make Above"
+msgstr "Над другите"
+
+#, fuzzy
+msgid "Stick"
+msgstr "Лепкав"
+
+msgid "Unshade"
+msgstr ""
+
+msgid "Unmake Above"
+msgstr "Изключи над другите"
+
+msgid "Unstick"
+msgstr ""
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Прозорецът \"%s\" не отговаря."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Ако принудително изключите приложението ще загубите всички промени, които не "
+"са запазени"
+
+msgid "_Cancel"
+msgstr "_Отказ"
+
+msgid "_Force Quit"
+msgstr "_Принудително изключване"
+
+# HT
+msgid "Annotate"
+msgstr "Анотации"
+
+msgid "Annotate plugin"
+msgstr "Модул за анотации"
+
+# HT
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Изтрий анотация"
+
+# HT
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Започни изчертаване на анотация"
+
+# HT
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Започни"
+
+# HT
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Започни изчертаване на анотация"
+
+# HT
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Изтрий анотация"
+
+# HT
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Започни изчертаване на анотация"
+
+# HT
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Изтрий анотация"
+
+# HT
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Започни изчертаване на анотация"
+
+msgid "Draw"
+msgstr "Изчертаване"
+
+msgid "Draw using tool"
+msgstr "Изчертаване, използвайки инструмент"
+
+# HT
+msgid "Initiate erase"
+msgstr "Изтрий анотация"
+
+# HT
+msgid "Initiate annotate erasing"
+msgstr "Започни изтриване на анотация"
+
+msgid "Clear"
+msgstr "Изчистване"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "&Промяна на статуса"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+# KM
+msgid "Annotate Fill Color"
+msgstr "Цвят за запълване на анотациите"
+
+msgid "Fill color for annotations"
+msgstr "Цвят за запълване на анотациите"
+
+msgid "Annotate Stroke Color"
+msgstr "Цвят за линиите на анотациите"
+
+msgid "Stroke color for annotations"
+msgstr "Цвят на чертите за анотации"
+
+msgid "Stroke width"
+msgstr "Ширина на чертите"
+
+msgid "Stroke width for annotations"
+msgstr "Ширина на чертите за анотации"
+
+msgid "Blur Windows"
+msgstr "Размиване на прозорци"
+
+msgid "Blur windows"
+msgstr "Размиване на прозорци"
+
+msgid "Pulse"
+msgstr "Пулсиране"
+
+msgid "Pulse effect"
+msgstr "Пулсиращ ефект"
+
+msgid "Blur Speed"
+msgstr "Скорост на размиването"
+
+msgid "Window blur speed"
+msgstr "Скорост на размиването на прозорците"
+
+msgid "Focus blur windows"
+msgstr "Прозорци размивани при фокус"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Прозорци, за които действа размиването"
+
+msgid "Focus Blur"
+msgstr "Размиване при фокус"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Размиване на прозорци, които не са на фокус"
+
+msgid "Alpha blur windows"
+msgstr "Размиване на прозорци по алфа канала"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr ""
+"Прозорзи, за които се използва размиване по алфа канала по подразбиране"
+
+msgid "Alpha Blur"
+msgstr "Размиване по алфа канала"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Размиване на прозрачните части на прозорците"
+
+msgid "Blur Filter"
+msgstr "Филтър за размиване"
+
+msgid "Filter method used for blurring"
+msgstr "Метод за размиване "
+
+msgid "4xBilinear"
+msgstr "4 кратно билинеарно филтриране "
+
+msgid "Gaussian"
+msgstr "Гаусов"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+# RU
+msgid "Gaussian Radius"
+msgstr "Радиус"
+
+# RU
+msgid "Gaussian radius"
+msgstr "Радиус"
+
+msgid "Gaussian Strength"
+msgstr "Сила"
+
+msgid "Gaussian strength"
+msgstr "Сила"
+
+msgid "Mipmap LOD"
+msgstr "Ниво на детайла за Mipmap"
+
+msgid "Mipmap level-of-detail"
+msgstr "Ниво на детайлите за Mipmap"
+
+msgid "Blur Saturation"
+msgstr "Насищане на размиването"
+
+msgid "Blur saturation"
+msgstr "Насищане на размиването"
+
+msgid "Blur Occlusion"
+msgstr "Преграждане на размиването"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Изключи размиването за региони от екрана, закрити от други прозорци."
+
+msgid "Independent texture fetch"
+msgstr "Независимо получаване на текстурите"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+
+msgid "Clone Output"
+msgstr "Дублиране на изхода"
+
+msgid "Output clone handler"
+msgstr "Обработчик за дублиране на изхода"
+
+# HT
+msgid "Initiate"
+msgstr "Започни"
+
+# HT
+msgid "Initiate clone selection"
+msgstr "Започни дублиране на изхода"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Команда: "
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+msgid "Command line 0"
+msgstr "Команден ред 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command0 е "
+"извикана"
+
+msgid "Command line 1"
+msgstr "Команден ред 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+msgid "Command line 2"
+msgstr "Команден ред 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command2 е "
+"извикана"
+
+msgid "Command line 3"
+msgstr "Команден ред 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command3 е "
+"извикана"
+
+msgid "Command line 4"
+msgstr "Команден ред 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command4 е "
+"извикана"
+
+msgid "Command line 5"
+msgstr "Команден ред 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command5 е "
+"извикана"
+
+msgid "Command line 6"
+msgstr "Команден ред 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command6 е "
+"извикана"
+
+msgid "Command line 7"
+msgstr "Команден ред 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command7 е "
+"извикана"
+
+msgid "Command line 8"
+msgstr "Команден ред 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command8 е "
+"извикана"
+
+msgid "Command line 9"
+msgstr "Команден ред 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command9 е "
+"извикана"
+
+msgid "Command line 10"
+msgstr "Команден ред 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command10 е "
+"извикана"
+
+msgid "Command line 11"
+msgstr "Команден ред 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command11 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Команден ред 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Команден ред 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command0 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Команден ред 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command1 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Команден ред 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command2 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Команден ред 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command2 е "
+"извикана"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Команден ред 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Команден ред, който ще бъде изпълнен в обвивката когато run_command2 е "
+"извикана"
+
+msgid "Key Bindings"
+msgstr "Комбинации от клавиши"
+
+msgid "Run command 0"
+msgstr "Изпълни команда 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда0"
+
+msgid "Run command 1"
+msgstr "Изпълни команда 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+msgid "Run command 2"
+msgstr "Изпълни команда 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+msgid "Run command 3"
+msgstr "Изпълни команда 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда3"
+
+msgid "Run command 4"
+msgstr "Изпълни команда 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда4"
+
+msgid "Run command 5"
+msgstr "Изпълни команда 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда5"
+
+msgid "Run command 6"
+msgstr "Изпълни команда 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда6"
+
+msgid "Run command 7"
+msgstr "Изпълни команда 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда7"
+
+msgid "Run command 8"
+msgstr "Изпълни команда 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда8"
+
+msgid "Run command 9"
+msgstr "Изпълни команда 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда9"
+
+msgid "Run command 10"
+msgstr "Изпълни команда 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда10"
+
+msgid "Run command 11"
+msgstr "Изпълни команда 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда11"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Изпълни команда 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Изпълни команда 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Изпълни команда 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Изпълни команда 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Изпълни команда 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Изпълни команда 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+msgid "Button Bindings"
+msgstr "Клавишни комбинации"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда12"
+
+#, fuzzy
+msgid "Edge Bindings"
+msgstr "Комбинации от клавиши"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда4"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда5"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда6"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда7"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда8"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда9"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда10"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда4"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда5"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда6"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда7"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда8"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда9"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Комбинация от клавиши, която при натискане ще стартира команда на обвивката, "
+"идентифицирана от команда4"
+
+msgid "General Options"
+msgstr "Общи настройки"
+
+msgid "General compiz options"
+msgstr "Общи настройки на Compiz"
+
+msgid "Active Plugins"
+msgstr "Активни модули"
+
+msgid "List of currently active plugins"
+msgstr "Списък с включените модули"
+
+msgid "Audible Bell"
+msgstr "Системнен звънец"
+
+msgid "Audible system beep"
+msgstr ""
+
+msgid "Ignore Hints When Maximized"
+msgstr ""
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+
+msgid "Hide Skip Taskbar Windows"
+msgstr ""
+
+#, fuzzy
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Скривай прозорците които не се показват в taskbar-a когато се показва "
+"десктопа"
+
+msgid "Edge Trigger Delay"
+msgstr "Закъснение за задействане на ръба"
+
+#, fuzzy
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Колко време трябва показалецът да стои на ръбът на екрана преди да се "
+"задейства действието на ръба"
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Закъснение"
+
+msgid "Interval between ping messages"
+msgstr ""
+
+msgid "Display Settings"
+msgstr "Настройки на екрана"
+
+#, fuzzy
+msgid "Texture Filter"
+msgstr "Филтър на повърхностите"
+
+#, fuzzy
+msgid "Texture filtering"
+msgstr "Филтриране на повърхностите"
+
+msgid "Fast"
+msgstr "Бързо"
+
+msgid "Good"
+msgstr "Добро"
+
+#, fuzzy
+msgid "Best"
+msgstr "Най-добър"
+
+#, fuzzy
+msgid "Focus &amp; Raise Behavior"
+msgstr "Поведение за фокусиране и издигане"
+
+msgid "Click To Focus"
+msgstr "Фокусиране при цъкане"
+
+msgid "Click on window moves input focus to it"
+msgstr "Цъкането върху прозорец премества фокуса върху него"
+
+msgid "Raise On Click"
+msgstr "Повдигане при цъкане"
+
+msgid "Raise windows when clicked"
+msgstr "Повдигане на прозореца при цъкане"
+
+#, fuzzy
+msgid "Auto-Raise"
+msgstr "AutoYast"
+
+msgid "Raise selected windows after interval"
+msgstr "Повдигане на избраният прозорец след интервал от време"
+
+msgid "Auto-Raise Delay"
+msgstr ""
+
+msgid "Interval before raising selected windows"
+msgstr ""
+
+msgid "Key bindings"
+msgstr "Комбинации от клавиши"
+
+msgid "Close active window"
+msgstr "Затвори активния прозорец"
+
+msgid "Raise Window"
+msgstr "Повдигане на прозореца"
+
+msgid "Raise window above other windows"
+msgstr "Повдигане на прозореца над другите"
+
+#, fuzzy
+msgid "Lower Window"
+msgstr "Долно-сорбийски"
+
+msgid "Lower window beneath other windows"
+msgstr ""
+
+msgid "Unmaximize active window"
+msgstr ""
+
+msgid "Minimize active window"
+msgstr "Минимизирай активния прозорец"
+
+msgid "Maximize active window"
+msgstr "Максимизиране на активния прозорец"
+
+#, fuzzy
+msgid "Maximize Window Horizontally"
+msgstr "Хоризонтално максимизиране"
+
+msgid "Maximize active window horizontally"
+msgstr "Хоризонтално максимизиране на активния прозорец"
+
+msgid "Maximize Window Vertically"
+msgstr "Вертикално максимизиране"
+
+msgid "Maximize active window vertically"
+msgstr "Вертикално максимизиране на активния прозорец"
+
+msgid "Window menu button binding"
+msgstr "Комбинация от клавиши за менюто на прозореца"
+
+msgid "Window menu key binding"
+msgstr "Комбинация от клавиши за менюто на прозореца"
+
+msgid "Show Desktop"
+msgstr "Покажи работния плот"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Скриване на всички прозорци и фокусиране на десктопа"
+
+msgid "Toggle Window Maximized"
+msgstr ""
+
+msgid "Toggle active window maximized"
+msgstr ""
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr ""
+
+msgid "Toggle active window maximized horizontally"
+msgstr ""
+
+msgid "Toggle Window Maximized Vertically"
+msgstr ""
+
+msgid "Toggle active window maximized vertically"
+msgstr ""
+
+msgid "Toggle Window Shaded"
+msgstr ""
+
+msgid "Toggle active window shaded"
+msgstr ""
+
+msgid "Slow Animations"
+msgstr "Бавни анимации"
+
+msgid "Toggle use of slow animations"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Работна станция"
+
+msgid "Horizontal Virtual Size"
+msgstr "Хоризонтален брой на виртуалните екрани"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr ""
+
+#, fuzzy
+msgid "Vertical Virtual Size"
+msgstr "Вертикален виртуален размер"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr ""
+
+#, fuzzy
+msgid "Lighting"
+msgstr "Осветление"
+
+#, fuzzy
+msgid "Use diffuse light when screen is transformed"
+msgstr "Използвай дифузно осветление когато екрана се трансформира"
+
+msgid "Detect Refresh Rate"
+msgstr "Засичане на честотата на обновяване"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Автоматично засичане на скоростта на опресняване"
+
+msgid "Refresh Rate"
+msgstr "Честота на обновяване"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Колко често се прерисува екрана (пъти в секунда)"
+
+msgid "Detect Outputs"
+msgstr "Засичане на екраните"
+
+#, fuzzy
+msgid "Automatic detection of output devices"
+msgstr "Автоматично откриване"
+
+msgid "Overlapping Output Handling"
+msgstr ""
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Кое от застъпващите се устройства да се предпочита"
+
+msgid "Smart mode"
+msgstr "Умен режим"
+
+msgid "Prefer larger output"
+msgstr "Предпочитане на по-голям екран"
+
+msgid "Prefer smaller output"
+msgstr "Предпочитане на по-малък екран"
+
+msgid "Outputs"
+msgstr "Екрани"
+
+msgid "List of strings describing output devices"
+msgstr ""
+
+msgid "Sync To VBlank"
+msgstr "Синхронизиране с VBlank"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Prevention Level"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Level of focus stealing prevention"
+msgstr "Разрешаване на авто-спирането"
+
+msgid "Off"
+msgstr "Изключено"
+
+msgid "Low"
+msgstr "Ниско"
+
+msgid "Normal"
+msgstr "Нормална"
+
+msgid "High"
+msgstr "Високо"
+
+msgid "Very High"
+msgstr "Много високо"
+
+msgid "Focus Prevention Windows"
+msgstr ""
+
+#, fuzzy
+msgid "Focus prevention windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Unredirect Fullscreen Windows"
+msgstr ""
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+
+msgid "Default Icon"
+msgstr "Икона по подразбиране"
+
+msgid "Default window icon image"
+msgstr "Икона на прозореца по подразбиране"
+
+msgid "Force independent output painting."
+msgstr ""
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Compression"
+msgstr "Компресия на повърхностите"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Cube"
+msgstr "Куб"
+
+msgid "Place windows on cube"
+msgstr "Поставяне на прозорците върху куба"
+
+msgid "Unfold"
+msgstr "Разгъване"
+
+msgid "Unfold cube"
+msgstr "Разгъване на куба"
+
+msgid "Next Slide"
+msgstr "Следващ слайд"
+
+#, fuzzy
+msgid "Advance to next slide"
+msgstr "Разширени параметри"
+
+msgid "Prev Slide"
+msgstr "Предишен слайд"
+
+#, fuzzy
+msgid "Go back to previous slide"
+msgstr "Предишен слайд"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+
+#, fuzzy
+msgid "Multi Output Mode"
+msgstr "Режим на много екрани"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+
+msgid "Automatic"
+msgstr "Автоматично"
+
+msgid "Multiple cubes"
+msgstr "Много кубове"
+
+msgid "One big cube"
+msgstr "Един голям куб"
+
+msgid "Behavior"
+msgstr "Поведение"
+
+msgid "Inside Cube"
+msgstr "Във куба"
+
+msgid "Inside cube"
+msgstr "Във куба"
+
+#, fuzzy
+msgid "Acceleration"
+msgstr "3D ускорение:"
+
+msgid "Fold Acceleration"
+msgstr "Ускорение на сгъването"
+
+msgid "Speed"
+msgstr "Скорост"
+
+msgid "Fold Speed"
+msgstr "Скорост на сгъването"
+
+msgid "Timestep"
+msgstr ""
+
+#, fuzzy
+msgid "Fold Timestep"
+msgstr "Проба"
+
+msgid "Appearance"
+msgstr "Външен вид"
+
+# KM
+msgid "Cube Color"
+msgstr "Цвят на куба"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Цвят на горната и долната страна на куба"
+
+# KM
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Шапки на куба"
+
+msgid "Scale image"
+msgstr ""
+
+msgid "Scale images to cover top face of cube"
+msgstr ""
+
+msgid "Image files"
+msgstr "Изображения"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Списък с PNG и SVG файлове, които да се рисуват върху горната повърхност на "
+"куба"
+
+msgid "Adjust Image"
+msgstr "Настройка на изображението"
+
+msgid "Adjust top face image to rotation"
+msgstr ""
+
+msgid "Skydome"
+msgstr "Небе"
+
+msgid "Render skydome"
+msgstr "Изобразявай небето"
+
+msgid "Skydome Image"
+msgstr "Иображение на небето"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Изоражение което да се ползва като повърхност за небето"
+
+#, fuzzy
+msgid "Animate Skydome"
+msgstr "Сидни"
+
+msgid "Animate skydome when rotating cube"
+msgstr ""
+
+msgid "Skydome Gradient Start Color"
+msgstr ""
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+
+msgid "Skydome Gradient End Color"
+msgstr ""
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+
+msgid "Transparent Cube"
+msgstr "Прозрачен куб"
+
+msgid "Opacity During Rotation"
+msgstr "Прозрачност при въртене"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Прозрачност на работния плот по време на въртене"
+
+#, fuzzy
+msgid "Opacity When Not Rotating"
+msgstr "Прозрачност когато куба не се върти"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Прозрачност на работния плот когато куба не се върти"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Прозрачност само при въртене с мишка"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Кубът да е прозрачен само ако въртенето е предизвикано от мишката"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Контрол за D-Bus"
+
+msgid "Window Decoration"
+msgstr "Декорация на прозореца"
+
+#, fuzzy
+msgid "Window decorations"
+msgstr "Декорации на прозореца"
+
+msgid "Shadow Radius"
+msgstr "Радиус на сянката"
+
+msgid "Drop shadow radius"
+msgstr "Радиус на сянката"
+
+msgid "Shadow Opacity"
+msgstr "Прозрачност на сянката"
+
+msgid "Drop shadow opacity"
+msgstr "Прозрачност на сянката"
+
+msgid "Shadow Color"
+msgstr "Цвят на сянката"
+
+msgid "Drop shadow color"
+msgstr "Цвят на сянката"
+
+#, fuzzy
+msgid "Shadow Offset X"
+msgstr "&Нисък капацитет"
+
+msgid "Drop shadow X offset"
+msgstr "X координати на сянката"
+
+#, fuzzy
+msgid "Shadow Offset Y"
+msgstr "&Нисък капацитет"
+
+msgid "Drop shadow Y offset"
+msgstr "Y координати на сянката"
+
+msgid "Command"
+msgstr "Команда"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr "команда за декоратор, която се изпълнява ако вче не върви декоратор"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr ""
+
+msgid "Decoration windows"
+msgstr "Прозорци с декорация"
+
+msgid "Windows that should be decorated"
+msgstr "Прозорци, които да бъдат декорирани"
+
+msgid "Shadow windows"
+msgstr "Прозорци с сянка"
+
+msgid "Windows that should have a shadow"
+msgstr "Прозорци които да имат сянка"
+
+#, fuzzy
+msgid "Fading Windows"
+msgstr "&Намаляване на Windows"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "В реално време"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Windows свободни (%1)"
+
+msgid "Constant speed"
+msgstr "Постоянна скорост"
+
+msgid "Constant time"
+msgstr "Постоянно време"
+
+#, fuzzy
+msgid "Fade Speed"
+msgstr "Избрано"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr ""
+
+#, fuzzy
+msgid "Fade Time"
+msgstr "В реално време"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+#, fuzzy
+msgid "Fade windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Windows that should be fading"
+msgstr ""
+
+msgid "Visual Bell"
+msgstr ""
+
+#, fuzzy
+msgid "Fade effect on system beep"
+msgstr "Файлова &система"
+
+msgid "Fullscreen Visual Bell"
+msgstr ""
+
+msgid "Fullscreen fade effect on system beep"
+msgstr ""
+
+msgid "Fade On Minimize/Open/Close"
+msgstr ""
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr ""
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Яркост(в %) на прозорците които не отговарят"
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr ""
+
+msgid "Userspace file system"
+msgstr ""
+
+#, fuzzy
+msgid "Mount Point"
+msgstr "Добавяне на контакт"
+
+#, fuzzy
+msgid "Mount point"
+msgstr "Добавяне на контакт"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr ""
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Покажи главното меню"
+
+msgid "Show the main menu"
+msgstr "Показване на главното меню"
+
+#, fuzzy
+msgid "Run Dialog"
+msgstr "Диалог за изпълняване на програма"
+
+msgid "Show Run Application dialog"
+msgstr "Покажи диалога за изпълняване на програма"
+
+msgid "Screenshot command line"
+msgstr "Команда за заснемане на екрана"
+
+msgid "Take a screenshot"
+msgstr "Снимай екрана"
+
+msgid "Window screenshot command line"
+msgstr "Команден ред за заснемане на прозореца"
+
+msgid "Take a screenshot of a window"
+msgstr "Снимай прозорец"
+
+msgid "Run terminal command"
+msgstr "Изпълняване на команда в терминала"
+
+msgid "Terminal command line"
+msgstr "Команда в терминала"
+
+msgid "Open a terminal"
+msgstr "Стартиране в терминал"
+
+#, fuzzy
+msgid "Ini"
+msgstr "Без записване"
+
+msgid "Ini Flat File Backend"
+msgstr ""
+
+#, fuzzy
+msgid "Inotify"
+msgstr "Без записване"
+
+msgid "File change notification plugin"
+msgstr ""
+
+#, fuzzy
+msgid "Minimize Effect"
+msgstr "&Намаляване на Windows"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr ""
+
+#, fuzzy
+msgid "Minimize speed"
+msgstr "&Намаляване на Windows"
+
+msgid "Minimize timestep"
+msgstr ""
+
+#, fuzzy
+msgid "Minimize Windows"
+msgstr "&Намаляване на Windows"
+
+msgid "Windows that should be transformed when minimized"
+msgstr ""
+
+msgid "Shade Resistance"
+msgstr ""
+
+msgid "Shade resistance"
+msgstr ""
+
+#, fuzzy
+msgid "Move Window"
+msgstr "&Надолу"
+
+#, fuzzy
+msgid "Move window"
+msgstr "&Надолу"
+
+#, fuzzy
+msgid "Initiate Window Move"
+msgstr "&Надолу"
+
+#, fuzzy
+msgid "Start moving window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Opacity"
+msgstr "&Нисък капацитет"
+
+#, fuzzy
+msgid "Opacity level of moving windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Constrain Y"
+msgstr ""
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr ""
+
+#, fuzzy
+msgid "Snapoff maximized windows"
+msgstr "&Намаляване на Windows"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+
+#, fuzzy
+msgid "Lazy Positioning"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "Прозрачност при въртене"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Понижи непрозрачността на прозореца"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Окцитан (след 1500)"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Понижи непрозрачността на прозореца"
+
+msgid "Opacity Decrease"
+msgstr ""
+
+#, fuzzy
+msgid "Brightness"
+msgstr "Мост"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Мост"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Мост"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Мост"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Мост"
+
+#, fuzzy
+msgid "Saturation"
+msgstr "Продължителност"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Насищане на размиването"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Продължителност"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Насищане на размиването"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Продължителност"
+
+msgid "Step"
+msgstr "Стъпка"
+
+#, fuzzy
+msgid "Opacity Step"
+msgstr "&Нисък капацитет"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Декорации на прозореца"
+
+#, fuzzy
+msgid "Windows"
+msgstr "Windows"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr ""
+"Прозорзи, за които се използва размиване по алфа канала по подразбиране"
+
+#, fuzzy
+msgid "Window values"
+msgstr "Windows"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "&Изтриване на Windows"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Мост"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr ""
+"Прозорзи, за които се използва размиване по алфа канала по подразбиране"
+
+#, fuzzy
+msgid "Brightness values for windows"
+msgstr "Яркост(в %) на прозорците които не отговарят"
+
+msgid "Saturation Step"
+msgstr ""
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr ""
+"Прозорзи, за които се използва размиване по алфа канала по подразбиране"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Place Windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr ""
+
+#, fuzzy
+msgid "Workarounds"
+msgstr "Работна гр&упа"
+
+#, fuzzy
+msgid "Window placement workarounds"
+msgstr "Параметри на ypbind"
+
+msgid "Placement Mode"
+msgstr ""
+
+msgid "Algorithm to use for window placement"
+msgstr "Алгоритъм, който да се използва при поставянето на прозорците"
+
+msgid "Cascade"
+msgstr "Каскадно подреждане"
+
+msgid "Centered"
+msgstr "Центрирано подреждане"
+
+msgid "Smart"
+msgstr ""
+
+#, fuzzy
+msgid "Maximize"
+msgstr "Уголемяване"
+
+msgid "Random"
+msgstr "Произволно"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Добавяне на контакт"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+
+msgid "Use active output device"
+msgstr ""
+
+msgid "Use output device with pointer"
+msgstr ""
+
+msgid "Use output device of focused window"
+msgstr ""
+
+msgid "Place across all outputs"
+msgstr ""
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "&Изтриване на Windows"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Мениджър на прозорци"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Параметри на ypbind"
+
+#, fuzzy
+msgid "Positioned windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Windows that should be positioned by default"
+msgstr ""
+
+#, fuzzy
+msgid "X Positions"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "X position values"
+msgstr ""
+
+#, fuzzy
+msgid "Y Positions"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Y position values"
+msgstr ""
+
+msgid "Keep In Workarea"
+msgstr "Запазване в работната площ"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Параметри на ypbind"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr ""
+"Прозорзи, за които се използва размиване по алфа канала по подразбиране"
+
+#, fuzzy
+msgid "Mode"
+msgstr "В реално време"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport positioned windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+
+#, fuzzy
+msgid "X Viewport Positions"
+msgstr "Виртуално устройство"
+
+#, fuzzy
+msgid "Horizontal viewport positions"
+msgstr "Виртуално устройство"
+
+#, fuzzy
+msgid "Y Viewport Positions"
+msgstr "Виртуално устройство"
+
+#, fuzzy
+msgid "Vertical viewport positions"
+msgstr "Виртуално устройство"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Зареждане на PNG изображения"
+
+msgid "Regex Matching"
+msgstr ""
+
+msgid "Regex window matching"
+msgstr ""
+
+#, fuzzy
+msgid "Resize Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Resize window"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Normal Window Resize"
+msgstr "&Начален RAM диск"
+
+#, fuzzy
+msgid "Start resizing window normally"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Initiate Outline Window Resize"
+msgstr "&Начален RAM диск"
+
+#, fuzzy
+msgid "Start resizing window with outline"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Initiate Rectangle Window Resize"
+msgstr "&Начален RAM диск"
+
+#, fuzzy
+msgid "Start resizing window with rectangle"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Initiate Stretch Window Resize"
+msgstr "&Начален RAM диск"
+
+#, fuzzy
+msgid "Start resizing window by stretching it"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Initiate Window Resize"
+msgstr "&Начален RAM диск"
+
+#, fuzzy
+msgid "Start resizing window"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Default Resize Mode"
+msgstr ""
+
+msgid "Default mode used for window resizing"
+msgstr ""
+
+# KM
+#, fuzzy
+msgid "Outline"
+msgstr "Цветове"
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Stretch"
+msgstr "Разтягане"
+
+# KM
+#, fuzzy
+msgid "Border Color"
+msgstr "Цветове"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+
+# KM
+#, fuzzy
+msgid "Fill Color"
+msgstr "Цветове"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr ""
+
+#, fuzzy
+msgid "Normal Resize Windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Windows that normal resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Resize Windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Windows that outline resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Rectangle Resize Windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Windows that rectangle resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Stretch Resize Windows"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Windows that stretch resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Cube"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate desktop cube"
+msgstr "Завъртане на екрана"
+
+msgid "Edge Flip Pointer"
+msgstr ""
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+
+msgid "Edge Flip Move"
+msgstr ""
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+
+msgid "Edge Flip DnD"
+msgstr ""
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+
+#, fuzzy
+msgid "Flip Time"
+msgstr "В реално време"
+
+msgid "Timeout before flipping viewport"
+msgstr ""
+
+msgid "Raise on rotate"
+msgstr ""
+
+msgid "Raise window when rotating"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Start Rotation"
+msgstr "Начало на откриването"
+
+msgid "Rotate Left"
+msgstr "Завъртане наляво"
+
+#, fuzzy
+msgid "Rotate left"
+msgstr "Завъртане на екрана"
+
+msgid "Rotate Right"
+msgstr "Завъртане надясно"
+
+#, fuzzy
+msgid "Rotate right"
+msgstr "Надясно"
+
+msgid "Rotate Left with Window"
+msgstr "Завъртане на ляво с прозорец"
+
+#, fuzzy
+msgid "Rotate left and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Rotate Right with Window"
+msgstr "Завъртане надясно с прозорец"
+
+#, fuzzy
+msgid "Rotate right and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Rotate To"
+msgstr "Завъртане към"
+
+#, fuzzy
+msgid "Rotate to viewport"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate window"
+msgstr "&Надолу"
+
+#, fuzzy
+msgid "Rotate with window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate Flip Left"
+msgstr "Надясно"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Flip Right"
+msgstr "Надясно"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Завъртане на екрана"
+
+msgid "Rotate To Face 1"
+msgstr "Завъртане към Страна 1"
+
+#, fuzzy
+msgid "Rotate to face 1"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 2"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 2"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 3"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 3"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 4"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 4"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 5"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 5"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 6"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 6"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 7"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 7"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 8"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 8"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate To Face 9"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to face 9"
+msgstr "Завъртане на екрана"
+
+msgid "Rotate To Face 10"
+msgstr "Завъртане към Страна 10"
+
+#, fuzzy
+msgid "Rotate to face 10"
+msgstr "Завъртане на екрана"
+
+msgid "Rotate To Face 11"
+msgstr "Завъртане към Страна 11"
+
+#, fuzzy
+msgid "Rotate to face 11"
+msgstr "Завъртане на екрана"
+
+msgid "Rotate To Face 12"
+msgstr "Завъртане към Страна 12"
+
+#, fuzzy
+msgid "Rotate to face 12"
+msgstr "Завъртане на екрана"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "Завъртане към Страна 1 с прозорец"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Завъртане към Страна 1 с прозорец"
+
+#, fuzzy
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 2 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 3 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 4 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 5 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 6 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 7 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 8 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 9 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Завъртане към Страна 10 с прозорец"
+
+#, fuzzy
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Завъртане към Страна 11 с прозорец"
+
+#, fuzzy
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate To Face 12 with Window"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Pointer Invert Y"
+msgstr "Показател към %1"
+
+msgid "Invert Y axis for pointer movement"
+msgstr ""
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Показател към %1"
+
+msgid "Invert X axis for pointer movement"
+msgstr ""
+
+#, fuzzy
+msgid "Pointer Sensitivity"
+msgstr "Опи&сание на принтера"
+
+msgid "Sensitivity of pointer movement"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation Acceleration"
+msgstr "3D ускорение:"
+
+msgid "Snap To Top Face"
+msgstr ""
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr ""
+
+msgid "Snap To Bottom Face"
+msgstr ""
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation Speed"
+msgstr "Проба"
+
+#, fuzzy
+msgid "Rotation Timestep"
+msgstr "Проба"
+
+msgid "Zoom"
+msgstr "Мащабиране"
+
+#, fuzzy
+msgid "Rotation Zoom"
+msgstr "Проба"
+
+#, fuzzy
+msgid "Scale"
+msgstr "Скенер"
+
+#, fuzzy
+msgid "Scale windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker"
+msgstr "&Начален RAM диск"
+
+msgid "Layout and start transforming windows"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker For All Windows"
+msgstr "&Начален RAM диск"
+
+msgid "Layout and start transforming all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker For Window Group"
+msgstr "&Начален RAM диск"
+
+msgid "Layout and start transforming window group"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "&Начален RAM диск"
+
+msgid "Layout and start transforming windows on current output"
+msgstr ""
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Натисни на работен плот за да бъде показан"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+
+#, fuzzy
+msgid "Spacing"
+msgstr "Испания"
+
+#, fuzzy
+msgid "Space between windows"
+msgstr "&Изтриване на Windows"
+
+#, fuzzy
+msgid "Scale speed"
+msgstr "местно време"
+
+#, fuzzy
+msgid "Scale timestep"
+msgstr "местно време"
+
+msgid "Darken Background"
+msgstr "Затъмняване на фона"
+
+msgid "Darken background when scaling windows"
+msgstr ""
+
+msgid "Amount of opacity in percent"
+msgstr ""
+
+msgid "Overlay Icon"
+msgstr ""
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr ""
+
+msgid "None"
+msgstr "Без избор"
+
+msgid "Emblem"
+msgstr "Емблема"
+
+msgid "Big"
+msgstr "Голяма"
+
+#, fuzzy
+msgid "Scale Windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr ""
+
+msgid "Hover Time"
+msgstr ""
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+
+msgid "On current output device"
+msgstr ""
+
+msgid "On all output devices"
+msgstr ""
+
+msgid "Screenshot"
+msgstr "Снимка на екрана"
+
+msgid "Screenshot plugin"
+msgstr "Модул за снимки на екрана"
+
+# HT
+msgid "Initiate rectangle screenshot"
+msgstr ""
+
+msgid "Directory"
+msgstr "Директория"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Поставяй снимките на екрана в тази директория"
+
+msgid "Launch Application"
+msgstr "Стартирай приложение"
+
+#, fuzzy
+msgid "Automatically open screenshot in this application"
+msgstr "Автоматично зареждане на аплета при влизане"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Svg image loader"
+
+#, fuzzy
+msgid "Application Switcher"
+msgstr "Ред на прилагане"
+
+msgid "Next window"
+msgstr "Следващ прозорец"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window"
+msgstr "Windows"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+
+msgid "Next window (All windows)"
+msgstr "Следващ прозорец (всички прозорци)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (All windows)"
+msgstr "Windows"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+
+msgid "Next window (No popup)"
+msgstr "Следващ прозорец (без изскачащите)"
+
+msgid "Select next window without showing the popup window."
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (No popup)"
+msgstr "Windows"
+
+msgid "Select previous window without showing the popup window."
+msgstr ""
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "Работна станция"
+
+msgid "Select next panel type window."
+msgstr ""
+
+#, fuzzy
+msgid "Prev Panel"
+msgstr "Предишно ядро"
+
+msgid "Select previous panel type window."
+msgstr ""
+
+#, fuzzy
+msgid "Switcher speed"
+msgstr "местно време"
+
+#, fuzzy
+msgid "Switcher timestep"
+msgstr "местно време"
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Прозорци, които трябва да бъдат показвани в превключвателя"
+
+msgid "Amount of saturation in percent"
+msgstr ""
+
+msgid "Amount of brightness in percent"
+msgstr ""
+
+#, fuzzy
+msgid "Bring To Front"
+msgstr "При зареждане на ОС"
+
+msgid "Bring selected window to front"
+msgstr ""
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+
+#, fuzzy
+msgid "Icon"
+msgstr "Икони"
+
+msgid "Show icon next to thumbnail"
+msgstr ""
+
+#, fuzzy
+msgid "Minimized"
+msgstr "&Намаляване на Windows"
+
+#, fuzzy
+msgid "Show minimized windows"
+msgstr "&Намаляване на Windows"
+
+#, fuzzy
+msgid "Auto Rotate"
+msgstr "AutoYast"
+
+msgid "Rotate to the selected window while switching"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Работна станция"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+msgid "Show switcher window while switching viewports"
+msgstr ""
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Предишен слайд"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Радиус на сянката"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+# KM
+#, fuzzy
+msgid "Outline Color"
+msgstr "Цветове"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Промяната на размера е неуспешно."
+
+msgid "Background Gradient"
+msgstr ""
+
+# KM
+#, fuzzy
+msgid "Base Color"
+msgstr "Цветове"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+# KM
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Цветове"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Цвят на сянката"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Виртуално устройство"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "&Намаляване на Windows"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Прозорци, които трябва да треперят при преместване"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "&Надолу"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Завъртане наляво"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Завъртане надясно"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "&Надолу"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Завъртане на ляво с прозорец"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Завъртане надясно с прозорец"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "&Надолу"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "&Надолу"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Комбинации от клавиши"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Надясно"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "В реално време"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Надясно"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Надясно"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "В реално време"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "В реално време"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Страница надолу"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "&Изтриване на Windows"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "местно време"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Комбинации от клавиши"
+
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+
+msgid "Water Effect"
+msgstr ""
+
+msgid "Adds water effects to different desktop actions"
+msgstr ""
+
+msgid "Enable pointer water effects"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle rain"
+msgstr "&Промяна на статуса"
+
+#, fuzzy
+msgid "Toggle rain effect"
+msgstr "&Промяна на статуса"
+
+#, fuzzy
+msgid "Toggle wiper"
+msgstr "&Промяна на статуса"
+
+#, fuzzy
+msgid "Toggle wiper effect"
+msgstr "&Промяна на статуса"
+
+msgid "Offset Scale"
+msgstr ""
+
+msgid "Water offset scale"
+msgstr ""
+
+#, fuzzy
+msgid "Rain Delay"
+msgstr "Закъснение"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Закъснение (в милисекунди) между всяка дъждовна капка"
+
+msgid "Title wave"
+msgstr ""
+
+msgid "Wave effect from window title"
+msgstr ""
+
+msgid "Point"
+msgstr ""
+
+#, fuzzy
+msgid "Add point"
+msgstr "Добавяне на контакт"
+
+msgid "Line"
+msgstr ""
+
+#, fuzzy
+msgid "Add line"
+msgstr "До&бавяне на връзка"
+
+msgid "Wobbly Windows"
+msgstr "Треперещи прозорци"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Използвай пружинен модел за треперещите прозорци"
+
+#, fuzzy
+msgid "Snap windows"
+msgstr "Привличане между прозорците"
+
+#, fuzzy
+msgid "Toggle window snapping"
+msgstr "Променяне на привличането"
+
+# this is more like 'snap by default'
+#, fuzzy
+msgid "Snap Inverted"
+msgstr "Привличане по принцип"
+
+msgid "Inverted window snapping"
+msgstr ""
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Треперене"
+
+#, fuzzy
+msgid "Make window shiver"
+msgstr "&Изтриване на Windows"
+
+#, fuzzy
+msgid "Friction"
+msgstr "Действие"
+
+#, fuzzy
+msgid "Spring Friction"
+msgstr "Съпротивление на пружината"
+
+msgid "Spring K"
+msgstr "Константа на пружината"
+
+msgid "Spring Konstant"
+msgstr "Константа на пружината"
+
+#, fuzzy
+msgid "Grid Resolution"
+msgstr "Разделителна способност"
+
+#, fuzzy
+msgid "Vertex Grid Resolution"
+msgstr "Разпознаване на сървъра"
+
+#, fuzzy
+msgid "Minimum Grid Size"
+msgstr "Максимален размер"
+
+#, fuzzy
+msgid "Minimum Vertex Grid Size"
+msgstr "Максимален размер"
+
+#, fuzzy
+msgid "Map Effect"
+msgstr "Windows"
+
+#, fuzzy
+msgid "Map Window Effect"
+msgstr "Windows"
+
+msgid "Focus Effect"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Window Effect"
+msgstr "Windows"
+
+#, fuzzy
+msgid "Map Windows"
+msgstr "Windows"
+
+#, fuzzy
+msgid "Windows that should wobble when mapped"
+msgstr "Прозорци, които трябва да треперят при създаване"
+
+#, fuzzy
+msgid "Focus Windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Windows that should wobble when focused"
+msgstr "Прозорци, които трябва да треперят при фокусиране"
+
+#, fuzzy
+msgid "Grab Windows"
+msgstr "&Изтриване на Windows"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Прозорци, които трябва да треперят при хващане"
+
+#, fuzzy
+msgid "Move Windows"
+msgstr "&Надолу"
+
+msgid "Windows that should wobble when moved"
+msgstr "Прозорци, които трябва да треперят при преместване"
+
+msgid "Maximize Effect"
+msgstr "Ефект при максимизиране"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Треперене при максимизиране и демаксимизиране на прозорците"
+
+msgid "Zoom Desktop"
+msgstr "Мащабиране на работния плот"
+
+#, fuzzy
+msgid "Zoom and pan desktop cube"
+msgstr "Завъртане на екрана"
+
+msgid "Zoom In"
+msgstr "Увеличаване"
+
+msgid "Zoom Out"
+msgstr "Намаляване"
+
+#, fuzzy
+msgid "Zoom Pan"
+msgstr "Излизане"
+
+#, fuzzy
+msgid "Zoom pan"
+msgstr "Излизане"
+
+msgid "Zoom Speed"
+msgstr "Скорост на мащабирането"
+
+#, fuzzy
+msgid "Zoom Timestep"
+msgstr "Проба"
+
+#, fuzzy
+msgid "Zoom factor"
+msgstr "Излизане"
+
+msgid "Filter Linear"
+msgstr "Линеен филтър"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Използвай линеен филтър при мащабиране"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Брой на работните плотове"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Брой на виртуалните работни плотове"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Действие което да бъде предприето при движение на колелцето на мишката "
+#~ "върху заглавната лента на прозорец."
+
+#~ msgid "Blur type"
+#~ msgstr "Тип размиване"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Прозрачност на активния прозорец при тема на Marco"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Прозрачност на темата на Marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Прозрачност за декорациите от темите на Marco"
+
+# Can't find bulgarian word for titlebar.
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Действие на колелцето на мишката в заглавната лента на прозорците"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Вид замъгляване използван за декорациите на прозорците"
+
+#~ msgid "Use marco theme"
+#~ msgstr "използвай темата на Marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Използвай Marco темата при рисуване на декорациите на прозорците"
+
+#~ msgid "Line width"
+#~ msgstr "Ширина на линията"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Ширина на линията за анотации"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Понижи непрозрачността"
+
+#~ msgid "Increase"
+#~ msgstr "Увеличаване"
+
+#~ msgid "Screenshot commands"
+#~ msgstr "Команди за заснемане на екрана"
+
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Ключови комбинации за заснемане на екрана"
+
+#, fuzzy
+#~ msgid "Opacity windows"
+#~ msgstr "&Изтриване на Windows"
+
+#, fuzzy
+#~ msgid "Place windows on a plane"
+#~ msgstr "&Изтриване на Windows"
+
+#, fuzzy
+#~ msgid "Plane Left"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane Right"
+#~ msgstr "Надясно"
+
+#, fuzzy
+#~ msgid "Plane To Face 1"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 10"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 11"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 12"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 2"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 3"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 4"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 5"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 6"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 7"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 8"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face 9"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane Up"
+#~ msgstr "Страница нагоре"
+
+#, fuzzy
+#~ msgid "Plane left"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane right"
+#~ msgstr "Надясно"
+
+#, fuzzy
+#~ msgid "Plane to face 1"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 10"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 11"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 12"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 2"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 3"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 4"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 5"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 6"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 7"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 8"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face 9"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane up"
+#~ msgstr "Страница нагоре"
+
+#, fuzzy
+#~ msgid "Toolbar"
+#~ msgstr "Инструменти"
+
+#~ msgid "Menu"
+#~ msgstr "Меню"
+
+#, fuzzy
+#~ msgid "Utility"
+#~ msgstr "Диск с приложения (utility)..."
+
+#, fuzzy
+#~ msgid "Splash"
+#~ msgstr "splash"
+
+#, fuzzy
+#~ msgid "Dialog"
+#~ msgstr "&Тонално набиране"
+
+#, fuzzy
+#~ msgid "DropdownMenu"
+#~ msgstr "Мениджър на прозорци"
+
+#, fuzzy
+#~ msgid "PopupMenu"
+#~ msgstr "Меню"
+
+#, fuzzy
+#~ msgid "Tooltip"
+#~ msgstr "Инструменти"
+
+#, fuzzy
+#~ msgid "Notification"
+#~ msgstr "Забележки"
+
+#, fuzzy
+#~ msgid "Dnd"
+#~ msgstr "End"
+
+#, fuzzy
+#~ msgid "Fullscreen"
+#~ msgstr "Touchscreen"
+
+#~ msgid "Unknown"
+#~ msgstr "Неизвестно"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "Продължителност"
+
+#, fuzzy
+#~ msgid "Do not modify"
+#~ msgstr "Без записване"
+
+#, fuzzy
+#~ msgid "Drop shadow opacity (0.01-6.00)"
+#~ msgstr "&Нисък капацитет"
+
+#, fuzzy
+#~ msgid "Drop shadow radius (0.0-48.0)"
+#~ msgstr "Радиус"
+
+#, fuzzy
+#~ msgid "Focus prevention windows (match)"
+#~ msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "3D ускорение: "
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "3D ускорение: "
+
+#, fuzzy
+#~ msgid "Fold Timestep (0.0-50.0)"
+#~ msgstr "Проба"
+
+# RU
+#, fuzzy
+#~ msgid "Gaussian radius (1-15)"
+#~ msgstr "Руска Федерация"
+
+#, fuzzy
+#~ msgid "Gaussian strength (0.00-1.00)"
+#~ msgstr "Руска"
+
+#, fuzzy
+#~ msgid "Line width for annotations (0.0-100.0)"
+#~ msgstr "Можете да научите повече от документацията"
+
+#, fuzzy
+#~ msgid "Map Window Effect (None, Shiver)"
+#~ msgstr "Windows"
+
+#, fuzzy
+#~ msgid "Minimize speed (0.0-50.0)"
+#~ msgstr "&Намаляване на Windows"
+
+#, fuzzy
+#~ msgid "Minimize timestep (0.0-50.0)"
+#~ msgstr "&Намаляване на Windows"
+
+#, fuzzy
+#~ msgid "Minimum Vertex Grid Size (4-128)"
+#~ msgstr "Максимален размер"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops (1-36)"
+#~ msgstr "Отдалечен работен плот"
+
+#, fuzzy
+#~ msgid "Opacity change step (1-50)"
+#~ msgstr "Окцитан (след 1500)"
+
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "3D ускорение: "
+
+#, fuzzy
+#~ msgid "Rotation Timestep (0.0-50.0)"
+#~ msgstr "Проба"
+
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "местно време"
+
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "местно време"
+
+#, fuzzy
+#~ msgid "Space between windows (0-250)"
+#~ msgstr "&Изтриване на Windows"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "Действие"
+
+#, fuzzy
+#~ msgid "Spring Konstant (0.0-10.0)"
+#~ msgstr "Испания"
+
+#, fuzzy
+#~ msgid "Texture filtering (Fast, Good, Best)"
+#~ msgstr "&Филтър"
+
+#, fuzzy
+#~ msgid "Vertex Grid Resolution (1-64)"
+#~ msgstr "Разпознаване на сървъра"
+
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "Windows свободни (%1)"
+
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "Windows свободни (%1)"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "Избрано"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "Проба"
+
+#, fuzzy
+#~ msgid "Zoom factor (1.01-3.00)"
+#~ msgstr "Излизане"
+
+#, fuzzy
+#~ msgid "Plane To Face %d"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane to face %d"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Plane To Face %d with Window"
+#~ msgstr "Промяната на размера е неуспешно."
+
+#, fuzzy
+#~ msgid "Rotate To Face %d"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Rotate to face %d"
+#~ msgstr "Завъртане на екрана"
+
+#, fuzzy
+#~ msgid "Command line %d"
+#~ msgstr "Команда: "
+
+#, fuzzy
+#~ msgid "Run command %d"
+#~ msgstr "Команда: "
+
+#, fuzzy
+#~ msgid "Move Window Types"
+#~ msgstr "Тип на доставчика"
+
+#, fuzzy
+#~ msgid "Corners"
+#~ msgstr "Корнски"
+
+#~ msgid "Terminate"
+#~ msgstr "Терминали"

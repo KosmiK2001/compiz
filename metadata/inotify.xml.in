@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="inotify">
+	<short>Inotify</short>
+	<long>File change notification plugin</long>
+	<category>Utility</category>
+    </plugin>
+</compiz>

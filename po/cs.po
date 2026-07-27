@@ -1,0 +1,4683 @@
+# Czech translation for compiz
+# Copyright (C) 2006 Jakub Friedl <jfriedl@suse.cz>
+# This file is distributed under the same license as the compiz package.
+# Jakub Friedl <jfriedl@suse.cz>, 2006.
+# Klara Cihlarova <koty@seznam.cz>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:41+0300\n"
+"PO-Revision-Date: 2008-02-11 17:23+0100\n"
+"Last-Translator: Tomas Hejatko <hejda.cz@gmail.com>\n"
+"Language-Team: Czech <opensuse-cz@opensuse.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Close Window"
+msgstr "Zavřít okno"
+
+msgid "Unmaximize Window"
+msgstr "Zrušit maximalizaci okna"
+
+msgid "Maximize Window"
+msgstr "Maximalizovat okno"
+
+msgid "Minimize Window"
+msgstr "Minimalizovat okno"
+
+msgid "Window Menu"
+msgstr "Nabídka okna"
+
+#, fuzzy
+msgid "Shade"
+msgstr "Měřítko"
+
+msgid "Make Above"
+msgstr ""
+
+msgid "Stick"
+msgstr ""
+
+msgid "Unshade"
+msgstr ""
+
+msgid "Unmake Above"
+msgstr ""
+
+msgid "Unstick"
+msgstr ""
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr ""
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+
+msgid "_Cancel"
+msgstr "_Zrušit"
+
+msgid "_Force Quit"
+msgstr ""
+
+# nebo něco jako vizuální doprovod, ukazovátko?
+msgid "Annotate"
+msgstr "Anotace"
+
+#, fuzzy
+msgid "Annotate plugin"
+msgstr "Aktivní moduly"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Iniciovat"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Iniciovat změnu velikosti okna"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Iniciovat"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Iniciovat změnu velikosti okna"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Iniciovat"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Iniciovat změnu velikosti okna"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Iniciovat"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Iniciovat změnu velikosti okna"
+
+msgid "Draw"
+msgstr "Vykreslit"
+
+msgid "Draw using tool"
+msgstr "Vykreslit použitím nástroje"
+
+#, fuzzy
+msgid "Initiate erase"
+msgstr "Iniciovat"
+
+#, fuzzy
+msgid "Initiate annotate erasing"
+msgstr "Iniciovat změnu velikosti okna"
+
+msgid "Clear"
+msgstr "Vymazat"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Přepnout stínování aktivního okna"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Barva anotace"
+
+msgid "Fill color for annotations"
+msgstr ""
+
+msgid "Annotate Stroke Color"
+msgstr ""
+
+msgid "Stroke color for annotations"
+msgstr ""
+
+msgid "Stroke width"
+msgstr ""
+
+msgid "Stroke width for annotations"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Windows"
+msgstr "Rozmístit okna"
+
+#, fuzzy
+msgid "Blur windows"
+msgstr "Škálovat okna"
+
+msgid "Pulse"
+msgstr ""
+
+#, fuzzy
+msgid "Pulse effect"
+msgstr "Efekt zaměření"
+
+#, fuzzy
+msgid "Blur Speed"
+msgstr "Rychlost sbalení"
+
+#, fuzzy
+msgid "Window blur speed"
+msgstr "Rychlost blednutí okna"
+
+#, fuzzy
+msgid "Focus blur windows"
+msgstr "Škálovat okna"
+
+#, fuzzy
+msgid "Windows that should be affected by focus blur"
+msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+msgid "Focus Blur"
+msgstr "Škálovat okna"
+
+#, fuzzy
+msgid "Blur windows that doesn't have focus"
+msgstr "Typy oken, která se mají rozhoupat při zaměření"
+
+#, fuzzy
+msgid "Alpha blur windows"
+msgstr "Škálovat okna"
+
+#, fuzzy
+msgid "Windows that should be use alpha blur by default"
+msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+msgid "Alpha Blur"
+msgstr "Škálovat okna"
+
+msgid "Blur behind translucent parts of windows"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Filter"
+msgstr "Filtr textur"
+
+msgid "Filter method used for blurring"
+msgstr ""
+
+#, fuzzy
+msgid "4xBilinear"
+msgstr "Lineární filtr"
+
+msgid "Gaussian"
+msgstr ""
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr ""
+
+msgid "Gaussian radius"
+msgstr ""
+
+msgid "Gaussian Strength"
+msgstr ""
+
+msgid "Gaussian strength"
+msgstr ""
+
+#, fuzzy
+msgid "Mipmap LOD"
+msgstr "Mipmap"
+
+msgid "Mipmap level-of-detail"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Saturation"
+msgstr "Sytost"
+
+#, fuzzy
+msgid "Blur saturation"
+msgstr "Sytost"
+
+#, fuzzy
+msgid "Blur Occlusion"
+msgstr "Sytost"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+
+msgid "Independent texture fetch"
+msgstr ""
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+
+#, fuzzy
+msgid "Clone Output"
+msgstr "Výstupy"
+
+msgid "Output clone handler"
+msgstr ""
+
+msgid "Initiate"
+msgstr "Iniciovat"
+
+#, fuzzy
+msgid "Initiate clone selection"
+msgstr "Pořídit snímek obrazovky"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Příkaz"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+msgid "Command line 0"
+msgstr "Příkazová řádka 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command0"
+
+msgid "Command line 1"
+msgstr "Příkazová řádka 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+msgid "Command line 2"
+msgstr "Příkazová řádka 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command2"
+
+msgid "Command line 3"
+msgstr "Příkazový řádek 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command3"
+
+msgid "Command line 4"
+msgstr "Příkazová řádka 3"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command4"
+
+msgid "Command line 5"
+msgstr "Příkazová řádka 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command5"
+
+msgid "Command line 6"
+msgstr "Příkazová řádka 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command6"
+
+msgid "Command line 7"
+msgstr "Příkazová řádka 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command7"
+
+msgid "Command line 8"
+msgstr "Příkazová řádka 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command8"
+
+msgid "Command line 9"
+msgstr "Příkazová řádka 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command9"
+
+msgid "Command line 10"
+msgstr "Příkazová řádka 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command10"
+
+msgid "Command line 11"
+msgstr "Příkazová řádka 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command11"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Příkazová řádka 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Příkazová řádka 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command0"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Příkazová řádka 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command1"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Příkazová řádka 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command2"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Příkazová řádka 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command2"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Příkazová řádka 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "Příkaz, který se vykoná, pokud je v shellu volán run_command2"
+
+msgid "Key Bindings"
+msgstr ""
+
+msgid "Run command 0"
+msgstr "Spustit příkaz 0"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+msgid "Run command 1"
+msgstr "Spustit příkaz 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+msgid "Run command 2"
+msgstr "Spustit příkaz 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+msgid "Run command 3"
+msgstr "Spustit příkaz 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Klávesové zkratky, které spustí příkaz určený command3"
+
+msgid "Run command 4"
+msgstr "Spustit příkaz 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Klávesové zkratky, které spustí příkaz určený command4"
+
+msgid "Run command 5"
+msgstr "Spustit příkaz 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Klávesové zkratky, které spustí příkaz určený command5"
+
+msgid "Run command 6"
+msgstr "Spustit příkaz 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Klávesové zkratky, které spustí příkaz určený command6"
+
+msgid "Run command 7"
+msgstr "Spustit příkaz 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Klávesové zkratky, které spustí příkaz určený command7"
+
+msgid "Run command 8"
+msgstr "Spustit příkaz 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Klávesové zkratky, které spustí příkaz určený command8"
+
+msgid "Run command 9"
+msgstr "Spustit příkaz 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Klávesové zkratky, které spustí příkaz určený command9"
+
+msgid "Run command 10"
+msgstr "Spustit příkaz 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+msgid "Run command 11"
+msgstr "Spustit příkaz 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Klávesové zkratky, které spustí příkaz určený command11"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Spustit příkaz 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Spustit příkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Spustit příkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Spustit příkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Spustit příkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Spustit příkaz 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+msgid "Button Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Klávesové zkratky, které spustí příkaz určený command3"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Klávesové zkratky, které spustí příkaz určený command4"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Klávesové zkratky, které spustí příkaz určený command5"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Klávesové zkratky, které spustí příkaz určený command6"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Klávesové zkratky, které spustí příkaz určený command7"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Klávesové zkratky, které spustí příkaz určený command8"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Klávesové zkratky, které spustí příkaz určený command9"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Klávesové zkratky, které spustí příkaz určený command11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "Klávesové zkratky, které spustí příkaz určený command3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "Klávesové zkratky, které spustí příkaz určený command4"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "Klávesové zkratky, které spustí příkaz určený command5"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "Klávesové zkratky, které spustí příkaz určený command6"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "Klávesové zkratky, které spustí příkaz určený command7"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "Klávesové zkratky, které spustí příkaz určený command8"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "Klávesové zkratky, které spustí příkaz určený command9"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "Klávesové zkratky, které spustí příkaz určený command11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+msgid "General Options"
+msgstr "Hlavní nastavení"
+
+msgid "General compiz options"
+msgstr "Hlavní nastavení compizu"
+
+msgid "Active Plugins"
+msgstr "Aktivní moduly"
+
+msgid "List of currently active plugins"
+msgstr "Seznam právě aktivních modulů"
+
+msgid "Audible Bell"
+msgstr "Akustický zvonek"
+
+msgid "Audible system beep"
+msgstr "Slyšitelné systémové pípnutí"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Při maximalizaci ignorovat tipy"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "Při maximalizaci ignorovat tipy k přírůstku velikosti a poměru"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Skrýt okna nepřítomná v liště úloh"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Skrýt okna nepřítomná v liště úloh při vstupu do režimu zobrazení plochy"
+
+msgid "Edge Trigger Delay"
+msgstr ""
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+#, fuzzy
+msgid "Ping Delay"
+msgstr "Prodleva pingu"
+
+msgid "Interval between ping messages"
+msgstr "Interval pro odeslání pingu"
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Texture Filter"
+msgstr "Filtr textur"
+
+msgid "Texture filtering"
+msgstr "Filtrování textur"
+
+msgid "Fast"
+msgstr "Rychlé"
+
+msgid "Good"
+msgstr "Dobré"
+
+msgid "Best"
+msgstr "Nejlepší"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Kliknutí k zaměření"
+
+msgid "Click on window moves input focus to it"
+msgstr "Kliknutím na okno přesunout zaměření na okno"
+
+msgid "Raise On Click"
+msgstr "Dát do popředí při kliknutí"
+
+msgid "Raise windows when clicked"
+msgstr "Dát okna do popředí při kliknutí"
+
+msgid "Auto-Raise"
+msgstr "Automaticky do popředí"
+
+msgid "Raise selected windows after interval"
+msgstr "Dát vybraná okna do popředí po uplynutí intervalu"
+
+msgid "Auto-Raise Delay"
+msgstr "Prodleva automatického přesunu do popředí"
+
+msgid "Interval before raising selected windows"
+msgstr "Interval před přenesením vybraných oken do popředí"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "Zavřít aktivní okno"
+
+msgid "Raise Window"
+msgstr "Přenést okno do popředí"
+
+msgid "Raise window above other windows"
+msgstr "Přesunout okno nad ostatní okna"
+
+msgid "Lower Window"
+msgstr "Dát okno do pozadí"
+
+msgid "Lower window beneath other windows"
+msgstr "Přesunout okno do pozadí"
+
+msgid "Unmaximize active window"
+msgstr "Zrušit maximalizaci aktivního okna"
+
+msgid "Minimize active window"
+msgstr "Minimalizovat aktivní okno"
+
+msgid "Maximize active window"
+msgstr "Maximalizovat aktivní okno"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maximalizovat okno horizontálně"
+
+msgid "Maximize active window horizontally"
+msgstr "Maximalizovat aktivní okno horizontálně"
+
+msgid "Maximize Window Vertically"
+msgstr "Maximalizovat okno vertikálně"
+
+msgid "Maximize active window vertically"
+msgstr "Maximalizovat aktivní okno vertikálně"
+
+msgid "Window menu button binding"
+msgstr ""
+
+msgid "Window menu key binding"
+msgstr ""
+
+msgid "Show Desktop"
+msgstr "Zobrazit plochu"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Skrýt všechna okna a zaměřit na plochu"
+
+msgid "Toggle Window Maximized"
+msgstr "Přepnout maximalizaci okna"
+
+msgid "Toggle active window maximized"
+msgstr "Přepnout maximalizaci aktivního okna"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Přepnout okno maximalizované horizontálně"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Přepnout horizontální maximalizaci aktivního okna"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Přepnout okno maximalizované vertikálně"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Přepnout vertikální maximalizaci aktivního okna"
+
+msgid "Toggle Window Shaded"
+msgstr "Přepnout stínování okna"
+
+msgid "Toggle active window shaded"
+msgstr "Přepnout stínování aktivního okna"
+
+msgid "Slow Animations"
+msgstr "Pomalé animace"
+
+msgid "Toggle use of slow animations"
+msgstr "Přepnout použití pomalých animací"
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Kostka plochy"
+
+msgid "Horizontal Virtual Size"
+msgstr "Vodorovná virtuální velikost"
+
+#, fuzzy
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Násobek vodorovné virtuální velikosti obrazovky"
+
+msgid "Vertical Virtual Size"
+msgstr "Svislá virtuální velikost"
+
+#, fuzzy
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Násobek svislé virtuální velikosti obrazovky"
+
+msgid "Lighting"
+msgstr "Světlo"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Použít rozptýlené světlo při transformaci okna"
+
+msgid "Detect Refresh Rate"
+msgstr "Zjistit obnovovací frekvenci"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Automatická detekce obnovovací frekvence"
+
+msgid "Refresh Rate"
+msgstr "Obnovovací frekvence"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Rychlost překreslování obrazovky (počet/s)"
+
+msgid "Detect Outputs"
+msgstr "Detekovat výstupy"
+
+msgid "Automatic detection of output devices"
+msgstr "Automatická detekce výstupních zařízení"
+
+msgid "Overlapping Output Handling"
+msgstr ""
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr ""
+
+#, fuzzy
+msgid "Smart mode"
+msgstr "Chytrý"
+
+msgid "Prefer larger output"
+msgstr ""
+
+msgid "Prefer smaller output"
+msgstr ""
+
+msgid "Outputs"
+msgstr "Výstupy"
+
+msgid "List of strings describing output devices"
+msgstr "Seznam řetězců, které popisují výstupní zařízení"
+
+msgid "Sync To VBlank"
+msgstr "Synchronizovat při VBlank "
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"Provádět aktualizace obrazovky pouze během intervalu vertikálního zatemnění"
+
+#, fuzzy
+msgid "Focus Prevention Level"
+msgstr "Typy okna pro efekt při zaměření"
+
+msgid "Level of focus stealing prevention"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Normal"
+msgstr "Běžná"
+
+msgid "High"
+msgstr ""
+
+msgid "Very High"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Prevention Windows"
+msgstr "Typy okna pro efekt při zaměření"
+
+#, fuzzy
+msgid "Focus prevention windows"
+msgstr "Typy okna pro efekt při zaměření"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Unredirect Fullscreen Windows"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Povolit vykreslování celoobrazovkových oken bez přesměrování do "
+"mimoobrazovkových pixmap"
+
+msgid "Default Icon"
+msgstr "Výchozí ikona"
+
+msgid "Default window icon image"
+msgstr "Výchozí ikona okna"
+
+msgid "Force independent output painting."
+msgstr ""
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Compression"
+msgstr "Filtrování textur"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+
+msgid "Desktop Cube"
+msgstr "Kostka plochy"
+
+msgid "Place windows on cube"
+msgstr "Rozmístit okna na kostku"
+
+msgid "Unfold"
+msgstr "Rozbalit"
+
+msgid "Unfold cube"
+msgstr "Rozbalit kostku"
+
+msgid "Next Slide"
+msgstr "Další snímek"
+
+msgid "Advance to next slide"
+msgstr "Postoupit k dalšímu snímku"
+
+msgid "Prev Slide"
+msgstr "Předchozí snímek"
+
+msgid "Go back to previous slide"
+msgstr "Jít zpět na předchozí snímek"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Jeli to možné, vytvářet pro kvalitní škálování mipmapy"
+
+msgid "Multi Output Mode"
+msgstr ""
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "Možnosti zobrazení kostky, pokud je použito víc výstupních zařízení."
+
+#, fuzzy
+msgid "Automatic"
+msgstr "Automaticky do popředí"
+
+msgid "Multiple cubes"
+msgstr ""
+
+#, fuzzy
+msgid "One big cube"
+msgstr "V kostce"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "Uvnitř kostky"
+
+msgid "Inside cube"
+msgstr "V kostce"
+
+msgid "Acceleration"
+msgstr "Akcelerace"
+
+msgid "Fold Acceleration"
+msgstr "Zrychlení sbalení"
+
+msgid "Speed"
+msgstr "Rychlost"
+
+msgid "Fold Speed"
+msgstr "Rychlost sbalení"
+
+msgid "Timestep"
+msgstr "Časový krok"
+
+msgid "Fold Timestep"
+msgstr "Časový krok sbalení"
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Cube Color"
+msgstr "Barva kostky"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Barva vrchní a spodní strany kostky"
+
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Barva kostky"
+
+msgid "Scale image"
+msgstr "Škálovat obrázek"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Změnit velikost obrázků podle vrchu kostky"
+
+msgid "Image files"
+msgstr "Obrázkové soubory"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "Seznam PNG a SVG souborů, které mají být vykresleny na vrchu kostky"
+
+msgid "Adjust Image"
+msgstr "Přizpůsobit obrázek"
+
+msgid "Adjust top face image to rotation"
+msgstr "Přizpůsobit vrchní obrázek rotaci"
+
+msgid "Skydome"
+msgstr "Nebeská báň"
+
+msgid "Render skydome"
+msgstr "Vykreslit nebeskou báň"
+
+msgid "Skydome Image"
+msgstr "Obrázek nebeské báně"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Obrázek pro texturu nebeské báně"
+
+msgid "Animate Skydome"
+msgstr "Animovat nebeskou báň"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animovat nebeskou báň při rotaci kostky"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Počáteční barva gradientu nebeské báně"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Barva, která se použije na horní část gradientu nebeské báně."
+
+msgid "Skydome Gradient End Color"
+msgstr "Konečná barva gradientu nebeské báně"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Barva, která se použije na dolní část gradientu nebeské báně."
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr "Krytí během rotace"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Krytí (neprůhlednost) ploch kostky během rotace."
+
+msgid "Opacity When Not Rotating"
+msgstr "Krytí bez rotace"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Krytí (neprůhlednost) ploch kostky."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Průhlednot pouze při rotování za pomoci myši"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Iniciovat průhlednost kostky pouze pokud je rotace řízena myší"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Ovládací backend D-Bus"
+
+msgid "Window Decoration"
+msgstr "Dekorace oken"
+
+msgid "Window decorations"
+msgstr "Dekorace oken"
+
+msgid "Shadow Radius"
+msgstr "Poloměr stínu"
+
+msgid "Drop shadow radius"
+msgstr "Poloměr vrženého stínu"
+
+msgid "Shadow Opacity"
+msgstr "Krytí stínu"
+
+msgid "Drop shadow opacity"
+msgstr "Krytí vrženého stínu"
+
+msgid "Shadow Color"
+msgstr "Barva stínu"
+
+msgid "Drop shadow color"
+msgstr "Barva vrženého stínu"
+
+msgid "Shadow Offset X"
+msgstr "Posun stínu X"
+
+msgid "Drop shadow X offset"
+msgstr "Posun vrženého stínu X"
+
+msgid "Shadow Offset Y"
+msgstr "Posun stínu Y"
+
+msgid "Drop shadow Y offset"
+msgstr "Posun vrženého stínu Y"
+
+msgid "Command"
+msgstr "Příkaz"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Příkazová řádka programu pro dekorace, která je spuštěna, pokud ještě není "
+"spuštěn žádný program pro dekorace"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr ""
+
+msgid "Decoration windows"
+msgstr "Dekorovaná okna"
+
+msgid "Windows that should be decorated"
+msgstr "Typy oken, která mohou být dekorovány"
+
+msgid "Shadow windows"
+msgstr "Stínované okna"
+
+msgid "Windows that should have a shadow"
+msgstr "Typy oken, která mohou mít stín"
+
+msgid "Fading Windows"
+msgstr "Slábnutí oken"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "Blednutí mapovaných oken a materializace oken nemapovaných"
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "Doba zprůhlednění"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Rychlost blednutí okna"
+
+#, fuzzy
+msgid "Constant speed"
+msgstr "Rychlost otáčení"
+
+#, fuzzy
+msgid "Constant time"
+msgstr "Omezení Y"
+
+msgid "Fade Speed"
+msgstr "Rychlost blednutí"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Typy oken, které budou zobrazeny v režimu škálování"
+
+msgid "Fade Time"
+msgstr "Doba zprůhlednění"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+msgid "Fade windows"
+msgstr "Blednutí"
+
+msgid "Windows that should be fading"
+msgstr "Typy oken, která mohou blednout"
+
+msgid "Visual Bell"
+msgstr "Vizuální zvonek"
+
+msgid "Fade effect on system beep"
+msgstr "Efekt blednutí při systémovém pípnutí"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Celoobrazovkový vizuální zvonek"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Celoobrazovkový efekt slábnutí při systémovém pípnutí"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Slábnout pří minimalizaci/otevření/zavření"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Efekt slábnutí okna pří událostech :  Minimalizace/Otevření/Zavření"
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Normálně měněné okna"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr "Uživatelský souborový systém"
+
+msgid "Userspace file system"
+msgstr "Uživatelský souborový systém"
+
+msgid "Mount Point"
+msgstr "Přípojný bod"
+
+msgid "Mount point"
+msgstr "Přípojný bod"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Podpora hlavního napojení na GLib"
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Zobrazit hlavní nabídku"
+
+msgid "Show the main menu"
+msgstr "Zobrazit hlavní nabídku"
+
+msgid "Run Dialog"
+msgstr "Spustit dialog"
+
+msgid "Show Run Application dialog"
+msgstr "Zobrazit dialog spouštění aplikace"
+
+msgid "Screenshot command line"
+msgstr "Screenshot command line"
+
+msgid "Take a screenshot"
+msgstr "Pořídit snímek obrazovky"
+
+msgid "Window screenshot command line"
+msgstr "Window screenshot command line"
+
+msgid "Take a screenshot of a window"
+msgstr "Pořídit snímek okna"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Příkaz pro otevření terminálu"
+
+msgid "Terminal command line"
+msgstr "Příkaz pro otevření terminálu"
+
+msgid "Open a terminal"
+msgstr "Otevřít terminál"
+
+#, fuzzy
+msgid "Ini"
+msgstr "Neměnit"
+
+msgid "Ini Flat File Backend"
+msgstr ""
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Modul upozornění změny soubou"
+
+msgid "Minimize Effect"
+msgstr "Efekt minimalizace"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Transformovat okna při jejich minimalizaci a zrušení minimalizace"
+
+msgid "Minimize speed"
+msgstr "Rychlost minimalizace"
+
+msgid "Minimize timestep"
+msgstr "Časový krok minimalizace"
+
+msgid "Minimize Windows"
+msgstr "Minimalizovatelná okna"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Typy oken, která se mají při minimalizaci transformovat"
+
+msgid "Shade Resistance"
+msgstr "Stálost stínu"
+
+msgid "Shade resistance"
+msgstr "Stálost stínu"
+
+msgid "Move Window"
+msgstr "Přesunout okno"
+
+msgid "Move window"
+msgstr "Přesunout okno"
+
+msgid "Initiate Window Move"
+msgstr "Iniciovat přesun okna"
+
+msgid "Start moving window"
+msgstr "Zahájit pohyb okna"
+
+msgid "Opacity"
+msgstr "Krytí"
+
+msgid "Opacity level of moving windows"
+msgstr "Úroveň krytí přesouvaných oken"
+
+msgid "Constrain Y"
+msgstr "Omezení Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Omezení Y souřadnice na pracovní prostor"
+
+msgid "Snapoff maximized windows"
+msgstr "Odtrhávat maximalizovaná okna"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Snapoff and auto unmaximized maximized windows when dragging"
+
+msgid "Lazy Positioning"
+msgstr "\"Líné\" přesouvání"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr "Aktualizovat pozici okna až při ukončení přesunu"
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "Krytí během rotace"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Zvýšit krytí okna"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Krok změny krytí"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Snížit krytí oken"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Krok změny krytí"
+
+msgid "Brightness"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Jas"
+
+msgid "Saturation"
+msgstr "Sytost"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Sytost"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Sytost"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Sytost"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Sytost"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "Krok krytí"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Dekorace oken"
+
+#, fuzzy
+msgid "Windows"
+msgstr "Mapované"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+msgid "Window values"
+msgstr "Typy oken"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Úroveň krytí přesouvaných oken"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Jas"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "Okna, které budou implicitně rozmístěny"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Sytost"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "Okna, které budou implicitně rozmístěny"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+msgid "Place Windows"
+msgstr "Rozmístit okna"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Umístit mapovaná okna na odpovídající pozice"
+
+msgid "Workarounds"
+msgstr "Řešení problémů"
+
+msgid "Window placement workarounds"
+msgstr "Nouzová řešení umístění oken"
+
+msgid "Placement Mode"
+msgstr "Rozmístění oken"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algoritmus použitý pro rozmístění oken"
+
+msgid "Cascade"
+msgstr "Kaskáda"
+
+msgid "Centered"
+msgstr "Centrovaný"
+
+msgid "Smart"
+msgstr "Chytrý"
+
+#, fuzzy
+msgid "Maximize"
+msgstr "Minimalizované"
+
+msgid "Random"
+msgstr "Náhodný"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Překlápění hran ukazatelem"
+
+#, fuzzy
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Vyberte kde jsou okna zobrazeny, pokud je použito více výstupních zařízení"
+
+#, fuzzy
+msgid "Use active output device"
+msgstr "Na všech výstupních výstupních zařízeních"
+
+msgid "Use output device with pointer"
+msgstr ""
+
+msgid "Use output device of focused window"
+msgstr ""
+
+msgid "Place across all outputs"
+msgstr ""
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "Typy okna pro efekt při zaměření"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Správce oken"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Dekorace oken"
+
+msgid "Positioned windows"
+msgstr "Pozicované okna"
+
+msgid "Windows that should be positioned by default"
+msgstr "Okna, které budou implicitně rozmístěny"
+
+msgid "X Positions"
+msgstr "Pozice X"
+
+msgid "X position values"
+msgstr "Hodnoty pozice na ose X"
+
+msgid "Y Positions"
+msgstr "Pozice Y"
+
+msgid "Y position values"
+msgstr "Hodnoty pozice na ose Y"
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Dekorace oken"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Okna, které budou implicitně rozmístěny"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Doba zprůhlednění"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Pozicované okna"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport positioned windows"
+msgstr "Zobrazit minimalizovaná okna"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Okna, které budou implicitně rozmístěny na určitou plochu"
+
+msgid "X Viewport Positions"
+msgstr "Pozice plochy na ose X"
+
+#, fuzzy
+msgid "Horizontal viewport positions"
+msgstr "Vodorovná virtuální velikost"
+
+msgid "Y Viewport Positions"
+msgstr "Pozice plochy na ose Y"
+
+#, fuzzy
+msgid "Vertical viewport positions"
+msgstr "Vodorovná virtuální velikost"
+
+msgid "Png"
+msgstr "PNG"
+
+msgid "Png image loader"
+msgstr "Podpora obrázkového formátu PNG"
+
+msgid "Regex Matching"
+msgstr "Regexpy"
+
+msgid "Regex window matching"
+msgstr "Podpora regulárních výrazů pro určení typu oken"
+
+msgid "Resize Window"
+msgstr "Změnit velikost okna"
+
+msgid "Resize window"
+msgstr "Změnit velikost okna"
+
+msgid "Bindings"
+msgstr ""
+
+msgid "Initiate Normal Window Resize"
+msgstr "Iniciovat normální změnu velikosti okna"
+
+msgid "Start resizing window normally"
+msgstr "Zahájit změnu velikosti okna normálně"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Iniciovat obrysovou změnu velikosti okna"
+
+msgid "Start resizing window with outline"
+msgstr "Zahájit změnu velikosti okna obrysem"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Iniciovat změnu velikosti okna překrytím"
+
+msgid "Start resizing window with rectangle"
+msgstr "Zahájit změnu velikosti okna překrytím"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Iniciovat změnu velikosti okna rozpětím"
+
+msgid "Start resizing window by stretching it"
+msgstr "Zahájit změnu velikosti okna rozpětím"
+
+msgid "Initiate Window Resize"
+msgstr "Iniciovat změnu velikosti okna"
+
+msgid "Start resizing window"
+msgstr "Zahájit změnu velikosti okna"
+
+msgid "Default Resize Mode"
+msgstr "Výchozí mód změny velikosti"
+
+msgid "Default mode used for window resizing"
+msgstr "Vývhozí mód použití při změně velikosti oken"
+
+msgid "Outline"
+msgstr "Obrysové"
+
+msgid "Rectangle"
+msgstr "Překrytí"
+
+msgid "Stretch"
+msgstr "Rozpětí"
+
+msgid "Border Color"
+msgstr "Barva okraje"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Barva okraje použitá pro obrysové a překrývací typy změny velikosti"
+
+msgid "Fill Color"
+msgstr "Výplňová barva"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr ""
+"Barva použitá pro překrytí plochy okna při použití obrysové změny velikosti "
+"okna"
+
+msgid "Normal Resize Windows"
+msgstr "Normálně měněné okna"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Typy oken, která budou měnit velikost normálně"
+
+msgid "Outline Resize Windows"
+msgstr "Obrysová změna velikosti okna"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Typy oken, která budou měnit velikost s efektem obrysu"
+
+msgid "Rectangle Resize Windows"
+msgstr "Změnit velikost okna překrytím"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Typy oken, která budou měnit velikost s efektem překrytí"
+
+msgid "Stretch Resize Windows"
+msgstr "Rozpětím změnit velikost okna"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Typy oken, která budou měnit velikost s efektem rozpětí"
+
+msgid "Rotate Cube"
+msgstr "Otočit kostkou"
+
+msgid "Rotate desktop cube"
+msgstr "Otočit kostkou ploch"
+
+msgid "Edge Flip Pointer"
+msgstr "Překlápění hran ukazatelem"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Překlopit na další viewport při umístění ukazatele na hranici obrazovky"
+
+msgid "Edge Flip Move"
+msgstr "Překlápění hran při přesunu"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "Překlopit na další viewport při přesunu okna na hranici obrazovky"
+
+msgid "Edge Flip DnD"
+msgstr "Překlápění hran DnD"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "Překlopit na další viewport při přetažení objektu na hranici obrazovky"
+
+msgid "Flip Time"
+msgstr "Doba překlopení"
+
+msgid "Timeout before flipping viewport"
+msgstr "Časový limit před překlopením zorného pole"
+
+msgid "Raise on rotate"
+msgstr ""
+
+#, fuzzy
+msgid "Raise window when rotating"
+msgstr "Dát okna do popředí při kliknutí"
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Otočit kostkou"
+
+msgid "Start Rotation"
+msgstr "Zahájit otáčení"
+
+msgid "Rotate Left"
+msgstr "Otočit vlevo"
+
+msgid "Rotate left"
+msgstr "Otočit vlevo"
+
+msgid "Rotate Right"
+msgstr "Otočit vpravo"
+
+msgid "Rotate right"
+msgstr "Otočit vpravo"
+
+msgid "Rotate Left with Window"
+msgstr "Otočit vlevo s oknem"
+
+msgid "Rotate left and bring active window along"
+msgstr "Otočit vlevo a vzít aktivní okno s sebou"
+
+msgid "Rotate Right with Window"
+msgstr "Otočit vpravo s oknem"
+
+msgid "Rotate right and bring active window along"
+msgstr "Otočit vpravo a vzít aktivní okno s sebou"
+
+msgid "Rotate To"
+msgstr "Otočit na"
+
+msgid "Rotate to viewport"
+msgstr "Otočit na zorné pole"
+
+msgid "Rotate window"
+msgstr "Otočit okno"
+
+msgid "Rotate with window"
+msgstr "Otočit s oknem"
+
+msgid "Rotate Flip Left"
+msgstr "Otočit překlopením vlevo"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Překlopit na levé zorné pole a zdeformovat ukazatel"
+
+msgid "Rotate Flip Right"
+msgstr "Otočit překlopením vpravo"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Překlopit na pravé zorné pole a zdeformovat ukazatel"
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Otočit na stranu 1"
+
+msgid "Rotate To Face 1"
+msgstr "Otočit na stranu 1"
+
+msgid "Rotate to face 1"
+msgstr "Otočit na stranu 1"
+
+msgid "Rotate To Face 2"
+msgstr "Otočit na stranu 2"
+
+msgid "Rotate to face 2"
+msgstr "Otočit na stranu 2"
+
+msgid "Rotate To Face 3"
+msgstr "Otočit na stranu 3"
+
+msgid "Rotate to face 3"
+msgstr "Otočit na stranu 3"
+
+msgid "Rotate To Face 4"
+msgstr "Otočit na stranu 4"
+
+msgid "Rotate to face 4"
+msgstr "Otočit na stranu 4"
+
+msgid "Rotate To Face 5"
+msgstr "Otočit na stranu 5"
+
+msgid "Rotate to face 5"
+msgstr "Otočit na stranu 5"
+
+msgid "Rotate To Face 6"
+msgstr "Otočit na stranu 6"
+
+msgid "Rotate to face 6"
+msgstr "Otočit na stranu 6"
+
+msgid "Rotate To Face 7"
+msgstr "Otočit na stranu 7"
+
+msgid "Rotate to face 7"
+msgstr "Otočit na stranu 7"
+
+msgid "Rotate To Face 8"
+msgstr "Otočit na stranu 8"
+
+msgid "Rotate to face 8"
+msgstr "Otočit na stranu 8"
+
+msgid "Rotate To Face 9"
+msgstr "Otočit na stranu 9"
+
+msgid "Rotate to face 9"
+msgstr "Otočit na stranu 9"
+
+msgid "Rotate To Face 10"
+msgstr "Otočit na stranu 10"
+
+msgid "Rotate to face 10"
+msgstr "Otočit na stranu 10"
+
+msgid "Rotate To Face 11"
+msgstr "Otočit na stranu 11"
+
+msgid "Rotate to face 11"
+msgstr "Otočit na stranu 11"
+
+msgid "Rotate To Face 12"
+msgstr "Otočit na stranu 12"
+
+msgid "Rotate to face 12"
+msgstr "Otočit na stranu 12"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "Rotovat na stranu 1 s oknem"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Rotovat na stranu 1 s oknem"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Otočit na stranu 1 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Otočit na stranu 2 s oknem"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Otočit na stranu 2 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Otočit na stranu 3 s oknem"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Otočit na stranu 3 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Otočit na stranu 4 s oknem"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Otočit na stranu 4 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Otočit na stranu 5 s oknem"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Otočit na stranu 5 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Otočit na stranu 6 s oknem"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Otočit na stranu 6 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Otočit na stranu 7 s oknem"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Otočit na stranu 7 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Otočit na stranu 8 s oknem"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Otočit na stranu 8 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Otočit na stranu 9 s oknem"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Otočit na stranu 9 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Rotovat na stranu 10 s oknem"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Otočit na stranu 10 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Otočit na stranu 11 s oknem"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Otočit na stranu 11 a vzít aktivní okno s sebou"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Otočit na stranu 12 s oknem"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Otočit na stranu 12 a vzít aktivní okno s sebou"
+
+msgid "Pointer Invert Y"
+msgstr "Pointer Invert Y"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Invertovat osu Y pro pohyb ukazatele"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Pointer Invert Y"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Invertovat osu Y pro pohyb ukazatele"
+
+msgid "Pointer Sensitivity"
+msgstr "Citlivost ukazatele"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Citlivost pohybu ukazatele"
+
+msgid "Rotation Acceleration"
+msgstr "Zrychlení otáčení"
+
+msgid "Snap To Top Face"
+msgstr "Přichytávat k horní straně"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Přichytávat otáčející se kostku za horní stranu"
+
+#, fuzzy
+msgid "Snap To Bottom Face"
+msgstr "Přichytávat k horní straně"
+
+#, fuzzy
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Přichytávat otáčející se kostku za horní stranu"
+
+msgid "Rotation Speed"
+msgstr "Rychlost otáčení"
+
+msgid "Rotation Timestep"
+msgstr "Časový krok otáčení"
+
+msgid "Zoom"
+msgstr "Zvětšení"
+
+#, fuzzy
+msgid "Rotation Zoom"
+msgstr "Rychlost otáčení"
+
+msgid "Scale"
+msgstr "Měřítko"
+
+msgid "Scale windows"
+msgstr "Škálovat okna"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Initiate Window Picker"
+msgstr "Spustit výběr oken"
+
+msgid "Layout and start transforming windows"
+msgstr "Rozvržení a počátek transformace oken"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Spustit výběr oken pro všechna okna"
+
+msgid "Layout and start transforming all windows"
+msgstr "Rozvržení a počátek transformace všech oken"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Spustit výběr oken pro skupinu oken"
+
+msgid "Layout and start transforming window group"
+msgstr "Rozvržení a počátek transformace skupiny oken"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Spustit výběr oken pro okna na aktuálním výstupu"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Rozvržení a počátek transformace oken na aktuálním výstupu"
+
+msgid "Click Desktop to Show Desktop"
+msgstr ""
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+
+msgid "Spacing"
+msgstr "Mezery"
+
+msgid "Space between windows"
+msgstr "Mezera mezi okny"
+
+msgid "Scale speed"
+msgstr "Rychlost změny velikosti"
+
+msgid "Scale timestep"
+msgstr "Časový krok změny velikosti"
+
+msgid "Darken Background"
+msgstr "Ztmavit pozadí"
+
+msgid "Darken background when scaling windows"
+msgstr "Ztmavit pozadí při škálování oken"
+
+msgid "Amount of opacity in percent"
+msgstr "Hodnota krytí v procentech"
+
+msgid "Overlay Icon"
+msgstr "Překrýt ikonou"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Překrýt okna ikonou, pokud je změněna jejich velikost"
+
+msgid "None"
+msgstr "Nic"
+
+msgid "Emblem"
+msgstr "Symbol"
+
+msgid "Big"
+msgstr "Velká"
+
+msgid "Scale Windows"
+msgstr "Škálovatelné okna"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Typy oken, které budou zobrazeny v režimu škálování"
+
+msgid "Hover Time"
+msgstr "Čas vznášení"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Udává dobu (v ms) před ukončením režimu změny velikosti, pokud je ukazatel "
+"umístěn nad oknem"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Vyberte kde jsou okna zobrazeny, pokud je použito více výstupních zařízení"
+
+msgid "On current output device"
+msgstr "Na aktuálním výstupním zařízení"
+
+msgid "On all output devices"
+msgstr "Na všech výstupních výstupních zařízeních"
+
+msgid "Screenshot"
+msgstr "Snímek obrazovky"
+
+msgid "Screenshot plugin"
+msgstr "Modul snímku obrazovky"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Pořídit snímek obrazovky"
+
+msgid "Directory"
+msgstr "Adresář"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Uložit snímek obrazovky do této složky"
+
+msgid "Launch Application"
+msgstr "Spustit aplikaci : "
+
+msgid "Automatically open screenshot in this application"
+msgstr "Automaticky otevřít snímek v této aplikaci"
+
+msgid "Svg"
+msgstr "SVG"
+
+msgid "Svg image loader"
+msgstr "Podpora obrázkového formátu SVG"
+
+msgid "Application Switcher"
+msgstr "Přepínač aplikací"
+
+msgid "Next window"
+msgstr "Další okno"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Zobrazit přepínač, pokud není viditelný, a vybrat další okno"
+
+msgid "Prev window"
+msgstr "Předchozí okno"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno"
+
+msgid "Next window (All windows)"
+msgstr "Další okno(všechna okna)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Zobrazit přepínač, pokud není viditelný, a vybrat další okno ze všech oken"
+
+msgid "Prev window (All windows)"
+msgstr "Předchozí okno(všechna okna)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno ze všech "
+"oken"
+
+msgid "Next window (No popup)"
+msgstr "Další okno (bez přepínače)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Vybrat další okno bez zobrazení přepínače"
+
+msgid "Prev window (No popup)"
+msgstr "Předchozí okno (bez přepínače)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Vybrat předchozí okno bez zobrazení přepínače"
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "Kostka plochy"
+
+#, fuzzy
+msgid "Select next panel type window."
+msgstr "Vybrat další okno"
+
+#, fuzzy
+msgid "Prev Panel"
+msgstr "Předchozí snímek"
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "Vybrat předchozí okno"
+
+msgid "Switcher speed"
+msgstr "Rychlost přepínače"
+
+msgid "Switcher timestep"
+msgstr "Časový krok přepínače"
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "Škálovat okna"
+
+#, fuzzy
+msgid "Windows that should be shown in switcher"
+msgstr "Typy oken, která mají být zobrazena v přepínači"
+
+msgid "Amount of saturation in percent"
+msgstr "Hodnota sytosti v procentech"
+
+msgid "Amount of brightness in percent"
+msgstr "Hodnota jasu v procentech"
+
+msgid "Bring To Front"
+msgstr "Přenést na popředí"
+
+msgid "Bring selected window to front"
+msgstr "Přenést vybrané okno na popředí"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Vzdálená plocha může být při přepínání oken oddálena"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "Show icon next to thumbnail"
+msgstr "Zobrazit ikonu vedle náhledu"
+
+msgid "Minimized"
+msgstr "Minimalizované"
+
+msgid "Show minimized windows"
+msgstr "Zobrazit minimalizovaná okna"
+
+msgid "Auto Rotate"
+msgstr "Automaticky do popředí"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Zobrazovat vybrané okna při přepínání"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Kostka plochy"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Zobrazovat vybrané okna při přepínání"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Předchozí snímek"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Poloměr stínu"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Obrysové"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Obrysová změna velikosti okna"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Obrázky pozadí"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Barva okraje"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Výplňová barva"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Barva stínu"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Pozice plochy na ose X"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Slábnutí oken"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Typy oken, které budou zobrazeny v režimu škálování"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Přesunout okno"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Otočit vlevo"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Otočit vpravo"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Přesunout okno"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Otočit s oknem"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Otočit vlevo s oknem"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Otočit vpravo s oknem"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Přesunout okno"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Přesunout okno"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Překlápění hran DnD"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Otočit překlopením vlevo"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Doba překlopení"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Otočit překlopením vpravo"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Otočit překlopením vpravo"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Doba překlopení"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Doba překlopení"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Překlápění hran DnD"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Rozmístit okna"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Rychlost přepínače"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Překlápění hran DnD"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Překlopit na další viewport při umístění ukazatele na hranici obrazovky"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "Překlopit na další viewport při přesunu okna na hranici obrazovky"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "Překlopit na další viewport při přetažení objektu na hranici obrazovky"
+
+msgid "Water Effect"
+msgstr "Vodní efekt"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Do různých akcí plochy přidává efekt vody"
+
+msgid "Enable pointer water effects"
+msgstr "Povolit vodní efekty ukazatele"
+
+msgid "Toggle rain"
+msgstr "Přepnout déšť"
+
+msgid "Toggle rain effect"
+msgstr "Přepnout efekt deště"
+
+msgid "Toggle wiper"
+msgstr "Přepnout stěrač"
+
+msgid "Toggle wiper effect"
+msgstr "Přepnout efekt stěrače"
+
+msgid "Offset Scale"
+msgstr "Offset Scale"
+
+msgid "Water offset scale"
+msgstr "Měřítko odsazení vody"
+
+msgid "Rain Delay"
+msgstr "Zpoždění deště"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Zpoždění (v ms) mezi jednotlivými kapkami"
+
+msgid "Title wave"
+msgstr "Vlna v nadpisu"
+
+msgid "Wave effect from window title"
+msgstr "Efekt vlny v nadpisu okna"
+
+msgid "Point"
+msgstr "Bod"
+
+msgid "Add point"
+msgstr "Přidat bod"
+
+msgid "Line"
+msgstr "Čára"
+
+msgid "Add line"
+msgstr "Přidat čáru"
+
+msgid "Wobbly Windows"
+msgstr "Vlnící se okna"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Pro efekt rozhoupání okna použít pružinový model"
+
+msgid "Snap windows"
+msgstr "Přichytávat okna"
+
+msgid "Toggle window snapping"
+msgstr "Přepnout přichytávání oken"
+
+# 52895 AttribValues/label
+msgid "Snap Inverted"
+msgstr "Invertované přichytávání"
+
+msgid "Inverted window snapping"
+msgstr "Invertované přichytávání oken"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Chvění"
+
+msgid "Make window shiver"
+msgstr "Rozechvět okno"
+
+msgid "Friction"
+msgstr "Tření"
+
+msgid "Spring Friction"
+msgstr "Tření pružiny"
+
+msgid "Spring K"
+msgstr "Pružina K"
+
+msgid "Spring Konstant"
+msgstr "Konstanta pružiny"
+
+msgid "Grid Resolution"
+msgstr "Rozlišení mřížky"
+
+msgid "Vertex Grid Resolution"
+msgstr "Rozlišení vrcholů mřížky"
+
+msgid "Minimum Grid Size"
+msgstr "Minimální velikost mřížky"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Minimální velikost vrcholů mřížky"
+
+msgid "Map Effect"
+msgstr "Efekt mapování"
+
+msgid "Map Window Effect"
+msgstr "Efekt mapování oken"
+
+msgid "Focus Effect"
+msgstr "Efekt zaměření"
+
+msgid "Focus Window Effect"
+msgstr "Efekt zaměření oken"
+
+msgid "Map Windows"
+msgstr "Mapované"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Typy oken, která se mají rozhoupat při mapování"
+
+msgid "Focus Windows"
+msgstr "Typy oken pro efekt při zaměření"
+
+msgid "Windows that should wobble when focused"
+msgstr "Typy oken, která se mají rozhoupat při zaměření"
+
+msgid "Grab Windows"
+msgstr "Typy oken pro efekt při uchopení"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Typy oken, která se mají rozhoupat při uchopení"
+
+msgid "Move Windows"
+msgstr "Přesunované"
+
+msgid "Windows that should wobble when moved"
+msgstr "Typy oken, která se mají rozhoupat při přesunu"
+
+msgid "Maximize Effect"
+msgstr "Efekt maximalizace"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Vlnivý efekt"
+
+msgid "Zoom Desktop"
+msgstr "Přiblížit plochu"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Přiblížit a posunout kostku ploch"
+
+msgid "Zoom In"
+msgstr "Přiblížit"
+
+msgid "Zoom Out"
+msgstr "Oddálit"
+
+#, fuzzy
+msgid "Zoom Pan"
+msgstr "Přiblížit"
+
+#, fuzzy
+msgid "Zoom pan"
+msgstr "Přiblížit"
+
+msgid "Zoom Speed"
+msgstr "Rychlost přiblížení"
+
+msgid "Zoom Timestep"
+msgstr "Časový krok přiblížení"
+
+msgid "Zoom factor"
+msgstr "Násobek přiblížení"
+
+msgid "Filter Linear"
+msgstr "Lineární filtr"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Při přiblížení používat lineární filtr"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Počet ploch"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Počet virtuálních ploch"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr "Událost při rolování nad titulkem okna"
+
+#~ msgid "Blur type"
+#~ msgstr "Typ rozmazání"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Průhlednost aktivního okna"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Průhlednost stínu aktivního okna"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Průhlednost tématu marco"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Průhlednost stínu tématu marco"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "Průhlednost pro aktivní okna s tématem marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Průhlednost pro témata marco"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Událost při rolování nad titulkem okna"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Typ rozmazání použitého pro dekoraci oken"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Použít téma marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Použít téma marco pro vykreslování dekorací oken"
+
+#~ msgid "Line width"
+#~ msgstr "Šířka linky"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Šířka linky pro anotaci"
+
+#~ msgid "GConf"
+#~ msgstr "Gconf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Kontrolní backend GConf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kontrolní backend Kconfig"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Snížit krytí"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "Zvýšit krytí"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Screenshot command line"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Screenshot command line"
+
+#~ msgid "Opacity window values"
+#~ msgstr "Hodnoty průhlednosti pro okna"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Průhledné okna"
+
+#~ msgid "Background images"
+#~ msgstr "Obrázky na pozadí"
+
+#, fuzzy
+#~ msgid "Place windows on a plane"
+#~ msgstr "Rozmístit okna na kostku"
+
+#, fuzzy
+#~ msgid "Plane Down"
+#~ msgstr "Rozmístit okna"
+
+#, fuzzy
+#~ msgid "Plane Left"
+#~ msgstr "Otočit vlevo"
+
+#, fuzzy
+#~ msgid "Plane Right"
+#~ msgstr "Otočit vpravo"
+
+#, fuzzy
+#~ msgid "Plane To Face 1"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 10"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 11"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 12"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 2"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 3"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 4"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 5"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 6"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 7"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 8"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 9"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane Up"
+#~ msgstr "Rozmístit okna"
+
+#, fuzzy
+#~ msgid "Plane left"
+#~ msgstr "Otočit vlevo"
+
+#, fuzzy
+#~ msgid "Plane right"
+#~ msgstr "Otočit vpravo"
+
+#, fuzzy
+#~ msgid "Plane to face 1"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 10"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 11"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 12"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 2"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 3"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 4"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 5"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 6"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 7"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 8"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face 9"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane up"
+#~ msgstr "Rozmístit okna"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Doba, za kterou zprůhlední pozadí ploch kostky"
+
+#~ msgid "Open window menu"
+#~ msgstr "Otevřít nabídku okna"
+
+#~ msgid "Dock"
+#~ msgstr "Dok"
+
+#~ msgid "Toolbar"
+#~ msgstr "Lišta nástrojů"
+
+#~ msgid "Menu"
+#~ msgstr "Nabídka"
+
+#~ msgid "Utility"
+#~ msgstr "Nástroj"
+
+#~ msgid "Splash"
+#~ msgstr "Úvodní okno"
+
+#~ msgid "Dialog"
+#~ msgstr "Dialogové okno"
+
+#~ msgid "DropdownMenu"
+#~ msgstr "Rozevírací nabídka"
+
+#~ msgid "PopupMenu"
+#~ msgstr "Místní nabídka"
+
+#~ msgid "Tooltip"
+#~ msgstr "Popisek"
+
+#~ msgid "Notification"
+#~ msgstr "Oznámení"
+
+#~ msgid "Combo"
+#~ msgstr "Pole se seznamem"
+
+#~ msgid "Dnd"
+#~ msgstr "Dnd"
+
+#~ msgid "ModalDialog"
+#~ msgstr "Modální dialogové okno"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Celá obrazovka"
+
+#~ msgid "Unknown"
+#~ msgstr "Neznámé"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command0 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command1 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command1"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command10 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command10"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command11 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command11"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command2 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command2"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command3 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command3"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command4 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command4"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command5 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command5"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command6 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command6"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command7 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command7"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command8 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command8"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command9 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command9"
+
+#, fuzzy
+#~ msgid ""
+#~ "Add line (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Add point (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Advance to next slide (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Amount of brightness in percent (0-100)"
+#~ msgstr "Hodnota jasu v procentech"
+
+#, fuzzy
+#~ msgid "Amount of opacity in percent (0-100)"
+#~ msgstr "Hodnota krytí v procentech"
+
+#, fuzzy
+#~ msgid "Amount of saturation in percent (0-100)"
+#~ msgstr "Hodnota sytosti v procentech"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "Sytost"
+
+#, fuzzy
+#~ msgid ""
+#~ "Clear (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Close active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Decrease window opacity (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Delay (in ms) between each rain-drop (0-3600000)"
+#~ msgstr "Zpoždění (v ms) mezi jednotlivými kapkami"
+
+#, fuzzy
+#~ msgid ""
+#~ "Distance desktop should be zoom out while switching windows (0.0-5.0)"
+#~ msgstr "Vzdálená plocha může být při přepínání oken oddálena"
+
+#~ msgid "Do not modify"
+#~ msgstr "Neměnit"
+
+#, fuzzy
+#~ msgid ""
+#~ "Draw using tool (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Drop shadow X offset (-16-16)"
+#~ msgstr "Posun vrženého stínu X"
+
+#, fuzzy
+#~ msgid "Drop shadow Y offset (-16-16)"
+#~ msgstr "Posun vrženého stínu Y"
+
+#, fuzzy
+#~ msgid "Drop shadow opacity (0.01-6.00)"
+#~ msgstr "Krytí vrženého stínu"
+
+#, fuzzy
+#~ msgid "Drop shadow radius (0.0-48.0)"
+#~ msgstr "Poloměr vrženého stínu"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enable pointer water effects (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Flip to left viewport and warp pointer (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Flip to right viewport and warp pointer (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#~ msgid "Focus Window Effect (None, Shiver)"
+#~ msgstr "Efekt při zaměření okna (None, Shiver)"
+
+#, fuzzy
+#~ msgid "Focus prevention windows (match)"
+#~ msgstr "Vybrat předchozí okno"
+
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "Zrychlení sbalení (1.0-20.0)"
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "Rychlost sbalení (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Fold Timestep (0.0-50.0)"
+#~ msgstr "Časový krok sbalení (0.1-50.0)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Go back to previous slide (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Hide all windows and focus desktop (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Increase window opacity (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate annotate drawing (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate annotate erasing (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate clone selection (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Initiate rectangle screenshot (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Interval before raising selected windows (0-10000)"
+#~ msgstr "Interval před přenesením vybraných oken do popředí"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming all windows (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming window group (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming windows (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming windows on current output (Left, Right, "
+#~ "Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr "Rozvržení a počátek transformace oken na aktuálním výstupu"
+
+#, fuzzy
+#~ msgid ""
+#~ "Lower window beneath other windows (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Make window shiver (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#~ msgid "Map Window Effect (None, Shiver)"
+#~ msgstr "Efekt mapování okna (None, Shiver)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Maximize active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Maximize active window horizontally (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Maximize active window vertically (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Minimize active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Minimize speed (0.0-50.0)"
+#~ msgstr "Rychlost minimalizace (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Minimize timestep (0.0-50.0)"
+#~ msgstr "Rychlost minimalizace (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Minimum Vertex Grid Size (4-128)"
+#~ msgstr "Minimální velikost vrcholů mřížky"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops (1-36)"
+#~ msgstr "Počet virtuálních ploch"
+
+#, fuzzy
+#~ msgid "Opacity change step (1-50)"
+#~ msgstr "Krok změny krytí"
+
+#, fuzzy
+#~ msgid "Opacity level of moving windows (1-100)"
+#~ msgstr "Úroveň krytí přesouvaných oken"
+
+#, fuzzy
+#~ msgid "Opacity level of resizing windows (1-100)"
+#~ msgstr "Úroveň krytí přesouvaných oken"
+
+#, fuzzy
+#~ msgid ""
+#~ "Open a terminal (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Open window menu (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Overlay an icon on windows once they are scaled (None, Emblem, Big)"
+#~ msgstr "Překrýt okna ikonou, pokud je změněna jejich velikost"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane down (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane left (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane right (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 1 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 10 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 11 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 12 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 2 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 3 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 4 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 5 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 6 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 7 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 8 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane to face 9 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Plane up (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#~ msgid "Plugins that this must load before"
+#~ msgstr "Moduly, které musí být tímto předem načteny"
+
+#~ msgid "Plugins that this requires"
+#~ msgstr "Moduly, které jsou tímto vyžadovány"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Zobrazit přepínač, pokud není viditelný, a vybrat další okno ze všech oken"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window out of all windows "
+#~ "(Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Zobrazit přepínač, pokud není viditelný, a vybrat další okno ze všech oken"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window (Left, Right, "
+#~ "Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno ze všech "
+#~ "oken"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window out of all "
+#~ "windows (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Zobrazit přepínač, pokud není viditelný, a vybrat předchozí okno ze všech "
+#~ "oken"
+
+#, fuzzy
+#~ msgid ""
+#~ "Pulse effect (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Raise window above other windows (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate left (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate left and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate right (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate right and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 1 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 1 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 10 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 10 and bring active window along (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 11 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 11 and bring active window along (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 12 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 12 and bring active window along (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 2 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 2 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 3 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 3 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 4 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 4 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 5 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 5 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 6 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 6 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 7 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 7 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 8 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 8 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 9 (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to face 9 and bring active window along (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate to viewport (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Rotate with window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "Zrychlení sbalení (1.0-20.0)"
+
+#, fuzzy
+#~ msgid "Rotation Speed (0.0-50.0)"
+#~ msgstr "Rychlost přiblížení (0.1-50)"
+
+#, fuzzy
+#~ msgid "Rotation Timestep (0.0-50.0)"
+#~ msgstr "Časový krok přiblížení (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "Rychlost škálování (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "Časový krok škálování (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Screen size multiplier for horizontal virtual size (1-32)"
+#~ msgstr "Násobek vodorovné virtuální velikosti obrazovky"
+
+#, fuzzy
+#~ msgid "Screen size multiplier for vertical virtual size (1-32)"
+#~ msgstr "Násobek svislé virtuální velikosti obrazovky"
+
+#, fuzzy
+#~ msgid ""
+#~ "Select next window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Select previous window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Sensitivity of pointer movement (0.01-100.00)"
+#~ msgstr "Citlivost pohybu ukazatele"
+
+#~ msgid "Shade resistance (0-100)"
+#~ msgstr "Stálost stínu (0-100)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show Run Application dialog (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Show the main menu (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Space between windows (0-250)"
+#~ msgstr "Mezera mezi okny"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "Tření pružiny"
+
+#, fuzzy
+#~ msgid "Spring Konstant (0.0-10.0)"
+#~ msgstr "Konstanta pružiny"
+
+#, fuzzy
+#~ msgid ""
+#~ "Start Rotation (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Start moving window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Start resizing window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Switcher speed (0.0-50.0)"
+#~ msgstr "Rychlost škálování (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Switcher timestep (0.0-50.0)"
+#~ msgstr "Časový krok škálování (0.1-50.0)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Take a screenshot (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Take a screenshot of a window (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#~ msgid "Texture filtering (Fast, Good, Best)"
+#~ msgstr "Filtrování textur (Rychlé, Dobré, Nejlepší)"
+
+#, fuzzy
+#~ msgid "The rate at which the screen is redrawn (times/second) (1-200)"
+#~ msgstr "Rychlost překreslování obrazovky (počet/s)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Time (in ms) before scale mode is terminated when hovering over a window "
+#~ "(50-10000)"
+#~ msgstr ""
+#~ "Udává dobu (v ms) před ukončením režimu změny velikosti, pokud je "
+#~ "ukazatel umístěn nad oknem"
+
+#, fuzzy
+#~ msgid "Timeout before flipping viewport (0-1000)"
+#~ msgstr "Časový limit před překlopením zorného pole"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window maximized (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window maximized horizontally (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window maximized vertically (Left, Right, Top, Bottom, "
+#~ "TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle active window shaded (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle rain effect (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle use of slow animations (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle window snapping (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Toggle wiper effect (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#~ msgid "USe linear filter when zoomed in"
+#~ msgstr "Při přiblížení používat lineární filtr"
+
+#, fuzzy
+#~ msgid ""
+#~ "Unfold cube (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Unmaximize active window (Left, Right, Top, Bottom, TopLeft, TopRight, "
+#~ "BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Vertex Grid Resolution (1-64)"
+#~ msgstr "Rozlišení vrcholů mřížky"
+
+#, fuzzy
+#~ msgid "Water offset scale (0.0-10.0)"
+#~ msgstr "Měřítko odsazení vody"
+
+#, fuzzy
+#~ msgid ""
+#~ "Wave effect from window title (Left, Right, Top, Bottom, TopLeft, "
+#~ "TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "Rychlost blednutí okna"
+
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "Rychlost blednutí okna"
+
+#, fuzzy
+#~ msgid "Windows that should be affected by focus blur (match)"
+#~ msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+#~ msgid "Windows that should be decorated (match)"
+#~ msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+#~ msgid "Windows that should be fading (match)"
+#~ msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+#~ msgid "Windows that should be have a shadow (match)"
+#~ msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+#~ msgid "Windows that should be scaled in scale mode (match)"
+#~ msgstr "Typy oken, která mají měnit velikost v režimu změny velikosti"
+
+#, fuzzy
+#~ msgid "Windows that should be shown in switcher (match)"
+#~ msgstr "Typy oken, která mají být zobrazena v přepínači"
+
+#, fuzzy
+#~ msgid "Windows that should be transformed when minimized (match)"
+#~ msgstr "Typy oken, která se mají při minimalizaci transformovat"
+
+#, fuzzy
+#~ msgid "Windows that should use alpha blur by default (match)"
+#~ msgstr "Typy oken, která mohou blednout"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when focused (match)"
+#~ msgstr "Typy oken, která se mají rozhoupat při zaměření"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when grabbed (match)"
+#~ msgstr "Typy oken, která se mají rozhoupat při uchopení"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when mapped (match)"
+#~ msgstr "Typy oken, která se mají rozhoupat při mapování"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when moved (match)"
+#~ msgstr "Typy oken, která se mají rozhoupat při přesunu"
+
+#, fuzzy
+#~ msgid ""
+#~ "Zoom In (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Zoom Out (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Horké oblasti pro spuštění režimu škálování (Vlevo nahoře, Vpravo nahoře, "
+#~ "Vlevo dole, Vpravo dole)"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "Rychlost přiblížení (0.1-50)"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "Časový krok přiblížení (0.1-50.0)"
+
+#, fuzzy
+#~ msgid "Zoom factor (1.01-3.00)"
+#~ msgstr "Násobek přiblížení"
+
+#~ msgid "."
+#~ msgstr "."
+
+#, fuzzy
+#~ msgid "Plane To Face %d"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane to face %d"
+#~ msgstr "Otočit na stranu %d"
+
+#, fuzzy
+#~ msgid "Plane To Face %d with Window"
+#~ msgstr "Otočit na stranu %d s oknem"
+
+#, fuzzy
+#~ msgid "Plane to face %d and bring active window along"
+#~ msgstr "Otočit na stranu %d a přenést s sebou aktivní okno"
+
+#~ msgid "Rotate To Face %d"
+#~ msgstr "Otočit na stranu %d"
+
+#~ msgid "Rotate to face %d"
+#~ msgstr "Otočit na stranu %d"
+
+#~ msgid "Rotate To Face %d with Window"
+#~ msgstr "Otočit na stranu %d s oknem"
+
+#~ msgid "Rotate to face %d and bring active window along"
+#~ msgstr "Otočit na stranu %d a přenést s sebou aktivní okno"
+
+#~ msgid "Command line %d"
+#~ msgstr "Příkazová řádka %d"
+
+#~ msgid "Command line to be executed in shell when run_command%d is invoked"
+#~ msgstr ""
+#~ "Příkaz, který se vykoná, pokud je v shellu volán příkaz run_command%d"
+
+#~ msgid "Run command %d"
+#~ msgstr "Spustit příkaz %d"
+
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command%d"
+#~ msgstr "Klávesové zkratky, které spustí příkaz určený command%d"
+
+#~ msgid "Move Window Types"
+#~ msgstr "Typy oken pro efekt při přesunu"
+
+#~ msgid "Corners"
+#~ msgstr "Rohy"
+
+#~ msgid "Focus window when mouse moves over them"
+#~ msgstr "Změřit okno, když se nad něj přesune myš"
+
+#~ msgid "Initiate All Windows"
+#~ msgstr "Iniciovat všechna okna"
+
+#~ msgid "Initiate Keyboard Window Move"
+#~ msgstr "Iniciovat přesun okna klávesnice"
+
+#~ msgid "Initiate Keyboard Window Resize"
+#~ msgstr "Iniciovat změnu velikosti okna klávesnice"
+
+#~ msgid "Initiate Window Switcher"
+#~ msgstr "Spustit přepínač oken"
+
+#~ msgid "Modifier to show switcher for all windows"
+#~ msgstr "Modifikátor pro zobrazení přepínače všech oken"
+
+#~ msgid "Return from scale view"
+#~ msgstr "Návrat ze škálovaného pohledu"
+
+#~ msgid "Show switcher"
+#~ msgstr "Zobrazit přepínač"
+
+#~ msgid "Sloppy Focus"
+#~ msgstr "Sloppy Focus"
+
+#~ msgid "Start moving window using keyboard"
+#~ msgstr "Zahájit pohyb okna z klávesnice"
+
+#~ msgid "Terminate"
+#~ msgstr "Ukončit"
+
+#~ msgid "Water effect on system beep"
+#~ msgstr "Vodní efekt při systémovém zvonku"
+
+#~ msgid ""
+#~ "Window types that should be fading (Desktop, Dock, Toolbar, Menu, "
+#~ "Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které mají blednout (Desktop, Dock, Toolbar, Menu, Utility, "
+#~ "Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+
+#~ msgid ""
+#~ "Window types that should be transformed when minimized (Desktop, Dock, "
+#~ "Toolbar, Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, "
+#~ "Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které mají být transformovány při minimalizaci (Desktop, Dock, "
+#~ "Toolbar, Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, "
+#~ "Unknown)"
+
+#~ msgid ""
+#~ "Window types that should scaled in scale mode (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které mají být škálovány v režimu škálování (Desktop, Dock, "
+#~ "Toolbar, Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, "
+#~ "Unknown)"
+
+#~ msgid ""
+#~ "Window types that should shown in switcher (Desktop, Dock, Toolbar, Menu, "
+#~ "Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které mají být zobrazeny v přepínači (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when focused (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které se při zaměření mají rozhoupat (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when grabbed (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které se při uchopení mají rozhoupat (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when mapped (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které se při mapování mají rozhoupat (Desktop, Dock, Toolbar, "
+#~ "Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+
+#~ msgid ""
+#~ "Window types that should wobble when moved (Desktop, Dock, Toolbar, Menu, "
+#~ "Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, Unknown)"
+#~ msgstr ""
+#~ "Typy oken, které se při přesouvání mají rozhoupat (Desktop, Dock, "
+#~ "Toolbar, Menu, Utility, Splash, Dialog, ModalDialog, Normal, Fullscreen, "
+#~ "Unknown)"
+
+#~ msgid "Wobble effect on system beep"
+#~ msgstr "Efekt rozhoupání při systémovém pípnutí"

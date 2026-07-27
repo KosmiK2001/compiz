@@ -1,0 +1,3065 @@
+# Croatian translation for compiz.
+# Copyright (C) 2017 gitlab.com/compiz
+# This file is distributed under the same license as the compiz package.
+# gogo <trebelnik2@gmail.com>, 2017
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz 0.8.14\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-08-06 15:20+0200\n"
+"PO-Revision-Date: 2017-08-06 20:34+0100\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Close Window"
+msgstr "Zatvori prozor"
+
+msgid "Unmaximize Window"
+msgstr "Poništi uvećanje prozora"
+
+msgid "Maximize Window"
+msgstr "Povećaj prozor"
+
+msgid "Minimize Window"
+msgstr "Smanji prozor"
+
+msgid "Window Menu"
+msgstr "Izbornik prozora"
+
+msgid "Shade"
+msgstr "Sjenka"
+
+msgid "Make Above"
+msgstr "Pošalji iznad"
+
+msgid "Stick"
+msgstr "Pričvrsti"
+
+msgid "Unshade"
+msgstr "Odsjenčaj"
+
+msgid "Unmake Above"
+msgstr "Odpošalji iznad"
+
+msgid "Unstick"
+msgstr "Odlijepi"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Prozor \"%s\" ne reagira."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Prisilno završavanje rada ove aplikacije uzrokovat će gubitak svih "
+"nespremljenih promjena."
+
+msgid "_Cancel"
+msgstr "_Odustani"
+
+msgid "_Force Quit"
+msgstr "_Prisilan završetak"
+
+msgid "Annotate"
+msgstr "Obilježavanje"
+
+msgid "Annotate plugin"
+msgstr "Priključak obilježavanja"
+
+msgid "Initiate Free Draw"
+msgstr "Pokreni slobodno crtanje"
+
+msgid "Initiate freehand drawing"
+msgstr "Pokreni slobodno ručno crtanje"
+
+msgid "Initiate Line"
+msgstr "Pokreni linijsko crtanje"
+
+msgid "Initiate line drawing"
+msgstr "Pokreni linijsko crtanje"
+
+msgid "Initiate Rectangle"
+msgstr "Pokreni pravokutnik"
+
+msgid "Initiate rectangle drawing"
+msgstr "Pokreni pravokutno crtanje"
+
+msgid "Initiate Ellipse"
+msgstr "Pokreni elipsu"
+
+msgid "Initiate ellipse drawing"
+msgstr "Pokreni elipsasto crtanje"
+
+msgid "Draw"
+msgstr "Crtaj"
+
+msgid "Draw using tool"
+msgstr "Crtaj upotrebom alata"
+
+msgid "Initiate erase"
+msgstr "Pokreni brisanje"
+
+msgid "Initiate annotate erasing"
+msgstr "Pokreni brisanje obilježavanja"
+
+msgid "Clear"
+msgstr "Obriši"
+
+msgid "Toggle center shape"
+msgstr "Uključi/Isključi središnje oblikovanje"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+"Uključi/Isključi iscrtavanje trenutnog oblika koristeći sredinu vašeg "
+"početnog klika"
+
+msgid "Annotate Fill Color"
+msgstr "Boja ispune obilježavanja"
+
+msgid "Fill color for annotations"
+msgstr "Boja ispune za obilježavanja"
+
+msgid "Annotate Stroke Color"
+msgstr "Boja poteza obilježavanja"
+
+msgid "Stroke color for annotations"
+msgstr "Boja poteza za obilježavanje"
+
+msgid "Stroke width"
+msgstr "Širina poteza"
+
+msgid "Stroke width for annotations"
+msgstr "Širina poteza za obilježavanje"
+
+msgid "Blur Windows"
+msgstr "Zamućivanje prozora"
+
+msgid "Blur windows"
+msgstr "Zamuti prozore"
+
+msgid "Pulse"
+msgstr "Pulsiranje"
+
+msgid "Pulse effect"
+msgstr "Efekt pulsiranja"
+
+msgid "Blur Speed"
+msgstr "Brzina zamućivanja"
+
+msgid "Window blur speed"
+msgstr "Brzina zamućivanja prozora"
+
+msgid "Focus blur windows"
+msgstr "Zamuti prozore fokusom"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Prozori na koje bi trebalo utjecati zamućivanje fokusa"
+
+msgid "Focus Blur"
+msgstr "Zamućenje fokusa"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Zamuti prozore koji nemaju fokus"
+
+msgid "Alpha blur windows"
+msgstr "Alpha zamućenje prozora"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Prozori koji bi početno trebali koristiti alpha-zamućivanje"
+
+msgid "Alpha Blur"
+msgstr "Alpha zamućenje"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Zamuti iza prozirnih dijelova prozora"
+
+msgid "Blur Filter"
+msgstr "Filter zamućenja"
+
+msgid "Filter method used for blurring"
+msgstr "Način filtriranja korišten za zamućivanje"
+
+msgid "4xBilinear"
+msgstr "4xBilinearno"
+
+msgid "Gaussian"
+msgstr "Gaussov"
+
+msgid "Mipmap"
+msgstr "Mipmapiranje"
+
+msgid "Gaussian Radius"
+msgstr "Gaussov polumjer"
+
+msgid "Gaussian radius"
+msgstr "Gaussov polumjer"
+
+msgid "Gaussian Strength"
+msgstr "Gaussova snaga"
+
+msgid "Gaussian strength"
+msgstr "Gaussova snaga"
+
+msgid "Mipmap LOD"
+msgstr "Opširnost mipmapiranja"
+
+msgid "Mipmap level-of-detail"
+msgstr "Razina pojedinosti mipmapiranja"
+
+msgid "Blur Saturation"
+msgstr "Zasićenost zamućenja"
+
+msgid "Blur saturation"
+msgstr "Zasićenje zamućenja"
+
+msgid "Blur Occlusion"
+msgstr "Zatvaranje zamućenja"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Onemogući zamućivanje područja zaslona zaklonjenih drugim prozorima."
+
+msgid "Independent texture fetch"
+msgstr "Nezavisan dohvat tekstura"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Koristi dostupne teksturne jedinice kako bi se učinilo što više nezavisnih "
+"dohvata tekstura."
+
+msgid "Clone Output"
+msgstr "Klonirani izlaz"
+
+msgid "Output clone handler"
+msgstr "Rukovatelj izlaznim klonom"
+
+msgid "Initiate"
+msgstr "Pokreni"
+
+msgid "Initiate clone selection"
+msgstr "Pokreni odabir klona"
+
+msgid "Commands"
+msgstr "Naredbe"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Dodijeli prečac željenoj naredbi"
+
+msgid "Command line 0"
+msgstr "Naredbeni redak 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command0"
+
+msgid "Command line 1"
+msgstr "Naredbeni redak 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command1"
+
+msgid "Command line 2"
+msgstr "Naredbeni redak 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command2"
+
+msgid "Command line 3"
+msgstr "Naredbeni redak 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command3"
+
+msgid "Command line 4"
+msgstr "Naredbeni redak 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command4"
+
+msgid "Command line 5"
+msgstr "Naredbeni redak 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command5"
+
+msgid "Command line 6"
+msgstr "Naredbeni redak 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command6"
+
+msgid "Command line 7"
+msgstr "Naredbeni redak 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command7"
+
+msgid "Command line 8"
+msgstr "Naredbeni redak 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command8"
+
+msgid "Command line 9"
+msgstr "Naredbeni redak 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command9"
+
+msgid "Command line 10"
+msgstr "Naredbeni redak 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command10"
+
+msgid "Command line 11"
+msgstr "Naredbeni redak 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command11"
+
+msgid "Command line 12"
+msgstr "Naredbeni redak 12"
+
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command12"
+
+msgid "Command line 13"
+msgstr "Naredbeni redak 13"
+
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command13"
+
+msgid "Command line 14"
+msgstr "Naredbeni redak 14"
+
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command14"
+
+msgid "Command line 15"
+msgstr "Naredbeni redak 15"
+
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command15"
+
+msgid "Command line 16"
+msgstr "Naredbeni redak 16"
+
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command16"
+
+msgid "Command line 17"
+msgstr "Naredbeni redak 17"
+
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command17"
+
+msgid "Command line 18"
+msgstr "Naredbeni redak 18"
+
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command18"
+
+msgid "Command line 19"
+msgstr "Naredbeni redak 19"
+
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command19"
+
+msgid "Command line 20"
+msgstr "Naredbeni redak 20"
+
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command20"
+
+msgid "Command line 21"
+msgstr "Naredbeni redak 21"
+
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command21"
+
+msgid "Command line 22"
+msgstr "Naredbeni redak 22"
+
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command22"
+
+msgid "Command line 23"
+msgstr "Naredbeni redak 23"
+
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command23"
+
+msgid "Command line 24"
+msgstr "Naredbeni redak 24"
+
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Naredbeni redak koji će se izvršiti u ljusci kada se pozove run_command24"
+
+msgid "Key Bindings"
+msgstr "Prečaci tipkovnice"
+
+msgid "Run command 0"
+msgstr "Pokreni naredbu 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command0"
+
+msgid "Run command 1"
+msgstr "Pokreni naredbu 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command1"
+
+msgid "Run command 2"
+msgstr "Pokreni naredbu 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command2"
+
+msgid "Run command 3"
+msgstr "Pokreni naredbu 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command3"
+
+msgid "Run command 4"
+msgstr "Pokreni naredbu 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command4"
+
+msgid "Run command 5"
+msgstr "Pokreni naredbu 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command5"
+
+msgid "Run command 6"
+msgstr "Pokreni naredbu 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command6"
+
+msgid "Run command 7"
+msgstr "Pokreni naredbu 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command7"
+
+msgid "Run command 8"
+msgstr "Pokreni naredbu 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command8"
+
+msgid "Run command 9"
+msgstr "Pokreni naredbu 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command9"
+
+msgid "Run command 10"
+msgstr "Pokreni naredbu 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command10"
+
+msgid "Run command 11"
+msgstr "Pokreni naredbu 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command11"
+
+msgid "Run command 12"
+msgstr "Pokreni naredbu 12"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command12"
+
+msgid "Run command 13"
+msgstr "Pokreni naredbu 13"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command13"
+
+msgid "Run command 14"
+msgstr "Pokreni naredbu 14"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command14"
+
+msgid "Run command 15"
+msgstr "Pokreni naredbu 15"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command15"
+
+msgid "Run command 16"
+msgstr "Pokreni naredbu 16"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command16"
+
+msgid "Run command 17"
+msgstr "Pokreni naredbu 17"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command17"
+
+msgid "Run command 18"
+msgstr "Pokreni naredbu 18"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command18"
+
+msgid "Run command 19"
+msgstr "Pokreni naredbu 19"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command19"
+
+msgid "Run command 20"
+msgstr "Pokreni naredbu 20"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command20"
+
+msgid "Run command 21"
+msgstr "Run command 21"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command21"
+
+msgid "Run command 22"
+msgstr "Run command 22"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command22"
+
+msgid "Run command 23"
+msgstr "Run command 23"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command23"
+
+msgid "Run command 24"
+msgstr "Run command 24"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Prečac tipke tipkovnice koja će, pri pozivu, pokrenuti naredbu ljuske "
+"označenu s command24"
+
+msgid "Button Bindings"
+msgstr "Tipke prečaca"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command11"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command12"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command13"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command14"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command15"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command16"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command17"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command18"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command19"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command20"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command21"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command22"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command23"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Prečac tipke koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command24"
+
+msgid "Edge Bindings"
+msgstr "Prečaci rubova zaslona"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command0"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command1"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command2"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command3"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command4"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command5"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Veza s rubom ekrana koja će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command6"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command7"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command8"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command9"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command1o"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command11"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command12"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command13"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command14"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command15"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command16"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command17"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command18"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command19"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command20"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command21"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command22"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command23"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Prečac ruba zaslona koji će, pri pozivu, pokrenuti naredbu ljuske označenu s "
+"command24"
+
+msgid "General Options"
+msgstr "Opće mogućnosti"
+
+msgid "General compiz options"
+msgstr "Opće mogućnosti compiza"
+
+msgid "Active Plugins"
+msgstr "Aktivni priključci"
+
+msgid "List of currently active plugins"
+msgstr "Popis trenutno aktivnih priključaka"
+
+msgid "Audible Bell"
+msgstr "Zvučni signal"
+
+msgid "Audible system beep"
+msgstr "Zvučni signal sustava"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Zanemari savjete kada je prozor uvećan"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "Zanemari savjete uvećanja i omjeru veličine kada je prozor uvećan"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Sakrij \"Preskoči prozore u traci zadataka\""
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Sakrij prozore koji nisu u traci sa zadacima kada se ulazi u način "
+"prikazivanja radne površine"
+
+msgid "Edge Trigger Delay"
+msgstr "Odgoda do aktiviranja ruba"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Koliko vremena pokazivač mora provesti na rubu zaslona prije nego što se "
+"poduzme radnja za rub."
+
+msgid "Cursor theme"
+msgstr "Teme pokazivača"
+
+msgid "Cursor theme name"
+msgstr "Naziv teme pokazivača"
+
+msgid "Cursor size"
+msgstr "Veličina pokazivača"
+
+msgid "Size of the cursor"
+msgstr "Veličina pokazivača"
+
+msgid "Ping Delay"
+msgstr "Odgoda pingova"
+
+msgid "Interval between ping messages"
+msgstr "Raspon između poruka za ping"
+
+msgid "Display Settings"
+msgstr "Postavke prikaza"
+
+msgid "Texture Filter"
+msgstr "Filter tekstura"
+
+msgid "Texture filtering"
+msgstr "Filtriranje tekstura"
+
+msgid "Fast"
+msgstr "Brže"
+
+msgid "Good"
+msgstr "Bolje"
+
+msgid "Best"
+msgstr "Najbolje"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "Fokus i ponašanje uzdizanja"
+
+msgid "Click to Focus"
+msgstr "Klikni za fokusiranje"
+
+msgid "Click on window moves input focus to it"
+msgstr "Klik na prozor premješta ulazni fokus na njega"
+
+msgid "Raise On Click"
+msgstr "Uzdigni pri kliku"
+
+msgid "Raise windows when clicked"
+msgstr "Uzdigni prozore pri kliku"
+
+msgid "Auto-Raise"
+msgstr "Automatsko uzdizanje"
+
+msgid "Raise selected windows after interval"
+msgstr "Uzdigni odabrane prozore nakon raspona"
+
+msgid "Auto-Raise Delay"
+msgstr "Odgoda automatskog uzdizanja"
+
+msgid "Interval before raising selected windows"
+msgstr "Vrijeme prije podizanja odabranog prozora"
+
+msgid "Key bindings"
+msgstr "Prečaci tipkovnice"
+
+msgid "Close active window"
+msgstr "Zatvori aktivni prozor"
+
+msgid "Raise Window"
+msgstr "Uzdigni prozor"
+
+msgid "Raise window above other windows"
+msgstr "Uzdigni prozor iznad ostalih prozora"
+
+msgid "Lower Window"
+msgstr "Spusti prozor"
+
+msgid "Lower window beneath other windows"
+msgstr "Spusti prozor ispod ostalih prozora"
+
+msgid "Unmaximize active window"
+msgstr "Poništi uvećanje aktivnog prozora"
+
+msgid "Minimize active window"
+msgstr "Spusti aktivni prozor"
+
+msgid "Maximize active window"
+msgstr "Povećaj aktivni prozor"
+
+msgid "Maximize Window Horizontally"
+msgstr "Povećaj prozor vodoravno"
+
+msgid "Maximize active window horizontally"
+msgstr "Povećaj aktivni prozor vodoravno"
+
+msgid "Maximize Window Vertically"
+msgstr "Povećaj prozor okomito"
+
+msgid "Maximize active window vertically"
+msgstr "Povećaj aktivni prozor okomito"
+
+msgid "Window menu button binding"
+msgstr "Prečac tipke za prozorski izbornik"
+
+msgid "Window menu key binding"
+msgstr "Veza s tipkom tipkovnice za prozorski izbornik"
+
+msgid "Show Desktop"
+msgstr "Prikaži radnu površinu"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Sakrij sve prozore i fokusiraj radnu površinu"
+
+msgid "Toggle Window Maximized"
+msgstr "Uključi/Isključi povećanje prozora"
+
+msgid "Toggle active window maximized"
+msgstr "Uključi/Isključi povećanje aktivnog prozora"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Uključi/Isključi vodoravno povećanje prozora"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Uključi/Isključi vodoravnu povećanje aktivnog prozora"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Uključi/Isključi okomito povećanje prozora"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Uključi/Isključi okomito povećanje aktivnog prozora"
+
+msgid "Toggle Window Shaded"
+msgstr "Uključi/Isključi zasjenjenost prozora"
+
+msgid "Toggle active window shaded"
+msgstr "Uključi/Isključi zasjenjenost aktivnog prozora"
+
+msgid "Slow Animations"
+msgstr "Spore animacije"
+
+msgid "Toggle use of slow animations"
+msgstr "Uključi/Isključi upotrebu sporih animacija"
+
+msgid "Desktop Size"
+msgstr "Veličina radne površine"
+
+msgid "Horizontal Virtual Size"
+msgstr "Vodoravna virtualna veličina"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Množitelj veličine zaslona za vodoravnu virtualnu veličinu"
+
+msgid "Vertical Virtual Size"
+msgstr "Okomita virtualna veličina"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Množitelj veličine zaslona za okomitu virtualnu veličinu"
+
+msgid "Lighting"
+msgstr "Osvjetljenje"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Koristi difuzno svjetlo kada se zaslon preoblikuje"
+
+msgid "Detect Refresh Rate"
+msgstr "Otkrij frekvenciju osvježavanja"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Automatsko otkrivanje frekvencije osvježavanja"
+
+msgid "Refresh Rate"
+msgstr "Frekvencija osvježavanja"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Frekvencija ponovnog iscrtavnja zaslona (puta/sekundi) Hz"
+
+msgid "Detect Outputs"
+msgstr "Otkrij izlaze"
+
+msgid "Automatic detection of output devices"
+msgstr "Automatsko otkrivanje izlaznih uređaja"
+
+msgid "Overlapping Output Handling"
+msgstr "Rukovanje preklapajućim izlazima"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Koji se od preklapajućih izlaznih uređaja treba preferirati"
+
+msgid "Smart mode"
+msgstr "Pametan način"
+
+msgid "Prefer larger output"
+msgstr "Preferiraj veći izlaz"
+
+msgid "Prefer smaller output"
+msgstr "Preferiraj manji izlaz"
+
+msgid "Outputs"
+msgstr "Izlazi"
+
+msgid "List of strings describing output devices"
+msgstr "Popis znakovnih nizova koji opisuju izlazne uređaje"
+
+msgid "Sync to VBlank"
+msgstr "Uskladi s VBlankom"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"Samo obavljaj obnavljanje zaslona tijekom okomitog razdoblja osvježavanja"
+
+msgid "Focus-Stealing Prevention Level"
+msgstr "Razina sprječavanja fokusa"
+
+msgid "Level of focus stealing prevention"
+msgstr "Razina sprječavanja krađe fokusa"
+
+msgid "Off"
+msgstr "Isključeno"
+
+msgid "Low"
+msgstr "Niska"
+
+msgid "Normal"
+msgstr "Normalna"
+
+msgid "High"
+msgstr "Visoka"
+
+msgid "Very High"
+msgstr "Vrlo visoka"
+
+msgid "Focus-Stealing Prevention Windows"
+msgstr "Sprječavanje hvatanja fokusa prozora"
+
+msgid "Windows to prevent grabbing keyboard focus"
+msgstr "Sprječavanje prozora od hvatanja fokusa tipkovnice"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Odpreusmjeri cjelozaslonske prozore"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Dopusti da se iscrtavanje cjelozaslonskih prozora ne preusmjerava u "
+"vanzaslonske pixmape"
+
+msgid "Default Icon"
+msgstr "Uobičajena ikona"
+
+msgid "Default window icon image"
+msgstr "Uobičajena slika ikone prozora"
+
+msgid "Force independent output painting"
+msgstr "Prisili nezavisno crtanje izlaza"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Nacrtaj svaki izlazni uređaj nezavisno, čak i ako se izlazni uređaji "
+"preklapaju"
+
+msgid "Texture Compression"
+msgstr "Sažimanje tekstura"
+
+msgid "If available, use compression for textures converted from images"
+msgstr "Ako je dostupno koristi sažimanje za teksture pretvorene iz slika"
+
+msgid "Desktop Cube"
+msgstr "Kocka radne površine"
+
+msgid "Place windows on cube"
+msgstr "Smjesti prozore na kocku"
+
+msgid "Unfold"
+msgstr "Rasklopi"
+
+msgid "Unfold cube"
+msgstr "Rasklopi kocku"
+
+msgid "Next Slide"
+msgstr "Sljedeći slajd"
+
+msgid "Advance to next slide"
+msgstr "Naprijed na sljedeći slajd"
+
+msgid "Prev Slide"
+msgstr "Prijašnji slajd"
+
+msgid "Go back to previous slide"
+msgstr "Natrag na prijašnji slajd"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Stvori mipmape kada je moguće, za prilagodbu veličine veće kvalitete"
+
+msgid "Multi Output Mode"
+msgstr "Više izlazni način"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Odaberite kako je kocka prikazana, ako se koristi više izlaznih uređaja."
+
+msgid "Automatic"
+msgstr "Automatski"
+
+msgid "Multiple cubes"
+msgstr "Više kocki"
+
+msgid "One big cube"
+msgstr "Jedna velika kocka"
+
+msgid "Behavior"
+msgstr "Ponašanje"
+
+msgid "Inside Cube"
+msgstr "Unutar kocke"
+
+msgid "Inside cube"
+msgstr "Unutar kocke"
+
+msgid "Acceleration"
+msgstr "Ubrzanje"
+
+msgid "Fold Acceleration"
+msgstr "Ubrzanje sklapanja"
+
+msgid "Speed"
+msgstr "Brzina"
+
+msgid "Fold Speed"
+msgstr "Brzina sklapanja"
+
+msgid "Timestep"
+msgstr "Vremenski korak"
+
+msgid "Fold Timestep"
+msgstr "Vremenski korak sklapanja"
+
+msgid "Appearance"
+msgstr "Izgled"
+
+msgid "Cube Color"
+msgstr "Boja kocke"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Boja gornje i donje strane kocke"
+
+msgid "Cube Caps"
+msgstr "Vrh kocke"
+
+msgid "Scale image"
+msgstr "Prilagodba veličine slike"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Prilagodi veličinu slike kako bi prekrila gornju stranu kocke"
+
+msgid "Image files"
+msgstr "Datoteke slike"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Popis PNG i SVG datoteka koje bi trebale biti prikazane na gornjoj strani "
+"kocke"
+
+msgid "Adjust Image"
+msgstr "Prilagodi sliku"
+
+msgid "Adjust top face image to rotation"
+msgstr "Prilagodi sliku gornje strane za okretanje"
+
+msgid "Skydome"
+msgstr "Svod"
+
+msgid "Render skydome"
+msgstr "Prikaz svoda"
+
+msgid "Skydome Image"
+msgstr "Slika svoda"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Slika koja će se koristiti kao struktura svoda"
+
+msgid "Animate Skydome"
+msgstr "Animirani svod"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animiraj svod pri zakretanju kocke"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Početna boja prijelaza svoda"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Boja koja će se koristiti na vrhu za završnu boju prijelaza svoda"
+
+msgid "Skydome Gradient End Color"
+msgstr "Završna boja prijelaza svoda"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Boja koja će se koristiti na dnu za završnu boju prijelaza svoda"
+
+msgid "Transparent Cube"
+msgstr "Prozirnost kocke"
+
+msgid "Opacity During Rotation"
+msgstr "Prozirnost tijekom zakretanja"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Prozirnost radne površine tijekom zakretanja."
+
+msgid "Opacity When Not Rotating"
+msgstr "Prozirnost tijekom nezakretanja"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Prozirnost radne površine kada se kocka ne zakreće."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Prozirnost samo pri zakretanju mišem"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Pokreće samo prozirnost kocke, ako je zakretanje upravljano mišem."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus pozadinski program upravljanja"
+
+msgid "Window Decoration"
+msgstr "Ukrašavanje prozora"
+
+msgid "Window decorations"
+msgstr "Ukrašavanja prozora"
+
+msgid "Shadow Radius"
+msgstr "Polumjer sjenke"
+
+msgid "Drop shadow radius"
+msgstr "Polumjer padajuće sjenke"
+
+msgid "Shadow Opacity"
+msgstr "Neprozirnost sjenke"
+
+msgid "Drop shadow opacity"
+msgstr "Neprozirnost padajuće sjenke"
+
+msgid "Shadow Color"
+msgstr "Boja sjenke"
+
+msgid "Drop shadow color"
+msgstr "Boja padajuće sjenke"
+
+msgid "Shadow Offset X"
+msgstr "X pomak sjenke"
+
+msgid "Drop shadow X offset"
+msgstr "X pomak padajuće sjenke"
+
+msgid "Shadow Offset Y"
+msgstr "Y pomak sjenke"
+
+msgid "Drop shadow Y offset"
+msgstr "Y pomak padajuće sjenke"
+
+msgid "Command"
+msgstr "Naredba"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr "Naredba ukrašavanja koja će se izvršiti ako ukrašavanje nije pokrenuto"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Dopusti stvaranje mipmapa za teksture ukrašavanja"
+
+msgid "Decoration windows"
+msgstr "Ukrašavanje prozora"
+
+msgid "Windows that should be decorated"
+msgstr "Prozori koji bi trebali biti ukrašeni"
+
+msgid "Shadow windows"
+msgstr "Zasjenjeni prozori"
+
+msgid "Windows that should have a shadow"
+msgstr "Prozori koji bi trebali imati sjenku"
+
+msgid "Fading Windows"
+msgstr "Izbljeđivanje prozora"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Izbljedi prozore kada su mapirani i prekini izbljeđivanje prozora kad nisu "
+"mapirani"
+
+msgid "Fade Mode"
+msgstr "Način izbljeđivanja"
+
+msgid "Window fade mode"
+msgstr "Način izbljeđivanja prozora"
+
+msgid "Constant speed"
+msgstr "Stalna brzina"
+
+msgid "Constant time"
+msgstr "Stalno vrijeme"
+
+msgid "Fade Speed"
+msgstr "Brzina izbljeđivanja"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Vrijeme izbljeđivanja prozora u načinu rada \"Stalno vrijeme\""
+
+msgid "Fade Time"
+msgstr "Vrijeme izbljeđivanja"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "Vrijeme izbljeđivanja prozora (u ms) u načinu rada \"Stalno vrijeme\""
+
+msgid "Fade windows"
+msgstr "Izbljedi prozore"
+
+msgid "Windows that should be fading"
+msgstr "Prozori koje se trebaju izbljediti"
+
+msgid "Visual Bell"
+msgstr "Vizualno zvono"
+
+msgid "Fade effect on system beep"
+msgstr "Efekt izbljeđivanja pri zvuku sustava (beep)"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Cjelozaslonsko vizualno zvono"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Cjelozaslonski efekt izbljeđivanja pri zvuku sustava (beep)"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Izbljedi pri Uvećanju/Smanjenju/Zatvaranju"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Efekt izbljeđivanja pri Uvećanju/Smanjenju/Zatvaranju događaja prozora"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Zatamni prozore koji ne reagiraju"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr "Zatamni prozore koji ne reagiraju na zahtjev upravitelja prozorima"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Svjetlina nereagirajućeg prozora"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Svjetlina (u %) prozora koji ne reagiraju"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Zasićenje nereagirajućeg prozora"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Zasićenje (u %) prozora koji ne reagiraju"
+
+msgid "Userspace File System"
+msgstr "Datotečni sustav prostora korisnika"
+
+msgid "Userspace file system"
+msgstr "Datotečni sustav prostora korisnika"
+
+msgid "Mount Point"
+msgstr "Točka montiranja"
+
+msgid "Mount point"
+msgstr "Točka montiranja"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Podrška glavne petlje GLiba"
+
+msgid "MATE Compatibility"
+msgstr "MATE kompatibilnost"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+"Mogućnosti koje omogućuju Compizu kompatibilnost s MATE radnim okruženjem"
+
+msgid "Show Main Menu"
+msgstr "Prikaži glavni izbornik"
+
+msgid "Show the main menu"
+msgstr "Prikaži glavni izbornik"
+
+msgid "Run Dialog"
+msgstr "Pokreni dijalog"
+
+msgid "Show Run Application dialog"
+msgstr "Prikaži dijalog pokretanja aplikacija"
+
+msgid "Screenshot command line"
+msgstr "Naredba za slikanje slike zaslona"
+
+msgid "Take a screenshot"
+msgstr "Uslikaj zaslon"
+
+msgid "Window screenshot command line"
+msgstr "Naredba u terminalu za slikanje prozora"
+
+msgid "Take a screenshot of a window"
+msgstr "Uslikaj prozor"
+
+msgid "Run terminal command"
+msgstr "Pokreni naredbu u terminalu"
+
+msgid "Terminal command line"
+msgstr "Naredba u terminalu"
+
+msgid "Open a terminal"
+msgstr "Otvori terminal"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini Flat pozadinska datoteka"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Priključak za obavještavanje o promjeni datoteke"
+
+msgid "Minimize Effect"
+msgstr "Efekt smanjivanja"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Preoblikuj prozore kada se smanje i uvećaju"
+
+msgid "Minimize speed"
+msgstr "Brzina smanjivanja"
+
+msgid "Minimize timestep"
+msgstr "Vremenski korak smanjivanja"
+
+msgid "Minimize Windows"
+msgstr "Smanjivanje prozora"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Prozori  koji trebaju biti preoblikovani pri smanjivanju"
+
+msgid "Shade Resistance"
+msgstr "Otpor sjenke"
+
+msgid "Shade resistance"
+msgstr "Otpor sjenke"
+
+msgid "Move Window"
+msgstr "Pomicanje prozora"
+
+msgid "Move window"
+msgstr "Pomakni prozor"
+
+msgid "Initiate Window Move"
+msgstr "Pokreni pomicanje prozora"
+
+msgid "Start moving window"
+msgstr "Započni pomicanje prozora"
+
+msgid "Opacity"
+msgstr "Prozirnost"
+
+msgid "Opacity level of moving windows"
+msgstr "Razina prozirnosti pomicanja prozora"
+
+msgid "Constrain Y"
+msgstr "Ograniči Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Ograniči  koordinatu na područje radne površine"
+
+msgid "Snapoff maximized windows"
+msgstr "Poravnaj uvećane prozore"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Poravnaj i automatski vrati uvećane prozore kada ih povlačite"
+
+msgid "Lazy Positioning"
+msgstr "Lijeno pozicioniranje"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Ne ažuriraj položaj poslužene strane prozora dok se pomicanje ne završi"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Prozirnost, svjetlina i zasićenje"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Prilagodba prozirnosti, svjetline i zasićenja po prozoru"
+
+msgid "Increase Opacity"
+msgstr "Povećanje prozirnosti"
+
+msgid "Opacity Increase"
+msgstr "Povećaj prozirnost"
+
+msgid "Decrease Opacity"
+msgstr "Smanjenje prozirnosti"
+
+msgid "Opacity Decrease"
+msgstr "Smanji prozirnost"
+
+msgid "Brightness"
+msgstr "Svjetlina"
+
+msgid "Increase Brightness"
+msgstr "Povećanje svjetline"
+
+msgid "Brightness Increase"
+msgstr "Povećaj svjetlinu"
+
+msgid "Decrease Brightness"
+msgstr "Smanjenje svjetline"
+
+msgid "Brightness Decrease"
+msgstr "Smanji svjetlinu"
+
+msgid "Saturation"
+msgstr "Zasićenje"
+
+msgid "Increase Saturation"
+msgstr "Povećanje zasićenja"
+
+msgid "Saturation Increase"
+msgstr "Povećaj zasićenje"
+
+msgid "Decrease Saturation"
+msgstr "Smanjenje zasićenja"
+
+msgid "Saturation Decrease"
+msgstr "Smanji zasićenje"
+
+msgid "Step"
+msgstr "Korak"
+
+msgid "Opacity Step"
+msgstr "Prozirnost koraka"
+
+msgid "Window-specific settings"
+msgstr "Određene postavke prozora"
+
+msgid "Windows"
+msgstr "Prozori"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Prozori koji bi trebali imati drugačiju zadanu prozirnosti"
+
+msgid "Window values"
+msgstr "Vrijednosti prozora"
+
+msgid "Opacity values for windows"
+msgstr "Vrijednost prozirnosti za prozore"
+
+msgid "Brightness Step"
+msgstr "Korak svjetline"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Prozori koji bi trebali imati drugačiju zadanu svjetlinu"
+
+msgid "Brightness values for windows"
+msgstr "Vrijednost svjetline za prozore"
+
+msgid "Saturation Step"
+msgstr "Korak zasićenja"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Prozori koji bi trebali imati drugačije zadano zasićenje"
+
+msgid "Saturation values for windows"
+msgstr "Vrijednost zasićenja za prozore"
+
+msgid "Place Windows"
+msgstr "Smještaj prozora"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Smjesti prozore na odgovarajuće položaje kada su mapirani"
+
+msgid "Workarounds"
+msgstr "Rješenja smještaja"
+
+msgid "Window placement workarounds"
+msgstr "Rješenja za smještaj prozora"
+
+msgid "Placement Mode"
+msgstr "Način smještaja"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algoritam za korištenje smještaja prozora"
+
+msgid "Cascade"
+msgstr "Kaskadan"
+
+msgid "Centered"
+msgstr "Centriran"
+
+msgid "Smart"
+msgstr "Pametan"
+
+msgid "Maximize"
+msgstr "Povećaj"
+
+msgid "Random"
+msgstr "Naizmjeničan"
+
+msgid "Under pointer"
+msgstr "Ispod pokazivača"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Odabire kako se treba ponašati smještanje prozora ako je odabrano više izlaza"
+
+msgid "Use active output device"
+msgstr "Koristi uređaj s aktivnim izlazom"
+
+msgid "Use output device with pointer"
+msgstr "Koristi izlazni uređaj s pokazivačem"
+
+msgid "Use output device of focused window"
+msgstr "Koristi izlazni uređaj fokusiranog prozora"
+
+msgid "Place across all outputs"
+msgstr "Postavi preko svih izlaza"
+
+msgid "Force Placement Windows"
+msgstr "Prisili smještaj prozora"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Prozori koji se prisilno trebaju smjestiti, čak i ako upravitelj prozorima "
+"treba izbjegavati njihovo smještanje."
+
+msgid "Fixed Window Placement"
+msgstr "Nepromjenjivi smještaj prozora"
+
+msgid "Windows with fixed positions"
+msgstr "Prozori s nepromjenjivim položajima"
+
+msgid "Positioned windows"
+msgstr "Položeni prozori"
+
+msgid "Windows that should be positioned by default"
+msgstr "Prozori koji uobičajeno trebaju biti položeni"
+
+msgid "X Positions"
+msgstr "X položaji"
+
+msgid "X position values"
+msgstr "X položajne vrijednosti"
+
+msgid "Y Positions"
+msgstr "Y položaji"
+
+msgid "Y position values"
+msgstr "Y položajne vrijednosti"
+
+msgid "Keep In Workarea"
+msgstr "Zadrži u radnom području"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Zadrži postavljene prozore u radnom području, čak i ako to znači da se "
+"položaj razlikuje od već određenog položaja"
+
+msgid "Windows with fixed placement mode"
+msgstr "Prozori s nepromjenjivim načinom smještaja"
+
+msgid "Windows that should have a certain positioning mode"
+msgstr "Prozori koji trebaju imati određeni način smještanja"
+
+msgid "Mode"
+msgstr "Način"
+
+msgid "Positioning modes"
+msgstr "Načini smještanja"
+
+msgid "Windows with fixed viewport"
+msgstr "Prozori s nepromjenjivim područjem prikaza"
+
+msgid "Viewport positioned windows"
+msgstr "Prozori smješteni u područje prikaza"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+"Prozori koji uobičajeno trebaju biti smješteni u određena područja prikaza"
+
+msgid "X Viewport Positions"
+msgstr "X položaji područja prikaza"
+
+msgid "Horizontal viewport positions"
+msgstr "Vodoravni položaji područja prikaza"
+
+msgid "Y Viewport Positions"
+msgstr "Y položaji područja prikaza"
+
+msgid "Vertical viewport positions"
+msgstr "Okomiti položaji područja prikaza"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Učitač png slika"
+
+msgid "Regex Matching"
+msgstr "Regex podudaranje"
+
+msgid "Regex window matching"
+msgstr "Regex podudaranje prozora"
+
+msgid "Resize Window"
+msgstr "Promjena veličine prozora"
+
+msgid "Resize window"
+msgstr "Promijeni veličinu prozora"
+
+msgid "Bindings"
+msgstr "Prečaci tipkovnice"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Pokretanje normalne promjene veličine prozora"
+
+msgid "Start resizing window normally"
+msgstr "Započni normalnu promjenu veličine prozora"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Pokretanje promjene veličine prozora izvan ruba"
+
+msgid "Start resizing window with outline"
+msgstr "Započni pokretanje promjene veličine prozora izvan ruba"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Pokretanje pravokutne promjene veličine prozora"
+
+msgid "Start resizing window with rectangle"
+msgstr "Započni pokretanje pravokutne promjene veličine prozora"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Pokretanje promjene veličine rastezanjem prozora"
+
+msgid "Start resizing window by stretching it"
+msgstr "Započni pokretanje promjene veličine rastezanjem prozora"
+
+msgid "Initiate Window Resize"
+msgstr "Pokreni promjenu veličine prozora"
+
+msgid "Start resizing window"
+msgstr "Započni promjenu veličine prozora"
+
+msgid "Default Resize Mode"
+msgstr "Uobičajen način promjene veličine"
+
+msgid "Default mode used for window resizing"
+msgstr "Uobičajen način korišten za promjenu veličine prozora"
+
+msgid "Outline"
+msgstr "Obrub"
+
+msgid "Rectangle"
+msgstr "Pravokutnik"
+
+msgid "Stretch"
+msgstr "Rastegni"
+
+msgid "Border Color"
+msgstr "Boja ruba"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Boja ruba koja se koristi za obrub i pravokutnu promjenu veličine"
+
+msgid "Fill Color"
+msgstr "Boja ispune"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Boja ispune koja se koristi za pravokutnu promjenu veličine"
+
+msgid "Normal Resize Windows"
+msgstr "Prozori za normalnu promjenu veličine"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Prozori koji koriste normalnu promjenu veličine"
+
+msgid "Outline Resize Windows"
+msgstr "Prozori za obrubnu promjenu veličine"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Prozori koji koriste obrubnu promjenu veličine"
+
+msgid "Rectangle Resize Windows"
+msgstr "Prozori za pravokutnu promjenu veličine"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Prozori koji koriste pravokutnu promjenu veličine"
+
+msgid "Stretch Resize Windows"
+msgstr "Prozori za promjenu veličine rastezanjem"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Prozori koji koriste promjenu veličine rastezanjem"
+
+msgid "Rotate Cube"
+msgstr "Okretanje kocke"
+
+msgid "Rotate desktop cube"
+msgstr "Okretanje kocke radne površine"
+
+msgid "Edge Flip Pointer"
+msgstr "Rubno prebacivanje pri pomicanju pokazivača"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Prebaci na sljedeće područje prikaza pri pomicanju pokazivača po rubu zaslona"
+
+msgid "Edge Flip Move"
+msgstr "Rubno prebacivanje pri pomicanju prozora"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Prebaci na sljedeće područje prikaza pri pomicanju prozora po rubu zaslona"
+
+msgid "Edge Flip DnD"
+msgstr "Rubno prebacivanje pri povlačenju i otpuštanju"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Prebaci na sljedeće područje prikaza pri povlačenju objekta na rub zaslona"
+
+msgid "Flip Time"
+msgstr "Vrijeme prebacivanja"
+
+msgid "Timeout before flipping viewport"
+msgstr "Vremenski istek prije prebacivanja područja prikaza"
+
+msgid "Raise on rotate"
+msgstr "Podigni pri okretanju"
+
+msgid "Raise window when rotating"
+msgstr "Podigni prozor pri okretanju"
+
+msgid "Rotate cube"
+msgstr "Okretanje kocke"
+
+msgid "Start Rotation"
+msgstr "Pokreni okretanje"
+
+msgid "Rotate Left"
+msgstr "Okreni ulijevo"
+
+msgid "Rotate left"
+msgstr "Okreni ulijevo"
+
+msgid "Rotate Right"
+msgstr "Okreni udesno"
+
+msgid "Rotate right"
+msgstr "Okreni udesno"
+
+msgid "Rotate Left with Window"
+msgstr "Okreni ulijevo s prozorom"
+
+msgid "Rotate left and bring active window along"
+msgstr "Okreni ulijevo i istodobno prenesi aktivni prozor"
+
+msgid "Rotate Right with Window"
+msgstr "Okreni udesno s prozorom"
+
+msgid "Rotate right and bring active window along"
+msgstr "Okreni udesno i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To"
+msgstr "Okreni na"
+
+msgid "Rotate to viewport"
+msgstr "Okreni na područje prikaza"
+
+msgid "Rotate window"
+msgstr "Okreni prozor"
+
+msgid "Rotate with window"
+msgstr "Okreni s prozorom"
+
+msgid "Rotate Flip Left"
+msgstr "Lijevo okretanje"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Prebaci na lijevo područje prikaza i izobliči pokazivač"
+
+msgid "Rotate Flip Right"
+msgstr "Desno okretanje"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Prebaci na desno područje prikaza i izobliči pokazivač"
+
+msgid "Rotate to cube face"
+msgstr "Okretanje na plohu kocke"
+
+msgid "Rotate To Face 1"
+msgstr "Okreni na plohu 1"
+
+msgid "Rotate to face 1"
+msgstr "Okreni na plohu 1"
+
+msgid "Rotate To Face 2"
+msgstr "Okreni na plohu 2"
+
+msgid "Rotate to face 2"
+msgstr "Okreni na plohu 2"
+
+msgid "Rotate To Face 3"
+msgstr "Okreni na plohu 3"
+
+msgid "Rotate to face 3"
+msgstr "Okreni na plohu 3"
+
+msgid "Rotate To Face 4"
+msgstr "Okreni na plohu 4"
+
+msgid "Rotate to face 4"
+msgstr "Okreni na plohu 4"
+
+msgid "Rotate To Face 5"
+msgstr "Okreni na plohu 5"
+
+msgid "Rotate to face 5"
+msgstr "Okreni na plohu 5"
+
+msgid "Rotate To Face 6"
+msgstr "Okreni na plohu 6"
+
+msgid "Rotate to face 6"
+msgstr "Okreni na plohu 6"
+
+msgid "Rotate To Face 7"
+msgstr "Okreni na plohu 7"
+
+msgid "Rotate to face 7"
+msgstr "Okreni na plohu 7"
+
+msgid "Rotate To Face 8"
+msgstr "Okreni na plohu 8"
+
+msgid "Rotate to face 8"
+msgstr "Okreni na plohu 8"
+
+msgid "Rotate To Face 9"
+msgstr "Okreni na plohu 9"
+
+msgid "Rotate to face 9"
+msgstr "Okreni na plohu 9"
+
+msgid "Rotate To Face 10"
+msgstr "Okreni na plohu 10"
+
+msgid "Rotate to face 10"
+msgstr "Okreni na plohu 10"
+
+msgid "Rotate To Face 11"
+msgstr "Okreni na plohu 11"
+
+msgid "Rotate to face 11"
+msgstr "Okreni na plohu 11"
+
+msgid "Rotate To Face 12"
+msgstr "Okreni na plohu 12"
+
+msgid "Rotate to face 12"
+msgstr "Okreni na plohu 12"
+
+msgid "Rotate to cube face with window"
+msgstr "Okretanje na plohu kocke s prozorom"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Okreni na plohu 1 s prozorom"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Okreni na plohu 1 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Okreni na plohu 2 s prozorom"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Okreni na plohu 2 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Okreni na plohu 3 s prozorom"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Okreni na plohu 3 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Okreni na plohu 4 s prozorom"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Okreni na plohu 4 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Okreni na plohu 5 s prozorom"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Okreni na plohu 5 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Okreni na plohu 6 s prozorom"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Okreni na plohu 6 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Okreni na plohu 7 s prozorom"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Okreni na plohu 7 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Okreni na plohu 8 s prozorom"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Okreni na plohu 8 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Okreni na plohu 9 s prozorom"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Okreni na plohu 9 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Okreni na plohu 10 s prozorom"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Okreni na plohu 10 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Okreni na plohu 11 s prozorom"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Okreni na plohu 11 i istodobno prenesi aktivni prozor"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Okreni na plohu 12 s prozorom"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Okreni na plohu 12 i istodobno prenesi aktivni prozor"
+
+msgid "Pointer Invert Y"
+msgstr "Obrnuta Y os pokazivača"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Obrni Y os za pomicanje pokazivača"
+
+msgid "Pointer Invert X"
+msgstr "Obrnuta X os pokazivača"
+
+msgid "Invert X axis for pointer movement"
+msgstr "Obrni X os za pomicanje pokazivača"
+
+msgid "Pointer Sensitivity"
+msgstr "Osjetljivost pokazivača"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Osjetljivost kretanja pokazivača"
+
+msgid "Rotation Acceleration"
+msgstr "Ubrzanje okreta"
+
+msgid "Snap To Top Face"
+msgstr "Poravnaj s gornjom plohom"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Poravnaj okret kocke s gornjom plohom"
+
+msgid "Snap To Bottom Face"
+msgstr "Poravnaj s donjom plohom"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Poravnaj okret kocke s donjom plohom"
+
+msgid "Rotation Speed"
+msgstr "Brzina okreta"
+
+msgid "Rotation Timestep"
+msgstr "Vremenski korak okreta"
+
+msgid "Zoom"
+msgstr "Približi/Udalji"
+
+msgid "Rotation Zoom"
+msgstr "Približavanje/Udaljavanje okreta"
+
+msgid "Scale"
+msgstr "Prilagodba veličine"
+
+msgid "Scale windows"
+msgstr "Prilagodi veličinu prozora"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Prečaci tipkovnice uključuju/isključuju prilagodbu veličine"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Prečaci tipkovnice uključuju/isključuju prilagodbu veličine umjesto da je "
+"omoguće pri pritisku i onemogućuju pri otpuštanju."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Tipka prečaca uključuje/isključuje prilagodbu veličine"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Tipka prečaca uključuje/isključuje prilagodbu veličine umjesto da ju omoguće "
+"pri pritisku i onemoguće pri otpuštanju."
+
+msgid "Initiate Window Picker"
+msgstr "Pokreni birač prozora"
+
+msgid "Layout and start transforming windows"
+msgstr "Rasporedi i započni pretvorbu prozora"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Pokreni birač prozora za sve prozore"
+
+msgid "Layout and start transforming all windows"
+msgstr "Rasporedi i započni pretvorbu svih prozora"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Pokreni birač prozora za grupu prozora"
+
+msgid "Layout and start transforming window group"
+msgstr "Rasporedi i započni pretvorbu grupe prozora"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Pokreni birač prozora za prozore na trenutnom izlazu"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Rasporedi i započni pretvorbu prozora na trenutnom izlazu"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Klikni na radnu površinu za prikaz radne površine"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Pokreni način prikaza radne površine kada se klikne na radnu površinu "
+"tijekom prilagodbe veličine"
+
+msgid "Spacing"
+msgstr "Razmak"
+
+msgid "Space between windows"
+msgstr "Razmak između prozora"
+
+msgid "Scale speed"
+msgstr "Brzina prilagodbe veličine"
+
+msgid "Scale timestep"
+msgstr "Vremenski korak prilagodbe veličine"
+
+msgid "Darken Background"
+msgstr "Potamni pozadinu"
+
+msgid "Darken background when scaling windows"
+msgstr "Potamni pozadinu pri prilagodbe veličine prozora"
+
+msgid "Amount of opacity in percent"
+msgstr "Količina neprozirnosti u postotku"
+
+msgid "Overlay Icon"
+msgstr "Ikona prekrivanja"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Prekrij ikonu na prozorima jednom kada im se prilagodi veličina"
+
+msgid "None"
+msgstr "Nijedna"
+
+msgid "Emblem"
+msgstr "Obilježje"
+
+msgid "Big"
+msgstr "Velika"
+
+msgid "Scale Windows"
+msgstr "Prilagodi veličinu prozora"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Prozori kojima se prilagođava veličina u tom načinu rada"
+
+msgid "Hover Time"
+msgstr "Istek vremena lebdenja"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Vrijeme (u ms) prije nego što se način prilagodbe veličine prekine kada se "
+"lebdi pokazivačem iznad prozora"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Bira gdje se prilagođava veličina prozora ako se koristi više izlaznih "
+"uređaja."
+
+msgid "On current output device"
+msgstr "Na trenutni izlazni uređaj"
+
+msgid "On all output devices"
+msgstr "Na sve izlazne uređaje"
+
+msgid "Screenshot"
+msgstr "Snimka zaslona"
+
+msgid "Screenshot plugin"
+msgstr "Priključak slike zaslona"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Pokreni pravokutno slikanje zaslona"
+
+msgid "Directory"
+msgstr "Mapa"
+
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr ""
+"Spremi snimak zaslona u ovu mapu. Ako je polje prazno, koristiti će se mapa "
+"radne površine."
+
+msgid "Launch Application"
+msgstr "Pokreni aplikaciju"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Automatski otvara snimak zaslona u ovoj aplikaciji"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Učitač svg slika"
+
+msgid "Application Switcher"
+msgstr "Mjenjač aplikacija"
+
+msgid "Next window"
+msgstr "Sljedeći prozor"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Neka mjenjač iskoči ako nije vidljiv i odaberi sljedeći prozor"
+
+msgid "Prev window"
+msgstr "Prijašnji prozor"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Neka mjenjač iskoči ako nije vidljiv i odaberi prijašnji prozor"
+
+msgid "Next window (All windows)"
+msgstr "Sljedeći prozor (svi prozori)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Neka mjenjač iskoči ako nije vidljiv i odaberi sljedeći prozor od svih "
+"prozora"
+
+msgid "Prev window (All windows)"
+msgstr "Prijašnji prozor (svi prozori)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Neka mjenjač iskoči ako nije vidljiv i odaberi prijašnji prozor od svih "
+"prozora"
+
+msgid "Next window (No popup)"
+msgstr "Sljedeći prozor (bez skočne obavijesti)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Odaberi sljedeći prozor bez pokazivanja skočnog prozora."
+
+msgid "Prev window (No popup)"
+msgstr "Prijašnji prozor (bez skočne obavijesti)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Odaberi prijašnji prozor bez pokazivanja skočnog prozora."
+
+msgid "Next Panel"
+msgstr "Sljedeća ploha"
+
+msgid "Select next panel type window."
+msgstr "Odaberi sljedeći prozor na plohi."
+
+msgid "Prev Panel"
+msgstr "Prijašnja ploha"
+
+msgid "Select previous panel type window."
+msgstr "Odaberi prijašnji prozor na plohi."
+
+msgid "Switcher speed"
+msgstr "Brzina mjenjača"
+
+msgid "Switcher timestep"
+msgstr "Vremenski korak mjenjača"
+
+msgid "Switcher windows"
+msgstr "Prozori mjenjača"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Prozori koji se trebaju pokazivati u mjenjaču"
+
+msgid "Amount of saturation in percent"
+msgstr "Količina zasićenja u postotku"
+
+msgid "Amount of brightness in percent"
+msgstr "Količina osvjetljenja u postotku"
+
+msgid "Bring To Front"
+msgstr "Postavi ispred"
+
+msgid "Bring selected window to front"
+msgstr "Postavi odabrani prozor ispred"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Udaljenje radne površine pri mjenjanju prozora"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "Show icon next to thumbnail"
+msgstr "Pokaži ikonu pokraj umanjene sličice"
+
+msgid "Minimized"
+msgstr "Smanjeno"
+
+msgid "Show minimized windows"
+msgstr "Pokaži smanjene prozore"
+
+msgid "Auto Rotate"
+msgstr "Automatski okreni"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Okreni na odabrani prozor pri mjenjanju"
+
+msgid "Desktop Wall"
+msgstr "Zid radne površine"
+
+msgid "Desktop Wall Plugin"
+msgstr "Priključak zida radne površine"
+
+msgid "Viewport Switch Preview"
+msgstr "Pregled mijenjanja područja prikaza"
+
+msgid "Show Viewport Switcher Preview"
+msgstr "Prikaži pregled mjenjača područja prikaza"
+
+msgid "Show switcher window while switching viewports"
+msgstr "Prikazuje prozor mjenjača tijekom mijenjanja područja prikaza"
+
+msgid "Show Live Viewport Previews"
+msgstr "Prikaži pregled emitiranih područja prikaza"
+
+msgid "Show live viewport previews in switcher window"
+msgstr "Prikazuje pregled emitiranih područja prikaza u prozoru mjenjača"
+
+msgid "Switch Target Preview Visibility Time"
+msgstr "Vrijeme vidljivosti pregleda objekta mijenjanja"
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+"Trajanje (u sek) pregleda objekta mijenjanja, koliko treba ostati vidljiv "
+"nakon što mijenjanje završi."
+
+msgid "Preview Scale"
+msgstr "Prilagodba veličine pregleda"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr "Veličina pregleda u %"
+
+msgid "Edge Radius"
+msgstr "Polumjer ruba"
+
+msgid "Radius of the rounded edge"
+msgstr "Polumjer zaobljenog ruba"
+
+msgid "Border Width"
+msgstr "Širina ruba"
+
+msgid "Width of the border between the previews"
+msgstr "Širina ruba između pregleda"
+
+msgid "Outline Color"
+msgstr "Boja obruba"
+
+msgid "Outline color of the switcher window."
+msgstr "Boja obruba prozora mijenjanja"
+
+msgid "Background Gradient"
+msgstr "Prijelaz pozadine"
+
+msgid "Base Color"
+msgstr "Osnovna boja"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr "Prva boja prijelaza pozadine mjenjača prozora."
+
+msgid "Highlight Color"
+msgstr "Boja naglašavanja"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr "Druga boja prijelaza pozadine mjenjača prozora."
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr "Treća boja prijelaza pozadine mjenjača prozora."
+
+msgid "Thumb Gradient"
+msgstr "Prijelaz minijature"
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr "Prva boja prijelaza minijature mjenjača prozora."
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr "Druga boja prijelaza minijature mjenjača prozora."
+
+msgid "Highlight Gradient"
+msgstr "Prijelaz naglašavanja"
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr "Prva boja prijelaza naglašavanja minijature mjenjača prozora."
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr "Druga boja prijelaza naglašavanja minijature mjenjača prozora."
+
+msgid "Arrow Colors"
+msgstr "Boje strelice"
+
+msgid "First color of the arrow of the switcher window."
+msgstr "Prva boja strelice mjenjača prozora."
+
+msgid "Second color of the arrow of the switcher window."
+msgstr "Druga boja strelice mjenjača prozora."
+
+msgid "Viewport Switching"
+msgstr "Prebacivanje područja prikaza"
+
+msgid "Allow Wrap-Around"
+msgstr "Dopusti omotavanje"
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr "Dopusti omotavanje tijekom pomicanja zida gore/dolje/lijevo/desno"
+
+msgid "Wall Sliding Duration"
+msgstr "Trajanje klizanja zida"
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr "Trajanje (u sek) animacije mijenjanja klizanja područja prikaza zida"
+
+msgid "Non Sliding Windows"
+msgstr "Neklizajući prozori"
+
+msgid "Windows that should not slide during the slide animation"
+msgstr "Prozori koji ne bi trebali klizati tijekom animacije klizanja"
+
+msgid "Move within wall"
+msgstr "Pomicanje sa zidom"
+
+msgid "Move Left"
+msgstr "Pomakni lijevo"
+
+msgid "Move along the wall to the left"
+msgstr "Pomakni lijevom stranom zida"
+
+msgid "Move Right"
+msgstr "Pomakni desno"
+
+msgid "Move along the wall to the right"
+msgstr "Pomakni desnom stranom zida"
+
+msgid "Move Up"
+msgstr "Pomakni gore"
+
+msgid "Move along the wall up"
+msgstr "Pomakni gornjom stranom zida"
+
+msgid "Move Down"
+msgstr "Pomakni dolje"
+
+msgid "Move along the wall down"
+msgstr "Pomakni donjom stranom zida"
+
+msgid "Move Next"
+msgstr "Pomakni sljedeće"
+
+msgid "Move along the wall to the next viewport"
+msgstr "Pomakni zid do sljedećeg područja prikaza"
+
+msgid "Move Prev"
+msgstr "Pomakni prijašnje"
+
+msgid "Move along the wall to the previous viewport"
+msgstr "Pomakni zid do prijašnjeg područja prikaza"
+
+msgid "Move with window within wall"
+msgstr "Pomicanje s prozorom unutar zida"
+
+msgid "Move Left With Window"
+msgstr "Pomakni lijevo s prozorom"
+
+msgid "Move with window along the wall to the left"
+msgstr "Pomakni s prozorom lijevom stranom zida"
+
+msgid "Move Right With Window"
+msgstr "Pomakni desno s prozorom"
+
+msgid "Move with window along the wall to the right"
+msgstr "Pomakni s prozorom desnom stranom zida"
+
+msgid "Move Up With Window"
+msgstr "Pomakni gore s prozorom"
+
+msgid "Move with window along the wall up"
+msgstr "Pomakni s prozorom gornjom stranom zida"
+
+msgid "Move Down With Window"
+msgstr "Pomakni dolje s prozorom"
+
+msgid "Move with window along the wall down"
+msgstr "Pomakni s prozorom donjom stranom zida"
+
+msgid "Edge flipping"
+msgstr "Rubno prebacivanje"
+
+msgid "Flip Left"
+msgstr "Prebaci lijevo"
+
+msgid "Flip left"
+msgstr "Prebaci lijevo"
+
+msgid "Flip Right"
+msgstr "Prebaci desno"
+
+msgid "Flip right"
+msgstr "Prebaci desno"
+
+msgid "Flip Up"
+msgstr "Prebaci gore"
+
+msgid "Flip up"
+msgstr "Prebaci gore"
+
+msgid "Flip Down"
+msgstr "Prebaci dolje"
+
+msgid "Flip down"
+msgstr "Prebaci dolje"
+
+msgid "Multimonitor behavior"
+msgstr "Višezaslonsko ponašanje"
+
+msgid "How should a multimonitor configuration be handled"
+msgstr "Kako se treba rukovati višezaslonskim podešavanjem"
+
+msgid "Switch all"
+msgstr "Mijenjaj sve"
+
+msgid "Switch separately"
+msgstr "Mijenjaj zasebno"
+
+msgid "Edge Flipping"
+msgstr "Rubno prebacivanje"
+
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Prebaci na sljedeće područje prikaza pri pomicanju pokazivača po rubu zaslona"
+
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Prebaci na sljedeće područje prikaza pri pomicanju prozora po rubu zaslona"
+
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Prebaci na sljedeće područje prikaza pri povlačenju objekta na rub zaslona"
+
+msgid "Water Effect"
+msgstr "Vodeni efekt"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Dodaje efekte vode različitim radnjama na radnoj površini"
+
+msgid "Enable pointer water effects"
+msgstr "Omogući vodene efekte pokazivača"
+
+msgid "Toggle rain"
+msgstr "Uključi/Isključi kišu"
+
+msgid "Toggle rain effect"
+msgstr "Uključi/Isključi efekt kiše"
+
+msgid "Toggle wiper"
+msgstr "Uključi/Isključi brisač"
+
+msgid "Toggle wiper effect"
+msgstr "Uključi/Isključi efekt brisača"
+
+msgid "Offset Scale"
+msgstr "Veličina pomaka"
+
+msgid "Water offset scale"
+msgstr "Veličina vodenog pomaka"
+
+msgid "Rain Delay"
+msgstr "Odgoda kiše"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Odgoda (u ms) između svake kapi"
+
+msgid "Title wave"
+msgstr "Naslovni val"
+
+msgid "Wave effect from window title"
+msgstr "Valni efekt iz naslova prozora"
+
+msgid "Point"
+msgstr "Točka"
+
+msgid "Add point"
+msgstr "Dodaj točku"
+
+msgid "Line"
+msgstr "Linija"
+
+msgid "Add line"
+msgstr "Dodaj liniju"
+
+msgid "Wobbly Windows"
+msgstr "Lelujavi prozori"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Koristi model opruge za efekt lelujavih prozora"
+
+msgid "Snap windows"
+msgstr "Uhvati rubove"
+
+msgid "Toggle window snapping"
+msgstr "Uključi/Isključi hvatanje prozora za rubove radne površine"
+
+msgid "Snap Inverted"
+msgstr "Obrni hvatanje rubova"
+
+msgid "Inverted window snapping"
+msgstr "Obrni hvatanje rubova radne površine"
+
+msgid "Shiver"
+msgstr "Drhtanje"
+
+msgid "Make window shiver"
+msgstr "Učini da prozori drhte"
+
+msgid "Friction"
+msgstr "Trenje"
+
+msgid "Spring Friction"
+msgstr "Trenje opruge"
+
+msgid "Spring K"
+msgstr "K opruge"
+
+msgid "Spring Konstant"
+msgstr "Konstanta opruge"
+
+msgid "Grid Resolution"
+msgstr "Razlučivost mreže"
+
+msgid "Vertex Grid Resolution"
+msgstr "Razlučivost hvatišta mreže"
+
+msgid "Minimum Grid Size"
+msgstr "Najmanja veličina mreže"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Najmanja veličina hvatišta mreže"
+
+msgid "Map Effect"
+msgstr "Efekt mape"
+
+msgid "Map Window Effect"
+msgstr "Efekt mape prozora"
+
+msgid "Focus Effect"
+msgstr "Efekt fokusa"
+
+msgid "Focus Window Effect"
+msgstr "Efekt fokusa prozora"
+
+msgid "Map Windows"
+msgstr "Mapa prozora"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Prozori koji trebaju lelujati kada se mapiraju"
+
+msgid "Focus Windows"
+msgstr "Fokusiraj prozore"
+
+msgid "Windows that should wobble when focused"
+msgstr "Prozori koji trebaju lelujati kada su fokusirani"
+
+msgid "Grab Windows"
+msgstr "Uhvati prozore"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Prozori koji trebaju lelujati kada se uhvate"
+
+msgid "Move Windows"
+msgstr "Pomakni prozore"
+
+msgid "Windows that should wobble when moved"
+msgstr "Prozori koji trebaju lelujati kada se pomaknu"
+
+msgid "Maximize Effect"
+msgstr "Efekt uvećanja"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Efekt lelujavosti pri povećanju i smanjivanju prozora"
+
+msgid "Zoom Desktop"
+msgstr "Približi/Udalji radnu površinu"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Približi/Udalji i obreži radnu površinu kocke"
+
+msgid "Zoom In"
+msgstr "Približi"
+
+msgid "Zoom Out"
+msgstr "Udalji"
+
+msgid "Zoom Pan"
+msgstr "Približi/Udalji i obreži"
+
+msgid "Zoom pan"
+msgstr "Približi/Udalji i obreži"
+
+msgid "Zoom Speed"
+msgstr "Brzina približavanja/udaljavanja"
+
+msgid "Zoom Timestep"
+msgstr "Vremenski korak približavanja/udaljavanja"
+
+msgid "Zoom factor"
+msgstr "Faktor približavanja/udaljavanja"
+
+msgid "Filter Linear"
+msgstr "Linerani filter"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Koristi linearni filter tijekom uvećanja"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+msgid "Compiz Start"
+msgstr "Pokretanje Compiza"
+
+msgid "Start Compiz"
+msgstr "Pokreni Compiz"
+
+msgid "Start or restart Compiz"
+msgstr "Pokreni ili ponovno pokreni Compiz"
+
+#~ msgid "Focus prevention windows"
+#~ msgstr "Prozori za sprečavanje fokusa"

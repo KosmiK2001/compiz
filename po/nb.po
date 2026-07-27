@@ -1,0 +1,3438 @@
+# Norwegian Bokmaal translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+# Ketil W. Aanensen <ketil.w.aanensen@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2008-04-03 23:15+0200\n"
+"Last-Translator: Ketil Wendelbo Aanensen <ketil.w.aanensen@gmail.com>\n"
+"Language-Team: Norwegian Bokmaal <nb@li.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close Window"
+msgstr "Lukk vindu"
+
+msgid "Unmaximize Window"
+msgstr "Avmaksimer vindu"
+
+msgid "Maximize Window"
+msgstr "Maksimer vindu"
+
+msgid "Minimize Window"
+msgstr "Minimer vindu"
+
+msgid "Window Menu"
+msgstr "Vindusmeny"
+
+msgid "Shade"
+msgstr "Skyggelegg"
+
+msgid "Make Above"
+msgstr "Hold over"
+
+msgid "Stick"
+msgstr "Klistre"
+
+msgid "Unshade"
+msgstr "Av-skyggelegg"
+
+msgid "Unmake Above"
+msgstr "Ikke hold over"
+
+msgid "Unstick"
+msgstr "Avklistre"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Vinduet \"%s\" svarer ikke."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Å tvinge denne applikasjonen til å avslutte vil gjøre at du mister alle "
+"endringer som ikke er lagret."
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Force Quit"
+msgstr "_Tving avslutt"
+
+msgid "Annotate"
+msgstr "Påfør"
+
+msgid "Annotate plugin"
+msgstr "Påfør-tillegg"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Begynn utvisking"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Begynn Påfør-tegning"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Begynn"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Begynn Påfør-tegning"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Begynn utvisking"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Begynn Påfør-tegning"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Begynn utvisking"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Begynn Påfør-tegning"
+
+msgid "Draw"
+msgstr "Tegn"
+
+msgid "Draw using tool"
+msgstr "Tegn ved hjelp av verktøy"
+
+msgid "Initiate erase"
+msgstr "Begynn utvisking"
+
+msgid "Initiate annotate erasing"
+msgstr "Begynn Påfør-utvisking"
+
+msgid "Clear"
+msgstr "Rens"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Skru av/på rull opp/ned vindu"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Fyllfarge for Påfør"
+
+msgid "Fill color for annotations"
+msgstr "Fyllfarge for påførte elementer"
+
+msgid "Annotate Stroke Color"
+msgstr "Bestrykningsfarge for Påfør"
+
+msgid "Stroke color for annotations"
+msgstr "Bestrykningsfarge for påførte elementer"
+
+msgid "Stroke width"
+msgstr "Bestrykningsbredde"
+
+msgid "Stroke width for annotations"
+msgstr "Bestrykningsbredde for påførte elementer"
+
+msgid "Blur Windows"
+msgstr "Tilslør vinduer"
+
+msgid "Blur windows"
+msgstr "Tilslør vinduer"
+
+msgid "Pulse"
+msgstr "Puls"
+
+msgid "Pulse effect"
+msgstr "Pulseffekt"
+
+msgid "Blur Speed"
+msgstr "Hastighet for tilsløring"
+
+msgid "Window blur speed"
+msgstr "Hastighet for vindutilsløring"
+
+msgid "Focus blur windows"
+msgstr "Fokustilslør vinduer"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Vinduer som skal påvirkes av fokustilsløring"
+
+msgid "Focus Blur"
+msgstr "Fokustilsløring"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Tilslør vinduer som ikke har fokus"
+
+msgid "Alpha blur windows"
+msgstr "Alfatilslørte vinduer"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Vinduer som skal bruke alfatilsløring som standard"
+
+msgid "Alpha Blur"
+msgstr "Alfatilslør"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Tilslør bak gjennomsiktige deler av vinduer"
+
+msgid "Blur Filter"
+msgstr "Tilsløringsfilter"
+
+msgid "Filter method used for blurring"
+msgstr "Filtermetode brukt for tilsløring"
+
+msgid "4xBilinear"
+msgstr "4x bilineær"
+
+msgid "Gaussian"
+msgstr "Gaussisk"
+
+msgid "Mipmap"
+msgstr "MIP-kart"
+
+msgid "Gaussian Radius"
+msgstr "Gaussisk radius"
+
+msgid "Gaussian radius"
+msgstr "Gaussisk radius"
+
+msgid "Gaussian Strength"
+msgstr "Gaussisk styrke"
+
+msgid "Gaussian strength"
+msgstr "Gaussisk styrke"
+
+msgid "Mipmap LOD"
+msgstr "MIP-kart detaljnivå"
+
+msgid "Mipmap level-of-detail"
+msgstr "Detaljnivå for MIP-kart"
+
+msgid "Blur Saturation"
+msgstr "Metning for tilsløring"
+
+msgid "Blur saturation"
+msgstr "Metning for tilsløring"
+
+msgid "Blur Occlusion"
+msgstr "Tilstopping for tilsløring"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Slå av tilsløring av skjermområder som er dekket av andre vinduer."
+
+msgid "Independent texture fetch"
+msgstr "Uavhengig teksturhenting"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Bruk de tilgjengelige teksturenhetene for å gjøre så mange uavhengige "
+"teksturhentinger som mulig."
+
+msgid "Clone Output"
+msgstr "Klone-utdata"
+
+msgid "Output clone handler"
+msgstr "Håndterer for klone-utdata"
+
+msgid "Initiate"
+msgstr "Begynn"
+
+msgid "Initiate clone selection"
+msgstr "Begynn klonseleksjon"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Kommando"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+msgid "Command line 0"
+msgstr "Kommandolinje 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando0 blir innhentet"
+
+msgid "Command line 1"
+msgstr "Kommandolinje 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+msgid "Command line 2"
+msgstr "Kommandolinje 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando2 blir innhentet"
+
+msgid "Command line 3"
+msgstr "Kommandolinje 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando3 blir innhentet"
+
+msgid "Command line 4"
+msgstr "Kommandolinje 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando4 blir innhentet"
+
+msgid "Command line 5"
+msgstr "Kommandolinje 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando5 blir innhentet"
+
+msgid "Command line 6"
+msgstr "Kommandolinje 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando6 blir innhentet"
+
+msgid "Command line 7"
+msgstr "Kommandolinje 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando7 blir innhentet"
+
+msgid "Command line 8"
+msgstr "Kommandolinje 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando8 blir innhentet"
+
+msgid "Command line 9"
+msgstr "Kommandolinje 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando9 blir innhentet"
+
+msgid "Command line 10"
+msgstr "Kommandolinje 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando10 blir innhentet"
+
+msgid "Command line 11"
+msgstr "Kommandolinje 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando11 blir innhentet"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Kommandolinje 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Kommandolinje 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando0 blir innhentet"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Kommandolinje 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando1 blir innhentet"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Kommandolinje 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando2 blir innhentet"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Kommandolinje 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando2 blir innhentet"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Kommandolinje 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Kommandolinje som skal kjøres i konsoll når kjør_kommando2 blir innhentet"
+
+msgid "Key Bindings"
+msgstr ""
+
+msgid "Run command 0"
+msgstr "Kjør kommando 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando0"
+
+msgid "Run command 1"
+msgstr "Kjør kommando 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+msgid "Run command 2"
+msgstr "Kjør kommando 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+msgid "Run command 3"
+msgstr "Kjør kommando 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando3"
+
+msgid "Run command 4"
+msgstr "Kjør kommando 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando4"
+
+msgid "Run command 5"
+msgstr "Kjør kommando 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando5"
+
+msgid "Run command 6"
+msgstr "Kjør kommando 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando6"
+
+msgid "Run command 7"
+msgstr "Kjør kommando 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando7"
+
+msgid "Run command 8"
+msgstr "Kjør kommando 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando8"
+
+msgid "Run command 9"
+msgstr "Kjør kommando 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando9"
+
+msgid "Run command 10"
+msgstr "Kjør kommando 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando10"
+
+msgid "Run command 11"
+msgstr "Kjør kommando 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando11"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Kjør kommando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Kjør kommando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Kjør kommando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Kjør kommando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Kjør kommando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Kjør kommando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+msgid "Button Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando0"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando3"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando4"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando5"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando6"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando7"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando8"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando9"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando10"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando0"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando4"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando5"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando6"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando7"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando8"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando9"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"En hurtigtast som, når innhentet, vil kjøre konsollkommandoen identifisert "
+"som kommando2"
+
+msgid "General Options"
+msgstr "Generelle valg"
+
+msgid "General compiz options"
+msgstr "Generelle Compiz-valg"
+
+msgid "Active Plugins"
+msgstr "Aktive tillegg"
+
+msgid "List of currently active plugins"
+msgstr "Liste over aktive tillegg nå"
+
+msgid "Audible Bell"
+msgstr "Hørbar bjelle"
+
+msgid "Audible system beep"
+msgstr "Hørbart systempip"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Ignorer hint når maksimert"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "Ignorer størrelsesøkning- og forholdshint når vinduet er maksimert"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Skjul vinduer som hopper over oppgavelinjen"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Skjul vinduer som ikke er i oppgavelinjen når Visskrivebord-modus startes"
+
+msgid "Edge Trigger Delay"
+msgstr "Forsinkelse for kantutløsning"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Varigheten musepekeren må hvile i en skjermkant før en kanthendelse utføres."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Ping-forsinkelse"
+
+msgid "Interval between ping messages"
+msgstr "Intervall mellom ping-beskjeder"
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Texture Filter"
+msgstr "Teksturfilter"
+
+msgid "Texture filtering"
+msgstr "Teksturfiltrering"
+
+msgid "Fast"
+msgstr "Rask"
+
+msgid "Good"
+msgstr "God"
+
+msgid "Best"
+msgstr "Beste"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Klikk for fokus"
+
+msgid "Click on window moves input focus to it"
+msgstr "Klikk på vindu flytter inndatafokus til det"
+
+msgid "Raise On Click"
+msgstr "Hev ved klikk"
+
+msgid "Raise windows when clicked"
+msgstr "Hev vinduer når de klikkes"
+
+msgid "Auto-Raise"
+msgstr "Auto-hev"
+
+msgid "Raise selected windows after interval"
+msgstr "Hev valgt vindu etter intervall"
+
+msgid "Auto-Raise Delay"
+msgstr "Forsinkelse for auto-hev"
+
+msgid "Interval before raising selected windows"
+msgstr "Intervall før valgte vinduer heves"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "Lukk aktivt vindu"
+
+msgid "Raise Window"
+msgstr "Hev vindu"
+
+msgid "Raise window above other windows"
+msgstr "Hev vindu over andre vinduer"
+
+msgid "Lower Window"
+msgstr "Senk vindu"
+
+msgid "Lower window beneath other windows"
+msgstr "Senk vindu under andre vinduer"
+
+msgid "Unmaximize active window"
+msgstr "Avmaksimer aktivt vindu"
+
+msgid "Minimize active window"
+msgstr "Minimer aktivt vindu"
+
+msgid "Maximize active window"
+msgstr "Maksimer aktivt vindu"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maksimer vindu horisontalt"
+
+msgid "Maximize active window horizontally"
+msgstr "Maksimer aktivt vindu horisontalt"
+
+msgid "Maximize Window Vertically"
+msgstr "Maksimer vindu vertikalt"
+
+msgid "Maximize active window vertically"
+msgstr "Maksimer aktivt vindu vertikalt"
+
+msgid "Window menu button binding"
+msgstr "Snarvei for vindusmeny"
+
+msgid "Window menu key binding"
+msgstr "Hurtigtast for vindusmeny"
+
+msgid "Show Desktop"
+msgstr "Vis skrivebord"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Skjul alle vinduer og fokuser på skrivebordet"
+
+msgid "Toggle Window Maximized"
+msgstr "Skru av/på maksimert vindu"
+
+msgid "Toggle active window maximized"
+msgstr "Skru av/på maksimert aktivt vindu"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Skru av/på horisontalt maksimert vindu"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Skru av/på horisontalt maksimert aktivt vindu"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Skru av/på vertikalt maksimert vindu"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Skru av/på vertikalt maksimert aktivt vindu"
+
+msgid "Toggle Window Shaded"
+msgstr "Skru av/på rull opp/ ned vindu"
+
+msgid "Toggle active window shaded"
+msgstr "Skru av/på rull opp/ned vindu"
+
+msgid "Slow Animations"
+msgstr "Trege animasjoner"
+
+msgid "Toggle use of slow animations"
+msgstr "Skru av/på bruk av trege animasjoner"
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Skrivebordskube"
+
+msgid "Horizontal Virtual Size"
+msgstr "Horisontal virtuell størrelse"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Multiplikator for skjermstørrelse for horisontal virtuell størrelse"
+
+msgid "Vertical Virtual Size"
+msgstr "Vertikal virtuell størrelse"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Multiplikator for skjermstørrelse for vertikal virtuell størrelse"
+
+msgid "Lighting"
+msgstr "Lyn"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Bruk diffust lys når skjermen omdannes"
+
+msgid "Detect Refresh Rate"
+msgstr "Gjenkjenn oppfriskingshastighet"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Automatisk gjenkjennelse av oppdateringshastighet"
+
+msgid "Refresh Rate"
+msgstr "Oppfriskingsrate"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Hastigheten for omtegning av skjermen (ganger/sekund)"
+
+msgid "Detect Outputs"
+msgstr "Gjenkjenn utdata"
+
+msgid "Automatic detection of output devices"
+msgstr "Automatisk gjenkjennelse av skjermenheter"
+
+msgid "Overlapping Output Handling"
+msgstr "Overlappende utdata-håndtering"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Hvilken av de overlappende utdata-enhetene skal foretrekkes"
+
+msgid "Smart mode"
+msgstr "Smartmodus"
+
+msgid "Prefer larger output"
+msgstr "Foretrekk større utdata"
+
+msgid "Prefer smaller output"
+msgstr "Foretrekk mindre utdata"
+
+msgid "Outputs"
+msgstr "Utdata"
+
+msgid "List of strings describing output devices"
+msgstr "Liste over strenger som beskriver skjermenheter"
+
+msgid "Sync To VBlank"
+msgstr "Synkroniser til VBlank"
+
+# fuzzy
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Bare utfør skjermoppdateringer ved vertikale blankingsperioder"
+
+msgid "Focus Prevention Level"
+msgstr "Fokusunngående nivå"
+
+msgid "Level of focus stealing prevention"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "High"
+msgstr "Høy"
+
+msgid "Very High"
+msgstr ""
+
+msgid "Focus Prevention Windows"
+msgstr "Fokusunngående vinduer"
+
+msgid "Focus prevention windows"
+msgstr "Fokusunngående vinduer"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Ikke-videresend vinduer i fullskjerm"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Tilatt tegning av fullskjermvinduer å ikke bli omdirigert til bilder utenfor "
+"skjermen"
+
+msgid "Default Icon"
+msgstr "Standardikon"
+
+msgid "Default window icon image"
+msgstr "Standard bilde for vindusikon"
+
+msgid "Force independent output painting."
+msgstr ""
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Compression"
+msgstr "Teksturfiltrering"
+
+msgid "If available use compression for textures converted from images"
+msgstr "Hvis mulig, bruk kompresjon for teksturer hentet fra bilder"
+
+msgid "Desktop Cube"
+msgstr "Skrivebordskube"
+
+msgid "Place windows on cube"
+msgstr "Plasser vinduer på kuben"
+
+msgid "Unfold"
+msgstr "Brett ut"
+
+msgid "Unfold cube"
+msgstr "Brett ut kuben"
+
+msgid "Next Slide"
+msgstr "Neste bilde"
+
+msgid "Advance to next slide"
+msgstr "Gå videre til neste bilde"
+
+msgid "Prev Slide"
+msgstr "Forrige bilde"
+
+msgid "Go back to previous slide"
+msgstr "Gå tilbake til forrige bilde"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Lag MIP-kart når det er mulig, for skalering med høyere kvalitet"
+
+msgid "Multi Output Mode"
+msgstr "Flerskjermsmodus"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "Velger hvordan kuben vises hvis flere skjermenheter brukes."
+
+msgid "Automatic"
+msgstr "Automatisk"
+
+msgid "Multiple cubes"
+msgstr "Flere kuber"
+
+#, fuzzy
+msgid "One big cube"
+msgstr "Én stor kube"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "Innsiden av kuben"
+
+msgid "Inside cube"
+msgstr "Innsiden av kuben"
+
+msgid "Acceleration"
+msgstr "Akselerasjon"
+
+msgid "Fold Acceleration"
+msgstr "Akselerasjon for bretting"
+
+msgid "Speed"
+msgstr "Hastighet"
+
+msgid "Fold Speed"
+msgstr "Brettehastighet"
+
+msgid "Timestep"
+msgstr "Tidsskritt"
+
+msgid "Fold Timestep"
+msgstr "Tidsskritt for bretting"
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Cube Color"
+msgstr "Kubefarge"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Farge på kubens topp og bunn"
+
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Kubefarge"
+
+msgid "Scale image"
+msgstr "Skaler bilde"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Skaler bilder for å dekke toppen av kuben"
+
+msgid "Image files"
+msgstr "Bildefiler"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "Liste over PNG- og SVG-filer som skal gjengis på toppen av kuben"
+
+msgid "Adjust Image"
+msgstr "Juster bilde"
+
+msgid "Adjust top face image to rotation"
+msgstr "Juster toppbilde til rotasjon"
+
+msgid "Skydome"
+msgstr "Himmelkuppel"
+
+msgid "Render skydome"
+msgstr "Gjengi himmelkuppel"
+
+msgid "Skydome Image"
+msgstr "Bilde for himmelkuppel"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Bilde å bruke som tekstur for himmelkuppelen"
+
+msgid "Animate Skydome"
+msgstr "Animer himmelkuppel"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animer himmelkuppel når kuben roteres"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Startfarge for himmelkuppelens fargeovergang"
+
+# fuzzy
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"Farge som skal brukes til toppens fargestans av alternativet for "
+"fargeovergangen for himmelkuppelen"
+
+msgid "Skydome Gradient End Color"
+msgstr "Sluttfarge for himmelkuppelens fargeovergang"
+
+# fuzzy
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"Farge som skal brukes til bunnens fargestans av alternativet for "
+"fargeovergangen for himmelkuppel"
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr "Dekkevne ved rotasjon"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Skrivebordsvinduenes dekkevne ved rotasjon"
+
+msgid "Opacity When Not Rotating"
+msgstr "Dekkevne når det ikke roteres"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Skrivebordsvinduenes dekkevne når det ikke roteres"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Gjennomsiktighet kun ved muserotasjon"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Starter gjennomsiktighet for kube kun hvis rotasjonen er drevet av mus"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus kontrollmotor"
+
+msgid "Window Decoration"
+msgstr "Vindusdekor"
+
+msgid "Window decorations"
+msgstr "Vindusdekorasjoner"
+
+msgid "Shadow Radius"
+msgstr "Skyggeradius"
+
+msgid "Drop shadow radius"
+msgstr "Radius for slippskygge"
+
+msgid "Shadow Opacity"
+msgstr "Dekkevne for skygge"
+
+msgid "Drop shadow opacity"
+msgstr "Dekkevne for slippskygge"
+
+msgid "Shadow Color"
+msgstr "Skyggefarge"
+
+msgid "Drop shadow color"
+msgstr "Farge for slippskygge"
+
+msgid "Shadow Offset X"
+msgstr "Skyggens X-forskyvning"
+
+msgid "Drop shadow X offset"
+msgstr "Slippskyggens X-forskyvning"
+
+msgid "Shadow Offset Y"
+msgstr "Skyggens Y-forskyvning"
+
+msgid "Drop shadow Y offset"
+msgstr "Slippskyggens Y-forskyvning"
+
+msgid "Command"
+msgstr "Kommando"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Kommandolinje for dekoratør som kjøres hvis ingen dekoratør allerede kjører"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "La MIP-kart bli laget for dekorasjonstekstur"
+
+msgid "Decoration windows"
+msgstr "Dekorasjonsvinduer"
+
+msgid "Windows that should be decorated"
+msgstr "Vinduer som skal dekoreres"
+
+msgid "Shadow windows"
+msgstr "Skyggevinduer"
+
+msgid "Windows that should have a shadow"
+msgstr "Vinduer som skal ha en skygge"
+
+msgid "Fading Windows"
+msgstr "Inn- og uttonende vinduer"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Ton inn vinduer når de kartlegges og ton ut vinduer når de av-kartlegges"
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "Uttoningstid"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Hastighet for toning av vinduer"
+
+#, fuzzy
+msgid "Constant speed"
+msgstr "Rotasjonshastighet"
+
+#, fuzzy
+msgid "Constant time"
+msgstr "Hold tilbake Y"
+
+msgid "Fade Speed"
+msgstr "Toningshastighet"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Vinduer som skal skaleres i skalermodus"
+
+msgid "Fade Time"
+msgstr "Uttoningstid"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+msgid "Fade windows"
+msgstr "Ton vinduer"
+
+msgid "Windows that should be fading"
+msgstr "Vinduer som skal tones"
+
+msgid "Visual Bell"
+msgstr "Visuell bjelle"
+
+msgid "Fade effect on system beep"
+msgstr "Toningseffekt ved systempip"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Visuell bjelle i fullskjerm"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Fullskjerms toningseffekt ved systempip"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Ton ved minimer/åpne/lukk"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Toningseffekt på minimer/åpne/lukk"
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Normal størrelsesemdring av vinduer"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr "Filsystem på brukerområde"
+
+msgid "Userspace file system"
+msgstr "Filsystem på brukerens område"
+
+msgid "Mount Point"
+msgstr "Monteringspunkt"
+
+msgid "Mount point"
+msgstr "Monteringspunkt"
+
+msgid "GLib"
+msgstr "Glib"
+
+# fuzzy
+msgid "GLib main loop support"
+msgstr "Glib støtte for hovedløkke"
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Vis hovedmeny"
+
+msgid "Show the main menu"
+msgstr "Vis hovedmenyen"
+
+msgid "Run Dialog"
+msgstr "Kjør-dialog"
+
+msgid "Show Run Application dialog"
+msgstr "Vis \"Kjør program\"-dialog"
+
+msgid "Screenshot command line"
+msgstr "Kommandolinje for skjermbilde"
+
+msgid "Take a screenshot"
+msgstr "Ta et skjermbilde"
+
+msgid "Window screenshot command line"
+msgstr "Kommandolinje for skjermbilde av vindu"
+
+msgid "Take a screenshot of a window"
+msgstr "Ta et skjermbilde av et vindu"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Kommandolinje for terminal"
+
+msgid "Terminal command line"
+msgstr "Kommandolinje for terminal"
+
+msgid "Open a terminal"
+msgstr "Åpne en terminal"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini flatfil-motor"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Varslingstilleg for filendringer"
+
+msgid "Minimize Effect"
+msgstr "Minimereffekt"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Omdann vinduer når de minimeres og avminimeres"
+
+msgid "Minimize speed"
+msgstr "Minimeringshastighet"
+
+msgid "Minimize timestep"
+msgstr "Tidsskritt for minimering"
+
+msgid "Minimize Windows"
+msgstr "Minimer vinduer"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Vinduer som skal omdannes når de minimeres"
+
+msgid "Shade Resistance"
+msgstr "Skyggemotstand"
+
+msgid "Shade resistance"
+msgstr "Skyggemotstand"
+
+msgid "Move Window"
+msgstr "Flytt vindu"
+
+msgid "Move window"
+msgstr "Flytt vindu"
+
+msgid "Initiate Window Move"
+msgstr "Begynn vindusflytting"
+
+msgid "Start moving window"
+msgstr "Begynn å bevege vindu"
+
+msgid "Opacity"
+msgstr "Dekkevne"
+
+msgid "Opacity level of moving windows"
+msgstr "Dekkevnenivå for bevegende vinduer"
+
+msgid "Constrain Y"
+msgstr "Hold tilbake Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Hold tilbake Y-koordinat til arbeidsområde"
+
+msgid "Snapoff maximized windows"
+msgstr "Smekk av maksimerte vinduer"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Smekk av og automatisk avmaksimer maksimerte vinduer når de trekkes"
+
+msgid "Lazy Positioning"
+msgstr "Lat posisjonering"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Ikke oppdater vindusposisjonen på tjenerside før vinduene er ferdig med "
+"flytting"
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "Dekkevne ved rotasjon"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Øk vinduets dekkevne"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Endringssteg for dekkevne"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Reduser vinduets dekkevne"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Endringssteg for dekkevne"
+
+msgid "Brightness"
+msgstr "Skarphet"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Skarphet"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Skarphet"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Skarphet"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Skarphet"
+
+msgid "Saturation"
+msgstr "Metning"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Metning for tilsløring"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Metning"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Metning for tilsløring"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Metning"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "Steg for dekkevne"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Vindusdekorasjoner"
+
+#, fuzzy
+msgid "Windows"
+msgstr "Kartlegg vinduer"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "Vinduer som skal være gjennomsiktige som standard"
+
+#, fuzzy
+msgid "Window values"
+msgstr "Dekkevneverdier for vinduer"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Dekkevnenivå for bevegende vinduer"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Skarphet"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "Vinduer som skal posisjoneres som standard"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Metning"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "Vinduer som skal posisjoneres som standard"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+msgid "Place Windows"
+msgstr "Plasser vinduer"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Plasser vinuder på passende posisjoner når de kartlegges"
+
+msgid "Workarounds"
+msgstr "Omveier"
+
+msgid "Window placement workarounds"
+msgstr "Omveier for vindusplassering"
+
+msgid "Placement Mode"
+msgstr "Plasseringsmodus"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algoritme som brukes for plassering av vinduer"
+
+msgid "Cascade"
+msgstr "Tett-i-tett"
+
+msgid "Centered"
+msgstr "Sentrert"
+
+msgid "Smart"
+msgstr "Smart"
+
+msgid "Maximize"
+msgstr "Maksimer"
+
+msgid "Random"
+msgstr "Tilfeldig"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Kantbytt peker"
+
+#, fuzzy
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr "Velge hvor vinduene skaleres hvis flere skjermenheter brukes."
+
+#, fuzzy
+msgid "Use active output device"
+msgstr "På alle skjermenheter"
+
+msgid "Use output device with pointer"
+msgstr ""
+
+msgid "Use output device of focused window"
+msgstr ""
+
+#, fuzzy
+msgid "Place across all outputs"
+msgstr "Foretrekk mindre utdata"
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "Fokusunngående vinduer"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Vindushåndtering"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Vindusdekorasjoner"
+
+msgid "Positioned windows"
+msgstr "Posisjonerte vinduer"
+
+msgid "Windows that should be positioned by default"
+msgstr "Vinduer som skal posisjoneres som standard"
+
+msgid "X Positions"
+msgstr "X-posisjoner"
+
+msgid "X position values"
+msgstr "Verdier for X-posisjon"
+
+msgid "Y Positions"
+msgstr "Y-posisjoner"
+
+msgid "Y position values"
+msgstr "Verdier for Y-posisjon"
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Vindusdekorasjoner"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Vinduer som skal posisjoneres som standard"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Uttoningstid"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Posisjonerte vinduer"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+msgid "Viewport positioned windows"
+msgstr "Arbeidsområde-plasserte vinduer"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Vinduer som skal plasseres i spesifikke arbeidsområder som standard"
+
+msgid "X Viewport Positions"
+msgstr "X-posisjoner på arbeidsområde"
+
+msgid "Horizontal viewport positions"
+msgstr "Horisontale posisjoner på arbeidsområde"
+
+msgid "Y Viewport Positions"
+msgstr "Y-posisjoner på arbeidsområde"
+
+msgid "Vertical viewport positions"
+msgstr "Vertikale posisjoner på arbeidsområde"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Png-bildelaster"
+
+msgid "Regex Matching"
+msgstr "Regex-samsvar"
+
+msgid "Regex window matching"
+msgstr "Regex-samsvar mellom vinduer"
+
+msgid "Resize Window"
+msgstr "Endre størrelse på vindu"
+
+msgid "Resize window"
+msgstr "Endre størrelse på vindu"
+
+msgid "Bindings"
+msgstr ""
+
+msgid "Initiate Normal Window Resize"
+msgstr "Begynn normal størrelsesendring av vindu"
+
+msgid "Start resizing window normally"
+msgstr "begynn å enre størrelse på vindu på normalt vis"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Begynn omriss-størrelsesendring av vindu"
+
+msgid "Start resizing window with outline"
+msgstr "Begynn å endre størrelse på vindu med omriss"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Begynn rektangulær størrelsesendring av vindu"
+
+msgid "Start resizing window with rectangle"
+msgstr "Begynn å endre størrelse på vindu rekatngulært"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Begynn strekk-størrelsesendring av vindu"
+
+msgid "Start resizing window by stretching it"
+msgstr "Begynn å endre størrelse på vindu ved å strekke det"
+
+msgid "Initiate Window Resize"
+msgstr "Begynn størrelsesendring av vindu"
+
+msgid "Start resizing window"
+msgstr "Begynn å endre størrelse på vindu"
+
+msgid "Default Resize Mode"
+msgstr "Standardmodus for størrelsesendring"
+
+msgid "Default mode used for window resizing"
+msgstr "Standard modus som brukes for størrelsesendring av vinduer"
+
+msgid "Outline"
+msgstr "Omriss"
+
+msgid "Rectangle"
+msgstr "Rektangulær"
+
+msgid "Stretch"
+msgstr "Strekk"
+
+msgid "Border Color"
+msgstr "Kantfarge"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Kantfarge brukt for omriss og rektangel ved gjør-om-størrelse-modus"
+
+msgid "Fill Color"
+msgstr "Fyllfarge"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Fyllfarge brukt for omriss og rektangel ved gjør-om-størrelse-modus"
+
+msgid "Normal Resize Windows"
+msgstr "Normal størrelsesemdring av vinduer"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Vinduer som skal endre størrelse på normalt vis"
+
+msgid "Outline Resize Windows"
+msgstr "Omriss-størrelsesendring av vinduer"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Vinduer som skal endre størrelse med omriss"
+
+msgid "Rectangle Resize Windows"
+msgstr "Rektangulær størrelsesendring av vinduer"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Vinduer som skal endre størrelse rektangulært"
+
+msgid "Stretch Resize Windows"
+msgstr "Strekk-størrelsesendring av vinduer"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Vinduer som skal endre størrelse ved strekking"
+
+msgid "Rotate Cube"
+msgstr "Roter kuben"
+
+msgid "Rotate desktop cube"
+msgstr "Roter skrivebordskuben"
+
+msgid "Edge Flip Pointer"
+msgstr "Kantbytt peker"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "Bytt til neste arbeidsområde når musepekeren flyttes til skjermkanten"
+
+msgid "Edge Flip Move"
+msgstr "Kantbytt flytt"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "Bytt til neste arbeidsområde når vinduer flyttes til skjermkanten"
+
+msgid "Edge Flip DnD"
+msgstr "Kantbytt dra-og-slipp"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "Bytt til neste arbeidsområde når objekter dras til skjermkanten"
+
+msgid "Flip Time"
+msgstr "Byttetid"
+
+msgid "Timeout before flipping viewport"
+msgstr "Tidsavbrudd før arbeidsområde byttes"
+
+msgid "Raise on rotate"
+msgstr "Hev ved rotasjon"
+
+msgid "Raise window when rotating"
+msgstr "Hev vindu ved rotasjon"
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Roter kuben"
+
+msgid "Start Rotation"
+msgstr "Begynn rotasjon"
+
+msgid "Rotate Left"
+msgstr "Roter venstre"
+
+msgid "Rotate left"
+msgstr "Roter venstre"
+
+msgid "Rotate Right"
+msgstr "Roter høyre"
+
+msgid "Rotate right"
+msgstr "Roter høyre"
+
+msgid "Rotate Left with Window"
+msgstr "Roter venstre med vindu"
+
+msgid "Rotate left and bring active window along"
+msgstr "Roter venstre og trekk aktivt vindu med"
+
+msgid "Rotate Right with Window"
+msgstr "Roter høyre med vindu"
+
+msgid "Rotate right and bring active window along"
+msgstr "Roter høyre og trekk aktivt vindu med"
+
+msgid "Rotate To"
+msgstr "Roter til"
+
+msgid "Rotate to viewport"
+msgstr "Roter til arbeidsområde"
+
+msgid "Rotate window"
+msgstr "Roter vindu"
+
+msgid "Rotate with window"
+msgstr "Roter med vinduer"
+
+msgid "Rotate Flip Left"
+msgstr "Roter bytt venstre"
+
+# fuzzy
+msgid "Flip to left viewport and warp pointer"
+msgstr "Bytt til venstre arbeidsområde og 'warp' musepeker"
+
+msgid "Rotate Flip Right"
+msgstr "Roter bytt høyre"
+
+# fuzzy
+msgid "Flip to right viewport and warp pointer"
+msgstr "Bytt til høyre arbeidsområde og 'warp' musepeker"
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Roter til ansikt 1"
+
+msgid "Rotate To Face 1"
+msgstr "Roter til ansikt 1"
+
+msgid "Rotate to face 1"
+msgstr "Roter til ansikt 1"
+
+msgid "Rotate To Face 2"
+msgstr "Roter til ansikt 2"
+
+msgid "Rotate to face 2"
+msgstr "Roter til ansikt 2"
+
+msgid "Rotate To Face 3"
+msgstr "Roter til ansikt 3"
+
+msgid "Rotate to face 3"
+msgstr "Roter til ansikt 3"
+
+msgid "Rotate To Face 4"
+msgstr "Roter til ansikt 4"
+
+msgid "Rotate to face 4"
+msgstr "Roter til ansikt 4"
+
+msgid "Rotate To Face 5"
+msgstr "Roter til ansikt 5"
+
+msgid "Rotate to face 5"
+msgstr "Roter til ansikt 5"
+
+msgid "Rotate To Face 6"
+msgstr "Roter til ansikt 6"
+
+msgid "Rotate to face 6"
+msgstr "Roter til ansikt 6"
+
+msgid "Rotate To Face 7"
+msgstr "Roter til ansikt 7"
+
+msgid "Rotate to face 7"
+msgstr "Roter til ansikt 7"
+
+msgid "Rotate To Face 8"
+msgstr "Roter til ansikt 8"
+
+msgid "Rotate to face 8"
+msgstr "Roter til ansikt 8"
+
+msgid "Rotate To Face 9"
+msgstr "Roter til ansikt 9"
+
+msgid "Rotate to face 9"
+msgstr "Roter til ansikt 9"
+
+msgid "Rotate To Face 10"
+msgstr "Roter til ansikt 10"
+
+msgid "Rotate to face 10"
+msgstr "Roter til ansikt 10"
+
+msgid "Rotate To Face 11"
+msgstr "Roter til ansikt 11"
+
+msgid "Rotate to face 11"
+msgstr "Roter til ansikt 11"
+
+msgid "Rotate To Face 12"
+msgstr "Roter til ansikt 12"
+
+msgid "Rotate to face 12"
+msgstr "Roter til ansikt 12"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "Roter til ansikt 1 med vindu"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Roter til ansikt 1 med vindu"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Roter til ansikt 1 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Roter til ansikt 2 med vindu"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Roter til ansikt 2 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Roter til ansikt 3 med vindu"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Roter til ansikt 3 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Roter til ansikt 4 med vindu"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Roter til ansikt 4 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Roter til ansikt 5 med vindu"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Roter til ansikt 5 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Roter til ansikt 6 med vindu"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Roter til ansikt 6 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Roter til ansikt 7 med vindu"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Roter til ansikt 7 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Roter til ansikt 8 med vindu"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Roter til ansikt 8 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Roter til ansikt 9 med vindu"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Roter til ansikt 9 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Roter til ansikt 10 med vindu"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Roter til ansikt 10 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Roter til ansikt 11 med vindu"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Roter til ansikt 11 og trekk aktivt vindu med"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Roter til ansikt 12 med vindu"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Roter til ansikt 12 og trekk aktivt vindu med"
+
+msgid "Pointer Invert Y"
+msgstr "Musepeker inverter Y"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "inverter Y-akse for musebevegelse"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Musepeker inverter Y"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "inverter Y-akse for musebevegelse"
+
+msgid "Pointer Sensitivity"
+msgstr "Følsomhet for musepeker"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Følsomhet for musepekers bevegelse"
+
+msgid "Rotation Acceleration"
+msgstr "Akselerasjon for rotasjon"
+
+msgid "Snap To Top Face"
+msgstr "Smekk til topp"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Smekk kuberotasjon til toppen"
+
+msgid "Snap To Bottom Face"
+msgstr "Smekk til bunn"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Smekk kuberotasjon til bunnen"
+
+msgid "Rotation Speed"
+msgstr "Rotasjonshastighet"
+
+msgid "Rotation Timestep"
+msgstr "Tidsskritt for rotasjon"
+
+msgid "Zoom"
+msgstr "Forstørr"
+
+msgid "Rotation Zoom"
+msgstr "Rotasjonsforstørrelse"
+
+msgid "Scale"
+msgstr "Skaler"
+
+msgid "Scale windows"
+msgstr "Skaler vinduer"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Initiate Window Picker"
+msgstr "Begynn vindusplukker"
+
+msgid "Layout and start transforming windows"
+msgstr "Utform og start omdanning av vinduer"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Begynn vindusplukker for alle vinduer"
+
+msgid "Layout and start transforming all windows"
+msgstr "Utform og start omdanning av alle vinduer"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Begynn vindusplukker for vindusgruppen"
+
+msgid "Layout and start transforming window group"
+msgstr "Utform og start omdanning av vindusgruppe"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Begynn vindusplukker for vinduer på denne skjermen"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Utform og start omdanning av vinduer på denne skjermen"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Klikk skrivebord for å vise skrivebord"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "Start Visskrivebord-modus når skrivebord klikkes mens skalering pågår"
+
+msgid "Spacing"
+msgstr "Mellomrom"
+
+msgid "Space between windows"
+msgstr "Mellomrom mellom vinduer"
+
+msgid "Scale speed"
+msgstr "Skaleringshastighet"
+
+msgid "Scale timestep"
+msgstr "Tidsskritt for skalering"
+
+msgid "Darken Background"
+msgstr "Gjør bakgrunn mørkere"
+
+msgid "Darken background when scaling windows"
+msgstr "Gjør bakgrunn mørkere når vinduer skaleres"
+
+msgid "Amount of opacity in percent"
+msgstr "Dekkevne i prosent"
+
+msgid "Overlay Icon"
+msgstr "Ikon for overlapp"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Legg et ikon på vinduer når de skaleres"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Emblem"
+msgstr "Logo"
+
+msgid "Big"
+msgstr "Stor"
+
+msgid "Scale Windows"
+msgstr "Skaler vinduer"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Vinduer som skal skaleres i skalermodus"
+
+msgid "Hover Time"
+msgstr "Svevetid"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr "Tid (i ms) før skaleringsmodus avsluttes når det sveves over et vindu"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr "Velge hvor vinduene skaleres hvis flere skjermenheter brukes."
+
+msgid "On current output device"
+msgstr "På nåværende skjermenhet"
+
+msgid "On all output devices"
+msgstr "På alle skjermenheter"
+
+msgid "Screenshot"
+msgstr "Skjermbilde"
+
+msgid "Screenshot plugin"
+msgstr "Tillegg for skjermbilde"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Begynn rektangulært skjermbilde"
+
+msgid "Directory"
+msgstr "Katalog"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Legg skjermbilder i denne katalogen"
+
+msgid "Launch Application"
+msgstr "Kjør program"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Åpne skjermbilde automatisk med dette programmet"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Innlaster for svg-bilde"
+
+msgid "Application Switcher"
+msgstr "Programbytter"
+
+msgid "Next window"
+msgstr "Neste vindu"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Sprett opp skifter hvis ikke synlig og velg neste vindu"
+
+msgid "Prev window"
+msgstr "Forrige vindu"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Sprett opp skifter hvis ikke synlig og velg forrige vindu"
+
+msgid "Next window (All windows)"
+msgstr "Neste vindu (alle vinduer)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Sprett opp skifter hvis ikke synlig og velg neste vindu blant alle vinduer"
+
+msgid "Prev window (All windows)"
+msgstr "Forrige vindu (alle vinduer)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Sprett opp skifter hvis ikke synlig og velg forrige vindu blant alle vinduer"
+
+msgid "Next window (No popup)"
+msgstr "Neste vindu (ikke sprett-opp)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Velg neste vindu uten å vise oppsprettsvinduet"
+
+msgid "Prev window (No popup)"
+msgstr "Forrige vindu (ikke sprett-opp)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Velg forrige vindu uten å vise oppsprettsvinduet"
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "Skrivebordsplan"
+
+msgid "Select next panel type window."
+msgstr ""
+
+#, fuzzy
+msgid "Prev Panel"
+msgstr "Forrige bilde"
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "Velg forrige vindu uten å vise oppsprettsvinduet"
+
+msgid "Switcher speed"
+msgstr "Hastighet for skifter"
+
+msgid "Switcher timestep"
+msgstr "Tisskritt for skifter"
+
+msgid "Switcher windows"
+msgstr "Vinduer i skifteren"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Vinduer som skal vises i skifteren"
+
+msgid "Amount of saturation in percent"
+msgstr "Mengde metning i prosent"
+
+msgid "Amount of brightness in percent"
+msgstr "Mengde skarphet i prosent"
+
+msgid "Bring To Front"
+msgstr "Hent til front"
+
+msgid "Bring selected window to front"
+msgstr "Hent valgte vinduer til fornt"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Hvos mye skrivebordet skal forminskes ved vindusbytte"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Show icon next to thumbnail"
+msgstr "Vis ikon ved siden av miniatyr"
+
+msgid "Minimized"
+msgstr "Minimert"
+
+msgid "Show minimized windows"
+msgstr "Vis minimerte vinduer"
+
+msgid "Auto Rotate"
+msgstr "Autoroter"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Roter til det valgte vinduent mens skifting"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Skrivebordskube"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Roter til det valgte vinduent mens skifting"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Forrige bilde"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Skyggeradius"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Omriss"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Omriss-størrelsesendring av vinduer"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Bakgrunnsbilder"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Kantfarge"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Fyllfarge"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Skyggefarge"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "X-posisjoner på arbeidsområde"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Inn- og uttonende vinduer"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Vinduer som skal skaleres i skalermodus"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Flytt vindu"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Roter venstre"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Roter høyre"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Flytt vindu"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Roter med vinduer"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Roter venstre med vindu"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Roter høyre med vindu"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Flytt vindu"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Flytt vindu"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Kantbytt dra-og-slipp"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Roter bytt venstre"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Byttetid"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Roter bytt høyre"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Roter bytt høyre"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Byttetid"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Byttetid"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Kantbytt dra-og-slipp"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Plan nedover"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Hastighet for skifter"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Kantbytt dra-og-slipp"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "Bytt til neste arbeidsområde når musepekeren flyttes til skjermkanten"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "Bytt til neste arbeidsområde når vinduer flyttes til skjermkanten"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "Bytt til neste arbeidsområde når objekter dras til skjermkanten"
+
+msgid "Water Effect"
+msgstr "Vanneffekt"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Legg til vanneffekter for forskjellige skrivebordshendelser"
+
+msgid "Enable pointer water effects"
+msgstr "Bruk vanneffekter for musepeker"
+
+msgid "Toggle rain"
+msgstr "Skru av/på regn"
+
+msgid "Toggle rain effect"
+msgstr "Skru av/på regneffekten"
+
+msgid "Toggle wiper"
+msgstr "Skru av/på vindusvisker"
+
+msgid "Toggle wiper effect"
+msgstr "Skru av/på vindusviskereffekten"
+
+# fuzzy
+msgid "Offset Scale"
+msgstr "Skaleringsforskyvning"
+
+# fuzzy
+msgid "Water offset scale"
+msgstr "Skaleringsforskyvning for vann"
+
+msgid "Rain Delay"
+msgstr "Forsinkelse for regn"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Forsinkelse (i ms) mellom regndråper"
+
+msgid "Title wave"
+msgstr "Tittelbølge"
+
+msgid "Wave effect from window title"
+msgstr "Bølgeeffekt fra vindustittel"
+
+# fuzzy, "punkt" eller "pek"
+msgid "Point"
+msgstr "Punkt"
+
+msgid "Add point"
+msgstr "Legg til punkt"
+
+msgid "Line"
+msgstr "Linje"
+
+msgid "Add line"
+msgstr "Legg til linje"
+
+msgid "Wobbly Windows"
+msgstr "Ustødige vinduer"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Bruk fjæringsmodell for ustødighetseffekt for vinduer"
+
+msgid "Snap windows"
+msgstr "Smekk vinduer"
+
+msgid "Toggle window snapping"
+msgstr "Skru av/på vindussmekking"
+
+msgid "Snap Inverted"
+msgstr "Smekk omvendt"
+
+msgid "Inverted window snapping"
+msgstr "Omvendt vindussmekking"
+
+msgid "Shiver"
+msgstr "Skjelv"
+
+msgid "Make window shiver"
+msgstr "La vindu skjelve"
+
+msgid "Friction"
+msgstr "Friksjon"
+
+msgid "Spring Friction"
+msgstr "Fjæringsfriksjon"
+
+msgid "Spring K"
+msgstr "K for fjær"
+
+msgid "Spring Konstant"
+msgstr "Fjæringskonstant"
+
+msgid "Grid Resolution"
+msgstr "Oppløsning for rutenett"
+
+msgid "Vertex Grid Resolution"
+msgstr "Oppløsning for rutenett-vertex"
+
+msgid "Minimum Grid Size"
+msgstr "Minimumsstørrelse for rutenett"
+
+# fuzzy, hva i huleste er egentlig vertex?
+msgid "Minimum Vertex Grid Size"
+msgstr "Minimums størrelse for rutenett-vertex"
+
+msgid "Map Effect"
+msgstr "Kartleggingseffekt"
+
+msgid "Map Window Effect"
+msgstr "Kartleggingseffekt for vinduer"
+
+msgid "Focus Effect"
+msgstr "Fokuseffekt"
+
+msgid "Focus Window Effect"
+msgstr "Fokuseffekt for vindu"
+
+msgid "Map Windows"
+msgstr "Kartlegg vinduer"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Vinduer som skal være ustødige når de kartlegges"
+
+msgid "Focus Windows"
+msgstr "Fokuser vinduer"
+
+msgid "Windows that should wobble when focused"
+msgstr "Vinduer som skal være ustødige når de fokuseres"
+
+msgid "Grab Windows"
+msgstr "Grip vinduer"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Vinduer som skal være ustødige når de gripes"
+
+msgid "Move Windows"
+msgstr "Flytt vinduer"
+
+msgid "Windows that should wobble when moved"
+msgstr "Vinduer som skal være ustødige når de flyttes"
+
+msgid "Maximize Effect"
+msgstr "Maksimeringseffekt"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Ustødighetseffekt når vinduer maksimeres og avmaksimeres"
+
+msgid "Zoom Desktop"
+msgstr "Forstørr skrivebord"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Forstørr og panorer skrivebordskuben"
+
+msgid "Zoom In"
+msgstr "Forstørr"
+
+msgid "Zoom Out"
+msgstr "Forminsk"
+
+msgid "Zoom Pan"
+msgstr "Panorer forstørrelse"
+
+msgid "Zoom pan"
+msgstr "Forstørrelsespanorering"
+
+msgid "Zoom Speed"
+msgstr "Forstørringshastighet"
+
+msgid "Zoom Timestep"
+msgstr "Tidsskritt for forstørrelse"
+
+msgid "Zoom factor"
+msgstr "Forstørrelsesfaktor"
+
+msgid "Filter Linear"
+msgstr "Filtrer lineært"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Bruk lineært filter når forstørret"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Antall skrivebord"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Antall viruelle skrivebord"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Hendelse å sette i gang når man ruller musehjulet på et vindus "
+#~ "tittellinje."
+
+#~ msgid "Blur type"
+#~ msgstr "Sløringstype"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Dekkevne for aktive vinduer med Marco-tema"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Dekkevne for aktive vinduer med Marco-tema som er rullet opp"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Dekkevne for Marco-tema"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Dekkevne ved opprulling med Marco-tema"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "Dekkevne å bruke for aktive vinduer med Marco temadekorasjoner"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Dekkevne å bruke for Marco temadekorasjoner"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Skyggelegg aktive vinuder med Marco temadekorasjoner fra fulldekkende til "
+#~ "gjennomsiktig"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Skyggelegg vinduer med Marco temadekorasjoner fra fulldekkende til "
+#~ "gjennomsiktig"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Musehjulshendelse for tittellinje"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Type sløring som brukes for vindusdekorasjoner"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Bruk Marco-tema"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Bruk Marco-tema når vindusdekorasjoner tegnes"
+
+#~ msgid "Line width"
+#~ msgstr "Linjebredde"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Linjebredde for påføringer"
+
+#~ msgid "GConf"
+#~ msgstr "Gconf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Gconf kontrollmotor"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig kontrollmotor"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Reduser dekkevne"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "Øk dekkevne"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Kommandolinje for skjermbilde"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Kommandolinje for skjermbilde"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Dekkevneverdier for vinduer som skal være gjennomsiktige som standard"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Vinduer som blir påvirket"
+
+#~ msgid "Background images"
+#~ msgstr "Bakgrunnsbilder"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Plasser vinduer på et plan"
+
+#~ msgid "Plane Down"
+#~ msgstr "Plan ned"
+
+#~ msgid "Plane Left"
+#~ msgstr "Plan venstre"
+
+#~ msgid "Plane Right"
+#~ msgstr "Plan høyre"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Plan til ansikt 1"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Plan til ansikt 10"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Plan til ansikt 11"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Plan til ansikt 12"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Plan til ansikt 2"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Plan til ansikt 3"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Plan til ansikt 4"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Plan til ansikt 5"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Plan til ansikt 6"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Plan til ansikt 7"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Plan til ansikt 8"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Plan til ansikt 9"
+
+#~ msgid "Plane Up"
+#~ msgstr "Plan oppover"
+
+#~ msgid "Plane left"
+#~ msgstr "Plan til venstre"
+
+#~ msgid "Plane right"
+#~ msgstr "Plan til høyre"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Plan til ansikt 1"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Plan til ansikt 10"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Plan til ansikt 11"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Plan til ansikt 12"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Plan til ansikt 2"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Plan til ansikt 3"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Plan til ansikt 4"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Plan til ansikt 5"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Plan til ansikt 6"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Plan til ansikt 7"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Plan til ansikt 8"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Plan til ansikt 9"
+
+#~ msgid "Plane up"
+#~ msgstr "Plan opp"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Uttoningstid for dekkevnen til skrivebordsvinduer"

@@ -1,0 +1,3556 @@
+# Dutch translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+# Elve <elve@savage-elve.net>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2008-04-18 17:08+0200\n"
+"Last-Translator: Harald van Bree <harald@vanbree.nl.eu.org>\n"
+"Language-Team: Dutch <nl@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Close Window"
+msgstr "Venster sluiten"
+
+msgid "Unmaximize Window"
+msgstr "Demaximaliseer venster"
+
+msgid "Maximize Window"
+msgstr "Maximaliseer venster"
+
+msgid "Minimize Window"
+msgstr "Venster minimaliseren"
+
+msgid "Window Menu"
+msgstr "Venster menu"
+
+#, fuzzy
+msgid "Shade"
+msgstr "Schaal"
+
+msgid "Make Above"
+msgstr ""
+
+msgid "Stick"
+msgstr ""
+
+msgid "Unshade"
+msgstr ""
+
+msgid "Unmake Above"
+msgstr ""
+
+msgid "Unstick"
+msgstr ""
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Het venster \"%s\" reageert niet"
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Door deze applicatie geforceerd te sluiten kunt u niet opgeslagen "
+"wijzigingen kwijt raken."
+
+msgid "_Cancel"
+msgstr " _Annuleren"
+
+msgid "_Force Quit"
+msgstr ""
+
+msgid "Annotate"
+msgstr "Annoteer"
+
+msgid "Annotate plugin"
+msgstr "Annoteer plug-in"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Starten verwijdering"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Initiëer tekenen van annotatie"
+
+# Maybe "start" or "begin" would be better in dutch
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Initialiseren"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Initiëer tekenen van annotatie"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Starten verwijdering"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Initiëer tekenen van annotatie"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Starten verwijdering"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Initiëer tekenen van annotatie"
+
+msgid "Draw"
+msgstr "Teken"
+
+msgid "Draw using tool"
+msgstr "Teken met hulpmiddel"
+
+msgid "Initiate erase"
+msgstr "Starten verwijdering"
+
+msgid "Initiate annotate erasing"
+msgstr "Initiëer verwĳderen van annotatie"
+
+msgid "Clear"
+msgstr "Wissen"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Schakel actief venster schaduw"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Annoteer opvul kleur"
+
+msgid "Fill color for annotations"
+msgstr "Opvul kleur voor annotatie's"
+
+msgid "Annotate Stroke Color"
+msgstr "Annoteer doorhaal kleur"
+
+msgid "Stroke color for annotations"
+msgstr "Doorhaal kleur voor annotaties"
+
+msgid "Stroke width"
+msgstr "Doorhaal breedte"
+
+msgid "Stroke width for annotations"
+msgstr "Doorhaal breedte voor annotaties"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Blur Windows"
+msgstr "Vervagen Vensters"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Blur windows"
+msgstr "Vensters vervagen"
+
+msgid "Pulse"
+msgstr "Puls"
+
+msgid "Pulse effect"
+msgstr "Puls effect"
+
+msgid "Blur Speed"
+msgstr "Vervagen snelheid"
+
+msgid "Window blur speed"
+msgstr "Venster vervagen snelheid"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Focus blur windows"
+msgstr "Focus vervagen vensters"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Vensters die aanmerking komen voor focus vervagen"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Focus Blur"
+msgstr "Focus vervagen"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Vervagen vensters zonder focus"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Alpha blur windows"
+msgstr "Aplha vervaging vensters"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Vensters die alpha vervagen standaard moeten gebruiken"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Alpha Blur"
+msgstr "Alpha Vervaging"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Vervagen achter doorzichtige onderdelen van vensters"
+
+msgid "Blur Filter"
+msgstr "Vervagen filter"
+
+msgid "Filter method used for blurring"
+msgstr "Filter methode voor vervagen"
+
+msgid "4xBilinear"
+msgstr "4xBilinear"
+
+msgid "Gaussian"
+msgstr "Gaussisch"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "Gaussische Radius"
+
+msgid "Gaussian radius"
+msgstr "Gaussische radius"
+
+msgid "Gaussian Strength"
+msgstr "Gaussische Sterkte"
+
+msgid "Gaussian strength"
+msgstr "Gaussische sterkte"
+
+msgid "Mipmap LOD"
+msgstr "Mipmap LOD"
+
+msgid "Mipmap level-of-detail"
+msgstr "Mipmap detail-niveau"
+
+msgid "Blur Saturation"
+msgstr "Vervagen verzadiging"
+
+msgid "Blur saturation"
+msgstr "Vervagen verzadiging"
+
+msgid "Blur Occlusion"
+msgstr "Vervagen verbergen"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+"Uitschakelen van vervagen van scherm-regio's bedekt door andere vensters."
+
+msgid "Independent texture fetch"
+msgstr ""
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+
+msgid "Clone Output"
+msgstr "Kloon uitvoer"
+
+msgid "Output clone handler"
+msgstr "Kloon uitvoer afhandelaar"
+
+# Maybe "start" or "begin" would be better in dutch
+msgid "Initiate"
+msgstr "Initialiseren"
+
+msgid "Initiate clone selection"
+msgstr "Start kloon selectie"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Opdracht"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+msgid "Command line 0"
+msgstr "Commando regel 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Commando regel om uit te voerenin de shell als run_command0 aangeroepen wordt"
+
+msgid "Command line 1"
+msgstr "Commando regel 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+msgid "Command line 2"
+msgstr "Commando regel 2 "
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command2 aangeroepen wordt"
+
+msgid "Command line 3"
+msgstr "Commando regel 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command3 aangeroepen wordt"
+
+msgid "Command line 4"
+msgstr "Commando regel 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command4 aangeroepen wordt"
+
+msgid "Command line 5"
+msgstr "Commando regel 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command5 aangeroepen wordt"
+
+msgid "Command line 6"
+msgstr "Commando regel 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command6 aangeroepen wordt"
+
+msgid "Command line 7"
+msgstr "Commando regel 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command7 aangeroepen wordt"
+
+msgid "Command line 8"
+msgstr "Commando regel 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command8 aangeroepen wordt"
+
+msgid "Command line 9"
+msgstr "Commando regel 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command9 aangeroepen wordt"
+
+msgid "Command line 10"
+msgstr "Commando regel 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command10 aangeroepen "
+"wordt"
+
+msgid "Command line 11"
+msgstr "Commando regel 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command11 aangeroepen "
+"wordt"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Commando regel 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Commando regel 2 "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Commando regel om uit te voerenin de shell als run_command0 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Commando regel 2 "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command1 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Commando regel 2 "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command2 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Commando regel 2 "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command2 aangeroepen wordt"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Commando regel 2 "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Command regel die uitgevoerd moet worden als start_command2 aangeroepen wordt"
+
+msgid "Key Bindings"
+msgstr ""
+
+msgid "Run command 0"
+msgstr "Start commando 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Een toetsbinding, die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando0"
+
+msgid "Run command 1"
+msgstr "Start commando 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+msgid "Run command 2"
+msgstr "Start commando 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+msgid "Run command 3"
+msgstr "Start commando 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando3"
+
+msgid "Run command 4"
+msgstr "Start commando 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando4"
+
+msgid "Run command 5"
+msgstr "Start commando 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando5"
+
+msgid "Run command 6"
+msgstr "Start commando 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando6"
+
+msgid "Run command 7"
+msgstr "Start commando 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando7"
+
+msgid "Run command 8"
+msgstr "Start commando 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando8"
+
+msgid "Run command 9"
+msgstr "Start commando 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando9"
+
+msgid "Run command 10"
+msgstr "Start commando 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando10"
+
+msgid "Run command 11"
+msgstr "Start commando 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando11"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Start commando 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Start commando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Start commando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Start commando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Start commando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Start commando 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+msgid "Button Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Een toetsbinding, die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando0"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando3"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando4"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando5"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando6"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando7"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando8"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando9"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando10"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando11"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Een toetsbinding, die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando0"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando3"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando4"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando5"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando6"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando7"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando8"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando9"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando10"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando11"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando1"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Een toetsbinding die wanneer gekozen een shell opdracht zal uitvoeren "
+"herkenbaar aan commando2"
+
+msgid "General Options"
+msgstr "Algemene opties"
+
+msgid "General compiz options"
+msgstr "Algemene compiz opties"
+
+msgid "Active Plugins"
+msgstr "Actieve plugins"
+
+msgid "List of currently active plugins"
+msgstr "Lijst met actieve plung-ins"
+
+msgid "Audible Bell"
+msgstr "Hoorbaar signaal"
+
+msgid "Audible system beep"
+msgstr "Hoorbare systeem piep"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Negeer tips wanneer gemaximalizeerd"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "Negeer vergroting en aspect hints indien venster is gemaximaliseerd"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Verberg taakbalk overgeslagen vensters"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Verberg vensters die niet in de taakbalk staan als Toon Bureaublad modus "
+"ingeschakeld wordt"
+
+msgid "Edge Trigger Delay"
+msgstr ""
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Ping vertraging"
+
+msgid "Interval between ping messages"
+msgstr "Interval tussen ping berichten"
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Texture Filter"
+msgstr "Texturen filter"
+
+msgid "Texture filtering"
+msgstr "Texturen filteren"
+
+msgid "Fast"
+msgstr "Snel"
+
+msgid "Good"
+msgstr "Goed"
+
+msgid "Best"
+msgstr "Best"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Klik voor focus"
+
+msgid "Click on window moves input focus to it"
+msgstr "Klik op venster neemt invoer focus mee"
+
+msgid "Raise On Click"
+msgstr "Op voorgrond na klikken"
+
+msgid "Raise windows when clicked"
+msgstr "Breng venster naar de voorgrond na aanklikken"
+
+# /usr/lib/YaST2/clients/dialup_dev_cfg.ycp:80
+msgid "Auto-Raise"
+msgstr "Automatisch naar de voorgrond"
+
+msgid "Raise selected windows after interval"
+msgstr "Breng venster naar de voorgrond na interval"
+
+msgid "Auto-Raise Delay"
+msgstr "Automatisch naar de voorgrond vetraging"
+
+msgid "Interval before raising selected windows"
+msgstr "interval voor het omhoogbrengen van geselecteerd venster"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "Sluit actief venster"
+
+msgid "Raise Window"
+msgstr "Venster naar de voorgrond"
+
+msgid "Raise window above other windows"
+msgstr "Breng venster op voorgrond over andere vensters"
+
+msgid "Lower Window"
+msgstr "Laat venster zakken"
+
+msgid "Lower window beneath other windows"
+msgstr "Laat venster zakken achter andere vensters"
+
+msgid "Unmaximize active window"
+msgstr "Demaximaliseer actief venster"
+
+msgid "Minimize active window"
+msgstr "Minimaliseer actief venster"
+
+msgid "Maximize active window"
+msgstr "Maximaliseer actief venster"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maximaliseer venster horizontaal"
+
+msgid "Maximize active window horizontally"
+msgstr "Maximaliseer actief venster horizontaal"
+
+msgid "Maximize Window Vertically"
+msgstr "Maximaliseer venster verticaal"
+
+msgid "Maximize active window vertically"
+msgstr "Maximaliseer actief venster verticaal"
+
+msgid "Window menu button binding"
+msgstr "Venster menu knop verbinding"
+
+msgid "Window menu key binding"
+msgstr "Venster menu knop verbinding"
+
+msgid "Show Desktop"
+msgstr "Toon bureaublad"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Verberg alle vensters en laat bureaublad zien"
+
+msgid "Toggle Window Maximized"
+msgstr "Schakel venster gemaximaliseerd"
+
+msgid "Toggle active window maximized"
+msgstr "Schakel actief venster gemaximaliseerd"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Schakel venster horizontaal gemaximaliseerd"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Schakel actief venster horizontaal gemaximaliseerd"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Schakel venster vertikaal gemaximaliseerd"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Schakel actief venster vertikaal gemaximaliseerd"
+
+msgid "Toggle Window Shaded"
+msgstr "Schakel venster opgerold"
+
+msgid "Toggle active window shaded"
+msgstr "Schakel actief venster schaduw"
+
+msgid "Slow Animations"
+msgstr "Langzame animaties"
+
+msgid "Toggle use of slow animations"
+msgstr "Schakel het gebruik van langzame animaties"
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Bureaublad kubus"
+
+msgid "Horizontal Virtual Size"
+msgstr "Virtuele horizontale grootte"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Schermgrootte vermenigvuldiger voor horizontale grootte"
+
+msgid "Vertical Virtual Size"
+msgstr "Verticale virtuele grootte"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "scherm grootte vermenigvuldiger voor verticale grootte"
+
+msgid "Lighting"
+msgstr "Belichting"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Gebruik diffuus licht als het scherm wordt getransformeerd"
+
+msgid "Detect Refresh Rate"
+msgstr "Detecteer verversings snelheid"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Automatische herkenning van verversings snelheid"
+
+msgid "Refresh Rate"
+msgstr "Verversings snelheid"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "De snelheid waarin een scherm opnieuw getekend wordt (tijd/seconden)"
+
+msgid "Detect Outputs"
+msgstr "Detecteer uitvoer"
+
+msgid "Automatic detection of output devices"
+msgstr "Automatische herkenning van uitvoer apparaten"
+
+msgid "Overlapping Output Handling"
+msgstr ""
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr ""
+
+#, fuzzy
+msgid "Smart mode"
+msgstr "Slim"
+
+msgid "Prefer larger output"
+msgstr ""
+
+msgid "Prefer smaller output"
+msgstr ""
+
+msgid "Outputs"
+msgstr "Uitvoer"
+
+msgid "List of strings describing output devices"
+msgstr "Lijst met strings die uitvoer apparaten omschrĳven"
+
+msgid "Sync To VBlank"
+msgstr "Sync naar VBlank"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Scherm alleen bijwerken tijdens verticale blanking periode"
+
+#, fuzzy
+msgid "Focus Prevention Level"
+msgstr "Focus Vensters Voorkomen"
+
+msgid "Level of focus stealing prevention"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "High"
+msgstr ""
+
+msgid "Very High"
+msgstr ""
+
+msgid "Focus Prevention Windows"
+msgstr "Focus Vensters Voorkomen"
+
+msgid "Focus prevention windows"
+msgstr "Focus vensters voorkomen"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Niet omleiden van volledig scherm vensters"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Sta volledig scherm vensters toe om niet omgeleid te worden naar off-screen "
+"pixmaps"
+
+# /usr/lib/YaST2/clients/lan_address.ycp:88
+msgid "Default Icon"
+msgstr "Standaard pictogram"
+
+msgid "Default window icon image"
+msgstr "Standaard venster pictogram afbeelding"
+
+msgid "Force independent output painting."
+msgstr ""
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Compression"
+msgstr "Texturen filteren"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+
+msgid "Desktop Cube"
+msgstr "Bureaublad kubus"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Place windows on cube"
+msgstr "Plaats venster op de kubus"
+
+msgid "Unfold"
+msgstr "Uitvouwen"
+
+msgid "Unfold cube"
+msgstr "kubus uitvouwen"
+
+msgid "Next Slide"
+msgstr "Volgende dia"
+
+msgid "Advance to next slide"
+msgstr "Door naar de volgende afbeelding"
+
+msgid "Prev Slide"
+msgstr "Vorige dia"
+
+msgid "Go back to previous slide"
+msgstr "Ga terug naar vorige dia"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Genereer mipmap waarmogelijk voor een hogere schalings kwaliteit"
+
+msgid "Multi Output Mode"
+msgstr "Multi uitvoer modus"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Selecteer hoe de kubus wordt weergegeven als er meerdere uitvoer apparaten "
+"gebruikt worden"
+
+# /usr/lib/YaST2/clients/dialup_dev_cfg.ycp:80
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Multiple cubes"
+msgstr "Meerdere kubussen"
+
+#, fuzzy
+msgid "One big cube"
+msgstr "Een grote kubus"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "Binnen in de kubus"
+
+msgid "Inside cube"
+msgstr "Binnen in de kubus"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:812
+msgid "Acceleration"
+msgstr "Versnelling"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:812
+msgid "Fold Acceleration"
+msgstr "Uitvouw versnelling"
+
+msgid "Speed"
+msgstr "Snelheid"
+
+msgid "Fold Speed"
+msgstr "Uitvouw snelheid"
+
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:821
+msgid "Timestep"
+msgstr "Tijdstempel"
+
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:821
+msgid "Fold Timestep"
+msgstr "Vouw tijdstap"
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Cube Color"
+msgstr "Kubus kleur"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Kleur van de onder en boven zijde van de kubus"
+
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Kubus kleur"
+
+msgid "Scale image"
+msgstr "Afbeelding oprekken"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Afbeelding oprekken om de boven zijde van de kubus te bedekken"
+
+msgid "Image files"
+msgstr "Afbeeldings bestanden"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Lijst van PNG en SVG bestanden die afgebeeld moeten worden op de bovenzijde "
+"van de kubus"
+
+msgid "Adjust Image"
+msgstr "Afbeelding bijstellen"
+
+msgid "Adjust top face image to rotation"
+msgstr "Top zijde afbeelding bijstellen op rotatie"
+
+msgid "Skydome"
+msgstr "Hemelkoepel"
+
+msgid "Render skydome"
+msgstr "Render Skydome"
+
+msgid "Skydome Image"
+msgstr "Hemelkoepel afbeelding"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Te gebruiken afbeelding voor skydome"
+
+msgid "Animate Skydome"
+msgstr "Geanimeerde skydome"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animeer skydome tijdens draaien van kubus"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Hemelkoepel gradatie start kleur"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"Kleur om te gebruiken voor het bovenste einde van de gradatie die wordt "
+"gebruikt als hemelkoepel terugval"
+
+msgid "Skydome Gradient End Color"
+msgstr "Hemelkoepel gradatie eind kleur"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"Kleur om te gebruiken voor het onderste einde van de gradatie gebruikt als "
+"terugval voor de hemelkoepel"
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr "Doorzichtig tijdens draaien"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Ondoorzichtigheid van het bureaublad tijdens het draaien."
+
+msgid "Opacity When Not Rotating"
+msgstr "Doorzichtig tijdens niet draaien"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Doorzichtig van het bureaublad tijdens het niet draaien"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Doorschijnend alleen tijdens draaien met de muis"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr ""
+"Initialiseer kubus transparantie alleen als rotatie via de muis gestuurd "
+"wordt"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus control backend"
+
+msgid "Window Decoration"
+msgstr "Venster decoratie"
+
+msgid "Window decorations"
+msgstr "Venster decoraties"
+
+msgid "Shadow Radius"
+msgstr "Schaduw omtrek"
+
+msgid "Drop shadow radius"
+msgstr "Schaduw omtrek"
+
+msgid "Shadow Opacity"
+msgstr "Schaduw ondoorzichtigheid"
+
+msgid "Drop shadow opacity"
+msgstr "Slagschaduw opaciteit"
+
+msgid "Shadow Color"
+msgstr "Schaduw kleur"
+
+msgid "Drop shadow color"
+msgstr "Schaduw kleur"
+
+msgid "Shadow Offset X"
+msgstr "Schaduw X offset"
+
+msgid "Drop shadow X offset"
+msgstr "Slagschaduw X offset"
+
+msgid "Shadow Offset Y"
+msgstr "Schaduw Y offset"
+
+msgid "Drop shadow Y offset"
+msgstr "Slagschaduw Y offset"
+
+msgid "Command"
+msgstr "Opdracht"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Decorator commandoregel die uitgevoerd wordt als er nog geen decorator draait"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Sta toe dat mipmaps gegenereerd worden voor decoratie texturen"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Decoration windows"
+msgstr "Venster decoratie"
+
+msgid "Windows that should be decorated"
+msgstr "Vensters met decoratie"
+
+msgid "Shadow windows"
+msgstr "Schaduw vensters"
+
+msgid "Windows that should have a shadow"
+msgstr "Vensters met schaduw"
+
+msgid "Fading Windows"
+msgstr "Vervagende vensters"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Invagen van vensters als ze gemapped worden en uitvagen als ze gedemapped "
+"worden"
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "Verduisteren tijdsduur"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Venster vervaag snelheid"
+
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:821
+#, fuzzy
+msgid "Constant speed"
+msgstr "Rotatie snelheid"
+
+#, fuzzy
+msgid "Constant time"
+msgstr "Begrens Y"
+
+msgid "Fade Speed"
+msgstr "Vervaag snelheid"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Vensters die geschaald moeten worden in schaal modus"
+
+msgid "Fade Time"
+msgstr "Verduisteren tijdsduur"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Fade windows"
+msgstr "Vervaag vensters"
+
+msgid "Windows that should be fading"
+msgstr "Vensters die moeten vervagen"
+
+msgid "Visual Bell"
+msgstr "Visueel alarm"
+
+msgid "Fade effect on system beep"
+msgstr "Vervaag effect bij systeem piep"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Visueel alarm is volledigscherm"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Volledig scherm vervagen bĳ systeem piep"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Vervaag bij Minimaliseren/Openen/Sluiten"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Vervaag effect bij Minimaliseren/Openen/Sluiten"
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Normale grootte aanpassing van vensters"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr "Gebruikers bestandssyteem"
+
+msgid "Userspace file system"
+msgstr "Gebruikers bestandssysteem"
+
+msgid "Mount Point"
+msgstr "Koppel punt"
+
+msgid "Mount point"
+msgstr "Koppel punt"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "GLib main loop ondersteuning"
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Toon Hoofdmenu"
+
+msgid "Show the main menu"
+msgstr "Toon hoofdmenu"
+
+# /usr/lib/YaST2/clients/dialup_dev_cfg.ycp:336
+msgid "Run Dialog"
+msgstr "Uitvoeren dialoog"
+
+msgid "Show Run Application dialog"
+msgstr "Toon start applicatie dialoog venster"
+
+msgid "Screenshot command line"
+msgstr "Schermafdruk commodo regel"
+
+msgid "Take a screenshot"
+msgstr "Maak een schermafdruk"
+
+msgid "Window screenshot command line"
+msgstr "Venster schermafdruk commando"
+
+msgid "Take a screenshot of a window"
+msgstr "Maak een schermafdruk van een venster"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Terminal commando regel"
+
+msgid "Terminal command line"
+msgstr "Terminal commando regel"
+
+msgid "Open a terminal"
+msgstr "Een terminal openen"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini platte tekst backend"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Bestands wijziging meldings plug-in"
+
+msgid "Minimize Effect"
+msgstr "Minimaliseer effect"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr ""
+"Transformeer vensters als deze worden geminimaliseerd en gemaximaliseerd"
+
+msgid "Minimize speed"
+msgstr "Minimaliseer snelheid"
+
+msgid "Minimize timestep"
+msgstr "Minimaliseer tijdstempel"
+
+msgid "Minimize Windows"
+msgstr "Venster minimaliseren"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Te transformeren vesters tijdens minimaliseren"
+
+msgid "Shade Resistance"
+msgstr "Oprol weerstand"
+
+msgid "Shade resistance"
+msgstr "Oprol weerstand"
+
+msgid "Move Window"
+msgstr "Verplaats venster"
+
+msgid "Move window"
+msgstr "Verplaats venster"
+
+msgid "Initiate Window Move"
+msgstr "Start venster verplaatsing"
+
+msgid "Start moving window"
+msgstr "Start vensters verplaatsen"
+
+msgid "Opacity"
+msgstr "Ondoorzichtigheid"
+
+msgid "Opacity level of moving windows"
+msgstr "Ondoorzichtigheid van vensters als zij worden verplaatst"
+
+msgid "Constrain Y"
+msgstr "Begrens Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Begrens Y coördinaat tot werkruimte gebied"
+
+msgid "Snapoff maximized windows"
+msgstr "Los springen van gemaximaliseerde vensters"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+"Los springen en auto de-maximaliseren van vensters als zij versleept worden"
+
+msgid "Lazy Positioning"
+msgstr "Luie positionering"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Werk de server-zijde positie niet bij van vensters totdat deze klaar is met "
+"verplaatsen"
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "Doorzichtig tijdens draaien"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Verhoog venster opaciteit"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Opaciteit verander stap"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Verminderen venster opaciteit"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Opaciteit verander stap"
+
+msgid "Brightness"
+msgstr "Helderheid"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Helderheid"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Helderheid"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Helderheid"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Helderheid"
+
+msgid "Saturation"
+msgstr "Verzadiging"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Vervagen verzadiging"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Verzadiging"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Vervagen verzadiging"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Verzadiging"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "Opaciteit stap"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Venster decoraties"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+#, fuzzy
+msgid "Windows"
+msgstr "Vervagen Vensters"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "Vensters die standaard licht doorlatend moeten zijn"
+
+#, fuzzy
+msgid "Window values"
+msgstr "Venster opaciteit waarde"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Ondoorzichtigheid van vensters als zij worden verplaatst"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Helderheid"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "Vensters die standaard gepositioneerd moeten worden"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Verzadiging"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "Vensters die standaard gepositioneerd moeten worden"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Place Windows"
+msgstr "Plaats venster"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Plaats vensters op toepasselĳke positie's bĳ mapping"
+
+msgid "Workarounds"
+msgstr ""
+
+msgid "Window placement workarounds"
+msgstr "Venster plaatsing workarounds"
+
+msgid "Placement Mode"
+msgstr "Plaatsing modus"
+
+msgid "Algorithm to use for window placement"
+msgstr "Te gebruiken algoritme om vensters te plaatsen"
+
+msgid "Cascade"
+msgstr "Achter elkaar"
+
+msgid "Centered"
+msgstr "Gecentreerd"
+
+msgid "Smart"
+msgstr "Slim"
+
+msgid "Maximize"
+msgstr "Maximaliseer"
+
+msgid "Random"
+msgstr "Willekeurig"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Rand kantel aanwĳzer"
+
+#, fuzzy
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Selecteert waar vensters worden geschaald als meerdere uitvoer apparaten "
+"worden gebruikt."
+
+#, fuzzy
+msgid "Use active output device"
+msgstr "Op alle uitvoer apparaten"
+
+msgid "Use output device with pointer"
+msgstr ""
+
+msgid "Use output device of focused window"
+msgstr ""
+
+msgid "Place across all outputs"
+msgstr ""
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "Focus Vensters Voorkomen"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Venster Beheer"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Venster decoraties"
+
+msgid "Positioned windows"
+msgstr "Gepositioneerde vensters"
+
+msgid "Windows that should be positioned by default"
+msgstr "Vensters die standaard gepositioneerd moeten worden"
+
+msgid "X Positions"
+msgstr "X positie"
+
+msgid "X position values"
+msgstr "X positie waarden"
+
+msgid "Y Positions"
+msgstr "Y positie's"
+
+msgid "Y position values"
+msgstr "Y positie waarden"
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Venster decoraties"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Vensters die standaard gepositioneerd moeten worden"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Verduisteren tijdsduur"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Gepositioneerde vensters"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+msgid "Viewport positioned windows"
+msgstr "Viewport gepositioneerde vensters"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Vensters die gepositioneerd moeten worden in een specifieke viewport"
+
+msgid "X Viewport Positions"
+msgstr "X viewport positie's"
+
+msgid "Horizontal viewport positions"
+msgstr "Horizontale viewport positie's"
+
+msgid "Y Viewport Positions"
+msgstr "Y viewport positie's"
+
+msgid "Vertical viewport positions"
+msgstr "Verticale viewport positie"
+
+msgid "Png"
+msgstr "PNG"
+
+msgid "Png image loader"
+msgstr "PNG afbeelding lader"
+
+msgid "Regex Matching"
+msgstr ""
+
+msgid "Regex window matching"
+msgstr "Regex matching voor vensters"
+
+msgid "Resize Window"
+msgstr "Grootte aanpassing venster"
+
+msgid "Resize window"
+msgstr "Grootte aanpassing venster"
+
+msgid "Bindings"
+msgstr ""
+
+msgid "Initiate Normal Window Resize"
+msgstr "Initiëer normale venster grootte aanpassing"
+
+msgid "Start resizing window normally"
+msgstr "Start grootte aanpassing venster normaal"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Initiëer omtrek venster grootte aanpassing"
+
+msgid "Start resizing window with outline"
+msgstr "Begin grootte aanpassing van venster net omtrek"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Initiëer rechthoek venster grootte aanpassing"
+
+msgid "Start resizing window with rectangle"
+msgstr "Begin met grootte aanpassing met rechthoek"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Initiëer rekken venster grootte aanpassing"
+
+msgid "Start resizing window by stretching it"
+msgstr "Begin met grootte aanpassing door het op te rekken"
+
+msgid "Initiate Window Resize"
+msgstr "Initiëer venster grootte aanpassing"
+
+msgid "Start resizing window"
+msgstr "Begin met grootte aanpassing venster"
+
+msgid "Default Resize Mode"
+msgstr "Standaard grootte aanpassing modus"
+
+msgid "Default mode used for window resizing"
+msgstr "Standaard modus gebruikt voor grootte aanpassing van vensters"
+
+msgid "Outline"
+msgstr "Omtrek"
+
+msgid "Rectangle"
+msgstr "Rechthoek"
+
+msgid "Stretch"
+msgstr "Rekken"
+
+msgid "Border Color"
+msgstr "Rand kleur"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Rand kleur gebruikt voor omtrek en rechthoek grootte aanpassing modi"
+
+msgid "Fill Color"
+msgstr "Vul kleur"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Vul kleur gebruikt voor de rechthoek grootte aanpassing modus"
+
+msgid "Normal Resize Windows"
+msgstr "Normale grootte aanpassing van vensters"
+
+msgid "Windows that normal resize should be used for"
+msgstr ""
+"Vensters waar normale grootte aanpassing voor gebruikt zou moeten worden"
+
+msgid "Outline Resize Windows"
+msgstr "Omtrek grootte aanpassing van vensters"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Vensters waarvoor omtrek grootte aanpassing gebruikt zou moeten worden"
+
+msgid "Rectangle Resize Windows"
+msgstr "Rechthoek grootte aanpassing"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr ""
+"Vensters waarvoor rechthoek grootte aanpassing gebruikt zou moeten worden"
+
+msgid "Stretch Resize Windows"
+msgstr "Rekken grootte aanpassing van vensters"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Vensters waarvoor rekken grootte aanpassing gebruikt zou moeten worden"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+msgid "Rotate Cube"
+msgstr "Roteer kubus"
+
+msgid "Rotate desktop cube"
+msgstr "Roteer bureaublad kubus"
+
+msgid "Edge Flip Pointer"
+msgstr "Rand kantel aanwĳzer"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Kantel naar volgende viewport als de aanwĳzer naar de schermrand wordt "
+"verplaatst"
+
+msgid "Edge Flip Move"
+msgstr "Rand kantel verplaatsen"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Kantel naar volgende viewport als venster wordt verplaatst naar schermrand"
+
+msgid "Edge Flip DnD"
+msgstr "Rand kantel verslepen"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Kantel naar volgende viewport als een object naar de scherm rand wordt "
+"versleept"
+
+msgid "Flip Time"
+msgstr "Kantel tĳd"
+
+msgid "Timeout before flipping viewport"
+msgstr "Timeout voor kantelen viewport"
+
+msgid "Raise on rotate"
+msgstr "Omhoog halen bĳ roteren"
+
+msgid "Raise window when rotating"
+msgstr "Verhef venster bĳ roteren"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Roteer kubus"
+
+msgid "Start Rotation"
+msgstr "Begin rotatie"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+msgid "Rotate Left"
+msgstr "Roteer links"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+msgid "Rotate left"
+msgstr "Roteer naar links"
+
+msgid "Rotate Right"
+msgstr "Roteer rechts"
+
+msgid "Rotate right"
+msgstr "Roteer naar rechts"
+
+msgid "Rotate Left with Window"
+msgstr "Roteer links met venster"
+
+msgid "Rotate left and bring active window along"
+msgstr "Roteer naar links en neem actief venster mee"
+
+msgid "Rotate Right with Window"
+msgstr "Roteer naar rechts met venster"
+
+msgid "Rotate right and bring active window along"
+msgstr "Roteer naar rechts en neem venster mee"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+msgid "Rotate To"
+msgstr "Roteer naar"
+
+msgid "Rotate to viewport"
+msgstr "Roteer naar viewport"
+
+msgid "Rotate window"
+msgstr "Roteer venster"
+
+msgid "Rotate with window"
+msgstr "Roteer met venster"
+
+msgid "Rotate Flip Left"
+msgstr "Roteer kantel links"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Kantel naar linker viewport en warp aanwĳzer"
+
+msgid "Rotate Flip Right"
+msgstr "Roteer kantel rechts"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Kantel naar rechter viewport en warp aanwĳzer"
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Roteer naar zĳde 1"
+
+msgid "Rotate To Face 1"
+msgstr "Roteer naar zĳde 1"
+
+msgid "Rotate to face 1"
+msgstr "Roteer naar zĳde 1"
+
+msgid "Rotate To Face 2"
+msgstr "Roteer naar zĳde 2"
+
+msgid "Rotate to face 2"
+msgstr "Roteer naar zĳde 2"
+
+msgid "Rotate To Face 3"
+msgstr "Roteer naar zĳde 3"
+
+msgid "Rotate to face 3"
+msgstr "Roteer naar zĳde 3"
+
+msgid "Rotate To Face 4"
+msgstr "Roteer naar zĳde 4"
+
+msgid "Rotate to face 4"
+msgstr "Roteer naar zĳde 4"
+
+msgid "Rotate To Face 5"
+msgstr "Roteer naar zĳde 5"
+
+msgid "Rotate to face 5"
+msgstr "Roteer naar zĳde 5"
+
+msgid "Rotate To Face 6"
+msgstr "Roteer naar zĳde 6"
+
+msgid "Rotate to face 6"
+msgstr "Roteer naar zĳde 6"
+
+msgid "Rotate To Face 7"
+msgstr "Roteer naar zĳde 7"
+
+msgid "Rotate to face 7"
+msgstr "Roteer naar zĳde 7"
+
+msgid "Rotate To Face 8"
+msgstr "Roteer naar zĳde 8"
+
+msgid "Rotate to face 8"
+msgstr "Roteer naar zĳde 8"
+
+msgid "Rotate To Face 9"
+msgstr "Roteer naar zĳde 9"
+
+msgid "Rotate to face 9"
+msgstr "Roteer naar zĳde 9"
+
+msgid "Rotate To Face 10"
+msgstr "Roteer naar zĳde 10"
+
+msgid "Rotate to face 10"
+msgstr "Roteer naar zĳde 10"
+
+msgid "Rotate To Face 11"
+msgstr "Roteer naar zĳde 11"
+
+msgid "Rotate to face 11"
+msgstr "Roteer naar zĳde 11"
+
+msgid "Rotate To Face 12"
+msgstr "Roteer naar zĳde 12"
+
+msgid "Rotate to face 12"
+msgstr "Roteer naar zĳde 12"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "Roteer naar zĳde 1 met venster"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Roteer naar zĳde 1 met venster"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Roteer naar zĳde 1 en neem actief venster mee"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Roteer naar zĳde 2 met venster"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Roteer naar zĳde 2 en neem actief venster mee"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Roteer naar zĳde 3 met venster"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Roteer naar zĳde 3 en neem actief venster mee"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Roteer naar zĳde 4 met venster"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Roteer naar zĳde 4 en neem actief venster mee"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Roteer naar zĳde 5 met venster"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Roteer naar zĳde 5 en neem actief venster mee"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Roteer naar zĳde 6 met venster"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Roteer naar zĳde 6 en neem actief venster mee"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Roteer naar zĳde 7 met venster"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Roteer naar zĳde 7 en neem actief venster mee"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Roteer naar zĳde 8 met venster"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Roteer naar zĳde 8 en neem actief venster mee"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Roteer naar zĳde 9 met venster"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Roteer naar zĳde 9 en neem actief venster mee"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Roteer naar zĳde 10 met venster"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Roteer naar zĳde 10 en neem actief venster mee"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Roteer naar zĳde 11 met venster"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Roteer naar zĳde 11 en neem actief venster mee"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Roteer naar zĳde 12 met venster"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Roteer naar zĳde 12 en neem actief venster mee"
+
+msgid "Pointer Invert Y"
+msgstr "Aanwĳzer Y inverteren"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Inverteer Y as voor aanwĳzer beweging"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Aanwĳzer Y inverteren"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Inverteer Y as voor aanwĳzer beweging"
+
+# /usr/lib/YaST2/clients/printconf_filter.ycp:200
+msgid "Pointer Sensitivity"
+msgstr "Aanwĳzer gevoeligheid"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Gevoeligheid van aanwĳzer beweging"
+
+# workflow: "3D Beschleunigung aktivieren"
+# -ke-
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:812
+msgid "Rotation Acceleration"
+msgstr "Rotatie acceleratie"
+
+msgid "Snap To Top Face"
+msgstr "Klik aan bovenvlak"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Klik kubus rotatie aan bovenvlak"
+
+msgid "Snap To Bottom Face"
+msgstr "Klik aan ondervlak"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Klik kubus rotatie aan ondervlak"
+
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:821
+msgid "Rotation Speed"
+msgstr "Rotatie snelheid"
+
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:821
+msgid "Rotation Timestep"
+msgstr "Rotatie tĳdstap"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:821
+msgid "Rotation Zoom"
+msgstr "Rotatie zoom"
+
+msgid "Scale"
+msgstr "Schaal"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Scale windows"
+msgstr "Schaal vensters"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Initiate Window Picker"
+msgstr "Initiëer venster kiezer"
+
+msgid "Layout and start transforming windows"
+msgstr "Uitleggen en start transformeren vensters"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Initiëer venster kiezer voor alle vensters"
+
+msgid "Layout and start transforming all windows"
+msgstr "Uitleggen en begin met transformeren van alle vensters"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Initiëer venster kiezer voor venster groep"
+
+msgid "Layout and start transforming window group"
+msgstr "Uitleggen en beginnen met transformeren van venster groep"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Initiëer venster kiezer voor vensters op huidige uitvoer"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Uitleggen en start transformeren vensters op huidige uitvoer"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Klik bureaublad voor Toon Bureaublad"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Activeer Toon Bureaublad modus als bureaublad wordt aangeklikt tĳdens het "
+"schalen"
+
+msgid "Spacing"
+msgstr "Tussenruimte"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Space between windows"
+msgstr "Ruimte tussen vensters"
+
+msgid "Scale speed"
+msgstr "Schaal snelheid"
+
+msgid "Scale timestep"
+msgstr "Schaal tijdstap"
+
+msgid "Darken Background"
+msgstr "Achtergrond donker maken"
+
+msgid "Darken background when scaling windows"
+msgstr "Achtergrond donker maken tĳdens schalen van vensters"
+
+msgid "Amount of opacity in percent"
+msgstr "Mate van ondoorzichtigheid in procenten"
+
+msgid "Overlay Icon"
+msgstr "Overlay icoon"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Een overlay icoon op vensters als ze zĳn geschaald"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Emblem"
+msgstr "Embleem"
+
+msgid "Big"
+msgstr "Groot"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Scale Windows"
+msgstr "Schaal vensters"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Vensters die geschaald moeten worden in schaal modus"
+
+msgid "Hover Time"
+msgstr "Zweef tĳd"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Tĳd (in ms) voordat de schaal modus wordt afgebroken als over het venster "
+"wordt gezweefd"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Selecteert waar vensters worden geschaald als meerdere uitvoer apparaten "
+"worden gebruikt."
+
+msgid "On current output device"
+msgstr "Op huidige uitvoer apparaten"
+
+msgid "On all output devices"
+msgstr "Op alle uitvoer apparaten"
+
+msgid "Screenshot"
+msgstr "Schermafdruk"
+
+msgid "Screenshot plugin"
+msgstr "Schermafdruk plugin"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Initiëer rechthoek schermafdruk"
+
+msgid "Directory"
+msgstr "Directory"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Stop schermafdruk afbeeldingen in deze folder"
+
+msgid "Launch Application"
+msgstr "Start toepassing"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Automatisch schermafdruk openen in deze applicatie"
+
+msgid "Svg"
+msgstr "SVG"
+
+msgid "Svg image loader"
+msgstr "SVG afbeelding lader"
+
+msgid "Application Switcher"
+msgstr "Applicatie wisselaar"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Next window"
+msgstr "Volgende venster"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+"Laat wisselaar te voorschĳn komen indien niet zichtbaar en selecteer "
+"volgende venster"
+
+msgid "Prev window"
+msgstr "Vorig venster"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+"Laat venster te voorschĳn komen indien niet zichtbaar en selecteer vorige "
+"venster"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Next window (All windows)"
+msgstr "Volgende venster (alle vensters)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Laat venster te voorschĳn komen indien niet zichtbaar en selecteer volgende "
+"venster uit alle vensters"
+
+msgid "Prev window (All windows)"
+msgstr "Vorig venster (all vensters)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Laat wisselaar te voorschĳn komen indien niet zichtbaar en selecteer vorige "
+"venster uit alle vensters"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Next window (No popup)"
+msgstr "Volgende venster (geen popup)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Selecteer volgende venster zonder het popup venster te tonen."
+
+msgid "Prev window (No popup)"
+msgstr "Vorig venster (geen popup)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Selecteer vorige venster zonder het popup venster te tonen."
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "Bureaublad vlak"
+
+msgid "Select next panel type window."
+msgstr ""
+
+#, fuzzy
+msgid "Prev Panel"
+msgstr "Vorige dia"
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "Selecteer vorige venster zonder het popup venster te tonen."
+
+msgid "Switcher speed"
+msgstr "Wisselaar snelheid"
+
+msgid "Switcher timestep"
+msgstr "Wisselaar tijdstap"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Switcher windows"
+msgstr "Wisselaar vensters"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Vensters die getoond moeten worden in  de wisselaar"
+
+msgid "Amount of saturation in percent"
+msgstr "Mate van verzadiging in procenten"
+
+msgid "Amount of brightness in percent"
+msgstr "Mate van helderheid in procenten"
+
+# /usr/lib/YaST2/clients/inst_ask_config.ycp:100
+msgid "Bring To Front"
+msgstr "Breng naar voren"
+
+msgid "Bring selected window to front"
+msgstr "Breng geselcteerd venster naar voren"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Afstand bureaublad moet zĳn uitgezoomd tĳdens wisselen van vensters"
+
+msgid "Icon"
+msgstr "Pictogram"
+
+msgid "Show icon next to thumbnail"
+msgstr "Toon pictogram naast thumbnail"
+
+msgid "Minimized"
+msgstr "Geminimaliseerd"
+
+msgid "Show minimized windows"
+msgstr "Toon geminimaliseerde vensters"
+
+# /usr/lib/YaST2/clients/dialup_dev_cfg.ycp:80
+msgid "Auto Rotate"
+msgstr "Auto rotatie"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Roteer naar het geselecteerde venster tijdens wisseling"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Bureaublad"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Roteer naar het geselecteerde venster tijdens wisseling"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Vorige dia"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Schaduw omtrek"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Omtrek"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Omtrek grootte aanpassing van vensters"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Achtergrond afbeelding"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Rand kleur"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Vul kleur"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Schaduw kleur"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "X viewport positie's"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Vervagende vensters"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Vensters die geschaald moeten worden in schaal modus"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Verplaats venster"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+#, fuzzy
+msgid "Move Left"
+msgstr "Roteer links"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Roteer rechts"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Verplaats venster"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Roteer met venster"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Roteer links met venster"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Roteer naar rechts met venster"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Verplaats venster"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Verplaats venster"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Rand kantel verslepen"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Roteer kantel links"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Kantel tĳd"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Roteer kantel rechts"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Roteer kantel rechts"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Kantel tĳd"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Kantel tĳd"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Rand kantel verslepen"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+#, fuzzy
+msgid "Flip down"
+msgstr "Vlak omlaag"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Wisselaar snelheid"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Rand kantel verslepen"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Kantel naar volgende viewport als de aanwĳzer naar de schermrand wordt "
+"verplaatst"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Kantel naar volgende viewport als venster wordt verplaatst naar schermrand"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Kantel naar volgende viewport als een object naar de scherm rand wordt "
+"versleept"
+
+msgid "Water Effect"
+msgstr "Water effect"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Voegt water effecten toe aan verschillende bureaublad acties"
+
+msgid "Enable pointer water effects"
+msgstr "Inschakelen aanwĳzer water effecten"
+
+msgid "Toggle rain"
+msgstr "Schakel regen"
+
+msgid "Toggle rain effect"
+msgstr "Schakel regen effect"
+
+msgid "Toggle wiper"
+msgstr "Schakel wisser"
+
+msgid "Toggle wiper effect"
+msgstr "Schakel wisser effect"
+
+msgid "Offset Scale"
+msgstr "Offset schaal"
+
+msgid "Water offset scale"
+msgstr "Water offset schaal"
+
+msgid "Rain Delay"
+msgstr "Regen vertraging"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Vertraging (in ms) tussen elke regen-druppel"
+
+msgid "Title wave"
+msgstr "Titel golf"
+
+msgid "Wave effect from window title"
+msgstr "Golf effect vanaf venster titel"
+
+msgid "Point"
+msgstr "Punt"
+
+msgid "Add point"
+msgstr "Punt toevoegen"
+
+msgid "Line"
+msgstr "Lijn"
+
+msgid "Add line"
+msgstr "Lijn toevoegen"
+
+msgid "Wobbly Windows"
+msgstr "Wiebelende Vensters"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Gebruik veer model voor wiebelend venster effect"
+
+msgid "Snap windows"
+msgstr "Vensters klikken"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Toggle window snapping"
+msgstr "Schakel venster klikken"
+
+msgid "Snap Inverted"
+msgstr "Klikken geïnverteerd"
+
+msgid "Inverted window snapping"
+msgstr "Geïnverteerd venster klikken"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Rilling"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Make window shiver"
+msgstr "Laat vensters rillen"
+
+msgid "Friction"
+msgstr "Wrijving"
+
+msgid "Spring Friction"
+msgstr "Veer Wrijving"
+
+msgid "Spring K"
+msgstr "Veer K"
+
+msgid "Spring Konstant"
+msgstr "Veer Contstante"
+
+msgid "Grid Resolution"
+msgstr "Raster Resolutie"
+
+msgid "Vertex Grid Resolution"
+msgstr "Vertex raster resolutie"
+
+msgid "Minimum Grid Size"
+msgstr "Minimale raster grootte"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Minimum vertex raster grootte"
+
+msgid "Map Effect"
+msgstr ""
+
+msgid "Map Window Effect"
+msgstr ""
+
+msgid "Focus Effect"
+msgstr "Focus effect"
+
+msgid "Focus Window Effect"
+msgstr "Focus venster effect"
+
+msgid "Map Windows"
+msgstr ""
+
+msgid "Windows that should wobble when mapped"
+msgstr "Vensters die moeten wiebelen als ze gemapped worden"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Focus Windows"
+msgstr "Focus vensters"
+
+msgid "Windows that should wobble when focused"
+msgstr "Vensters die moeten wiebelen tijdens focus"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+msgid "Grab Windows"
+msgstr "Grijp vensters"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Vensters die moeten wiebelen als ze gegrepen worden"
+
+msgid "Move Windows"
+msgstr "Verplaats vensters"
+
+msgid "Windows that should wobble when moved"
+msgstr "Vensters die moeten wiebelen tijdens verplaatsen"
+
+msgid "Maximize Effect"
+msgstr "Maximaliseren effect"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Wiebel effect tijdens maximaliseren en herstellen vensters"
+
+msgid "Zoom Desktop"
+msgstr "Zoom bureaublad"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Zoomen en verschuiven van bureaublad kubus"
+
+msgid "Zoom In"
+msgstr "Zoom in"
+
+msgid "Zoom Out"
+msgstr "Zoom uit"
+
+msgid "Zoom Pan"
+msgstr "Zoom verschuiven"
+
+msgid "Zoom pan"
+msgstr "Zoom verschuiven"
+
+msgid "Zoom Speed"
+msgstr "Zoom snelheid"
+
+# /usr/lib/YaST2/clients/inst_config_x11.ycp:821
+msgid "Zoom Timestep"
+msgstr "Zoom tijdstap"
+
+msgid "Zoom factor"
+msgstr "Zoom factor"
+
+msgid "Filter Linear"
+msgstr "Filter Lineair"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Gebruik lineair filter zodra ingezoomd"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Aantal bureaubladen"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Aantal virtuele bureabladen"
+
+#~ msgid "Window Management"
+#~ msgstr "Venster Beheer"
+
+#, fuzzy
+#~ msgid "Maximize Horizontally"
+#~ msgstr "Maximaliseer venster horizontaal"
+
+#, fuzzy
+#~ msgid "Maximize Vertically"
+#~ msgstr "Maximaliseer venster verticaal"
+
+#, fuzzy
+#~ msgid "Minimize"
+#~ msgstr "Geminimaliseerd"
+
+# /usr/lib/YaST2/clients/dialup_dev_cfg.ycp:80
+#, fuzzy
+#~ msgid "Raise"
+#~ msgstr "Automatisch naar de voorgrond"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Actie die ondernomen moet worden als de muis-wiel over venster titelbalk "
+#~ "bladert"
+
+#~ msgid "Blur type"
+#~ msgstr "Vervaging type"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Marco thema actief venster opaciteit"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Marco thema actief venster opaciteit schaduw"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Marco thema opaciteit"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Marco thema opaciteit schaduw"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr ""
+#~ "Opaciteit te gebruiken voor actieve vensters met marco thema decoratie"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Opaciteit te gebruiken voor marco thema decoratie"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Actieve vensters oprollen met marco thema decoratie's van ondoorzichtig "
+#~ "tot doorzichtig"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Actieve vensters oprollen met marco thema decoratie's van ondoorzichtig "
+#~ "tot doorzichtig"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Titelbalk muiswiel actie"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Type vervaging gebruikt voor venster decoratie"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Gebruik marco thema"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Gebruik marco thema voor venster decoratie"
+
+#~ msgid "Line width"
+#~ msgstr "Lijn breedte"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Lijn breedte voor annotaties"
+
+#~ msgid "GConf"
+#~ msgstr "Gconf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Gconf gecontrolleerde backend"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig gecontrolleerde backend"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Verminderen opaciteit"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "Verhoog opaciteit"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Schermafdruk commodo regel"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Schermafdruk commodo regel"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Opaciteit waarde voor vensters die standaard lichtdoorlatend moeten zijn"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+#~ msgid "Opacity windows"
+#~ msgstr "Opaciteit vensters"
+
+#~ msgid "Background images"
+#~ msgstr "Achtergrond afbeelding"
+
+# /usr/lib/YaST2/clients/lan_inetd_custom.ycp:770
+#~ msgid "Place windows on a plane"
+#~ msgstr "Plaats vensters op een vlak"
+
+#~ msgid "Plane Down"
+#~ msgstr "Vlak omlaag"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+#~ msgid "Plane Left"
+#~ msgstr "Vlak links"
+
+#~ msgid "Plane Right"
+#~ msgstr "Vlak rechts"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Vlak naar zĳde 1"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Vlak naar zĳde 10"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Vlak naar zĳde 11"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Vlak naar zĳde 12"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Vlak naar zĳde 2"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Vlak naar zĳde 3"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Vlak naar zĳde 4"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Vlak naar zĳde 5"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Vlak naar zĳde 6"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Vlak naar zĳde 7"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Vlak naar zĳde 8"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Vlak naar zĳde 9"
+
+#~ msgid "Plane Up"
+#~ msgstr "Vlak omhoog"
+
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+# /usr/lib/YaST2/clients/lan_dns.ycp:85
+#~ msgid "Plane left"
+#~ msgstr "Vlak rechts"
+
+#~ msgid "Plane right"
+#~ msgstr "Vlak rechts"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Vlak naar zĳde 1"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Vlak naar zĳde 10"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Vlak naar zĳde 11"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Vlak naar zĳde 12"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Vlak naar zĳde 2"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Vlak naar zĳde 3"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Vlak naar zĳde 4"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Vlak naar zĳde 5"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Vlak naar zĳde 6"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Vlak naar zĳde 7"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Vlak naar zĳde 8"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Vlak naar zĳde 9"
+
+#~ msgid "Plane up"
+#~ msgstr "Vlak omhoog"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Bureaublad venster opaciteit verduisteren tijdsduur"
