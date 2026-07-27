@@ -1,0 +1,4152 @@
+# Danish translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:41+0300\n"
+"PO-Revision-Date: 2009-03-29 20:35+0200\n"
+"Last-Translator: Marcus Møller <koenmarcus@hotmail.com>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Close Window"
+msgstr "Luk vindue"
+
+msgid "Unmaximize Window"
+msgstr "Gendan vindue"
+
+msgid "Maximize Window"
+msgstr "Maksimer vindue"
+
+msgid "Minimize Window"
+msgstr "Minimer vindue"
+
+msgid "Window Menu"
+msgstr "Vinduesmenu"
+
+#, fuzzy
+msgid "Shade"
+msgstr "Skygge"
+
+msgid "Make Above"
+msgstr ""
+
+msgid "Stick"
+msgstr ""
+
+msgid "Unshade"
+msgstr ""
+
+msgid "Unmake Above"
+msgstr ""
+
+msgid "Unstick"
+msgstr ""
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr ""
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+
+msgid "_Cancel"
+msgstr "_Annullér"
+
+msgid "_Force Quit"
+msgstr ""
+
+#, fuzzy
+msgid "Annotate"
+msgstr "Start"
+
+#
+#, fuzzy
+msgid "Annotate plugin"
+msgstr "Aktive plugins"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Start"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Start tilpasning af vinduets størrelse"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Start"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Start tilpasning af vinduets størrelse"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Start"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Start tilpasning af vinduets størrelse"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Start"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Start tilpasning af vinduets størrelse"
+
+msgid "Draw"
+msgstr "Tegn"
+
+msgid "Draw using tool"
+msgstr "Tegn med værktøj"
+
+#, fuzzy
+msgid "Initiate erase"
+msgstr "Start"
+
+#, fuzzy
+msgid "Initiate annotate erasing"
+msgstr "Start tilpasning af vinduets størrelse"
+
+msgid "Clear"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Slå nedtoning af det aktive vindue til/fra"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+#, fuzzy
+msgid "Annotate Fill Color"
+msgstr "Kubusfarve"
+
+msgid "Fill color for annotations"
+msgstr ""
+
+msgid "Annotate Stroke Color"
+msgstr ""
+
+msgid "Stroke color for annotations"
+msgstr ""
+
+msgid "Stroke width"
+msgstr ""
+
+msgid "Stroke width for annotations"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Windows"
+msgstr "Placer vinduer"
+
+#, fuzzy
+msgid "Blur windows"
+msgstr "Skaler vinduer"
+
+msgid "Pulse"
+msgstr ""
+
+#, fuzzy
+msgid "Pulse effect"
+msgstr "Fokuseffekt"
+
+#, fuzzy
+msgid "Blur Speed"
+msgstr "Foldehastighed"
+
+#, fuzzy
+msgid "Window blur speed"
+msgstr "Fadehastighed for vindue"
+
+#, fuzzy
+msgid "Focus blur windows"
+msgstr "Skaler vinduer"
+
+#, fuzzy
+msgid "Windows that should be affected by focus blur"
+msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+msgid "Focus Blur"
+msgstr "Skaler vinduer"
+
+#, fuzzy
+msgid "Blur windows that doesn't have focus"
+msgstr "Vinduestyper, der skal \"slingre\", når de får fokus"
+
+#, fuzzy
+msgid "Alpha blur windows"
+msgstr "Skaler vinduer"
+
+#, fuzzy
+msgid "Windows that should be use alpha blur by default"
+msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+msgid "Alpha Blur"
+msgstr "Skaler vinduer"
+
+msgid "Blur behind translucent parts of windows"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Filter"
+msgstr "Teksturfilter"
+
+msgid "Filter method used for blurring"
+msgstr ""
+
+#, fuzzy
+msgid "4xBilinear"
+msgstr "Lineært filter"
+
+msgid "Gaussian"
+msgstr ""
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr ""
+
+msgid "Gaussian radius"
+msgstr ""
+
+msgid "Gaussian Strength"
+msgstr ""
+
+msgid "Gaussian strength"
+msgstr ""
+
+#, fuzzy
+msgid "Mipmap LOD"
+msgstr "Mipmap"
+
+msgid "Mipmap level-of-detail"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Saturation"
+msgstr "Farvemætning"
+
+#, fuzzy
+msgid "Blur saturation"
+msgstr "Farvemætning"
+
+#, fuzzy
+msgid "Blur Occlusion"
+msgstr "Farvemætning"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+
+msgid "Independent texture fetch"
+msgstr ""
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+
+#, fuzzy
+msgid "Clone Output"
+msgstr "Udgange"
+
+msgid "Output clone handler"
+msgstr ""
+
+msgid "Initiate"
+msgstr "Start"
+
+#, fuzzy
+msgid "Initiate clone selection"
+msgstr "Tag et skærmbillede"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Kommando"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 0"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 1"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 2"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 3"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 4"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 5"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 6"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 7"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 8"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 9"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 10"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 11"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "Kommandolinje, der skal køres i Shell, når kør_kommando%d aktiveres"
+
+msgid "Key Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 0"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 1"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 2"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 3"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 4"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 5"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 6"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 7"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 8"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 9"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 10"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 11"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Kommando '%1'"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Kommando: "
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+msgid "Button Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+"kommandoen identificeres af kommando%d"
+
+msgid "General Options"
+msgstr "Generelle muligheder"
+
+msgid "General compiz options"
+msgstr "Generelle compiz muligheder"
+
+#
+msgid "Active Plugins"
+msgstr "Aktive plugins"
+
+#
+msgid "List of currently active plugins"
+msgstr "Liste over aktive plugins"
+
+msgid "Audible Bell"
+msgstr "Hørbar klokke"
+
+msgid "Audible system beep"
+msgstr "Hørbar systemtone"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Ignorer vink, når maksimeret"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Ignorer vink om størrelsesforøgning og -aspekter, når vinduet er maksimeret"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Skjul vinduer, der ikke er på opgavelinjen"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr "Skjul vinduer, der ikke er på opgavelinjen, når skrivebordet vises"
+
+msgid "Edge Trigger Delay"
+msgstr ""
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+#, fuzzy
+msgid "Ping Delay"
+msgstr "Regnforsinkelse"
+
+msgid "Interval between ping messages"
+msgstr "Interval mellem ping beskeder"
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Texture Filter"
+msgstr "Teksturfilter"
+
+#, fuzzy
+msgid "Texture filtering"
+msgstr "Teksturfilter"
+
+msgid "Fast"
+msgstr "Hurtig"
+
+msgid "Good"
+msgstr "God"
+
+msgid "Best"
+msgstr "Bedste"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Klik for at fokusere"
+
+msgid "Click on window moves input focus to it"
+msgstr "Fokus flyttes til vinduet, når der klikkes på det."
+
+msgid "Raise On Click"
+msgstr "Hæv ved klik"
+
+msgid "Raise windows when clicked"
+msgstr "Hæv vinduerne, når der klikkes"
+
+msgid "Auto-Raise"
+msgstr "Automatisk hævning"
+
+msgid "Raise selected windows after interval"
+msgstr "Hæv de valgte vinduer efter interval"
+
+msgid "Auto-Raise Delay"
+msgstr "Forsinkelse ved automatisk hævning"
+
+#, fuzzy
+msgid "Interval before raising selected windows"
+msgstr "Interval inden de valgte vinduer hæves"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "Luk det aktive vindue"
+
+#
+msgid "Raise Window"
+msgstr "Hæv vindue"
+
+msgid "Raise window above other windows"
+msgstr "Hæv vinduet over de andre vinduer"
+
+#
+msgid "Lower Window"
+msgstr "Sænk vindue"
+
+msgid "Lower window beneath other windows"
+msgstr "Placer vinduet under de andre vinduer"
+
+msgid "Unmaximize active window"
+msgstr "Ophæv maksimeringen af det aktive vindue"
+
+msgid "Minimize active window"
+msgstr "Minimer det aktive vindue"
+
+msgid "Maximize active window"
+msgstr "Maksimer det aktive vindue"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maksimer vindue vandret"
+
+msgid "Maximize active window horizontally"
+msgstr "Maksimer det aktive vindue i bredden"
+
+msgid "Maximize Window Vertically"
+msgstr "Maksimer vindue lodret"
+
+msgid "Maximize active window vertically"
+msgstr "Maksimer det aktive vindue i højden"
+
+msgid "Window menu button binding"
+msgstr ""
+
+msgid "Window menu key binding"
+msgstr ""
+
+#, fuzzy
+msgid "Show Desktop"
+msgstr "Zoom på skrivebord"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Skjul alle vinduer, og flyt fokus til skrivebord"
+
+msgid "Toggle Window Maximized"
+msgstr "Slå maksimering af vindue til/fra"
+
+msgid "Toggle active window maximized"
+msgstr "Slå maksimering af det aktive vindue til/fra"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Slå vandret maksimering af vindue til/fra"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Slå den vandrette maksimering af det aktive vindue til/fra"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Slå lodret maksimering af vindue til/fra"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Slå lodret maksimering af det aktive vindue til/fra"
+
+msgid "Toggle Window Shaded"
+msgstr "Slå medtoning af vindue til/fra"
+
+msgid "Toggle active window shaded"
+msgstr "Slå nedtoning af det aktive vindue til/fra"
+
+msgid "Slow Animations"
+msgstr "Langsomme animationer"
+
+msgid "Toggle use of slow animations"
+msgstr "Slå brugen af langsomme animationer til/fra"
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Skrivebordskubus"
+
+msgid "Horizontal Virtual Size"
+msgstr "Vandret virtuel størrelse"
+
+#, fuzzy
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Skærmstørrelsesmultiplikator til den vandrette virtuelle størrelse"
+
+msgid "Vertical Virtual Size"
+msgstr "Lodret virtuel størrelse"
+
+#, fuzzy
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Skærmstørrelsesmultiplikator til den lodrette virtuelle størrelse"
+
+msgid "Lighting"
+msgstr "Belysning"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Brug spredt lys, når skærmbilledet omdannes"
+
+msgid "Detect Refresh Rate"
+msgstr "Registrer opdateringshastighed"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Automatisk registrering af opdateringshastighed"
+
+msgid "Refresh Rate"
+msgstr "Opdateringshastighed"
+
+#, fuzzy
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr ""
+"Den hastighed, der anvendes til at tegne skærmbilledet igen (antal gange/"
+"sekund)"
+
+msgid "Detect Outputs"
+msgstr "Registrer udgange"
+
+msgid "Automatic detection of output devices"
+msgstr "Automatisk registrering af udgangsenheder"
+
+msgid "Overlapping Output Handling"
+msgstr ""
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr ""
+
+msgid "Smart mode"
+msgstr ""
+
+msgid "Prefer larger output"
+msgstr ""
+
+msgid "Prefer smaller output"
+msgstr ""
+
+msgid "Outputs"
+msgstr "Udgange"
+
+msgid "List of strings describing output devices"
+msgstr "Liste over strenge, der beskriver udgangsenheder"
+
+msgid "Sync To VBlank"
+msgstr "Synkroniser med lodret slukning"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Udfør kun skærmopdatering i den lodrette slukkeperiode"
+
+#, fuzzy
+msgid "Focus Prevention Level"
+msgstr "Vinduestyper til fokuseffekt"
+
+msgid "Level of focus stealing prevention"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "High"
+msgstr ""
+
+msgid "Very High"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Prevention Windows"
+msgstr "Vinduestyper til fokuseffekt"
+
+#, fuzzy
+msgid "Focus prevention windows"
+msgstr "Vinduestyper til fokuseffekt"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Omdiriger ikke fuldskærmsvinduer"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Tillad trækning af fuldskærmsvinduer, uden at der omdirrigeres til pixmaps "
+"uden for skærmbilledet"
+
+msgid "Default Icon"
+msgstr "Standardikon"
+
+msgid "Default window icon image"
+msgstr "Standardbillede til vinduesikon"
+
+msgid "Force independent output painting."
+msgstr ""
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Compression"
+msgstr "Teksturfilter"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+
+msgid "Desktop Cube"
+msgstr "Skrivebordskubus"
+
+msgid "Place windows on cube"
+msgstr "Placer vinduer på kubus"
+
+msgid "Unfold"
+msgstr "Fold ud"
+
+msgid "Unfold cube"
+msgstr "Fold kubussen ud"
+
+#
+msgid "Next Slide"
+msgstr "Næste dias"
+
+msgid "Advance to next slide"
+msgstr "Gå til næste dias"
+
+#, fuzzy
+msgid "Prev Slide"
+msgstr "Forrige dias"
+
+msgid "Go back to previous slide"
+msgstr "Gå tilbage til forrige dias"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+"Generer mipmaps, når det er muligt, for at opnå en højere kvalitetsskalering"
+
+msgid "Multi Output Mode"
+msgstr ""
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+
+#, fuzzy
+msgid "Automatic"
+msgstr "Automatisk hævning"
+
+msgid "Multiple cubes"
+msgstr ""
+
+#, fuzzy
+msgid "One big cube"
+msgstr "Kubus indvendig"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "Kubus indvendig"
+
+msgid "Inside cube"
+msgstr "Kubus indvendig"
+
+msgid "Acceleration"
+msgstr "Acceleration"
+
+msgid "Fold Acceleration"
+msgstr "Foldeaccelaration"
+
+msgid "Speed"
+msgstr "Hastighed"
+
+msgid "Fold Speed"
+msgstr "Foldehastighed"
+
+msgid "Timestep"
+msgstr "Tidstrin"
+
+msgid "Fold Timestep"
+msgstr "Tidstrin for foldning"
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Cube Color"
+msgstr "Kubusfarve"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Farve til kubussens top og bund"
+
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Kubusfarve"
+
+msgid "Scale image"
+msgstr "Tilpas billede"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Tilpas billederne, så de dækker toppen af kubussen"
+
+#
+msgid "Image files"
+msgstr "Billedfiler"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "Liste over PNG- og SVG-filer, der skal gengives på toppen af kubussen"
+
+msgid "Adjust Image"
+msgstr ""
+
+msgid "Adjust top face image to rotation"
+msgstr ""
+
+msgid "Skydome"
+msgstr "Himmelkuppel"
+
+msgid "Render skydome"
+msgstr "Vis himmelkuppel"
+
+msgid "Skydome Image"
+msgstr "Billede til himmelkuppel"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Billede, der skal bruges som tekstur til himmelkuplen"
+
+msgid "Animate Skydome"
+msgstr "Animer himmelkuppel"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animer himmelkuplen, når kubussen roteres"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Startfarve til himmelkuplens farvegraduering"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Farve til det øverste farvestop i himmelkuplens aftagende farveforløb"
+
+msgid "Skydome Gradient End Color"
+msgstr "Slutfarve til himmelkuplens farvegraduering"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Farve til det nederste farvestop i himmelkuplens aftagende farveforløb"
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr ""
+
+msgid "Opacity of desktop window during rotation."
+msgstr ""
+
+msgid "Opacity When Not Rotating"
+msgstr ""
+
+msgid "Opacity of desktop window when not rotating."
+msgstr ""
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr ""
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr ""
+
+msgid "D-Bus"
+msgstr ""
+
+msgid "D-Bus Control Backend"
+msgstr ""
+
+msgid "Window Decoration"
+msgstr "Vinduesdekoration"
+
+msgid "Window decorations"
+msgstr "Vinduesdekorationer"
+
+msgid "Shadow Radius"
+msgstr "Skyggeradius"
+
+msgid "Drop shadow radius"
+msgstr "Slagskyggeradius"
+
+msgid "Shadow Opacity"
+msgstr "Skyggens uigennemsigtighed"
+
+msgid "Drop shadow opacity"
+msgstr "Slagskyggens uigennemsigtighed"
+
+#, fuzzy
+msgid "Shadow Color"
+msgstr "Fastgør vinduer"
+
+#, fuzzy
+msgid "Drop shadow color"
+msgstr "Slagskyggeradius"
+
+msgid "Shadow Offset X"
+msgstr "Skyggeforskydning X"
+
+msgid "Drop shadow X offset"
+msgstr "Slagskyggeforskydning X"
+
+msgid "Shadow Offset Y"
+msgstr "Skyggeforskydning Y"
+
+msgid "Drop shadow Y offset"
+msgstr "Slagskyggeforskydning Y"
+
+msgid "Command"
+msgstr "Kommando"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Dekoratørkommandolinje, som udføres, hvis der ikke allerede kører en "
+"dekoratør"
+
+#, fuzzy
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Tillad mipmaps at blive skabt til dekorations texturer"
+
+#, fuzzy
+msgid "Decoration windows"
+msgstr "Skaler vinduer"
+
+#, fuzzy
+msgid "Windows that should be decorated"
+msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+msgid "Shadow windows"
+msgstr "Fastgør vinduer"
+
+#, fuzzy
+msgid "Windows that should have a shadow"
+msgstr "Vinduestyper, der skal fades"
+
+msgid "Fading Windows"
+msgstr "Fading af vinduer"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Vinduerne tones ind, når de tilknyttes, og tones ud, når tilknytningen "
+"ophæves."
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "Vendingstid"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Fadehastighed for vindue"
+
+#, fuzzy
+msgid "Constant speed"
+msgstr "Rotationshastighed"
+
+#, fuzzy
+msgid "Constant time"
+msgstr "Begræns Y"
+
+msgid "Fade Speed"
+msgstr "Fadehastighed"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Vinduestyper, der skal skaleres i skaleringstilstand"
+
+#, fuzzy
+msgid "Fade Time"
+msgstr "Vendingstid"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+#, fuzzy
+msgid "Fade windows"
+msgstr "Skaler vinduer"
+
+#, fuzzy
+msgid "Windows that should be fading"
+msgstr "Vinduestyper, der skal fades"
+
+msgid "Visual Bell"
+msgstr "Visuel klokke"
+
+msgid "Fade effect on system beep"
+msgstr "Fadeeffekt ved systemtone"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Visuel klokke i fuld skærm"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Fadeeffekt i fuld skærm ved systemtone"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr ""
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Tilpas vinduets størrelse"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr ""
+
+msgid "Userspace file system"
+msgstr ""
+
+#, fuzzy
+msgid "Mount Point"
+msgstr "Punkt"
+
+#, fuzzy
+msgid "Mount point"
+msgstr "Tilføj punkt"
+
+msgid "GLib"
+msgstr ""
+
+msgid "GLib main loop support"
+msgstr ""
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Vis hovedmenu"
+
+msgid "Show the main menu"
+msgstr "Vis hovedmenuen"
+
+msgid "Run Dialog"
+msgstr "Dialogboksen Kør"
+
+msgid "Show Run Application dialog"
+msgstr "Vis dialogboksen til kørsel af program"
+
+msgid "Screenshot command line"
+msgstr "Kommandolinje til skærmbillede"
+
+msgid "Take a screenshot"
+msgstr "Tag et skærmbillede"
+
+msgid "Window screenshot command line"
+msgstr "Kommandolinje til vindueskærmbillede"
+
+msgid "Take a screenshot of a window"
+msgstr "Tag et skærmbillede af et vindue"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Kommandolinje til skærmbillede"
+
+#, fuzzy
+msgid "Terminal command line"
+msgstr "Kommandolinje til skærmbillede"
+
+msgid "Open a terminal"
+msgstr ""
+
+#, fuzzy
+msgid "Ini"
+msgstr "Må ikke ændres"
+
+msgid "Ini Flat File Backend"
+msgstr ""
+
+#, fuzzy
+msgid "Inotify"
+msgstr "Må ikke ændres"
+
+msgid "File change notification plugin"
+msgstr ""
+
+msgid "Minimize Effect"
+msgstr "Minimer effekt"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Vinduer skal ændres, når de minimeres og gendannes"
+
+msgid "Minimize speed"
+msgstr "Sænk hastighed"
+
+msgid "Minimize timestep"
+msgstr "Minimer tidstrin"
+
+#, fuzzy
+msgid "Minimize Windows"
+msgstr "Minimer vinduer"
+
+#, fuzzy
+msgid "Windows that should be transformed when minimized"
+msgstr "Vinduestyper, der skal ændres, når de minimeres"
+
+msgid "Shade Resistance"
+msgstr "Skyggemodstand"
+
+msgid "Shade resistance"
+msgstr "Skyggemodstand"
+
+msgid "Move Window"
+msgstr "Flyt vindue"
+
+msgid "Move window"
+msgstr "Flyt vindue"
+
+msgid "Initiate Window Move"
+msgstr "Start vinduesflytning"
+
+msgid "Start moving window"
+msgstr "Start flytning af vindue"
+
+msgid "Opacity"
+msgstr "Uigennemsigtighed"
+
+msgid "Opacity level of moving windows"
+msgstr "Uigennemsigtighedsniveau ved flytning af vinduer"
+
+msgid "Constrain Y"
+msgstr "Begræns Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Begræns Y-koordinaten til arbejdsområdet"
+
+msgid "Snapoff maximized windows"
+msgstr "Frigør maksimerede vinduer"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Frigør og gendan automatisk maksimerede vinduer, når de trækkes"
+
+#, fuzzy
+msgid "Lazy Positioning"
+msgstr "Vis minimerede vinduer"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+
+msgid "Opacity, Brightness and Saturation"
+msgstr ""
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Forøg vinduets uigennemsigtighed"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Trin i den trinvise ændring af uigennemsigtigheden"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Formindsk vinduets uigennemsigtighed"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Trin i den trinvise ændring af uigennemsigtigheden"
+
+msgid "Brightness"
+msgstr "Lysstyrke"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Lysstyrke"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Lysstyrke"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Lysstyrke"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Lysstyrke"
+
+msgid "Saturation"
+msgstr "Farvemætning"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Farvemætning"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Farvemætning"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Farvemætning"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Farvemætning"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "Uigennemsigtighedstrin"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Vinduesdekorationer"
+
+#
+#, fuzzy
+msgid "Windows"
+msgstr "Vinduestyper til tilknytningseffekt"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "Vinduestyper, der skal fades"
+
+#
+#, fuzzy
+msgid "Window values"
+msgstr "Vinduestyper"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Uigennemsigtighedsniveau ved flytning af vinduer"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Lysstyrke"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "Vinduestyper, der skal fades"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Farvemætning"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "Vinduestyper, der skal fades"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+msgid "Place Windows"
+msgstr "Placer vinduer"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Placer vinduerne på de korrekte positioner, når de er tilknyttet"
+
+msgid "Workarounds"
+msgstr "Løsninger"
+
+msgid "Window placement workarounds"
+msgstr "Løsninger til vinduesplaceringer"
+
+msgid "Placement Mode"
+msgstr ""
+
+msgid "Algorithm to use for window placement"
+msgstr ""
+
+msgid "Cascade"
+msgstr ""
+
+msgid "Centered"
+msgstr ""
+
+msgid "Smart"
+msgstr ""
+
+#, fuzzy
+msgid "Maximize"
+msgstr "Maksimer"
+
+msgid "Random"
+msgstr ""
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Markør til kant, vend"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+
+#, fuzzy
+msgid "Use active output device"
+msgstr "På alle udgangs enheder"
+
+msgid "Use output device with pointer"
+msgstr ""
+
+msgid "Use output device of focused window"
+msgstr ""
+
+msgid "Place across all outputs"
+msgstr ""
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "Vinduestyper til fokuseffekt"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Vinduesmenu"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Vinduesdekorationer"
+
+#, fuzzy
+msgid "Positioned windows"
+msgstr "Vis minimerede vinduer"
+
+#, fuzzy
+msgid "Windows that should be positioned by default"
+msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+msgid "X Positions"
+msgstr "Vis minimerede vinduer"
+
+msgid "X position values"
+msgstr ""
+
+#, fuzzy
+msgid "Y Positions"
+msgstr "Vis minimerede vinduer"
+
+msgid "Y position values"
+msgstr ""
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Vinduesdekorationer"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Vendingstid"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Vis minimerede vinduer"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport positioned windows"
+msgstr "Vis minimerede vinduer"
+
+#, fuzzy
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Vinduestyper, der skal skaleres i skaleringstilstand"
+
+#, fuzzy
+msgid "X Viewport Positions"
+msgstr "Vandret virtuel størrelse"
+
+#, fuzzy
+msgid "Horizontal viewport positions"
+msgstr "Vandret virtuel størrelse"
+
+#, fuzzy
+msgid "Y Viewport Positions"
+msgstr "Vandret virtuel størrelse"
+
+#, fuzzy
+msgid "Vertical viewport positions"
+msgstr "Vandret virtuel størrelse"
+
+msgid "Png"
+msgstr ""
+
+msgid "Png image loader"
+msgstr ""
+
+#, fuzzy
+msgid "Regex Matching"
+msgstr "Slå fastgøring af vinduer til/fra"
+
+#, fuzzy
+msgid "Regex window matching"
+msgstr "Slå fastgøring af vinduer til/fra"
+
+#
+msgid "Resize Window"
+msgstr "Tilpas vinduets størrelse"
+
+#
+msgid "Resize window"
+msgstr "Tilpas størrelsen på vinduet"
+
+msgid "Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Normal Window Resize"
+msgstr "Start tilpasning af vinduets størrelse"
+
+#, fuzzy
+msgid "Start resizing window normally"
+msgstr "Start tilpasning af vinduesstørrelsen"
+
+#, fuzzy
+msgid "Initiate Outline Window Resize"
+msgstr "Start tilpasning af vinduets størrelse"
+
+#, fuzzy
+msgid "Start resizing window with outline"
+msgstr "Start tilpasning af vinduesstørrelsen"
+
+#, fuzzy
+msgid "Initiate Rectangle Window Resize"
+msgstr "Start tilpasning af vinduets størrelse"
+
+#, fuzzy
+msgid "Start resizing window with rectangle"
+msgstr "Start tilpasning af vinduesstørrelsen"
+
+#, fuzzy
+msgid "Initiate Stretch Window Resize"
+msgstr "Start tilpasning af vinduets størrelse"
+
+#, fuzzy
+msgid "Start resizing window by stretching it"
+msgstr "Start tilpasning af vinduesstørrelsen"
+
+msgid "Initiate Window Resize"
+msgstr "Start tilpasning af vinduets størrelse"
+
+msgid "Start resizing window"
+msgstr "Start tilpasning af vinduesstørrelsen"
+
+msgid "Default Resize Mode"
+msgstr ""
+
+msgid "Default mode used for window resizing"
+msgstr ""
+
+#, fuzzy
+msgid "Outline"
+msgstr "Kubusfarve"
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Stretch"
+msgstr ""
+
+#, fuzzy
+msgid "Border Color"
+msgstr "Kubusfarve"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+
+#, fuzzy
+msgid "Fill Color"
+msgstr "Kubusfarve"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Normal Resize Windows"
+msgstr "Tilpas vinduets størrelse"
+
+#, fuzzy
+msgid "Windows that normal resize should be used for"
+msgstr "Vinduestyper, der skal fades"
+
+#
+#, fuzzy
+msgid "Outline Resize Windows"
+msgstr "Tilpas vinduets størrelse"
+
+#, fuzzy
+msgid "Windows that outline resize should be used for"
+msgstr "Vinduestyper, der skal fades"
+
+#
+#, fuzzy
+msgid "Rectangle Resize Windows"
+msgstr "Tilpas vinduets størrelse"
+
+#, fuzzy
+msgid "Windows that rectangle resize should be used for"
+msgstr "Vinduestyper, der skal fades"
+
+#
+#, fuzzy
+msgid "Stretch Resize Windows"
+msgstr "Tilpas vinduets størrelse"
+
+#, fuzzy
+msgid "Windows that stretch resize should be used for"
+msgstr "Vinduestyper, der skal fades"
+
+msgid "Rotate Cube"
+msgstr "Roter kubus"
+
+msgid "Rotate desktop cube"
+msgstr "Roter skrivebordskubus"
+
+msgid "Edge Flip Pointer"
+msgstr "Markør til kant, vend"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "Vend til næste visningsområde, når markøren flyttes til skærmens kant"
+
+msgid "Edge Flip Move"
+msgstr "Flyt til kant, vend"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "Vend til næste visningsområde, når vinduet flyttes til skærmens kant"
+
+msgid "Edge Flip DnD"
+msgstr "Træk-og-slip til kant, vend"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "Vend til næste visningsområde, når et objekt trækkes til skærmens kant"
+
+msgid "Flip Time"
+msgstr "Vendingstid"
+
+msgid "Timeout before flipping viewport"
+msgstr "Den tid, der går, inden visningsområdet skifter"
+
+msgid "Raise on rotate"
+msgstr ""
+
+#, fuzzy
+msgid "Raise window when rotating"
+msgstr "Hæv vinduerne, når der klikkes"
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Roter kubus"
+
+#
+msgid "Start Rotation"
+msgstr "Start rotation"
+
+msgid "Rotate Left"
+msgstr "Roter venstre"
+
+msgid "Rotate left"
+msgstr "Roter til venstre"
+
+msgid "Rotate Right"
+msgstr "Roter højre"
+
+msgid "Rotate right"
+msgstr "Roter til højre"
+
+msgid "Rotate Left with Window"
+msgstr "Roter til venstre med vindue"
+
+#, fuzzy
+msgid "Rotate left and bring active window along"
+msgstr "Roter til venstre, og lad det aktive vindue følge med"
+
+msgid "Rotate Right with Window"
+msgstr "Roter til højre med vindue"
+
+#, fuzzy
+msgid "Rotate right and bring active window along"
+msgstr "Roter til højre, og lad det aktive vindue følge med"
+
+msgid "Rotate To"
+msgstr "Roter til"
+
+msgid "Rotate to viewport"
+msgstr "Roter til visningsområde"
+
+#, fuzzy
+msgid "Rotate window"
+msgstr "Roter vindue"
+
+msgid "Rotate with window"
+msgstr "Roter med vindue"
+
+msgid "Rotate Flip Left"
+msgstr "Roter og vend til venstre"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr ""
+"Vend til venstre visningsområde, og bevar markøren på dens nuværende "
+"relative placering på skærmen"
+
+msgid "Rotate Flip Right"
+msgstr "Roter og vend til højre"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr ""
+"Vend til højre visningsområde, og bevar markøren på dens nuværende relative "
+"placering på skærmen"
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 1"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 1"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 2"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 2"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 3"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 3"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 4"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 4"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 5"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 5"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 6"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 6"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 7"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 7"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 8"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 8"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 9"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 9"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 10"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 10"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 11"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 11"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate To Face 12"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to face 12"
+msgstr "Roter til side %d"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate To Face 1 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 2 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 3 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 4 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 5 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 6 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 7 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 8 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 9 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 10 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 11 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#, fuzzy
+msgid "Rotate To Face 12 with Window"
+msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+msgid "Pointer Invert Y"
+msgstr "Omvendt Y-akse for markør"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Vend Y-aksen for markørbevægelser"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Omvendt Y-akse for markør"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Vend Y-aksen for markørbevægelser"
+
+msgid "Pointer Sensitivity"
+msgstr "Markørfølsomhed"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Det følsomhedsniveau, der skal anvendes til markørbevægelserne"
+
+msgid "Rotation Acceleration"
+msgstr "Rotationsacceleration"
+
+msgid "Snap To Top Face"
+msgstr "Fastgør til oversiden"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Fastgør kubusrotation til oversiden"
+
+#, fuzzy
+msgid "Snap To Bottom Face"
+msgstr "Fastgør til oversiden"
+
+#, fuzzy
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Fastgør kubusrotation til oversiden"
+
+msgid "Rotation Speed"
+msgstr "Rotationshastighed"
+
+msgid "Rotation Timestep"
+msgstr "Tidstrin for rotation"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+#, fuzzy
+msgid "Rotation Zoom"
+msgstr "Rotations Zoom"
+
+msgid "Scale"
+msgstr "Skaler"
+
+msgid "Scale windows"
+msgstr "Skaler vinduer"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Initiate Window Picker"
+msgstr "Start vinduesvælger"
+
+msgid "Layout and start transforming windows"
+msgstr "Arranger og start omdannelsen af vinduerne"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Start vinduesvælger for alle vinduer"
+
+msgid "Layout and start transforming all windows"
+msgstr "Arranger og start omdannelsen af alle vinduerne"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Start vinduesvælger for vinduesgruppe"
+
+msgid "Layout and start transforming window group"
+msgstr "Arranger og start omdannelsen af vinduesgruppen"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Start vinduesvælgeren for vinduer i det aktuelle outputområde"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Arranger og start omdannelsen af vinduer i det aktuelle outputområde"
+
+msgid "Click Desktop to Show Desktop"
+msgstr ""
+
+#, fuzzy
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "Start Vis Skrivebord hvis der klikkes på skrivebordet når Skaler køres"
+
+msgid "Spacing"
+msgstr "Mellemrum"
+
+msgid "Space between windows"
+msgstr "Mellemrum mellem vinduer"
+
+msgid "Scale speed"
+msgstr "Skaleringshastighed"
+
+msgid "Scale timestep"
+msgstr "Tidstrin for skalering"
+
+msgid "Darken Background"
+msgstr "Gør baggrund mørkere"
+
+msgid "Darken background when scaling windows"
+msgstr "Gør baggrunden mørkere, når vinduerne skaleres"
+
+msgid "Amount of opacity in percent"
+msgstr "Uigennemsigtighed i procent"
+
+msgid "Overlay Icon"
+msgstr "Overlejringsikon"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Sæt et ikon på vinduerne, når de er skaleret"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Emblem"
+msgstr "Emblem"
+
+msgid "Big"
+msgstr "Stor"
+
+#, fuzzy
+msgid "Scale Windows"
+msgstr "Skaler vinduer"
+
+#, fuzzy
+msgid "Windows that should be scaled in scale mode"
+msgstr "Vinduestyper, der skal skaleres i skaleringstilstand"
+
+msgid "Hover Time"
+msgstr "Markørens pegetid"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Den tid (i ms), der går, inden skaleringstilstanden afsluttes, når markøren "
+"peger på et vindue"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+
+msgid "On current output device"
+msgstr "På nuværende udgangs enhed"
+
+msgid "On all output devices"
+msgstr "På alle udgangs enheder"
+
+#, fuzzy
+msgid "Screenshot"
+msgstr "Tag et skærmbillede"
+
+#, fuzzy
+msgid "Screenshot plugin"
+msgstr "Kommandolinje til skærmbillede"
+
+#, fuzzy
+msgid "Initiate rectangle screenshot"
+msgstr "Tag et skærmbillede"
+
+#, fuzzy
+msgid "Directory"
+msgstr "Bibliotek"
+
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr ""
+
+#, fuzzy
+msgid "Launch Application"
+msgstr "Vis dialogboksen til kørsel af program"
+
+msgid "Automatically open screenshot in this application"
+msgstr ""
+
+msgid "Svg"
+msgstr ""
+
+msgid "Svg image loader"
+msgstr ""
+
+msgid "Application Switcher"
+msgstr "Programskifter"
+
+msgid "Next window"
+msgstr "Næste vindue"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Vis opgaveskifteren, hvis den ikke er synlig, og vælg næste vindue"
+
+#
+msgid "Prev window"
+msgstr "Forrige vindue"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Vis opgaveskifteren, hvis den ikke er synlig, og vælg forrige vindue"
+
+#, fuzzy
+msgid "Next window (All windows)"
+msgstr "Næste vindue"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Vis opgaveskifteren, hvis den ikke er synlig, og vælg næste vindue blandt "
+"alle vinduer"
+
+#
+#, fuzzy
+msgid "Prev window (All windows)"
+msgstr "Forrige vindue"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Vis opgaveskifteren, hvis den ikke er synlig, og vælg forrige vindue blandt "
+"alle vinduer"
+
+#, fuzzy
+msgid "Next window (No popup)"
+msgstr "Næste vindue"
+
+msgid "Select next window without showing the popup window."
+msgstr ""
+
+#
+#, fuzzy
+msgid "Prev window (No popup)"
+msgstr "Forrige vindue"
+
+msgid "Select previous window without showing the popup window."
+msgstr ""
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "Skrivebordskubus"
+
+#, fuzzy
+msgid "Select next panel type window."
+msgstr "Vælg næste vindue"
+
+#, fuzzy
+msgid "Prev Panel"
+msgstr "Forrige dias"
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "Vælg forrige vindue"
+
+msgid "Switcher speed"
+msgstr "Hastighed for programskifter"
+
+msgid "Switcher timestep"
+msgstr "Tidstrin for programskifter"
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "Skaler vinduer"
+
+#, fuzzy
+msgid "Windows that should be shown in switcher"
+msgstr "Vinduestyper, der skal vises i programskifteren"
+
+msgid "Amount of saturation in percent"
+msgstr "Farvemætningen angivet i procent"
+
+msgid "Amount of brightness in percent"
+msgstr "Lysstyrken angivet i procent"
+
+msgid "Bring To Front"
+msgstr "Placer forrest"
+
+msgid "Bring selected window to front"
+msgstr "Placer det valgte vindue forrest"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "Fjernskrivebord zoomes ud, når der skiftes til et andet vindue"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Show icon next to thumbnail"
+msgstr "Vis ikon ud for miniaturebillede"
+
+msgid "Minimized"
+msgstr "Minimeret"
+
+msgid "Show minimized windows"
+msgstr "Vis minimerede vinduer"
+
+#, fuzzy
+msgid "Auto Rotate"
+msgstr "Automatisk hævning"
+
+msgid "Rotate to the selected window while switching"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Skrivebordskubus"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+msgid "Show switcher window while switching viewports"
+msgstr ""
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Forrige dias"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Skyggeradius"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Kubusfarve"
+
+#
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Tilpas vinduets størrelse"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Baggrunds Billeder"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Kubusfarve"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Kubusfarve"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Fastgør vinduer"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Vandret virtuel størrelse"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Fading af vinduer"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Vinduestyper, der skal skaleres i skaleringstilstand"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Flyt vindue"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Roter venstre"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Roter højre"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Flyt vindue"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Roter med vindue"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Roter til venstre med vindue"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Roter til højre med vindue"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Flyt vindue"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Flyt vindue"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Træk-og-slip til kant, vend"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Roter og vend til venstre"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Vendingstid"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Roter og vend til højre"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Roter og vend til højre"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Vendingstid"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Vendingstid"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Træk-og-slip til kant, vend"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Placer vinduer"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Hastighed for programskifter"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Træk-og-slip til kant, vend"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "Vend til næste visningsområde, når markøren flyttes til skærmens kant"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "Vend til næste visningsområde, når vinduet flyttes til skærmens kant"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "Vend til næste visningsområde, når et objekt trækkes til skærmens kant"
+
+msgid "Water Effect"
+msgstr "Vandeffekt"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Tilføjer vandeffekter til forskellige skrivebordshandlinger"
+
+msgid "Enable pointer water effects"
+msgstr "Aktiver markørvandeffekter"
+
+msgid "Toggle rain"
+msgstr "Regn til/fra"
+
+msgid "Toggle rain effect"
+msgstr "Slå regneffekten til/fra"
+
+msgid "Toggle wiper"
+msgstr "Visker til/fra"
+
+msgid "Toggle wiper effect"
+msgstr "Slå viskereffekten til/fra"
+
+msgid "Offset Scale"
+msgstr "Forskydningsstørrelse"
+
+msgid "Water offset scale"
+msgstr "Størrelse på vandforskydning"
+
+msgid "Rain Delay"
+msgstr "Regnforsinkelse"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Forsinkelse (i ms) mellem hver regndråbe"
+
+msgid "Title wave"
+msgstr "Titelbølge"
+
+msgid "Wave effect from window title"
+msgstr "Bølgeeffekt til vinduestitel"
+
+msgid "Point"
+msgstr "Punkt"
+
+msgid "Add point"
+msgstr "Tilføj punkt"
+
+msgid "Line"
+msgstr "Line"
+
+msgid "Add line"
+msgstr "Tilføj linje"
+
+#
+msgid "Wobbly Windows"
+msgstr "\"Slingrende\" vinduer"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Brug fjedermodel til \"slingrende\" vinduer"
+
+msgid "Snap windows"
+msgstr "Fastgør vinduer"
+
+msgid "Toggle window snapping"
+msgstr "Slå fastgøring af vinduer til/fra"
+
+msgid "Snap Inverted"
+msgstr "Omvendt fastgøring"
+
+msgid "Inverted window snapping"
+msgstr "Omvendt fastgøring af vinduer"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Rysten"
+
+msgid "Make window shiver"
+msgstr "Lad vinduer dirre"
+
+msgid "Friction"
+msgstr "Friktion"
+
+msgid "Spring Friction"
+msgstr "Fjerderfriktion"
+
+msgid "Spring K"
+msgstr "Fjeder-K"
+
+msgid "Spring Konstant"
+msgstr "Fjederkonstant"
+
+msgid "Grid Resolution"
+msgstr "Gitteropløsning"
+
+#
+msgid "Vertex Grid Resolution"
+msgstr "Opløsning for knuder i gitteret"
+
+msgid "Minimum Grid Size"
+msgstr "Mindste gitterstørrelse"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Knudernes minimumstørrelse i gitteret"
+
+msgid "Map Effect"
+msgstr "Tilknytningseffekt"
+
+#
+msgid "Map Window Effect"
+msgstr "Effekt ved tilknytning af vinduer"
+
+msgid "Focus Effect"
+msgstr "Fokuseffekt"
+
+msgid "Focus Window Effect"
+msgstr "Effekt ved fokus på vinduer"
+
+#
+#, fuzzy
+msgid "Map Windows"
+msgstr "Vinduestyper til tilknytningseffekt"
+
+#, fuzzy
+msgid "Windows that should wobble when mapped"
+msgstr "Vinduestyper, der skal \"slingre\", når de tilknyttes"
+
+#, fuzzy
+msgid "Focus Windows"
+msgstr "Vinduestyper til fokuseffekt"
+
+#, fuzzy
+msgid "Windows that should wobble when focused"
+msgstr "Vinduestyper, der skal \"slingre\", når de får fokus"
+
+#, fuzzy
+msgid "Grab Windows"
+msgstr "Vinduestyper til gribeeffekt"
+
+#, fuzzy
+msgid "Windows that should wobble when grabbed"
+msgstr ""
+"Vinduestyper, der skal \"slingre\", når der tages fat i dem med markøren"
+
+#, fuzzy
+msgid "Move Windows"
+msgstr "Flyt vindue"
+
+#, fuzzy
+msgid "Windows that should wobble when moved"
+msgstr "Vinduestyper, der skal \"slingre\", når de flyttes"
+
+msgid "Maximize Effect"
+msgstr "Maksimeringseffekt"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Vinduerne \"slingrer\", når de maksimeres eller gendannes"
+
+msgid "Zoom Desktop"
+msgstr "Zoom på skrivebord"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Zoom og panorer på skrivebordskubus"
+
+msgid "Zoom In"
+msgstr "Zoom ind"
+
+msgid "Zoom Out"
+msgstr "Zoom ud"
+
+#, fuzzy
+msgid "Zoom Pan"
+msgstr "Zoom ind"
+
+#, fuzzy
+msgid "Zoom pan"
+msgstr "Zoom ind"
+
+msgid "Zoom Speed"
+msgstr "Zoomhastighed"
+
+msgid "Zoom Timestep"
+msgstr "Tidstrin for zoom"
+
+msgid "Zoom factor"
+msgstr "Zoomfaktor"
+
+msgid "Filter Linear"
+msgstr "Lineært filter"
+
+#, fuzzy
+msgid "Use linear filter when zoomed in"
+msgstr "Brug lineært filter, når der er zoomet ind"
+
+msgid "Compiz"
+msgstr ""
+
+msgid "Compiz Start"
+msgstr ""
+
+#
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Start rotation"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Antal skriveborde"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Antal virtuelle skriveborde"
+
+#, fuzzy
+#~ msgid "Blur type"
+#~ msgstr "Blue type"
+
+#, fuzzy
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Formindsk vinduets uigennemsigtighed"
+
+#, fuzzy
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Maksimer det aktive vindue i bredden"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Marco tema gennemsigtighed"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Marco tema gennemsigtigheds skygge"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Brug Marco tema"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Formindsk uigennemsigtighed"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "Forøg uigennemsigtighed"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Kommandolinje til skærmbillede"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Kommandolinje til skærmbillede"
+
+#, fuzzy
+#~ msgid "Opacity windows"
+#~ msgstr "Mellemrum mellem vinduer"
+
+#~ msgid "Background images"
+#~ msgstr "Baggrunds billeder"
+
+#, fuzzy
+#~ msgid "Place windows on a plane"
+#~ msgstr "Placer vinduer på kubus"
+
+#, fuzzy
+#~ msgid "Plane Down"
+#~ msgstr "Placer vinduer"
+
+#, fuzzy
+#~ msgid "Plane Left"
+#~ msgstr "Roter venstre"
+
+#, fuzzy
+#~ msgid "Plane Right"
+#~ msgstr "Roter højre"
+
+#, fuzzy
+#~ msgid "Plane To Face 1"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 10"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 11"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 12"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 2"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 3"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 4"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 5"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 6"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 7"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 8"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face 9"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane Up"
+#~ msgstr "Placer vinduer"
+
+#, fuzzy
+#~ msgid "Plane left"
+#~ msgstr "Roter til venstre"
+
+#, fuzzy
+#~ msgid "Plane right"
+#~ msgstr "Roter til højre"
+
+#, fuzzy
+#~ msgid "Plane to face 1"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 10"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 11"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 12"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 2"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 3"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 4"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 5"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 6"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 7"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 8"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face 9"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane up"
+#~ msgstr "Placer vinduer"
+
+#~ msgid "Open window menu"
+#~ msgstr "Åbn vinduesmenuen"
+
+#~ msgid "Dock"
+#~ msgstr "Dok"
+
+#~ msgid "Toolbar"
+#~ msgstr "Værktøjslinje"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Utility"
+#~ msgstr "Værktøj"
+
+#~ msgid "Splash"
+#~ msgstr "Splash"
+
+#~ msgid "Dialog"
+#~ msgstr "Dialogboks"
+
+#~ msgid "DropdownMenu"
+#~ msgstr "Rullemenu"
+
+#~ msgid "PopupMenu"
+#~ msgstr "Pop op-menu"
+
+#~ msgid "Tooltip"
+#~ msgstr "Værktøjstip"
+
+#~ msgid "Notification"
+#~ msgstr "Besked"
+
+#~ msgid "Combo"
+#~ msgstr "Kombination"
+
+#~ msgid "Dnd"
+#~ msgstr "Træk-og-slip"
+
+#~ msgid "ModalDialog"
+#~ msgstr "Modaldialogboks"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fuldskærm"
+
+#~ msgid "Unknown"
+#~ msgstr "Ukendt"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command0 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command1 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command10 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command11 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command2 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command3 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command4 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command5 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command6 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command7 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command8 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid ""
+#~ "A keybinding that when invoked, will run the shell command identified by "
+#~ "command9 (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "En tastaturgenvej, der kører Shell-kommandoen, når den aktiveres. Shell-"
+#~ "kommandoen identificeres af kommando%d"
+
+#, fuzzy
+#~ msgid "Amount of brightness in percent (0-100)"
+#~ msgstr "Lysstyrken angivet i procent"
+
+#, fuzzy
+#~ msgid "Amount of opacity in percent (0-100)"
+#~ msgstr "Uigennemsigtighed i procent"
+
+#, fuzzy
+#~ msgid "Amount of saturation in percent (0-100)"
+#~ msgstr "Farvemætningen angivet i procent"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "Farvemætning"
+
+#, fuzzy
+#~ msgid "Delay (in ms) between each rain-drop (0-3600000)"
+#~ msgstr "Forsinkelse (i ms) mellem hver regndråbe"
+
+#, fuzzy
+#~ msgid ""
+#~ "Distance desktop should be zoom out while switching windows (0.0-5.0)"
+#~ msgstr "Fjernskrivebord zoomes ud, når der skiftes til et andet vindue"
+
+#~ msgid "Do not modify"
+#~ msgstr "Må ikke ændres"
+
+#, fuzzy
+#~ msgid "Drop shadow X offset (-16-16)"
+#~ msgstr "Slagskyggeforskydning X"
+
+#, fuzzy
+#~ msgid "Drop shadow Y offset (-16-16)"
+#~ msgstr "Slagskyggeforskydning Y"
+
+#, fuzzy
+#~ msgid "Drop shadow opacity (0.01-6.00)"
+#~ msgstr "Slagskyggens uigennemsigtighed"
+
+#, fuzzy
+#~ msgid "Drop shadow radius (0.0-48.0)"
+#~ msgstr "Slagskyggeradius"
+
+#, fuzzy
+#~ msgid "Focus Window Effect (None, Shiver)"
+#~ msgstr "Effekt ved fokus på vinduer"
+
+#, fuzzy
+#~ msgid "Focus prevention windows (match)"
+#~ msgstr "Vælg forrige vindue"
+
+#, fuzzy
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "Foldeaccelaration"
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "Foldehastighed"
+
+#, fuzzy
+#~ msgid "Fold Timestep (0.0-50.0)"
+#~ msgstr "Tidstrin for foldning"
+
+#, fuzzy
+#~ msgid "Interval before raising selected windows (0-10000)"
+#~ msgstr "Interval inden de valgte vinduer hæves"
+
+#, fuzzy
+#~ msgid ""
+#~ "Layout and start transforming windows on current output (Left, Right, "
+#~ "Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Arranger og start omdannelsen af vinduer i det aktuelle outputområde"
+
+#
+#, fuzzy
+#~ msgid "Map Window Effect (None, Shiver)"
+#~ msgstr "Effekt ved tilknytning af vinduer"
+
+#, fuzzy
+#~ msgid "Minimize speed (0.0-50.0)"
+#~ msgstr "Sænk hastighed"
+
+#, fuzzy
+#~ msgid "Minimize timestep (0.0-50.0)"
+#~ msgstr "Minimer tidstrin"
+
+#, fuzzy
+#~ msgid "Minimum Vertex Grid Size (4-128)"
+#~ msgstr "Knudernes minimumstørrelse i gitteret"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops (1-36)"
+#~ msgstr "Antal virtuelle skriveborde"
+
+#, fuzzy
+#~ msgid "Opacity change step (1-50)"
+#~ msgstr "Trin i den trinvise ændring af uigennemsigtigheden"
+
+#, fuzzy
+#~ msgid "Opacity level of moving windows (1-100)"
+#~ msgstr "Uigennemsigtighedsniveau ved flytning af vinduer"
+
+#, fuzzy
+#~ msgid "Opacity level of resizing windows (1-100)"
+#~ msgstr "Uigennemsigtighedsniveau ved flytning af vinduer"
+
+#, fuzzy
+#~ msgid "Overlay an icon on windows once they are scaled (None, Emblem, Big)"
+#~ msgstr "Sæt et ikon på vinduerne, når de er skaleret"
+
+#~ msgid "Plugins that this must load before"
+#~ msgstr "Plugins, som skal indlæses først"
+
+#~ msgid "Plugins that this requires"
+#~ msgstr "Obligatoriske plugins"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window (Left, Right, Top, "
+#~ "Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Vis opgaveskifteren, hvis den ikke er synlig, og vælg næste vindue blandt "
+#~ "alle vinduer"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select next window out of all windows "
+#~ "(Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Vis opgaveskifteren, hvis den ikke er synlig, og vælg næste vindue blandt "
+#~ "alle vinduer"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window (Left, Right, "
+#~ "Top, Bottom, TopLeft, TopRight, BottomLeft, BottomRight)"
+#~ msgstr ""
+#~ "Vis opgaveskifteren, hvis den ikke er synlig, og vælg forrige vindue "
+#~ "blandt alle vinduer"
+
+#, fuzzy
+#~ msgid ""
+#~ "Popup switcher if not visible and select previous window out of all "
+#~ "windows (Left, Right, Top, Bottom, TopLeft, TopRight, BottomLeft, "
+#~ "BottomRight)"
+#~ msgstr ""
+#~ "Vis opgaveskifteren, hvis den ikke er synlig, og vælg forrige vindue "
+#~ "blandt alle vinduer"
+
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "Rotationsacceleration"
+
+#, fuzzy
+#~ msgid "Rotation Speed (0.0-50.0)"
+#~ msgstr "Rotationshastighed"
+
+#, fuzzy
+#~ msgid "Rotation Timestep (0.0-50.0)"
+#~ msgstr "Tidstrin for rotation"
+
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "Skaleringshastighed"
+
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "Tidstrin for skalering"
+
+#, fuzzy
+#~ msgid "Screen size multiplier for horizontal virtual size (1-32)"
+#~ msgstr "Skærmstørrelsesmultiplikator til den vandrette virtuelle størrelse"
+
+#, fuzzy
+#~ msgid "Screen size multiplier for vertical virtual size (1-32)"
+#~ msgstr "Skærmstørrelsesmultiplikator til den lodrette virtuelle størrelse"
+
+#, fuzzy
+#~ msgid "Sensitivity of pointer movement (0.01-100.00)"
+#~ msgstr "Det følsomhedsniveau, der skal anvendes til markørbevægelserne"
+
+#, fuzzy
+#~ msgid "Shade resistance (0-100)"
+#~ msgstr "Skyggemodstand"
+
+#, fuzzy
+#~ msgid "Space between windows (0-250)"
+#~ msgstr "Mellemrum mellem vinduer"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "Fjerderfriktion"
+
+#, fuzzy
+#~ msgid "Spring Konstant (0.0-10.0)"
+#~ msgstr "Fjederkonstant"
+
+#, fuzzy
+#~ msgid "Switcher speed (0.0-50.0)"
+#~ msgstr "Hastighed for programskifter"
+
+#, fuzzy
+#~ msgid "Switcher timestep (0.0-50.0)"
+#~ msgstr "Tidstrin for programskifter"
+
+#, fuzzy
+#~ msgid "Texture filtering (Fast, Good, Best)"
+#~ msgstr "Teksturfiltrering"
+
+#, fuzzy
+#~ msgid "The rate at which the screen is redrawn (times/second) (1-200)"
+#~ msgstr ""
+#~ "Den hastighed, der anvendes til at tegne skærmbilledet igen (antal gange/"
+#~ "sekund)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Time (in ms) before scale mode is terminated when hovering over a window "
+#~ "(50-10000)"
+#~ msgstr ""
+#~ "Den tid (i ms), der går, inden skaleringstilstanden afsluttes, når "
+#~ "markøren peger på et vindue"
+
+#, fuzzy
+#~ msgid "Timeout before flipping viewport (0-1000)"
+#~ msgstr "Den tid, der går, inden visningsområdet skifter"
+
+#~ msgid "USe linear filter when zoomed in"
+#~ msgstr "Brug lineært filter, når der er zoomet ind"
+
+#
+#, fuzzy
+#~ msgid "Vertex Grid Resolution (1-64)"
+#~ msgstr "Opløsning for knuder i gitteret"
+
+#, fuzzy
+#~ msgid "Water offset scale (0.0-10.0)"
+#~ msgstr "Størrelse på vandforskydning"
+
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "Fadehastighed for vindue"
+
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "Fadehastighed for vindue"
+
+#, fuzzy
+#~ msgid "Windows that should be affected by focus blur (match)"
+#~ msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+#~ msgid "Windows that should be decorated (match)"
+#~ msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+#~ msgid "Windows that should be fading (match)"
+#~ msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+#~ msgid "Windows that should be have a shadow (match)"
+#~ msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+#~ msgid "Windows that should be scaled in scale mode (match)"
+#~ msgstr "Vinduestyper, der skal skaleres i skaleringstilstand"
+
+#, fuzzy
+#~ msgid "Windows that should be shown in switcher (match)"
+#~ msgstr "Vinduestyper, der skal vises i programskifteren"
+
+#, fuzzy
+#~ msgid "Windows that should be transformed when minimized (match)"
+#~ msgstr "Vinduestyper, der skal ændres, når de minimeres"
+
+#, fuzzy
+#~ msgid "Windows that should use alpha blur by default (match)"
+#~ msgstr "Vinduestyper, der skal fades"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when focused (match)"
+#~ msgstr "Vinduestyper, der skal \"slingre\", når de får fokus"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when grabbed (match)"
+#~ msgstr ""
+#~ "Vinduestyper, der skal \"slingre\", når der tages fat i dem med markøren"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when mapped (match)"
+#~ msgstr "Vinduestyper, der skal \"slingre\", når de tilknyttes"
+
+#, fuzzy
+#~ msgid "Windows that should wobble when moved (match)"
+#~ msgstr "Vinduestyper, der skal \"slingre\", når de flyttes"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "Zoomhastighed"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "Tidstrin for zoom"
+
+#, fuzzy
+#~ msgid "Zoom factor (1.01-3.00)"
+#~ msgstr "Zoomfaktor"
+
+#~ msgid "."
+#~ msgstr "."
+
+#, fuzzy
+#~ msgid "Plane To Face %d"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane to face %d"
+#~ msgstr "Roter til side %d"
+
+#, fuzzy
+#~ msgid "Plane To Face %d with Window"
+#~ msgstr "Roter til side %d med vindue"
+
+#, fuzzy
+#~ msgid "Plane to face %d and bring active window along"
+#~ msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#~ msgid "Rotate To Face %d"
+#~ msgstr "Roter til side %d"
+
+#~ msgid "Rotate to face %d"
+#~ msgstr "Roter til side %d"
+
+#~ msgid "Rotate To Face %d with Window"
+#~ msgstr "Roter til side %d med vindue"
+
+#~ msgid "Rotate to face %d and bring active window along"
+#~ msgstr "Roter til side %d, og lad det aktive vindue følge med"
+
+#~ msgid "Command line %d"
+#~ msgstr "Kommandolinje %d"
+
+#~ msgid "Run command %d"
+#~ msgstr "Kør kommando %d"
+
+#
+#~ msgid "Move Window Types"
+#~ msgstr "Vinduestyper til flytteeffekt"
+
+#, fuzzy
+#~ msgid "Corners"
+#~ msgstr "Cornish"
+
+#
+#, fuzzy
+#~ msgid "Show switcher"
+#~ msgstr "Vis æ&ndringer"
+
+#, fuzzy
+#~ msgid "Sloppy Focus"
+#~ msgstr "Diskette"
+
+#, fuzzy
+#~ msgid "Start moving window using keyboard"
+#~ msgstr "Starter dæmon."
+
+#, fuzzy
+#~ msgid "Terminate"
+#~ msgstr "Terminaler"

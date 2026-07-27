@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="svg">
+	<short>Svg</short>
+	<long>Svg image loader</long>
+	<category>Image Loading</category>
+	<feature>imageext:svg</feature>
+	<feature>imagemime:image/svg+xml</feature>
+    </plugin>
+</compiz>

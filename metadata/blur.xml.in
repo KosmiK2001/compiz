@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="blur">
+	<short>Blur Windows</short>
+	<long>Blur windows</long>
+	<category>Effects</category>
+	<feature>blur</feature>
+	<deps>
+	    <relation type="before">
+		<plugin>video</plugin>
+	    </relation>
+	    <relation type="after">
+		<plugin>decoration</plugin>
+	    </relation>
+	</deps>
+	<display>
+	    <option name="pulse" type="bell">
+		<short>Pulse</short>
+		<long>Pulse effect</long>
+	    </option>
+	</display>
+	<screen>
+	    <option name="blur_speed" type="float">
+		<short>Blur Speed</short>
+		<long>Window blur speed</long>
+		<default>3.5</default>
+		<min>0.1</min>
+		<max>10.0</max>
+		<precision>0.1</precision>
+	    </option>
+	    <option name="focus_blur_match" type="match">
+		<short>Focus blur windows</short>
+		<long>Windows that should be affected by focus blur</long>
+		<default>toolbar | menu | utility | normal | dialog | modaldialog</default>
+	    </option>
+	    <option name="focus_blur" type="bool">
+		<short>Focus Blur</short>
+		<long>Blur windows that doesn't have focus</long>
+		<default>false</default>
+	    </option>
+	    <option name="alpha_blur_match" type="match">
+		<short>Alpha blur windows</short>
+		<long>Windows that should be use alpha blur by default</long>
+		<default>any</default>
+	    </option>
+	    <option name="alpha_blur" type="bool">
+		<short>Alpha Blur</short>
+		<long>Blur behind translucent parts of windows</long>
+		<default>true</default>
+	    </option>
+	    <option name="filter" type="int">
+		<short>Blur Filter</short>
+		<long>Filter method used for blurring</long>
+		<default>1</default>
+		<min>0</min>
+		<max>2</max>
+		<desc>
+		    <value>0</value>
+		    <name>4xBilinear</name>
+		</desc>
+		<desc>
+		    <value>1</value>
+		    <name>Gaussian</name>
+		</desc>
+		<desc>
+		    <value>2</value>
+		    <name>Mipmap</name>
+		</desc>
+	    </option>
+	    <option name="gaussian_radius" type="int">
+		<short>Gaussian Radius</short>
+		<long>Gaussian radius</long>
+		<default>3</default>
+		<min>1</min>
+		<max>15</max>
+	    </option>
+	    <option name="gaussian_strength" type="float">
+		<short>Gaussian Strength</short>
+		<long>Gaussian strength</long>
+		<default>1.0</default>
+		<min>0.0</min>
+		<max>1.0</max>
+		<precision>0.1</precision>
+	    </option>
+	    <option name="mipmap_lod" type="float">
+		<short>Mipmap LOD</short>
+		<long>Mipmap level-of-detail</long>
+		<default>2.5</default>
+		<min>0.1</min>
+		<max>8.0</max>
+		<precision>0.1</precision>
+	    </option>
+	    <option name="saturation" type="int">
+		<short>Blur Saturation</short>
+		<long>Blur saturation</long>
+		<default>100</default>
+		<min>0</min>
+		<max>100</max>
+	    </option>
+	    <option name="occlusion" type="bool">
+		<short>Blur Occlusion</short>
+		<long>Disable blurring of screen regions obscured by other windows.</long>
+		<default>true</default>
+	    </option>
+	    <option name="independent_tex" type="bool">
+		<short>Independent texture fetch</short>
+		<long>Use the available texture units to do as many as possible independent texture fetches.</long>
+		<default>false</default>
+	    </option>
+	</screen>
+    </plugin>
+</compiz>

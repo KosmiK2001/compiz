@@ -1,0 +1,3173 @@
+# Korean translation for compiz
+# Copyright (C) 2007 launchpad.net/compiz
+# This file is distributed under the same license as the compiz package.
+# Lee June Hee <bugbear5@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2009-09-30 15:52+0200\n"
+"Last-Translator: Lee June Hee <bugbear5@gmail.com>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close Window"
+msgstr "창 닫기"
+
+msgid "Unmaximize Window"
+msgstr "창 최대화 취소"
+
+msgid "Maximize Window"
+msgstr "창 최대화"
+
+msgid "Minimize Window"
+msgstr "창 최소화"
+
+msgid "Window Menu"
+msgstr "창 메뉴"
+
+msgid "Shade"
+msgstr "말아올리기"
+
+msgid "Make Above"
+msgstr "항상 위에"
+
+msgid "Stick"
+msgstr "끈적이 창 설정"
+
+msgid "Unshade"
+msgstr "말아올리기 해제"
+
+msgid "Unmake Above"
+msgstr "항상 위에 해제"
+
+msgid "Unstick"
+msgstr "끈적이 창 해제"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "창 \"%s\"가 응답하지 않습니다."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr "이 응용프로그램을 강제로 종료하면 저장하지 않은 데이터는 손실됩니다."
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Force Quit"
+msgstr "_강제 종료"
+
+msgid "Annotate"
+msgstr "주석"
+
+msgid "Annotate plugin"
+msgstr "주석 플러그인"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "지우기 시작"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "주석 그리기를 시작"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "시작"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "주석 그리기를 시작"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "지우기 시작"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "주석 그리기를 시작"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "지우기 시작"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "주석 그리기를 시작"
+
+msgid "Draw"
+msgstr "그리기"
+
+msgid "Draw using tool"
+msgstr "도구를 사용하여 그림을 그림"
+
+msgid "Initiate erase"
+msgstr "지우기 시작"
+
+msgid "Initiate annotate erasing"
+msgstr "주석 지우기를 시작"
+
+msgid "Clear"
+msgstr "지우기"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "활성 창 말아올리기"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "주석의 채우기 색"
+
+msgid "Fill color for annotations"
+msgstr "주석의 채우기 색"
+
+msgid "Annotate Stroke Color"
+msgstr "주석의 외곽선 색"
+
+msgid "Stroke color for annotations"
+msgstr "주석의 외곽선 색"
+
+msgid "Stroke width"
+msgstr "테두리 너비"
+
+msgid "Stroke width for annotations"
+msgstr "주석의 테두리 너비"
+
+msgid "Blur Windows"
+msgstr "창 흐림 효과"
+
+msgid "Blur windows"
+msgstr "창 흐림 효과"
+
+msgid "Pulse"
+msgstr "진동"
+
+msgid "Pulse effect"
+msgstr "진동 효과"
+
+msgid "Blur Speed"
+msgstr "흐림 효과 속도"
+
+msgid "Window blur speed"
+msgstr "창 흐림 속도"
+
+msgid "Focus blur windows"
+msgstr "초점을 가진 창을 흐리게 합니다."
+
+msgid "Windows that should be affected by focus blur"
+msgstr "초점 흐림 효과를 적용할 창"
+
+msgid "Focus Blur"
+msgstr "초점 흐림 효과"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "초점을 잃은 창을 흐리게 합니다."
+
+msgid "Alpha blur windows"
+msgstr "투명 창 흐림 효과"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "투명 흐림 효과를 기본적으로 사용할 창"
+
+msgid "Alpha Blur"
+msgstr "투명 흐림 효과"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "창의 투명한 부분 뒷면을 흐리게 합니다."
+
+msgid "Blur Filter"
+msgstr "흐림 효과 필터"
+
+msgid "Filter method used for blurring"
+msgstr "흐림 효과에 사용할 필터"
+
+msgid "4xBilinear"
+msgstr "4x 양선형"
+
+msgid "Gaussian"
+msgstr "가우시안"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "가우시안 반경"
+
+msgid "Gaussian radius"
+msgstr "가우시안 반경"
+
+msgid "Gaussian Strength"
+msgstr "가우시안 강도"
+
+msgid "Gaussian strength"
+msgstr "가우시안 강도"
+
+msgid "Mipmap LOD"
+msgstr "Mipmap의 상세도"
+
+msgid "Mipmap level-of-detail"
+msgstr "Mipmap의 상세도"
+
+msgid "Blur Saturation"
+msgstr "흐림 효과 채도"
+
+msgid "Blur saturation"
+msgstr "흐림 효과 채도"
+
+msgid "Blur Occlusion"
+msgstr "흐림 효과 폐색"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "다른 창에 가려 보이지 않는 영역의 흐림 효과를 비활성화 합니다."
+
+msgid "Independent texture fetch"
+msgstr "독립적인 텍스쳐 호출"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"최대한 독립 텍스쳐 호출을 할 수 있도록 가능한 텍스쳐 단위를 사용합니다."
+
+msgid "Clone Output"
+msgstr "화면 복제"
+
+msgid "Output clone handler"
+msgstr "화면 복제 관리자"
+
+msgid "Initiate"
+msgstr "시작"
+
+msgid "Initiate clone selection"
+msgstr "복제 화면 선택 시작"
+
+msgid "Commands"
+msgstr "명령"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "임의의 명령을 바로가기에 지정"
+
+msgid "Command line 0"
+msgstr "명령 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "명령 0을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 1"
+msgstr "명령 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 2"
+msgstr "명령 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "명령 2를 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 3"
+msgstr "명령 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "명령 3을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 4"
+msgstr "명령 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "명령 4를 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 5"
+msgstr "명령 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "명령 5를 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 6"
+msgstr "명령 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "명령 6을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 7"
+msgstr "명령 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "명령 7을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 8"
+msgstr "명령 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "명령 8을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 9"
+msgstr "명령 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "명령 9를 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 10"
+msgstr "명령 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "명령 10을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 11"
+msgstr "명령 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "명령 11을 선택했을 때 실행될 쉘 명령행"
+
+msgid "Command line 12"
+msgstr "명령 12"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "명령 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "명령 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "명령 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "명령 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "명령 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "명령 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "명령 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "명령 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "명령 0을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "명령 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "명령 1을 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "명령 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "명령 2를 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "명령 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "명령 2를 선택했을 때 실행될 쉘 명령행"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "명령 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "명령 2를 선택했을 때 실행될 쉘 명령행"
+
+msgid "Key Bindings"
+msgstr "키 바로가기"
+
+msgid "Run command 0"
+msgstr "명령 0 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "명령 0에 지정된 명령을 실행할 키"
+
+msgid "Run command 1"
+msgstr "명령 1 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+msgid "Run command 2"
+msgstr "명령 2 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "명령 2에 지정된 명령을 실행할 키"
+
+msgid "Run command 3"
+msgstr "명령 3 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "명령 3에 지정된 명령을 실행할 키"
+
+msgid "Run command 4"
+msgstr "명령 4 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "명령 4에 지정된 명령을 실행할 키"
+
+msgid "Run command 5"
+msgstr "명령 5 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "명령 5에 지정된 명령을 실행할 키"
+
+msgid "Run command 6"
+msgstr "명령 6 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "명령 6에 지정된 명령을 실행할 키"
+
+msgid "Run command 7"
+msgstr "명령 7 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "명령 7에 지정된 명령을 실행할 키"
+
+msgid "Run command 8"
+msgstr "명령 8 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "명령 8에 지정된 명령을 실행할 키"
+
+msgid "Run command 9"
+msgstr "명령 9 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "명령 9에 지정된 명령을 실행할 키"
+
+msgid "Run command 10"
+msgstr "명령 10 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "명령 10에 지정된 명령을 실행할 키"
+
+msgid "Run command 11"
+msgstr "명령 11 실행"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "명령 11에 지정된 명령을 실행할 키"
+
+msgid "Run command 12"
+msgstr "명령 12 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "명령 1 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "명령 1 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "명령 1 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "명령 1 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "명령 1 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "명령 1 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "명령 1 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "명령 1에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "명령 2 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "명령 2에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "명령 2 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "명령 2에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "명령 2 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "명령 2에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "명령 2 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "명령 2에 지정된 명령을 실행할 키"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "명령 2 실행"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "명령 2에 지정된 명령을 실행할 키"
+
+msgid "Button Bindings"
+msgstr "버튼 바로가기"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "명령 0에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "명령 2에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "명령 3에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "명령 4에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "명령 5에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "명령 6에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "명령 7에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "명령 8에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "명령 9에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "명령 10에 지정된 명령을 실행할 버튼"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "명령 11에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "명령 1에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "명령 2에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "명령 2에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "명령 2에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "명령 2에 지정된 명령을 실행할 버튼"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "명령 2에 지정된 명령을 실행할 버튼"
+
+msgid "Edge Bindings"
+msgstr "모서리 바로가기"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "명령 0에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "명령 2에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "명령 3에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "명령 4에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "명령 5에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "명령 6에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "명령 7에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "명령 8에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "명령 9에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "명령 10에 지정된 명령을 실행할 모서리"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "명령 11에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "명령 1에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "명령 2에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "명령 2에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "명령 2에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "명령 2에 지정된 명령을 실행할 모서리"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "명령 2에 지정된 명령을 실행할 모서리"
+
+msgid "General Options"
+msgstr "일반 설정"
+
+msgid "General compiz options"
+msgstr "일반적인 컴피즈 설정"
+
+msgid "Active Plugins"
+msgstr "사용 중인 플러그인 목록"
+
+msgid "List of currently active plugins"
+msgstr "현재 활성화된 플러그인의 목록"
+
+msgid "Audible Bell"
+msgstr "경고음 소리 듣기"
+
+msgid "Audible system beep"
+msgstr "시스템 경고음 소리 듣기"
+
+msgid "Ignore Hints When Maximized"
+msgstr "최대화시 힌트 무시"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr "최대화시 크기 증분과 방향 힌트 무시"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "작업 표시줄에 나타나지 않는 창을 숨김"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr "바탕 화면 보기 상태일 때 작업 표시줄에 없는 창을 숨기기"
+
+msgid "Edge Trigger Delay"
+msgstr "모서리 실행 지연 시간"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr "모서리 명령을 실행하기 전에 포인터가 모서리에 머물러 있어야 하는 시간"
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Ping 지연"
+
+msgid "Interval between ping messages"
+msgstr "Ping 메시지들 사이의 간격"
+
+msgid "Display Settings"
+msgstr "디스플레이 설정"
+
+msgid "Texture Filter"
+msgstr "텍스쳐 필터"
+
+msgid "Texture filtering"
+msgstr "텍스쳐 필터링"
+
+msgid "Fast"
+msgstr "빠름"
+
+msgid "Good"
+msgstr "좋음"
+
+msgid "Best"
+msgstr "최고"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "초점 & 띄우기 동작"
+
+msgid "Click To Focus"
+msgstr "클릭하면 초점을 이동"
+
+msgid "Click on window moves input focus to it"
+msgstr "창을 클릭하면 초점을 변경함"
+
+msgid "Raise On Click"
+msgstr "클릭으로 띄우기"
+
+msgid "Raise windows when clicked"
+msgstr "클릭했을때 창 띄우기"
+
+msgid "Auto-Raise"
+msgstr "자동으로 떠오름"
+
+msgid "Raise selected windows after interval"
+msgstr "선택된 창을 일정 시간 후에 띄우기"
+
+msgid "Auto-Raise Delay"
+msgstr "자동으로 떠오르게 하는 지연 시간"
+
+msgid "Interval before raising selected windows"
+msgstr "선택된 창을 띄우는 시간 간격"
+
+msgid "Key bindings"
+msgstr "키 바로가기"
+
+msgid "Close active window"
+msgstr "활성화된 창을 닫습니다."
+
+msgid "Raise Window"
+msgstr "창 띄우기"
+
+msgid "Raise window above other windows"
+msgstr "다른 창 위에 창을 띄우기"
+
+msgid "Lower Window"
+msgstr "창을 내리기"
+
+msgid "Lower window beneath other windows"
+msgstr "다른 창들 밑으로 창을 내림"
+
+msgid "Unmaximize active window"
+msgstr "활성 창 최대화 취소"
+
+msgid "Minimize active window"
+msgstr "활성화된 창 최소화"
+
+msgid "Maximize active window"
+msgstr "활성화된 창 최대화"
+
+msgid "Maximize Window Horizontally"
+msgstr "가로로 창 최대화"
+
+msgid "Maximize active window horizontally"
+msgstr "활성화된 창 가로로 최대화"
+
+msgid "Maximize Window Vertically"
+msgstr "세로로 창 최대화"
+
+msgid "Maximize active window vertically"
+msgstr "활성화된 창 세로로 최대화"
+
+msgid "Window menu button binding"
+msgstr "창 메뉴 버튼"
+
+msgid "Window menu key binding"
+msgstr "창 메뉴 키"
+
+msgid "Show Desktop"
+msgstr "바탕 화면 보기"
+
+msgid "Hide all windows and focus desktop"
+msgstr "모든 창을 최소화하고 초점을 바탕 화면에 맞춤"
+
+msgid "Toggle Window Maximized"
+msgstr "창 최대화"
+
+msgid "Toggle active window maximized"
+msgstr "활성 창을 최대화 하기"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "가로로 창 최대화"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "가로로 활성 창 최대화"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "세로로 창 최대화"
+
+msgid "Toggle active window maximized vertically"
+msgstr "세로로 활성 창 최대화"
+
+msgid "Toggle Window Shaded"
+msgstr "창 말아올리기"
+
+msgid "Toggle active window shaded"
+msgstr "활성 창 말아올리기"
+
+msgid "Slow Animations"
+msgstr "느린 애니메이션"
+
+msgid "Toggle use of slow animations"
+msgstr "느린 애니메이션 사용"
+
+msgid "Desktop Size"
+msgstr "데스크탑 크기"
+
+msgid "Horizontal Virtual Size"
+msgstr "가로 가상 크기"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "가로 화면 크기 배수"
+
+msgid "Vertical Virtual Size"
+msgstr "세로 가상 크기"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "세로 화면 크기 배수"
+
+msgid "Lighting"
+msgstr "조명 효과"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "화면이 전환될 때 빛이 퍼지는 사용"
+
+msgid "Detect Refresh Rate"
+msgstr "갱신 주기 감지"
+
+msgid "Automatic detection of refresh rate"
+msgstr "갱신 주기를 자동으로 감지"
+
+msgid "Refresh Rate"
+msgstr "갱신 주기"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "화면이 다시 그려지는 비율(횟수/초)"
+
+msgid "Detect Outputs"
+msgstr "화면 감지"
+
+msgid "Automatic detection of output devices"
+msgstr "모니터 자동 감지"
+
+msgid "Overlapping Output Handling"
+msgstr "화면 오버래핑 조절"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "오버래핑 된 모니터 중 선호하는 모니터"
+
+msgid "Smart mode"
+msgstr "스마트 모드"
+
+msgid "Prefer larger output"
+msgstr "더 큰 화면을 선호함"
+
+msgid "Prefer smaller output"
+msgstr "더 작은 화면을 선호함"
+
+msgid "Outputs"
+msgstr "화면"
+
+msgid "List of strings describing output devices"
+msgstr "설정된 모니터 목록"
+
+msgid "Sync To VBlank"
+msgstr "VBlank에 동기화"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "수직 공백 주기로만 화면을 업데이트함"
+
+msgid "Focus Prevention Level"
+msgstr "초점 막기 정도"
+
+msgid "Level of focus stealing prevention"
+msgstr "초점 뺏기를 막는 정도"
+
+msgid "Off"
+msgstr "끄기"
+
+msgid "Low"
+msgstr "낮음"
+
+msgid "Normal"
+msgstr "기본"
+
+msgid "High"
+msgstr "높음"
+
+msgid "Very High"
+msgstr "매우 높음"
+
+msgid "Focus Prevention Windows"
+msgstr "초점을 막을 창"
+
+msgid "Focus prevention windows"
+msgstr "초점을 막을 창"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "전체 화면 창의 초점 변경 방지"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"전체 화면 창을 그릴 때, 화면 밖의 픽스맵으로 초점이 변경되지 않도록 허용함"
+
+msgid "Default Icon"
+msgstr "기본 아이콘"
+
+msgid "Default window icon image"
+msgstr "기본 창 아이콘 그림"
+
+msgid "Force independent output painting."
+msgstr "독립된 화면 그리기 강제"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr "모니터가 오버랩 되어있어도 각 모니터를 독립적으로 그립니다. "
+
+msgid "Texture Compression"
+msgstr "텍스쳐 압축"
+
+msgid "If available use compression for textures converted from images"
+msgstr "가능하다면 이미지로부터 변형된 텍스쳐를 압축합니다."
+
+msgid "Desktop Cube"
+msgstr "데스크탑 큐브"
+
+msgid "Place windows on cube"
+msgstr "큐브 위에 창을 나타냅니다."
+
+msgid "Unfold"
+msgstr "펼치기"
+
+msgid "Unfold cube"
+msgstr "큐브 펼치기"
+
+msgid "Next Slide"
+msgstr "다음 슬라이드"
+
+msgid "Advance to next slide"
+msgstr "다음 슬라이드로 넘어가기"
+
+msgid "Prev Slide"
+msgstr "이전 슬라이드"
+
+msgid "Go back to previous slide"
+msgstr "이전 슬라이드로 가기"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "높은 품질을 얻기 위해 가능한 경우 mipmap을 생성"
+
+msgid "Multi Output Mode"
+msgstr "다중 화면 모드"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "다중 모니터를 사용할 때 큐브가 표시되는 방법을 선택하세요."
+
+msgid "Automatic"
+msgstr "자동"
+
+msgid "Multiple cubes"
+msgstr "복수 큐브"
+
+msgid "One big cube"
+msgstr "커다란 단일 큐브"
+
+msgid "Behavior"
+msgstr "동작"
+
+msgid "Inside Cube"
+msgstr "큐브 내부"
+
+msgid "Inside cube"
+msgstr "큐브 내부"
+
+msgid "Acceleration"
+msgstr "가속"
+
+msgid "Fold Acceleration"
+msgstr "접기 가속"
+
+msgid "Speed"
+msgstr "속도"
+
+msgid "Fold Speed"
+msgstr "접는 속도"
+
+msgid "Timestep"
+msgstr "시간 간격"
+
+msgid "Fold Timestep"
+msgstr "접는 시간 간격"
+
+msgid "Appearance"
+msgstr "모양"
+
+msgid "Cube Color"
+msgstr "큐브 색상"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "큐브 윗면과 밑면의 색상"
+
+msgid "Cube Caps"
+msgstr "큐브 캡"
+
+msgid "Scale image"
+msgstr "그림 크기 조정"
+
+msgid "Scale images to cover top face of cube"
+msgstr "큐브 윗면의 그림 크기 조정"
+
+msgid "Image files"
+msgstr "그림 파일"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "큐브의 윗면에 그려질 PNG와 SVG 파일 목록"
+
+msgid "Adjust Image"
+msgstr "이미지 조정"
+
+msgid "Adjust top face image to rotation"
+msgstr "회전시 윗면 그림 조정"
+
+msgid "Skydome"
+msgstr "스카이 돔"
+
+msgid "Render skydome"
+msgstr "스카이 돔 그리기"
+
+msgid "Skydome Image"
+msgstr "스카이 돔 그림"
+
+msgid "Image to use as texture for the skydome"
+msgstr "스카이 돔에 사용할 그림"
+
+msgid "Animate Skydome"
+msgstr "스카이 돔 움직이기"
+
+msgid "Animate skydome when rotating cube"
+msgstr "큐브 회전시 스카이 돔 움직이기"
+
+msgid "Skydome Gradient Start Color"
+msgstr "스카이 돔 그라디언트 시작 색상"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "스카이 돔 그래디언트의 윗면 최종 색상"
+
+msgid "Skydome Gradient End Color"
+msgstr "스카이 돔 그라디언트 최종 색상"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "스카이 돔 그래디언트의 밑면 최종 색상"
+
+msgid "Transparent Cube"
+msgstr "투명 큐브"
+
+msgid "Opacity During Rotation"
+msgstr "회전할 때의 투명도"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "회전할 때 바탕 화면의 투명도"
+
+msgid "Opacity When Not Rotating"
+msgstr "회전 안할 때의 투명도"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "회전 안할 때 바탕 화면의 투명도"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "마우스 회전시에만 투명하게 함"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "마우스로 큐브를 회전할 때만 큐브를 투명하게 함"
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus 컨트롤 백엔드"
+
+msgid "Window Decoration"
+msgstr "창 장식"
+
+msgid "Window decorations"
+msgstr "창 장식"
+
+msgid "Shadow Radius"
+msgstr "그림자 반경"
+
+msgid "Drop shadow radius"
+msgstr "그림자 반경"
+
+msgid "Shadow Opacity"
+msgstr "그림자 투명도"
+
+msgid "Drop shadow opacity"
+msgstr "그림자 투명도"
+
+msgid "Shadow Color"
+msgstr "그림자 색"
+
+msgid "Drop shadow color"
+msgstr "그림자 색"
+
+msgid "Shadow Offset X"
+msgstr "그림자 가로축 여백"
+
+msgid "Drop shadow X offset"
+msgstr "그림자 가로축 여백"
+
+msgid "Shadow Offset Y"
+msgstr "그림자 세로축 여백"
+
+msgid "Drop shadow Y offset"
+msgstr "그림자 세로축 여백"
+
+msgid "Command"
+msgstr "명령"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"사용하고 있는 창 장식 프로그램이 없을 때 실행될 창 장식 프로그램 명령행"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "창 장식 텍스쳐에 mipmap 생성 허용"
+
+msgid "Decoration windows"
+msgstr "창 장식"
+
+msgid "Windows that should be decorated"
+msgstr "창 장식을 사용할 창"
+
+msgid "Shadow windows"
+msgstr "창 그림자"
+
+msgid "Windows that should have a shadow"
+msgstr "그림자가 있어야 하는 창"
+
+msgid "Fading Windows"
+msgstr "창 페이드 효과"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "창이 생성될 때는 페이드 인, 종료될 때는 페이드 아웃"
+
+msgid "Fade Mode"
+msgstr "페이드 모드"
+
+msgid "Window fade mode"
+msgstr "창 페이드 모드"
+
+msgid "Constant speed"
+msgstr "일정한 속도"
+
+msgid "Constant time"
+msgstr "일정한 시간"
+
+msgid "Fade Speed"
+msgstr "페이드 속도"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "\"일정한 속도\" 모드에서 창 사라짐 속도"
+
+msgid "Fade Time"
+msgstr "페이드 시간"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "\"일정한 시간\" 모드에서 창 사라짐 속도(ms)"
+
+msgid "Fade windows"
+msgstr "창 페이드 효과"
+
+msgid "Windows that should be fading"
+msgstr "페이드 효과가 적용되는 창"
+
+msgid "Visual Bell"
+msgstr "시각 경고음"
+
+msgid "Fade effect on system beep"
+msgstr "시스템 경고음 대신 페이드 효과"
+
+msgid "Fullscreen Visual Bell"
+msgstr "전체 화면 시각 경고음"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "시스템 경고음 대신 전체 화면 페이드 효과"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "최소화/열기/닫기 시 페이드 효과"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "최소화/열기/닫기 창 이벤트 발생시 페이드 효과"
+
+msgid "Dim Unresponsive Windows"
+msgstr "응답하지 않는 창을 흐리게 함"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr "창관리자의 요청에 응답하지 않는 창을 흐리게 함"
+
+msgid "Unresponsive Window Brightness"
+msgstr "응답하지 않는 창 밝기"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "반응하지 않는 창의 밝기(%)"
+
+msgid "Unresponsive Window Saturation"
+msgstr "응답하지 않는 창 채도"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "응답하지 않는 창의 채도(%)"
+
+msgid "Userspace File System"
+msgstr "사용자 공간 파일 시스템"
+
+msgid "Userspace file system"
+msgstr "사용자 공간 파일 시스템"
+
+msgid "Mount Point"
+msgstr "마운트 포인트"
+
+msgid "Mount point"
+msgstr "마운트 포인트"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "GLib 메인 루프 지원"
+
+msgid "MATE Compatibility"
+msgstr "그놈 호환성"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr "Compiz가 그놈 데스크탑 환경에 호환될 수 있게 하는 옵션"
+
+msgid "Show Main Menu"
+msgstr "주 메뉴 보기"
+
+msgid "Show the main menu"
+msgstr "주 메뉴 보기"
+
+msgid "Run Dialog"
+msgstr "프로그램 실행창"
+
+msgid "Show Run Application dialog"
+msgstr "프로그램 실행창을 보임"
+
+msgid "Screenshot command line"
+msgstr "스크린샷 명령행"
+
+msgid "Take a screenshot"
+msgstr "스크린샷 찍기"
+
+msgid "Window screenshot command line"
+msgstr "창 스크린샷 명령행"
+
+msgid "Take a screenshot of a window"
+msgstr "창 스크린샷 찍기"
+
+msgid "Run terminal command"
+msgstr "터미널 실행 명령"
+
+msgid "Terminal command line"
+msgstr "터미널 명령행"
+
+msgid "Open a terminal"
+msgstr "터미널 열기"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Ini 플랫 파일 백엔드"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "파일 변화 알림 플러그인"
+
+msgid "Minimize Effect"
+msgstr "최소화 효과"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "최소화하거나 해제할 때 창 변형하기"
+
+msgid "Minimize speed"
+msgstr "최소화 속도"
+
+msgid "Minimize timestep"
+msgstr "최소화 시간 간격"
+
+msgid "Minimize Windows"
+msgstr "창 최소화"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "최소화시 변형되는 창"
+
+msgid "Shade Resistance"
+msgstr "말아올리기 저항"
+
+msgid "Shade resistance"
+msgstr "말아올리기 저항"
+
+msgid "Move Window"
+msgstr "창 이동"
+
+msgid "Move window"
+msgstr "창 이동"
+
+msgid "Initiate Window Move"
+msgstr "창 이동 시작"
+
+msgid "Start moving window"
+msgstr "창 이동 시작"
+
+msgid "Opacity"
+msgstr "투명"
+
+msgid "Opacity level of moving windows"
+msgstr "움직이는 창의 투명 정도"
+
+msgid "Constrain Y"
+msgstr "세로축 움직임 제한"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "작업 공간 영역으로 세로축 움직임을 제한"
+
+msgid "Snapoff maximized windows"
+msgstr "창 최대화 해제"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "드래그시 자동으로 창 최대화를 해제함"
+
+msgid "Lazy Positioning"
+msgstr "늦은 위치 반영"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr "창의 이동이 끝나지 않았을 때, 창의 서버 측면 위치를 반영하지 않음"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "투명, 밝기, 채도"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "투명, 밝기, 채도 조정"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "창 투명도 증가"
+
+msgid "Opacity Increase"
+msgstr "투명도 증가"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "창 투명도 줄이기"
+
+msgid "Opacity Decrease"
+msgstr "투명도 감소"
+
+msgid "Brightness"
+msgstr "밝기"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "밝기"
+
+msgid "Brightness Increase"
+msgstr "밝기 증가"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "밝기"
+
+msgid "Brightness Decrease"
+msgstr "밝기 감소"
+
+msgid "Saturation"
+msgstr "채도"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "흐림 효과 채도"
+
+msgid "Saturation Increase"
+msgstr "채도 증가"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "흐림 효과 채도"
+
+msgid "Saturation Decrease"
+msgstr "채도 감소"
+
+msgid "Step"
+msgstr "단계"
+
+msgid "Opacity Step"
+msgstr "투명도 단계"
+
+msgid "Window specific settings"
+msgstr "특정한 창 설정"
+
+msgid "Windows"
+msgstr "창"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "기본적으로 다른 투명도를 갖는 창"
+
+msgid "Window values"
+msgstr "정도"
+
+msgid "Opacity values for windows"
+msgstr "창이 투명한 정도"
+
+msgid "Brightness Step"
+msgstr "밝기 단계"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "기본적으로 다른 밝기를 갖는 창"
+
+msgid "Brightness values for windows"
+msgstr "창의 밝은 정도"
+
+msgid "Saturation Step"
+msgstr "채도 단계"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "기본적으로 다른 채도를 갖는 창"
+
+msgid "Saturation values for windows"
+msgstr "창의 채도 정도"
+
+msgid "Place Windows"
+msgstr "창 배치"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "창을 생성할 때 적절한 위치에 배치"
+
+msgid "Workarounds"
+msgstr "예비 수단"
+
+msgid "Window placement workarounds"
+msgstr "창 배치 문제의 회피 방법"
+
+msgid "Placement Mode"
+msgstr "배치 모드"
+
+msgid "Algorithm to use for window placement"
+msgstr "창 배치에 사용할 알고리즘"
+
+msgid "Cascade"
+msgstr "계단"
+
+msgid "Centered"
+msgstr "중앙"
+
+msgid "Smart"
+msgstr "똑똑하게"
+
+msgid "Maximize"
+msgstr "최대화"
+
+msgid "Random"
+msgstr "무작위로"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "마우스 포인터로 가장자리에서 작업 공간 전환"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"다중 화면 장치 옵션이 활성화 되었을 때 창의 배치를 어떻게 할지 선택하세요."
+
+msgid "Use active output device"
+msgstr "활성화 되어있는 모니터 사용"
+
+msgid "Use output device with pointer"
+msgstr "마우스 포인터가 있는 모니터 사용"
+
+msgid "Use output device of focused window"
+msgstr "현재 사용 중인 창이 있는 모니터 사용"
+
+msgid "Place across all outputs"
+msgstr "모든 화면에 위치"
+
+msgid "Force Placement Windows"
+msgstr "강제로 창을 위치"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"윈도우 매니저가 위치시키지 않도록 했다고 해도, 강제로 위치시킬 창들을 설정합"
+"니다."
+
+msgid "Fixed Window Placement"
+msgstr "고정된 창 배치"
+
+msgid "Windows with fixed positions"
+msgstr "고정된 위치를 갖는 창"
+
+msgid "Positioned windows"
+msgstr "배치된 창"
+
+msgid "Windows that should be positioned by default"
+msgstr "기본적으로 배치되어야하는 창"
+
+msgid "X Positions"
+msgstr "가로축 위치"
+
+msgid "X position values"
+msgstr "가로축 위치값"
+
+msgid "Y Positions"
+msgstr "세로축 위치"
+
+msgid "Y position values"
+msgstr "세로축 위치값"
+
+msgid "Keep In Workarea"
+msgstr "작업 영역에 유지"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"위치 설정에 적용되는 창을 작업 영역에 유지합니다. 그 위치가 특정한 위치와 다"
+"를지라도 유지합니다."
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "고정된 위치를 갖는 창"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "기본적으로 다른 채도를 갖는 창"
+
+#, fuzzy
+msgid "Mode"
+msgstr "페이드 모드"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "배치된 창"
+
+msgid "Windows with fixed viewport"
+msgstr "고정된 작업 공간을 갖는 창"
+
+msgid "Viewport positioned windows"
+msgstr "작업 공간에 배치된 창"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "기본적으로 특정 작업 공간에 배치되어야하는 창"
+
+msgid "X Viewport Positions"
+msgstr "작업 공간 가로축 위치"
+
+msgid "Horizontal viewport positions"
+msgstr "가로 작업 공간 위치"
+
+msgid "Y Viewport Positions"
+msgstr "작업 공간 세로축 위치"
+
+msgid "Vertical viewport positions"
+msgstr "세로 작업 공간 위치"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Png 이미지 불러오기"
+
+msgid "Regex Matching"
+msgstr "정규표현식 사용"
+
+msgid "Regex window matching"
+msgstr "정규표현식 창 매칭"
+
+msgid "Resize Window"
+msgstr "창 크기 조절"
+
+msgid "Resize window"
+msgstr "창 크기 조절"
+
+msgid "Bindings"
+msgstr "바로가기"
+
+msgid "Initiate Normal Window Resize"
+msgstr "기본 창 크기 조절 모드 시작"
+
+msgid "Start resizing window normally"
+msgstr "평범하게 창 크기를 조절함"
+
+msgid "Initiate Outline Window Resize"
+msgstr "외곽선 창 크기 조절 모드 시작"
+
+msgid "Start resizing window with outline"
+msgstr "와곽선을 이용하여 창 크기를 조절함"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "사각형 창 크기 조절 모드 시작"
+
+msgid "Start resizing window with rectangle"
+msgstr "사각형을 이용하여 창 크기를 조절함"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "잡아당기기 창 크기 조절 모드 시작"
+
+msgid "Start resizing window by stretching it"
+msgstr "창을 잡아당겨서 크기를 조절함"
+
+msgid "Initiate Window Resize"
+msgstr "창 크기 조절 시작"
+
+msgid "Start resizing window"
+msgstr "창 크기 조절 시작"
+
+msgid "Default Resize Mode"
+msgstr "기본 창 크기 조절 모드"
+
+msgid "Default mode used for window resizing"
+msgstr "창 크기 조절할 때의 기본 모드"
+
+msgid "Outline"
+msgstr "외곽선"
+
+msgid "Rectangle"
+msgstr "사각형"
+
+msgid "Stretch"
+msgstr "잡아당기기"
+
+msgid "Border Color"
+msgstr "테두리 색"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"외곽선 창 크기 조절 모드와 사각형 창 크기 조절 모드에서 사용할 테두리 색"
+
+msgid "Fill Color"
+msgstr "채우기 색"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "사각형 창 크기 조절 모드에서의 채우기 색"
+
+msgid "Normal Resize Windows"
+msgstr "기본 창 크기 조절 모드"
+
+msgid "Windows that normal resize should be used for"
+msgstr "기본 창 크기 조절 모드를 사용할 창"
+
+msgid "Outline Resize Windows"
+msgstr "외곽선 창 크기 조절 모드"
+
+msgid "Windows that outline resize should be used for"
+msgstr "외곽선 창 조절 모드를 사용할 창"
+
+msgid "Rectangle Resize Windows"
+msgstr "사각형 창 크기 조절 모드"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "사각형 창 크기 조절 모드를 사용할 창"
+
+msgid "Stretch Resize Windows"
+msgstr "잡아당기기 창 크기 조절 모드"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "잡아당기기 창 크기 조절 모드를 사용할 창"
+
+msgid "Rotate Cube"
+msgstr "큐브 회전"
+
+msgid "Rotate desktop cube"
+msgstr "데스크탑 큐브 회전"
+
+msgid "Edge Flip Pointer"
+msgstr "마우스 포인터로 가장자리에서 작업 공간 전환"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "마우스 포인터를 화면 가장자리로 가져가면 다음 작업 공간으로 전환"
+
+msgid "Edge Flip Move"
+msgstr "가장자리에서 작업 공간 전환"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "창을 화면 가장자리로 드래그하면 다음 작업 공간으로 전환"
+
+msgid "Edge Flip DnD"
+msgstr "드래그하여 가장자리에서 작업 공간 전환"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "대상을 화면 가장자리로 드래그 하면 다음 작업 공간으로 전환"
+
+msgid "Flip Time"
+msgstr "전환 시간"
+
+msgid "Timeout before flipping viewport"
+msgstr "작업 공간을 전환할 때의 시간 간격"
+
+msgid "Raise on rotate"
+msgstr "작업 공간을 전환할 때 창을 올림"
+
+msgid "Raise window when rotating"
+msgstr "작업 공간을 전환할 때 창을 올림"
+
+msgid "Rotate cube"
+msgstr "큐브 회전"
+
+msgid "Start Rotation"
+msgstr "회전 시작"
+
+msgid "Rotate Left"
+msgstr "왼쪽으로 회전"
+
+msgid "Rotate left"
+msgstr "왼쪽으로 회전"
+
+msgid "Rotate Right"
+msgstr "오른쪽으로 회전"
+
+msgid "Rotate right"
+msgstr "오른쪽으로 회전"
+
+msgid "Rotate Left with Window"
+msgstr "모든 창과 함께 왼쪽으로 회전"
+
+msgid "Rotate left and bring active window along"
+msgstr "활성창과 함께 왼쪽으로 회전"
+
+msgid "Rotate Right with Window"
+msgstr "모든 창과 함께 오른쪽으로 회전"
+
+msgid "Rotate right and bring active window along"
+msgstr "활성창과 함께 오른쪽으로 회전"
+
+msgid "Rotate To"
+msgstr "회전"
+
+msgid "Rotate to viewport"
+msgstr "작업 공간으로 회전"
+
+msgid "Rotate window"
+msgstr "창 회전"
+
+msgid "Rotate with window"
+msgstr "창과 함께 회전"
+
+msgid "Rotate Flip Left"
+msgstr "왼쪽으로 회전"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "왼쪽 작업 공간으로 전환한 후, 포인터 이동"
+
+msgid "Rotate Flip Right"
+msgstr "오른쪽으로 회전"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "오른쪽 작업 공간으로 전환한 후, 포인터 이동"
+
+msgid "Rotate to cube face"
+msgstr "특정 큐브 면으로 회전"
+
+msgid "Rotate To Face 1"
+msgstr "1번 작업 공간으로 회전"
+
+msgid "Rotate to face 1"
+msgstr "1번 작업 공간으로 회전"
+
+msgid "Rotate To Face 2"
+msgstr "2번 작업 공간으로 회전"
+
+msgid "Rotate to face 2"
+msgstr "2번 작업 공간으로 회전"
+
+msgid "Rotate To Face 3"
+msgstr "3번 작업 공간으로 회전"
+
+msgid "Rotate to face 3"
+msgstr "3번 작업 공간으로 회전"
+
+msgid "Rotate To Face 4"
+msgstr "4번 작업 공간으로 회전"
+
+msgid "Rotate to face 4"
+msgstr "4번 작업 공간으로 회전"
+
+msgid "Rotate To Face 5"
+msgstr "5번 작업 공간으로 회전"
+
+msgid "Rotate to face 5"
+msgstr "5번 작업 공간으로 회전"
+
+msgid "Rotate To Face 6"
+msgstr "6번 작업 공간으로 회전"
+
+msgid "Rotate to face 6"
+msgstr "6번 작업 공간으로 회전"
+
+msgid "Rotate To Face 7"
+msgstr "7번 작업 공간으로 회전"
+
+msgid "Rotate to face 7"
+msgstr "7번 작업 공간으로 회전"
+
+msgid "Rotate To Face 8"
+msgstr "8번 작업 공간으로 회전"
+
+msgid "Rotate to face 8"
+msgstr "8번 작업 공간으로 회전"
+
+msgid "Rotate To Face 9"
+msgstr "9번 작업 공간으로 회전"
+
+msgid "Rotate to face 9"
+msgstr "9번 작업 공간으로 회전"
+
+msgid "Rotate To Face 10"
+msgstr "10번 작업 공간으로 회전"
+
+msgid "Rotate to face 10"
+msgstr "10번 작업 공간으로 회전"
+
+msgid "Rotate To Face 11"
+msgstr "11번 작업 공간으로 회전"
+
+msgid "Rotate to face 11"
+msgstr "11번 작업 공간으로 회전"
+
+msgid "Rotate To Face 12"
+msgstr "12번 작업 공간으로 회전"
+
+msgid "Rotate to face 12"
+msgstr "12번 작업 공간으로 회전"
+
+msgid "Rotate to cube face with window"
+msgstr "창과 함께 특정 큐브 면으로 회전"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "모든 창과 함께 1번 작업 공간으로 회전"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "활성창과 함께 1번 작업 공간으로 회전"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "모든 창과 함께 2번 작업 공간으로 회전"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "활성창과 함께 2번 작업 공간으로 회전"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "모든 창과 함께 3번 작업 공간으로 회전"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "활성창과 함께 3번 작업 공간으로 회전"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "모든 창과 함께 4번 작업 공간으로 회전"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "활성창과 함께 4번 작업 공간으로 회전"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "모든 창과 함께 5번 작업 공간으로 회전"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "활성창과 함께 5번 작업 공간으로 회전"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "모든 창과 함께 6번 작업 공간으로 회전"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "활성창과 함께 6번 작업 공간으로 회전"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "모든 창과 함께 7번 작업 공간으로 회전"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "활성창과 함께 7번 작업 공간으로 회전"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "모든 창과 함께 8번 작업 공간으로 회전"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "활성창과 함께 8번 작업 공간으로 회전"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "모든 창과 함께 9번 작업 공간으로 회전"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "활성창과 함께 9번 작업 공간으로 회전"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "모든 창과 함께 10번 작업 공간으로 회전"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "활성창과 함께 10번 작업 공간으로 회전"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "모든 창과 함께 11번 작업 공간으로 회전"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "활성창과 함께 11번 작업 공간으로 회전"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "모든 창과 함께 12번 작업공간으로 회전"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "활성창과 함께 12번 작업 공간으로 회전"
+
+msgid "Pointer Invert Y"
+msgstr "세로축 반전"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "포인터의 이동을 가로축으로 반전"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "세로축 반전"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "포인터의 이동을 가로축으로 반전"
+
+msgid "Pointer Sensitivity"
+msgstr "마우스 포인터 감도"
+
+msgid "Sensitivity of pointer movement"
+msgstr "마우스 포인터 감도"
+
+msgid "Rotation Acceleration"
+msgstr "회전 가속"
+
+msgid "Snap To Top Face"
+msgstr "윗면으로 잡아당김"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "큐브 회전시 윗면으로 잡아당김"
+
+msgid "Snap To Bottom Face"
+msgstr "아랫면으로 잡아당김"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "큐브 회전시 아랫면으로 잡아당김"
+
+msgid "Rotation Speed"
+msgstr "회전 속도"
+
+msgid "Rotation Timestep"
+msgstr "회전 시간 간격"
+
+msgid "Zoom"
+msgstr "확대"
+
+msgid "Rotation Zoom"
+msgstr "회전시 확대"
+
+msgid "Scale"
+msgstr "스케일"
+
+msgid "Scale windows"
+msgstr "스케일"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "키로 스케일 모드 활성화"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"키를 누르면 활성화되고 떼면 비활성화되는 대신 키로 스케일 모드를 활성화합니"
+"다."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "버튼으로 스케일 모드 활성화"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"버튼을 누르면 활성화되고 떼면 비활성화되는 대신 버튼으로 스케일 모드를 활성화"
+"합니다."
+
+msgid "Initiate Window Picker"
+msgstr "창 고르기를 시작"
+
+msgid "Layout and start transforming windows"
+msgstr "창을 배치하고 변형함"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "모든 창에 대해서 창 고르기를 시작"
+
+msgid "Layout and start transforming all windows"
+msgstr "모든 창을 배치하고 변형함"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "창 그룹에 대하여 창 고르기를 시작"
+
+msgid "Layout and start transforming window group"
+msgstr "창 그룹을 배치하고 변형함"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "현재 화면의 창들에 대해 창 고르기를 시작"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "현재 화면의 창들을 배치하고 변형함"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "바탕 화면을 클릭하면 바탕 화면 보기로 전환"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "스케일 모드일 때, 바탕 화면을 클릭하면 바탕 화면 보기 상태로 들어가기"
+
+msgid "Spacing"
+msgstr "간격"
+
+msgid "Space between windows"
+msgstr "창 사이의 간격"
+
+msgid "Scale speed"
+msgstr "스케일 속도"
+
+msgid "Scale timestep"
+msgstr "스케일 시간"
+
+msgid "Darken Background"
+msgstr "바탕 화면을 어둡게"
+
+msgid "Darken background when scaling windows"
+msgstr "스케일 모드일 때, 바탕 화면을 어둡게함"
+
+msgid "Amount of opacity in percent"
+msgstr "투명도(퍼센트)"
+
+msgid "Overlay Icon"
+msgstr "아이콘 덧붙이기"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "창이 스케일될 때 아이콘을 덧붙임"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Emblem"
+msgstr "아이콘"
+
+msgid "Big"
+msgstr "크게"
+
+msgid "Scale Windows"
+msgstr "스케일"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "스케일 모드일 때 스케일되어야 하는 창"
+
+msgid "Hover Time"
+msgstr "떠오르는 시간"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr "마우스가 위에 있을 때, 스케일 모드가 종료되는 시간 (ms 단위)"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr "다중 모니터를 사용할 때 창들이 어떤 모니터에 스케일 될지 선택하세요."
+
+msgid "On current output device"
+msgstr "현재 모니터에 대하여"
+
+msgid "On all output devices"
+msgstr "모든 모니터에 대하여"
+
+msgid "Screenshot"
+msgstr "스크린샷"
+
+msgid "Screenshot plugin"
+msgstr "스크린샷 플러그인"
+
+msgid "Initiate rectangle screenshot"
+msgstr "사각형 형태의 스크린샷을 찍음"
+
+msgid "Directory"
+msgstr "디렉토리"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "이 디렉토리에 스크린샷을 저장함"
+
+msgid "Launch Application"
+msgstr "프로그램 실행"
+
+msgid "Automatically open screenshot in this application"
+msgstr "이 프로그램을 사용하여 스크린샷을 자동으로 열기"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Svg 이미지 불러오기"
+
+msgid "Application Switcher"
+msgstr "프로그램 전환"
+
+msgid "Next window"
+msgstr "다음 창"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "전환 창이 없을 때는 전환 창을 보이고, 다음 창으로 전환"
+
+msgid "Prev window"
+msgstr "이전 창"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "전환 창이 없을 때는 전환 창을 보이고, 모든 창 중에서 이전 창으로 전환"
+
+msgid "Next window (All windows)"
+msgstr "다음 창(모든 창)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr "전환 창이 없을 때는 전환 창을 보이고, 모든 창 중에서 다음 창으로 전환"
+
+msgid "Prev window (All windows)"
+msgstr "이전 창(모든 창)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr "전환 창이 없을 때는 전환 창을 보이고, 모든 창 중에서 이전 창으로 전환"
+
+msgid "Next window (No popup)"
+msgstr "다음 창(전환 창 없이)"
+
+msgid "Select next window without showing the popup window."
+msgstr "전환 창을 보여주지 않고 다음 창으로 전환"
+
+msgid "Prev window (No popup)"
+msgstr "이전 창(전환 창 없이)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "전환 창을 보여주지 않고 다음 창으로 전환"
+
+msgid "Next Panel"
+msgstr "다음 패널"
+
+msgid "Select next panel type window."
+msgstr "다음 패널 타입 창을 선택하세요."
+
+msgid "Prev Panel"
+msgstr "이전 패널"
+
+msgid "Select previous panel type window."
+msgstr "이전 패널 타입 창을 선택합니다."
+
+msgid "Switcher speed"
+msgstr "전환 속도"
+
+msgid "Switcher timestep"
+msgstr "전환 간격"
+
+msgid "Switcher windows"
+msgstr "창 전환"
+
+msgid "Windows that should be shown in switcher"
+msgstr "전환 창 안에 포함될 창들"
+
+msgid "Amount of saturation in percent"
+msgstr "대조(퍼센트)"
+
+msgid "Amount of brightness in percent"
+msgstr "밝기(퍼센트)"
+
+msgid "Bring To Front"
+msgstr "앞으로 띄우기"
+
+msgid "Bring selected window to front"
+msgstr "선택한 창을 앞으로 띄우기"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "창을 전환하는 동안 바탕 화면이 뒤로 물러나는 거리"
+
+msgid "Icon"
+msgstr "아이콘"
+
+msgid "Show icon next to thumbnail"
+msgstr "미리 보기 옆에 아이콘 표시"
+
+msgid "Minimized"
+msgstr "최소화"
+
+msgid "Show minimized windows"
+msgstr "최소화된 창 표시"
+
+msgid "Auto Rotate"
+msgstr "자동으로 회전"
+
+msgid "Rotate to the selected window while switching"
+msgstr "전환하는 동안 선택된 창으로 회전"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "데스크탑 크기"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "전환하는 동안 선택된 창으로 회전"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "이전 슬라이드"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "그림자 반경"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "외곽선"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "외곽선 창 크기 조절 모드"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "배경 그림"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "테두리 색"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "채우기 색"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "그림자 색"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "작업 공간 가로축 위치"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "창 페이드 효과"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "스케일 모드일 때 스케일되어야 하는 창"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "창 이동"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "왼쪽으로 회전"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "오른쪽으로 회전"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "창 이동"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "창과 함께 회전"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "모든 창과 함께 왼쪽으로 회전"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "모든 창과 함께 오른쪽으로 회전"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "창 이동"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "창 이동"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "모서리 바로가기"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "왼쪽으로 회전"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "전환 시간"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "오른쪽으로 회전"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "오른쪽으로 회전"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "전환 시간"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "전환 시간"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "드래그하여 가장자리에서 작업 공간 전환"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "화면을 아래로"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "전환 속도"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "드래그하여 가장자리에서 작업 공간 전환"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "마우스 포인터를 화면 가장자리로 가져가면 다음 작업 공간으로 전환"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "창을 화면 가장자리로 드래그하면 다음 작업 공간으로 전환"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "대상을 화면 가장자리로 드래그 하면 다음 작업 공간으로 전환"
+
+msgid "Water Effect"
+msgstr "물결 효과"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "다양한 데스크탑 동작에 물결 효과를 추가함"
+
+msgid "Enable pointer water effects"
+msgstr "마우스 포인터 물결 효과 활성화"
+
+msgid "Toggle rain"
+msgstr "비 내리기"
+
+msgid "Toggle rain effect"
+msgstr "비 내리는 효과 켜기"
+
+msgid "Toggle wiper"
+msgstr "와이퍼 켜기"
+
+msgid "Toggle wiper effect"
+msgstr "와이퍼 효과 켜기"
+
+msgid "Offset Scale"
+msgstr "여백 크기"
+
+msgid "Water offset scale"
+msgstr "물결의 여백 크기"
+
+msgid "Rain Delay"
+msgstr "비 지연 시간"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "빗 방울들 사이의 시간 간격(초 단위)"
+
+msgid "Title wave"
+msgstr "제목 출렁임"
+
+msgid "Wave effect from window title"
+msgstr "창 제목 표시줄에 대한 물결효과"
+
+msgid "Point"
+msgstr "점"
+
+msgid "Add point"
+msgstr "점 추가"
+
+msgid "Line"
+msgstr "줄"
+
+msgid "Add line"
+msgstr "줄 추가"
+
+msgid "Wobbly Windows"
+msgstr "창 출렁거림"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "출렁거리는 효과를 위해 용수철 모델 사용"
+
+msgid "Snap windows"
+msgstr "창 잡아당기기"
+
+msgid "Toggle window snapping"
+msgstr "창 잡아당기기"
+
+msgid "Snap Inverted"
+msgstr "반대로 잡아당기기"
+
+msgid "Inverted window snapping"
+msgstr "창 반대로 잡아당기기"
+
+msgid "Shiver"
+msgstr "떨림"
+
+msgid "Make window shiver"
+msgstr "창 떨리게 하기"
+
+msgid "Friction"
+msgstr "충돌"
+
+msgid "Spring Friction"
+msgstr "용수철 마찰"
+
+msgid "Spring K"
+msgstr "용수철 K"
+
+msgid "Spring Konstant"
+msgstr "용수철 상수"
+
+msgid "Grid Resolution"
+msgstr "격자 해상도"
+
+msgid "Vertex Grid Resolution"
+msgstr "격자 해상도"
+
+msgid "Minimum Grid Size"
+msgstr "격자의 최소 크기"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "최소 격자 크기"
+
+msgid "Map Effect"
+msgstr "선택 효과"
+
+msgid "Map Window Effect"
+msgstr "창 선택 효과"
+
+msgid "Focus Effect"
+msgstr "초점 효과"
+
+msgid "Focus Window Effect"
+msgstr "창 초점 효과"
+
+msgid "Map Windows"
+msgstr "적용되는 창"
+
+msgid "Windows that should wobble when mapped"
+msgstr "창을 선택할 때 출렁거리는 효과"
+
+msgid "Focus Windows"
+msgstr "창 초점"
+
+msgid "Windows that should wobble when focused"
+msgstr "창 활성화시 출렁거리는 효과"
+
+msgid "Grab Windows"
+msgstr "창 잡기"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "창 선택시 출렁거리는 효과"
+
+msgid "Move Windows"
+msgstr "창 이동"
+
+msgid "Windows that should wobble when moved"
+msgstr "창 이동시 출렁거리는 효과"
+
+msgid "Maximize Effect"
+msgstr "최대화 효과"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "창을 최대화하거나 해제할 때 출렁거리는 효과"
+
+msgid "Zoom Desktop"
+msgstr "데스크탑 확대"
+
+msgid "Zoom and pan desktop cube"
+msgstr "데스크탑 큐브 확대 이동"
+
+msgid "Zoom In"
+msgstr "확대"
+
+msgid "Zoom Out"
+msgstr "축소"
+
+msgid "Zoom Pan"
+msgstr "확대 이동"
+
+msgid "Zoom pan"
+msgstr "확대 이동"
+
+msgid "Zoom Speed"
+msgstr "확대 속도"
+
+msgid "Zoom Timestep"
+msgstr "확대 시간 간격"
+
+msgid "Zoom factor"
+msgstr "확대율"
+
+msgid "Filter Linear"
+msgstr "선형 필터"
+
+msgid "Use linear filter when zoomed in"
+msgstr "확대할 때 선형 필터 적용"
+
+msgid "Compiz"
+msgstr "컴피즈"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "컴피즈"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "컴피즈"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "작업 공간의 숫자"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "가상 데스크탑의 숫자"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr "창 제목 표시줄에서 마우스 휠 스크롤시 취할 행동"
+
+#~ msgid "Blur type"
+#~ msgstr "흐림 형태"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "활성화된 창의 메타시티 테마 투명도"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "활성화된 창의 메타시티 테마 그림자 투명도"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "메타시티 테마 투명도"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "메타시티 테마 그림자 투명도"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "메타시티 테마를 가진 활성화된 창에서 사용할 투명도"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "메타시티 테마에 사용할 투명도"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr "메타시티 테마를 사용하는 활성화된 창의 그림자 투명도를설정합니다."
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr "메타시티 테마를 사용하는 창의 그림자 투명도를 설정합니다."
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "제목 표시줄에서 마우스 휠 사용시 할 행동"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "창 장식에서 사용할 흐림 효과의 형태"
+
+#~ msgid "Use marco theme"
+#~ msgstr "메타시티 테마를 사용합니다."
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "창 장식을 그릴 때 메타시티 테마를 사용합니다."
+
+#~ msgid "Line width"
+#~ msgstr "선 너비"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "주석의 선 너비"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "GConf 컨트롤 백엔드"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig 컨트롤 백엔드"
+
+#~ msgid "Decrease"
+#~ msgstr "감소"
+
+#~ msgid "Increase"
+#~ msgstr "증가"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "스크린샷 명령행"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "스크린샷 명령행"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr "기본적으로 투명한 창들의 투명도 값"
+
+#~ msgid "Opacity windows"
+#~ msgstr "창 투명도"
+
+#~ msgid "Background images"
+#~ msgstr "배경 그림"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "창을 평면 위에 배치"
+
+#~ msgid "Plane Down"
+#~ msgstr "화면을 아래로"
+
+#~ msgid "Plane Left"
+#~ msgstr "화면을 왼쪽으로"
+
+#~ msgid "Plane Right"
+#~ msgstr "화면을 오른쪽으로"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "화면을 1번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "화면을 10번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "화면을 11번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "화면을 12번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "화면을 2번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "화면을 3번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "화면을 4번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "화면을 5번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "화면을 6번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "화면을 7번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "화면을 8번 작업 공간으로 이동"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "화면을 9번 작업 공간으로 이동"
+
+#~ msgid "Plane Up"
+#~ msgstr "화면을 위로"
+
+#~ msgid "Plane left"
+#~ msgstr "화면을 왼쪽으로"
+
+#~ msgid "Plane right"
+#~ msgstr "화면을 오른쪽으로"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "화면을 1번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "화면을 10번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "화면을 11번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "화면을 12번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "화면을 2번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "화면을 3번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "화면을 4번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "화면을 5번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "화면을 6번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "화면을 7번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "화면을 8번 작업 공간으로 이동"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "화면을 9번 작업 공간으로 이동"
+
+#~ msgid "Plane up"
+#~ msgstr "화면을 위로"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "데스크탑 창 투명도 페이드 시간"

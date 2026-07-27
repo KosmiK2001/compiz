@@ -1,0 +1,3717 @@
+# Romanian translation for compiz
+# Copyright (C) 2008 The Free Software Foundation, Inc.
+# This file is distributed under the same license as the compiz package.
+# Sergiu Bivol <sbivol87@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:43+0300\n"
+"PO-Revision-Date: 2008-05-19 19:29+0300\n"
+"Last-Translator: Sergiu Bivol <sbivol87@gmail.com>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+
+msgid "Close Window"
+msgstr "Închide fereastra"
+
+msgid "Unmaximize Window"
+msgstr "Demaximizează fereastra"
+
+msgid "Maximize Window"
+msgstr "Maximizează fereastra"
+
+msgid "Minimize Window"
+msgstr "Minimizează fereastra"
+
+msgid "Window Menu"
+msgstr "Meniu fereastră"
+
+msgid "Shade"
+msgstr "Umbrește"
+
+msgid "Make Above"
+msgstr "Pune deasupra"
+
+msgid "Stick"
+msgstr "Lipește"
+
+msgid "Unshade"
+msgstr "Luminează"
+
+msgid "Unmake Above"
+msgstr "Scoate deasupra"
+
+msgid "Unstick"
+msgstr "Dezlipește"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "Fereastra „%s” nu răspunde."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Forțarea închiderii acestei aplicații va provoca pierderea modificărilor "
+"nesalvate."
+
+msgid "_Cancel"
+msgstr "_Renunță"
+
+msgid "_Force Quit"
+msgstr "_Forțează închiderea"
+
+msgid "Annotate"
+msgstr "Adnotări"
+
+msgid "Annotate plugin"
+msgstr "Modúl Adnotare"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Inițiere ștergere"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Inițiază desenarea adnotării"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Inițiere"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Inițiază desenarea adnotării"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Inițiere ștergere"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Inițiază desenarea adnotării"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Inițiere ștergere"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Inițiază desenarea adnotării"
+
+msgid "Draw"
+msgstr "Desenează"
+
+msgid "Draw using tool"
+msgstr "Desenează folosind unealta"
+
+msgid "Initiate erase"
+msgstr "Inițiere ștergere"
+
+msgid "Initiate annotate erasing"
+msgstr "Inițiază ștergerea adnotării"
+
+msgid "Clear"
+msgstr "Curăță"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Comută umbrirea ferestrei active"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Culoare de umplere a adnotării"
+
+msgid "Fill color for annotations"
+msgstr "Culoarea de umplere a adnotărilor"
+
+msgid "Annotate Stroke Color"
+msgstr "Culoare de ștanțare a adnotării"
+
+msgid "Stroke color for annotations"
+msgstr "Culoare de ștanțare pentru adnotări"
+
+msgid "Stroke width"
+msgstr "Lățime ștanțare"
+
+msgid "Stroke width for annotations"
+msgstr "Lățimea ștanțării pentru adnotări"
+
+msgid "Blur Windows"
+msgstr "Estompare ferestre"
+
+msgid "Blur windows"
+msgstr "Estompează ferestrele"
+
+msgid "Pulse"
+msgstr "Puls"
+
+msgid "Pulse effect"
+msgstr "Efect de pulsare"
+
+msgid "Blur Speed"
+msgstr "Viteză estompare"
+
+msgid "Window blur speed"
+msgstr "Viteză estompare fereastră"
+
+msgid "Focus blur windows"
+msgstr "Estompare ferestre la focalizare"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Ferestrele ce trebuiesc afectate de estomparea la focalizare"
+
+msgid "Focus Blur"
+msgstr "Estompare la focalizare"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Estompează fereastra care nu este focalizată"
+
+msgid "Alpha blur windows"
+msgstr "Estompare alfa ferestre"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Ferestrele ce trebuie să utilizeze implicit estompare alfa"
+
+msgid "Alpha Blur"
+msgstr "Estompare alfa"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Estompează în spatele părților străvezii ale ferestrelor"
+
+msgid "Blur Filter"
+msgstr "Filtru estompare"
+
+msgid "Filter method used for blurring"
+msgstr "Metoda de filtrare utilizată pentru estompare"
+
+msgid "4xBilinear"
+msgstr "4xBiliniar"
+
+msgid "Gaussian"
+msgstr "Gausian"
+
+msgid "Mipmap"
+msgstr "Hartă MIP"
+
+msgid "Gaussian Radius"
+msgstr "Rază gausiană"
+
+msgid "Gaussian radius"
+msgstr "Raza gausiană"
+
+msgid "Gaussian Strength"
+msgstr "Intensitate gausiană"
+
+msgid "Gaussian strength"
+msgstr "Intensitatea gausiană"
+
+msgid "Mipmap LOD"
+msgstr "NDD hartă MIP"
+
+msgid "Mipmap level-of-detail"
+msgstr "Nivel-de-detaliere a hărții MIP"
+
+msgid "Blur Saturation"
+msgstr "Saturație estompare"
+
+msgid "Blur saturation"
+msgstr "Saturația estompării"
+
+msgid "Blur Occlusion"
+msgstr "Ocluziune estompare"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+"Dezactivează estomparea regiunilor de ecran obscurate de alte ferestre."
+
+msgid "Independent texture fetch"
+msgstr "Preluare independentă texturi"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Utilizează unitățile de textură disponibile pentru a face cît mai multe "
+"preluări independente de textură."
+
+msgid "Clone Output"
+msgstr "Clonare ieșire"
+
+msgid "Output clone handler"
+msgstr "Manipulant clonă ieșire"
+
+msgid "Initiate"
+msgstr "Inițiere"
+
+msgid "Initiate clone selection"
+msgstr "Inițiere selecție clonă"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Comandă"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+msgid "Command line 0"
+msgstr "Linie de comandă 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă0”"
+
+msgid "Command line 1"
+msgstr "Linie de comandă 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+msgid "Command line 2"
+msgstr "Linie de comandă 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă2”"
+
+msgid "Command line 3"
+msgstr "Linie de comandă 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă3”"
+
+msgid "Command line 4"
+msgstr "Linie de comandă 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă4”"
+
+msgid "Command line 5"
+msgstr "Linie de comandă 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă5”"
+
+msgid "Command line 6"
+msgstr "Linie de comandă 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă6”"
+
+msgid "Command line 7"
+msgstr "Linie de comandă 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă7”"
+
+msgid "Command line 8"
+msgstr "Linie de comandă 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă8”"
+
+msgid "Command line 9"
+msgstr "Linie de comandă 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă9”"
+
+msgid "Command line 10"
+msgstr "Linie de comandă 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată "
+"„rulează_comandă10”"
+
+msgid "Command line 11"
+msgstr "Linie de comandă 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată "
+"„rulează_comandă11”"
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Linie de comandă 1"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Linie de comandă 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă0”"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Linie de comandă 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă1”"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Linie de comandă 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă2”"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Linie de comandă 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă2”"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Linie de comandă 2"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+"Linia de comandă de executat în consolă cînd este invocată „rulează_comandă2”"
+
+msgid "Key Bindings"
+msgstr ""
+
+msgid "Run command 0"
+msgstr "Execută comanda 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă0”"
+
+msgid "Run command 1"
+msgstr "Execută comanda 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+msgid "Run command 2"
+msgstr "Execută comanda 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+msgid "Run command 3"
+msgstr "Execută comanda 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă3”"
+
+msgid "Run command 4"
+msgstr "Execută comanda 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă4”"
+
+msgid "Run command 5"
+msgstr "Execută comanda 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă5”"
+
+msgid "Run command 6"
+msgstr "Execută comanda 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă6”"
+
+msgid "Run command 7"
+msgstr "Execută comanda 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă7”"
+
+msgid "Run command 8"
+msgstr "Execută comanda 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă8”"
+
+msgid "Run command 9"
+msgstr "Execută comanda 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă9”"
+
+msgid "Run command 10"
+msgstr "Execută comanda 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă10”"
+
+msgid "Run command 11"
+msgstr "Execută comanda 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă11”"
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Execută comanda 1"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Execută comanda 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Execută comanda 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Execută comanda 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Execută comanda 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Execută comanda 2"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+msgid "Button Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă0”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă3”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă4”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă5”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă6”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă7”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă8”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă9”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă10”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă11”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+msgid "Edge Bindings"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă0”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă3”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă4”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă5”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă6”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă7”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă8”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă9”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă10”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă11”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă1”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"O combinație de taste care va rula comanda de consolă identificată prin "
+"„comandă2”"
+
+msgid "General Options"
+msgstr "Opțiuni generale"
+
+msgid "General compiz options"
+msgstr "Opțiuni generale Compiz"
+
+msgid "Active Plugins"
+msgstr "Module active"
+
+msgid "List of currently active plugins"
+msgstr "Lista modulelor active la moment"
+
+msgid "Audible Bell"
+msgstr "Clopoțel sonor"
+
+msgid "Audible system beep"
+msgstr "Bip de sistem sonorizat"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Ignoră indiciile la maximizare"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Ignoră indiciile de mărire a dimensiunii și de aspect cînd fereastra este "
+"maximizată"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Ascundere ferestre „Pășire bară de procese”"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Ascunde ferestrele de nu sînt în bara de procese la intrarea în regimul de "
+"afișare a biroului"
+
+msgid "Edge Trigger Delay"
+msgstr "Întîrziere declanșator margină"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Durata cît indicatorul trebuie să stea pe marginea ecranului înaintea "
+"efectuării unei acțiuni de margine."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Întîrziere interogare"
+
+msgid "Interval between ping messages"
+msgstr "Interval între mesaje de verificare"
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Texture Filter"
+msgstr "Filtru textură"
+
+msgid "Texture filtering"
+msgstr "Filtrare textură"
+
+msgid "Fast"
+msgstr "Rapidă"
+
+msgid "Good"
+msgstr "Bună"
+
+msgid "Best"
+msgstr "Cea mai bună"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr "Clic pentru focalizare"
+
+msgid "Click on window moves input focus to it"
+msgstr "Clic pe fereastră mută focalizarea de intrare pe ea"
+
+msgid "Raise On Click"
+msgstr "Ridicare la clic"
+
+msgid "Raise windows when clicked"
+msgstr "Ridică ferestrele la clic"
+
+msgid "Auto-Raise"
+msgstr "Autoridicare"
+
+msgid "Raise selected windows after interval"
+msgstr "Ridicare ferestre alese după interval"
+
+msgid "Auto-Raise Delay"
+msgstr "Întîrziere Autoridicare"
+
+msgid "Interval before raising selected windows"
+msgstr "Interval înainte de ridicarea ferestrelor alese"
+
+msgid "Key bindings"
+msgstr ""
+
+msgid "Close active window"
+msgstr "Închide fereastra activă"
+
+msgid "Raise Window"
+msgstr "Ridicare fereastră"
+
+msgid "Raise window above other windows"
+msgstr "Ridicare fereastră deasupra celorlalte ferestre"
+
+msgid "Lower Window"
+msgstr "Coboară fereastra"
+
+msgid "Lower window beneath other windows"
+msgstr "Coboară fereastra sub alte ferestre"
+
+msgid "Unmaximize active window"
+msgstr "Demaximizează fereastra activă"
+
+msgid "Minimize active window"
+msgstr "Minimizează fereastra activă"
+
+msgid "Maximize active window"
+msgstr "Maximizează fereastra activă"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maximizează fereastra orizontal"
+
+msgid "Maximize active window horizontally"
+msgstr "Maximizează orizontal fereastra activă"
+
+msgid "Maximize Window Vertically"
+msgstr "Maximizează fereastra vertical"
+
+msgid "Maximize active window vertically"
+msgstr "Maximizează vertical fereastra activă"
+
+msgid "Window menu button binding"
+msgstr "Buton pentru meniu fereastră"
+
+msgid "Window menu key binding"
+msgstr "Tastă pentru meniu fereastră"
+
+msgid "Show Desktop"
+msgstr "Afișare birou"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Ascunde toate ferestrele și focalizează biroul"
+
+msgid "Toggle Window Maximized"
+msgstr "Comută maximizare fereastră"
+
+msgid "Toggle active window maximized"
+msgstr "Comută maximizarea ferestrei active"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Comută maximizare orizontală fereastră"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Comută maximizarea orizontală a ferestrei active"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Comută maximizare verticală fereastră"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Comută maximizarea verticală a ferestrei active"
+
+msgid "Toggle Window Shaded"
+msgstr "Comută umbrire fereastră"
+
+msgid "Toggle active window shaded"
+msgstr "Comută umbrirea ferestrei active"
+
+msgid "Slow Animations"
+msgstr "Afișare animații"
+
+msgid "Toggle use of slow animations"
+msgstr "Comută utilizarea animațiilor lente"
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Cub de birou"
+
+msgid "Horizontal Virtual Size"
+msgstr "Dimensiune virtuală orizontală"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Multiplicator dimensiune ecran pentru dimensiunea virtuală orizontală"
+
+msgid "Vertical Virtual Size"
+msgstr "Dimensiune virtuală verticală"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Multiplicator dimensiune ecran pentru dimensiunea virtuală verticală"
+
+msgid "Lighting"
+msgstr "Iluminare"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Utilizare lumină difuză la transformarea ecranului"
+
+msgid "Detect Refresh Rate"
+msgstr "Detectează rata de reîmprospătare"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Detecție automată a ratei de reîmprospătare"
+
+msgid "Refresh Rate"
+msgstr "Rata de reîmprospătare"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Rata de redesenare a ecranului (ori/secundă)"
+
+msgid "Detect Outputs"
+msgstr "Detectează ieșirile"
+
+msgid "Automatic detection of output devices"
+msgstr "Detecție automată a dispozitivelor de ieșire"
+
+msgid "Overlapping Output Handling"
+msgstr "Manipulant suprapunere ieșiri"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Care din dispozitivele de ieșire suprapuse să fie preferat"
+
+msgid "Smart mode"
+msgstr "Regim inteligent"
+
+msgid "Prefer larger output"
+msgstr "Preferă ieșirea mai mare"
+
+msgid "Prefer smaller output"
+msgstr "Preferă ieșirea mai mică"
+
+msgid "Outputs"
+msgstr "Ieșiri"
+
+msgid "List of strings describing output devices"
+msgstr "Listă de șiruri descriind dispozitivele de ieșire"
+
+msgid "Sync To VBlank"
+msgstr "Sincronizare la VBlank"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr "Actualizează ecranul numai în timpul golirii verticale"
+
+msgid "Focus Prevention Level"
+msgstr "Nivel de prevenire a focalizării"
+
+msgid "Level of focus stealing prevention"
+msgstr "Nivelul de prevenire a furtului focalizării"
+
+msgid "Off"
+msgstr "Deconectat"
+
+msgid "Low"
+msgstr "Joasă"
+
+msgid "Normal"
+msgstr "Normală"
+
+msgid "High"
+msgstr "Înaltă"
+
+msgid "Very High"
+msgstr "Foarte înaltă"
+
+msgid "Focus Prevention Windows"
+msgstr "Ferestre pentru prevenire focalizare"
+
+msgid "Focus prevention windows"
+msgstr "Ferestrele pentru care se aplică prevenirea focalizării"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Dezredirecționează  ferestrele în ecran comlpet"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Permite ca desenarea ferestrelor în ecran complet să nu fie redirecționată "
+"către hărți de pixeli"
+
+msgid "Default Icon"
+msgstr "Pictogramă implicită"
+
+msgid "Default window icon image"
+msgstr "Pictograma implicită a ferestrei"
+
+msgid "Force independent output painting."
+msgstr "Forțează desenarea independentă a ieșirii."
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Desenează independent fiecare dispozitiv de ieșire, chiar dacă dispozitivele "
+"de ieșire se suprapun"
+
+msgid "Texture Compression"
+msgstr "Compresie textură"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+"Utilizează compresie pentru texturi convertite din imagini dacă e posibil"
+
+msgid "Desktop Cube"
+msgstr "Cub de birou"
+
+msgid "Place windows on cube"
+msgstr "Plasează ferestrele pe cub"
+
+msgid "Unfold"
+msgstr "Depliază"
+
+msgid "Unfold cube"
+msgstr "Depliază cubul"
+
+msgid "Next Slide"
+msgstr "Următorul diapozitiv"
+
+msgid "Advance to next slide"
+msgstr "Avansează la următorul diapozitiv"
+
+msgid "Prev Slide"
+msgstr "Diapoz. prec."
+
+msgid "Go back to previous slide"
+msgstr "Înapoi la diapozitivul precedent"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr "Generare hărți MIP pentru calitate mai înaltă cînd e posibil"
+
+msgid "Multi Output Mode"
+msgstr "Regim „Ieșiri multiple”"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Alege cum să fie afișat cubul la utilizarea mai multor dispozitive de ieșire."
+
+msgid "Automatic"
+msgstr "Automat"
+
+msgid "Multiple cubes"
+msgstr "Cuburi multiple"
+
+msgid "One big cube"
+msgstr "Un cub mare"
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr "În cub"
+
+msgid "Inside cube"
+msgstr "Vedere din interiorul cubului"
+
+msgid "Acceleration"
+msgstr "Accelerare"
+
+msgid "Fold Acceleration"
+msgstr "Accelerație pliere"
+
+msgid "Speed"
+msgstr "Viteză"
+
+msgid "Fold Speed"
+msgstr "Viteză pliere"
+
+msgid "Timestep"
+msgstr "Pas de timp"
+
+msgid "Fold Timestep"
+msgstr "Pas de timp pliere"
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Cube Color"
+msgstr "Culoarea cubului"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Culoarea părților de sus și de jos ale cubului"
+
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Culoarea cubului"
+
+msgid "Scale image"
+msgstr "Scalare imagine"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Scalează imaginile pentru a acoperi fața superioară a cubului"
+
+msgid "Image files"
+msgstr "Fișiere imagine"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Lista fișierelor PNG și SVG ce trebuiesc afișate pe fața superioară a cubului"
+
+msgid "Adjust Image"
+msgstr "Ajustează imaginea"
+
+msgid "Adjust top face image to rotation"
+msgstr "Ajustează imaginea feței de sus la rotație"
+
+msgid "Skydome"
+msgstr "Fundal"
+
+msgid "Render skydome"
+msgstr "Afișare fundal"
+
+msgid "Skydome Image"
+msgstr "Imagine fundal"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Imagine de utilizat ca textură de fond"
+
+msgid "Animate Skydome"
+msgstr "Animare fundal"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Animează imaginea de fond la rotirea cubului"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Culoare inițială pentru gradient fundal"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"Culoarea utilizată pentru marginea de sus a gradientului de rezervă al "
+"fundalului"
+
+msgid "Skydome Gradient End Color"
+msgstr "Culoare finală pentru gradient fundal"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"Culoarea utilizată pentru marginea de jos a gradientului de rezervă al "
+"fundalului"
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr "Opacitate în timpul rotației"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Opacitatea ferestrei biroului în timpul rotației."
+
+msgid "Opacity When Not Rotating"
+msgstr "Opacitate în afara rotației"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Opacitatea ferestrei biroului în afara rotației."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Transparență numai la rotire șoricel"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Inițiază transparența cubului doar dacă rotația e condusă de șoricel."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Suport control D-Bus"
+
+msgid "Window Decoration"
+msgstr "Decorație fereastră"
+
+msgid "Window decorations"
+msgstr "Decorații fereastră"
+
+msgid "Shadow Radius"
+msgstr "Rază umbră"
+
+msgid "Drop shadow radius"
+msgstr "Rază pentru umbra lăsată"
+
+msgid "Shadow Opacity"
+msgstr "Opacitate umbră"
+
+msgid "Drop shadow opacity"
+msgstr "Opacitate pentru umbra lăsată"
+
+msgid "Shadow Color"
+msgstr "Culoare umbră"
+
+msgid "Drop shadow color"
+msgstr "Culoare pentru umbra lăsată"
+
+msgid "Shadow Offset X"
+msgstr "Decalaj X pentru umbră"
+
+msgid "Drop shadow X offset"
+msgstr "Decalaj X pentru umbra lăsată"
+
+msgid "Shadow Offset Y"
+msgstr "Decalaj Y pentru umbră"
+
+msgid "Drop shadow Y offset"
+msgstr "Decalaj Y pentru umbra lăsată"
+
+msgid "Command"
+msgstr "Comandă"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Linia de comandă pentru decorator, executată dacă niciun decorator nu "
+"rulează deja"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Permite generarea de hărți MIP pentru texturi decorative"
+
+msgid "Decoration windows"
+msgstr "Ferestre decorare"
+
+msgid "Windows that should be decorated"
+msgstr "Ferestrele ce trebuiesc decorate"
+
+msgid "Shadow windows"
+msgstr "Ferestre umbră"
+
+msgid "Windows that should have a shadow"
+msgstr "Ferestrele ce trebuie să aibă o umbră"
+
+msgid "Fading Windows"
+msgstr "Decolorarea ferestrelor"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Colorare ferestre la trecerea pe hartă și decolorare la scoaterea de pe hartă"
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "Data compilării:"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Viteză decolorare fereastră"
+
+#, fuzzy
+msgid "Constant speed"
+msgstr "&Testează"
+
+#, fuzzy
+msgid "Constant time"
+msgstr "Constrînge Y"
+
+msgid "Fade Speed"
+msgstr "Viteză decolorare"
+
+#, fuzzy
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Ferestrele ce trebuiesc scalate în regimul de scalare"
+
+#, fuzzy
+msgid "Fade Time"
+msgstr "Data compilării:"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+msgid "Fade windows"
+msgstr "Decolorare ferestre"
+
+msgid "Windows that should be fading"
+msgstr "Ferestrele care trebuie să se decoloreze"
+
+msgid "Visual Bell"
+msgstr "Clopoțel vizibil"
+
+msgid "Fade effect on system beep"
+msgstr "Efect decolorare la sunet de sistem"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Clopoțel vizibil în ecran complet"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Efect de decolorare la sunet de sistem în ecran complet"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Decolorare la minimizare/deschidere/închidere"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Efect de decolorare la minimizarea/deschiderea/închiderea ferestrelor"
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Tipul providerului"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr "Sistem de fișiere în spațiul utilizatorului"
+
+msgid "Userspace file system"
+msgstr "Sistem de fișiere în spațiul utilizatorului (fuse)"
+
+msgid "Mount Point"
+msgstr "Punct de montare"
+
+msgid "Mount point"
+msgstr "Punct de montare"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Suport buclă principală GLib"
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+msgid "Show Main Menu"
+msgstr "Afișare meniu principal"
+
+msgid "Show the main menu"
+msgstr "Afișează meniul principal"
+
+msgid "Run Dialog"
+msgstr "Dialog ececuție"
+
+msgid "Show Run Application dialog"
+msgstr "Afișare dialog de lansare aplicație"
+
+msgid "Screenshot command line"
+msgstr "Linie de comandă pentru captură de ecran"
+
+msgid "Take a screenshot"
+msgstr "Fă o captură de ecran"
+
+msgid "Window screenshot command line"
+msgstr "Linie de comandă pentru captură fereastră"
+
+msgid "Take a screenshot of a window"
+msgstr "Face captura unei ferestre"
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Linie de comandă în terminal"
+
+msgid "Terminal command line"
+msgstr "Linie de comandă în terminal"
+
+msgid "Open a terminal"
+msgstr "Deschide o consolă"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Suport fișier plan Ini"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Modúl de notificare a modificării fișierului"
+
+msgid "Minimize Effect"
+msgstr "Efect de minimizare"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Transformare ferestre cînd sînt minimizate și deminimizate"
+
+msgid "Minimize speed"
+msgstr "Viteză minimizare"
+
+msgid "Minimize timestep"
+msgstr "Pas de timp minimizare"
+
+msgid "Minimize Windows"
+msgstr "Minimizează ferestrele"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Ferestrele care trebuiesc transformate la minimizare"
+
+msgid "Shade Resistance"
+msgstr "Rezistență la umbrire"
+
+msgid "Shade resistance"
+msgstr "Rezistență la umbrire"
+
+msgid "Move Window"
+msgstr "Mutare fereastră"
+
+msgid "Move window"
+msgstr "Mută fereastra"
+
+msgid "Initiate Window Move"
+msgstr "Inițierea mutării ferestrei"
+
+msgid "Start moving window"
+msgstr "Inițializarea deplasării"
+
+msgid "Opacity"
+msgstr "Opacitate"
+
+msgid "Opacity level of moving windows"
+msgstr "Nivel de opacitate al ferestrelor în mișcare"
+
+msgid "Constrain Y"
+msgstr "Constrînge Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Constrînge coordonata Y la regiunea spațiului de lucru"
+
+#, fuzzy
+msgid "Snapoff maximized windows"
+msgstr "Tipul providerului"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+"Desprindere și demaximizare automată a ferestrelor maximizate la glisare"
+
+msgid "Lazy Positioning"
+msgstr "Poziționare leneșă"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Nu actualiza în server poziția ferestrelor pînă cînd nu se încheie mutarea"
+
+#, fuzzy
+msgid "Opacity, Brightness and Saturation"
+msgstr "Opacitate în timpul rotației"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Mărește opacitatea ferestrei"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Pasul de modificare a opacității"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Reduce opacitatea fereastrei"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Pasul de modificare a opacității"
+
+msgid "Brightness"
+msgstr "Luminozitate"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Luminozitate"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Luminozitate"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Luminozitate"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Luminozitate"
+
+#, fuzzy
+msgid "Saturation"
+msgstr "Pregătire"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Saturație estompare"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Pregătire"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Saturație estompare"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Pregătire"
+
+msgid "Step"
+msgstr ""
+
+msgid "Opacity Step"
+msgstr "Pas opacitate"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Decorații fereastră"
+
+#, fuzzy
+msgid "Windows"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Windows that should have a different opacity by default"
+msgstr "Ferestre ce trebuie să fie străvezii implicit"
+
+#, fuzzy
+msgid "Window values"
+msgstr "Window Manager"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Nivel de opacitate al ferestrelor în mișcare"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Luminozitate"
+
+#, fuzzy
+msgid "Windows that should have a different brightness by default"
+msgstr "Ferestre ce trebuiesc poziționate implicit"
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Pregătire"
+
+#, fuzzy
+msgid "Windows that should have a different saturation by default"
+msgstr "Ferestre ce trebuiesc poziționate implicit"
+
+msgid "Saturation values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Place Windows"
+msgstr "Tipul providerului"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr ""
+"Amplasează ferestrele pe poziții corespunzătoare la amplasarea pe hartă"
+
+msgid "Workarounds"
+msgstr "Soluții"
+
+msgid "Window placement workarounds"
+msgstr "Soluții de amplasare ferestre"
+
+msgid "Placement Mode"
+msgstr "Rgim de amplasare"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algoritm de utilizat pentru amplasarea ferestrelor"
+
+msgid "Cascade"
+msgstr "Cascadă"
+
+msgid "Centered"
+msgstr "Centrat"
+
+msgid "Smart"
+msgstr "Inteligent"
+
+#, fuzzy
+msgid "Maximize"
+msgstr "Tipul providerului"
+
+msgid "Random"
+msgstr "Aleator"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Întoarcere muchie – indicator"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr "Alege comportamentul amplasării în prezența ieșirilor multiple"
+
+msgid "Use active output device"
+msgstr "Folosește dispozitivul de ieșire activ"
+
+msgid "Use output device with pointer"
+msgstr "Folosește dispozitivul de ieșire cu indicatorul"
+
+#, fuzzy
+msgid "Use output device of focused window"
+msgstr "Folosește dispozitivul de ieșire cu indicatorul"
+
+#, fuzzy
+msgid "Place across all outputs"
+msgstr "Preferă ieșirea mai mică"
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "Tipul providerului"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Ferestre ce ar trebui amplasate cu forța, chiar dacă ele îi indică "
+"gestionarului de ferestre să le evite."
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Gestiune ferestre"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Decorații fereastră"
+
+#, fuzzy
+msgid "Positioned windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that should be positioned by default"
+msgstr "Ferestre ce trebuiesc poziționate implicit"
+
+msgid "X Positions"
+msgstr "Poziții pe X"
+
+msgid "X position values"
+msgstr "Valori poziții pe X"
+
+msgid "Y Positions"
+msgstr "Poziții pe Y"
+
+msgid "Y position values"
+msgstr "Valori poziții pe Y"
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Decorații fereastră"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Ferestre ce trebuiesc poziționate implicit"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Data compilării:"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Tipul providerului"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport positioned windows"
+msgstr "Utilizatori virtuali"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+"Ferestre ce trebuiesc poziționate implicit în anumite zone de vizualizare"
+
+#, fuzzy
+msgid "X Viewport Positions"
+msgstr "Utilizatori virtuali"
+
+#, fuzzy
+msgid "Horizontal viewport positions"
+msgstr "Utilizatori virtuali"
+
+#, fuzzy
+msgid "Y Viewport Positions"
+msgstr "Utilizatori virtuali"
+
+#, fuzzy
+msgid "Vertical viewport positions"
+msgstr "Utilizatori virtuali"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Încărcător de imagini Png"
+
+msgid "Regex Matching"
+msgstr "Potrivire ExpReg"
+
+msgid "Regex window matching"
+msgstr "Potrivire ferestre cu o expresie regulată"
+
+#, fuzzy
+msgid "Resize Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Resize window"
+msgstr "Tipul providerului"
+
+msgid "Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Normal Window Resize"
+msgstr "India"
+
+msgid "Start resizing window normally"
+msgstr "Începe redimensionarea normal"
+
+#, fuzzy
+msgid "Initiate Outline Window Resize"
+msgstr "India"
+
+msgid "Start resizing window with outline"
+msgstr "Începe redimensionarea cu contur"
+
+#, fuzzy
+msgid "Initiate Rectangle Window Resize"
+msgstr "India"
+
+msgid "Start resizing window with rectangle"
+msgstr "Începe redimensionarea cu dreptunghi"
+
+#, fuzzy
+msgid "Initiate Stretch Window Resize"
+msgstr "India"
+
+msgid "Start resizing window by stretching it"
+msgstr "Începe redimensionarea ferestrei, întinzînd-o"
+
+#, fuzzy
+msgid "Initiate Window Resize"
+msgstr "India"
+
+msgid "Start resizing window"
+msgstr "Începe redimensionarea"
+
+msgid "Default Resize Mode"
+msgstr "Regim de redimensionare implicit"
+
+msgid "Default mode used for window resizing"
+msgstr "Regimul implicit utilizat pentru redimensionarea ferestrelor"
+
+msgid "Outline"
+msgstr "Contur"
+
+msgid "Rectangle"
+msgstr "Dreptunghi"
+
+msgid "Stretch"
+msgstr "Întinde"
+
+msgid "Border Color"
+msgstr "Culoare bordură"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"Culoarea bordurii utilizate pentru regimurile de redimensionare dreptunghică "
+"și conturată"
+
+msgid "Fill Color"
+msgstr "Culoare de umplere"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr ""
+"Culoarea de umplere folosită pentru regimul de redimensionare dreptunghică"
+
+#, fuzzy
+msgid "Normal Resize Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Ferestre cu care se folosește redimensionarea normală"
+
+#, fuzzy
+msgid "Outline Resize Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Ferestre cu care se folosește redimensionarea cu contur"
+
+#, fuzzy
+msgid "Rectangle Resize Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Ferestre cu care se folosește redimensionarea cu dreptunghi"
+
+#, fuzzy
+msgid "Stretch Resize Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Ferestre cu care se folosește redimensionarea prin întindere"
+
+msgid "Rotate Cube"
+msgstr "Rotire cub"
+
+#, fuzzy
+msgid "Rotate desktop cube"
+msgstr "Desktop:"
+
+msgid "Edge Flip Pointer"
+msgstr "Întoarcere muchie – indicator"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Întoarce spre următoarea fereastră de vizualizare la deplasarea "
+"indicatorului la marginea ecranului"
+
+msgid "Edge Flip Move"
+msgstr "Întoarcere muchie – deplasare"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Întoarce spre următoarea fereastră de vizualizare la deplasarea ferestrei la "
+"marginea ecranului"
+
+msgid "Edge Flip DnD"
+msgstr "Întoarcere muchie – glisare"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Întoarce spre următoarea fereastră de vizualizare la glisarea obiectului la "
+"marginea ecranului"
+
+#, fuzzy
+msgid "Flip Time"
+msgstr "Data compilării:"
+
+msgid "Timeout before flipping viewport"
+msgstr "Interval de timp pînă la întoarcerea ferestrei de vizualizare"
+
+msgid "Raise on rotate"
+msgstr "Ridicare la rotire"
+
+msgid "Raise window when rotating"
+msgstr "Ridică fereastra la rotire"
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Rotire cub"
+
+#, fuzzy
+msgid "Start Rotation"
+msgstr "Opţiuni căutare"
+
+msgid "Rotate Left"
+msgstr "Rotire la stînga"
+
+msgid "Rotate left"
+msgstr "Rotire la stînga"
+
+#, fuzzy
+msgid "Rotate Right"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate right"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate Left with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate left and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate Right with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate right and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To"
+msgstr "Tipul providerului"
+
+msgid "Rotate to viewport"
+msgstr "Rotește la fereastra de vizualizare"
+
+#, fuzzy
+msgid "Rotate window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate with window"
+msgstr "Tipul providerului"
+
+msgid "Rotate Flip Left"
+msgstr "Întoarcere spre stînga la rotire"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Întoarce spre fereastra de vizualizare stîngă și transferă indicatorul"
+
+msgid "Rotate Flip Right"
+msgstr "Întoarcere spre dreapta la rotire"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr ""
+"Întoarce spre fereastra de vizualizare dreaptă și transferă indicatorul"
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 1"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 1"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 2"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 2"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 3"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 3"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 4"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 4"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 5"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 5"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 6"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 6"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 7"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 7"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 8"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 8"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 9"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 9"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 10"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 10"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 11"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 11"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 12"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 12"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 1 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 2 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 3 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 4 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 5 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 6 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 7 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 8 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 9 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 10 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 11 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate To Face 12 with Window"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Pointer Invert Y"
+msgstr "Pointer către %1"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Inversare axă Y pentru deplasare indicator"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Pointer către %1"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Inversare axă Y pentru deplasare indicator"
+
+#, fuzzy
+msgid "Pointer Sensitivity"
+msgstr "Pointer către %1"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Sensibilitatea mișcării indicatorului"
+
+#, fuzzy
+msgid "Rotation Acceleration"
+msgstr "Accelerare 3D:"
+
+msgid "Snap To Top Face"
+msgstr "Agățare de fața superioară"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Agățare rotație cub de fața superioară"
+
+msgid "Snap To Bottom Face"
+msgstr "Agățare de fața inferioară"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Agățare rotație cub de fața inferioară"
+
+#, fuzzy
+msgid "Rotation Speed"
+msgstr "&Testează"
+
+#, fuzzy
+msgid "Rotation Timestep"
+msgstr "&Testează"
+
+msgid "Zoom"
+msgstr "Lupă"
+
+#, fuzzy
+msgid "Rotation Zoom"
+msgstr "&Testează"
+
+#, fuzzy
+msgid "Scale"
+msgstr "Stare"
+
+#, fuzzy
+msgid "Scale windows"
+msgstr "Tipul providerului"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker"
+msgstr "Tipul providerului"
+
+msgid "Layout and start transforming windows"
+msgstr "Aranjează și începe transformarea ferestrelor"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Inițiere Selector ferestre pentru toate ferestrele"
+
+msgid "Layout and start transforming all windows"
+msgstr "Aranjează și începe transformarea tuturor ferestrelor"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Inițiere Selector ferestre pentru grupul de ferestre"
+
+msgid "Layout and start transforming window group"
+msgstr "Aranjează și începe transformarea grupului de ferestre"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Inițiere Selector ferestre pentru ferestrele ieșirii curente"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Aranjează și începe transformarea ferestrelor ieșirii curente"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Clic pe birou pentru a fișa biroul"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Intrare în regim Afișare birou cînd se face clic pe birou  în timpul scalării"
+
+#, fuzzy
+msgid "Spacing"
+msgstr "Spania"
+
+#, fuzzy
+msgid "Space between windows"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Scale speed"
+msgstr "ora locală"
+
+#, fuzzy
+msgid "Scale timestep"
+msgstr "ora locală"
+
+msgid "Darken Background"
+msgstr "Întunecare fundal"
+
+msgid "Darken background when scaling windows"
+msgstr "Întunecă fundalul la scalarea ferestrelor"
+
+msgid "Amount of opacity in percent"
+msgstr "Opacitatea în procente"
+
+msgid "Overlay Icon"
+msgstr "Pictogramă suprapusă"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Suprapune o pictogramă pe ferestre odată ce sînt scalate"
+
+msgid "None"
+msgstr "Nimic"
+
+msgid "Emblem"
+msgstr "Emblemă"
+
+msgid "Big"
+msgstr "Mare"
+
+#, fuzzy
+msgid "Scale Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Ferestrele ce trebuiesc scalate în regimul de scalare"
+
+msgid "Hover Time"
+msgstr "Durată planare"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Intervalul (în ms) înaintea terminării regimului de scalare la planarea "
+"deasupra unei ferestre"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Alege unde sînt scalate ferestrele dacă sînt utilizate mai multe dispozitive "
+"de ieșire."
+
+msgid "On current output device"
+msgstr "Pe dispozitivul de ieșire curent"
+
+msgid "On all output devices"
+msgstr "Pe toate dispozitivele de ieșire"
+
+msgid "Screenshot"
+msgstr "Captură de ecran"
+
+#, fuzzy
+msgid "Screenshot plugin"
+msgstr "Profil activ"
+
+#, fuzzy
+msgid "Initiate rectangle screenshot"
+msgstr "India"
+
+#, fuzzy
+msgid "Directory"
+msgstr "Director\n"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Pune capturile în acest director"
+
+msgid "Launch Application"
+msgstr "Lansare aplicație"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Deschide captura de ecran automat în această aplicație"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Încărcător de imagini Svg"
+
+#, fuzzy
+msgid "Application Switcher"
+msgstr "Ordinea de aplicare"
+
+#, fuzzy
+msgid "Next window"
+msgstr "Tipul providerului"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Comutator-balon dacă nu este vizibil și alege următoarea fereastră"
+
+#, fuzzy
+msgid "Prev window"
+msgstr "Tipul providerului"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Comutator-balon dacă nu este vizibil și alege fereastra precedentă"
+
+#, fuzzy
+msgid "Next window (All windows)"
+msgstr "Tipul providerului"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Comutator-balon dacă nu este vizibil și alege următoarea fereastră dintre "
+"toate ferestrele"
+
+#, fuzzy
+msgid "Prev window (All windows)"
+msgstr "Tipul providerului"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Comutator-balon dacă nu este vizibil și alege fereastra precedentă dintre "
+"toate ferestrele"
+
+#, fuzzy
+msgid "Next window (No popup)"
+msgstr "Tipul providerului"
+
+msgid "Select next window without showing the popup window."
+msgstr "Alege următoarea fereastră fără a afișa fereastra-balon."
+
+#, fuzzy
+msgid "Prev window (No popup)"
+msgstr "Tipul providerului"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Alege fereastra precedentă fără a afișa fereastra-balon."
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "Desktop:"
+
+#, fuzzy
+msgid "Select next panel type window."
+msgstr "Tipul providerului"
+
+msgid "Prev Panel"
+msgstr "Panoul precedent"
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Switcher speed"
+msgstr "ora locală"
+
+#, fuzzy
+msgid "Switcher timestep"
+msgstr "ora locală"
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Ferestrele ce trebuiesc afișate în comutator"
+
+msgid "Amount of saturation in percent"
+msgstr "Saturația în procente"
+
+msgid "Amount of brightness in percent"
+msgstr "Luminozitatea în procente"
+
+#, fuzzy
+msgid "Bring To Front"
+msgstr "Acţiune"
+
+msgid "Bring selected window to front"
+msgstr "Aduce fereastra aleasă în prim-plan"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+"Distanța la care să fie îndepărtat biroul în timpul comutării ferestrelor"
+
+#, fuzzy
+msgid "Icon"
+msgstr "Acţiune"
+
+msgid "Show icon next to thumbnail"
+msgstr "Afișare pictogramă lîngă miniatură"
+
+#, fuzzy
+msgid "Minimized"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Show minimized windows"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Auto Rotate"
+msgstr "Automatic"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Rotește fereastra aleasă la comutare"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Cub de birou"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Rotește fereastra aleasă la comutare"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Diapoz. prec."
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Rază umbră"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Contur"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Tipul providerului"
+
+msgid "Background Gradient"
+msgstr ""
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Culoare bordură"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Culoare de umplere"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Culoare umbră"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Utilizatori virtuali"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Decolorarea ferestrelor"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Ferestrele ce trebuiesc scalate în regimul de scalare"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Mută fereastra"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Rotire la stînga"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Tipul providerului"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Mutare fereastră"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Tipul providerului"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Tipul providerului"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Mutare fereastră"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Mutare fereastră"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Întoarcere muchie – glisare"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Întoarcere spre stînga la rotire"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Data compilării:"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Întoarcere spre dreapta la rotire"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Întoarcere spre dreapta la rotire"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Data compilării:"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Data compilării:"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Întoarcere muchie – glisare"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Tipul providerului"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "ora locală"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Întoarcere muchie – glisare"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Întoarce spre următoarea fereastră de vizualizare la deplasarea "
+"indicatorului la marginea ecranului"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Întoarce spre următoarea fereastră de vizualizare la deplasarea ferestrei la "
+"marginea ecranului"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Întoarce spre următoarea fereastră de vizualizare la glisarea obiectului la "
+"marginea ecranului"
+
+msgid "Water Effect"
+msgstr "Efect acvatic"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Adaugă efecte acvatice pentru diferite acțiuni de birou"
+
+msgid "Enable pointer water effects"
+msgstr "Activează efectele acvatice pentru indicator"
+
+#, fuzzy
+msgid "Toggle rain"
+msgstr "&Activează statusul"
+
+#, fuzzy
+msgid "Toggle rain effect"
+msgstr "&Activează statusul"
+
+#, fuzzy
+msgid "Toggle wiper"
+msgstr "&Activează statusul"
+
+#, fuzzy
+msgid "Toggle wiper effect"
+msgstr "&Activează statusul"
+
+msgid "Offset Scale"
+msgstr "Scală decalaj"
+
+msgid "Water offset scale"
+msgstr "Scală decalaj Apă"
+
+#, fuzzy
+msgid "Rain Delay"
+msgstr "&Mail Relay"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Interval (în ms) între picături"
+
+msgid "Title wave"
+msgstr "Val pentru titlu"
+
+msgid "Wave effect from window title"
+msgstr "Efect acvatic de la titlul ferestrei"
+
+msgid "Point"
+msgstr "Punct"
+
+msgid "Add point"
+msgstr "Adaugă punct"
+
+msgid "Line"
+msgstr "Linie"
+
+msgid "Add line"
+msgstr "Adaugă linie"
+
+#, fuzzy
+msgid "Wobbly Windows"
+msgstr "Tipul providerului"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Utilizare model de resort pentru efectul de legănare a ferestrei"
+
+#, fuzzy
+msgid "Snap windows"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Toggle window snapping"
+msgstr "&Activează statusul"
+
+msgid "Snap Inverted"
+msgstr "Agățare inversate"
+
+msgid "Inverted window snapping"
+msgstr "Agățare fereastră inversată"
+
+msgid "Shiver"
+msgstr "Tremurare"
+
+#, fuzzy
+msgid "Make window shiver"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Friction"
+msgstr "Acţiune"
+
+#, fuzzy
+msgid "Spring Friction"
+msgstr "Acţiune"
+
+#, fuzzy
+msgid "Spring K"
+msgstr "Spania"
+
+#, fuzzy
+msgid "Spring Konstant"
+msgstr "Spania"
+
+#, fuzzy
+msgid "Grid Resolution"
+msgstr "Rezoluţie"
+
+#, fuzzy
+msgid "Vertex Grid Resolution"
+msgstr "Rezoluţia serverului"
+
+msgid "Minimum Grid Size"
+msgstr "Dimensiune minimă grilă"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Dimensiune minimă a grilei pe culmi"
+
+msgid "Map Effect"
+msgstr "Efect la amplasare pe hartă"
+
+#, fuzzy
+msgid "Map Window Effect"
+msgstr "Tipul providerului"
+
+msgid "Focus Effect"
+msgstr "Efect de focalizare"
+
+#, fuzzy
+msgid "Focus Window Effect"
+msgstr "Tipul providerului"
+
+#, fuzzy
+msgid "Map Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Ferestre ce trebuie să se legene la amplasare pe hartă"
+
+#, fuzzy
+msgid "Focus Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that should wobble when focused"
+msgstr "Ferestre ce trebuie să se legene la focalizare"
+
+#, fuzzy
+msgid "Grab Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Ferestre ce trebuie să se legene la înhățare"
+
+#, fuzzy
+msgid "Move Windows"
+msgstr "Tipul providerului"
+
+msgid "Windows that should wobble when moved"
+msgstr "Ferestre ce trebuie să se legene la deplasare"
+
+msgid "Maximize Effect"
+msgstr "Efect la maximizare"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Efect de legănare la maximizarea și demaximizarea ferestrelor"
+
+msgid "Zoom Desktop"
+msgstr "Lupă birou"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Examinare și panoramare cub de Birou"
+
+msgid "Zoom In"
+msgstr "Apropiere"
+
+msgid "Zoom Out"
+msgstr "Îndepărtare"
+
+msgid "Zoom Pan"
+msgstr "Panoramare lupă"
+
+msgid "Zoom pan"
+msgstr "Panoramare lupă"
+
+msgid "Zoom Speed"
+msgstr "Viteză lupă"
+
+msgid "Zoom Timestep"
+msgstr "Temporizare lupă"
+
+msgid "Zoom factor"
+msgstr "Coeficient lupă "
+
+#, fuzzy
+msgid "Filter Linear"
+msgstr "Filtru:"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Folosește filtru liniar cînd se apropie"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Număr de birouri"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Numărul de birouri virtuale"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr ""
+#~ "Acțiunea de efectuat la derularea rotiței șoricelului deasupra barei de "
+#~ "titlu."
+
+#~ msgid "Blur type"
+#~ msgstr "Tip estompare"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Opacitatea ferestrei active în tematica Marco"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Umbrirea opacității ferestrei active în tematica Marco"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Opacitate în tematica Marco"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Umbrirea opacității în tematica Marco"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr ""
+#~ "Opacitatea de utilizat pentru ferestrele active cu decorațiile tematicii "
+#~ "Marco"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Opacitatea de utilizat pentru decorațiile tematicii Marco"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr ""
+#~ "Umbrește ferestrele active cu decorațiile tematicii Marco de la opac la "
+#~ "străveziu"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr ""
+#~ "Umbrește ferestrele cu decorațiile tematicii Marco de la opac la străveziu"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Acțiune rotiță șoricel asupra barei de titlu"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Tip de estompare utilizată pentru decorare ferestre"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Utilizare tematică Marco"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Utilizare tematică Marco la desenarea decorațiilor ferestrelor"
+
+#~ msgid "Line width"
+#~ msgstr "Lățime linie"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Lățimea liniei pentru adnotări"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "Suport control GConf"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Suport control Kconfig"
+
+#, fuzzy
+#~ msgid "Decrease"
+#~ msgstr "Reducere opacitate"
+
+#, fuzzy
+#~ msgid "Increase"
+#~ msgstr "Mărire opacitate"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Linie de comandă pentru captură de ecran"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Linie de comandă pentru captură de ecran"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr ""
+#~ "Valoarea opacității pentru ferestrele care trebuie să fie străvezii "
+#~ "implicit"
+
+#~ msgid "Opacity window values"
+#~ msgstr "Valori ferestre opacitate"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Ferestre opacitate"
+
+#, fuzzy
+#~ msgid "Place windows on a plane"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane Down"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane Right"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 1"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 10"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 11"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 12"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 2"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 3"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 4"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 5"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 6"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 7"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 8"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane To Face 9"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane right"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 1"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 10"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 11"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 12"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 2"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 3"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 4"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 5"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 6"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 7"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 8"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "Plane to face 9"
+#~ msgstr "Tipul providerului"
+
+#, fuzzy
+#~ msgid "DropdownMenu"
+#~ msgstr "Window Manager"
+
+#, fuzzy
+#~ msgid "Notification"
+#~ msgstr "Acţiune"
+
+#~ msgid "Unknown"
+#~ msgstr "Necunoscut"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "Pregătire"
+
+#, fuzzy
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "Accelerare 3D:"
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "are nevoie de"
+
+#, fuzzy
+#~ msgid "Fold Timestep (0.0-50.0)"
+#~ msgstr "&Testează"
+
+#, fuzzy
+#~ msgid "Gaussian strength (0.00-1.00)"
+#~ msgstr "Rusă"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops (1-36)"
+#~ msgstr "Desktop:"
+
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "Accelerare 3D:"
+
+#, fuzzy
+#~ msgid "Rotation Timestep (0.0-50.0)"
+#~ msgstr "&Testează"
+
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "ora locală"
+
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "ora locală"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "Acţiune"
+
+#, fuzzy
+#~ msgid "Spring Konstant (0.0-10.0)"
+#~ msgstr "Spania"
+
+#, fuzzy
+#~ msgid "Vertex Grid Resolution (1-64)"
+#~ msgstr "Rezoluţia serverului"
+
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "Window Manager"
+
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "Window Manager"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "are nevoie de"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "&Testează"
+
+#, fuzzy
+#~ msgid "Zoom factor (1.01-3.00)"
+#~ msgstr "Desktop:"
+
+#, fuzzy
+#~ msgid "Command line %d"
+#~ msgstr "Comanda '%1'"
+
+#, fuzzy
+#~ msgid "Corners"
+#~ msgstr "Imprimante"
+
+#, fuzzy
+#~ msgid "Show switcher"
+#~ msgstr "Afişează &modificările"
+
+#, fuzzy
+#~ msgid "Terminate"
+#~ msgstr "Imprimantă"

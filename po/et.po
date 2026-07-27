@@ -1,0 +1,3597 @@
+# Estonian translation for compiz
+# Copyright (C) 2006 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:41+0300\n"
+"PO-Revision-Date: 2003-09-22 13:26+0200\n"
+"Last-Translator: Ain Vagula <avagula@gmail.com>\n"
+"Language-Team: Estonian <opensuse-translation@opensuse.org>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Close Window"
+msgstr ""
+
+msgid "Unmaximize Window"
+msgstr ""
+
+msgid "Maximize Window"
+msgstr ""
+
+msgid "Minimize Window"
+msgstr ""
+
+#, fuzzy
+msgid "Window Menu"
+msgstr "Aken"
+
+#, fuzzy
+msgid "Shade"
+msgstr "Vali &pilt"
+
+msgid "Make Above"
+msgstr ""
+
+msgid "Stick"
+msgstr ""
+
+msgid "Unshade"
+msgstr ""
+
+msgid "Unmake Above"
+msgstr ""
+
+msgid "Unstick"
+msgstr ""
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr ""
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+
+msgid "_Cancel"
+msgstr "_Loobu"
+
+msgid "_Force Quit"
+msgstr ""
+
+#, fuzzy
+msgid "Annotate"
+msgstr "Lähtestamine"
+
+#, fuzzy
+msgid "Annotate plugin"
+msgstr "Aktiivne vajutatud:"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Lähtestamine"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Lähtestamine"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Lähtestamine"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Lähtestamine"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Käivita Windows"
+
+msgid "Draw"
+msgstr ""
+
+msgid "Draw using tool"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate erase"
+msgstr "Lähtestamine"
+
+#, fuzzy
+msgid "Initiate annotate erasing"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Clear"
+msgstr "P_uhasta"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Sorimisjärjestuse muutmine"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+#, fuzzy
+msgid "Annotate Fill Color"
+msgstr "Värvid"
+
+msgid "Fill color for annotations"
+msgstr ""
+
+msgid "Annotate Stroke Color"
+msgstr ""
+
+msgid "Stroke color for annotations"
+msgstr ""
+
+msgid "Stroke width"
+msgstr ""
+
+msgid "Stroke width for annotations"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Windows"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Blur windows"
+msgstr "Käivita Windows"
+
+msgid "Pulse"
+msgstr ""
+
+#, fuzzy
+msgid "Pulse effect"
+msgstr "Sorimisjärjestuse muutmine"
+
+#, fuzzy
+msgid "Blur Speed"
+msgstr "Kiirus:"
+
+#, fuzzy
+msgid "Window blur speed"
+msgstr "Windows NT"
+
+#, fuzzy
+msgid "Focus blur windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should be affected by focus blur"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Blur"
+msgstr "Käivita Windows"
+
+msgid "Blur windows that doesn't have focus"
+msgstr ""
+
+#, fuzzy
+msgid "Alpha blur windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr ""
+
+#, fuzzy
+msgid "Alpha Blur"
+msgstr "Käivita Windows"
+
+msgid "Blur behind translucent parts of windows"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Filter"
+msgstr "Määra filter"
+
+msgid "Filter method used for blurring"
+msgstr ""
+
+#, fuzzy
+msgid "4xBilinear"
+msgstr "Filtreeri seda kausta"
+
+#, fuzzy
+msgid "Gaussian"
+msgstr "Vene"
+
+msgid "Mipmap"
+msgstr ""
+
+#, fuzzy
+msgid "Gaussian Radius"
+msgstr "Venemaa Föderatsioon"
+
+#, fuzzy
+msgid "Gaussian radius"
+msgstr "Venemaa Föderatsioon"
+
+#, fuzzy
+msgid "Gaussian Strength"
+msgstr "Vene"
+
+#, fuzzy
+msgid "Gaussian strength"
+msgstr "Vene"
+
+msgid "Mipmap LOD"
+msgstr ""
+
+msgid "Mipmap level-of-detail"
+msgstr ""
+
+#, fuzzy
+msgid "Blur Saturation"
+msgstr "Häälestamine"
+
+#, fuzzy
+msgid "Blur saturation"
+msgstr "Häälestamine"
+
+#, fuzzy
+msgid "Blur Occlusion"
+msgstr "Häälestamine"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+
+msgid "Independent texture fetch"
+msgstr ""
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+
+msgid "Clone Output"
+msgstr ""
+
+msgid "Output clone handler"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate"
+msgstr "Lähtestamine"
+
+#, fuzzy
+msgid "Initiate clone selection"
+msgstr "Videorežiimi valimine"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Käsku pole antud"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 0"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 1"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 2"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 3"
+msgstr "Käsku pole antud"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 4"
+msgstr "Käsku pole antud"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 5"
+msgstr "Käsku pole antud"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 6"
+msgstr "Käsku pole antud"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 7"
+msgstr "Käsku pole antud"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 8"
+msgstr "Käsku pole antud"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 9"
+msgstr "Käsku pole antud"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 10"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 11"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 12"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr ""
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "Käsk tagastas '%1' : %2"
+
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr ""
+
+msgid "Key Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 0"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 1"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 2"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 3"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 4"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 5"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 6"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 7"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 8"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 9"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 10"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 11"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 12"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "Tundmatu käsk "
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+
+msgid "Button Bindings"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+
+msgid "Edge Bindings"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+
+msgid "General Options"
+msgstr ""
+
+msgid "General compiz options"
+msgstr ""
+
+#, fuzzy
+msgid "Active Plugins"
+msgstr "Aktiivne vajutatud:"
+
+msgid "List of currently active plugins"
+msgstr ""
+
+msgid "Audible Bell"
+msgstr ""
+
+#, fuzzy
+msgid "Audible system beep"
+msgstr "Failisüsteem"
+
+msgid "Ignore Hints When Maximized"
+msgstr ""
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+
+msgid "Hide Skip Taskbar Windows"
+msgstr ""
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+
+msgid "Edge Trigger Delay"
+msgstr ""
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr ""
+
+msgid "Interval between ping messages"
+msgstr ""
+
+msgid "Display Settings"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Filter"
+msgstr "Määra filter"
+
+#, fuzzy
+msgid "Texture filtering"
+msgstr "Määra filter"
+
+msgid "Fast"
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Best"
+msgstr ""
+
+msgid "Focus &amp; Raise Behavior"
+msgstr ""
+
+msgid "Click To Focus"
+msgstr ""
+
+msgid "Click on window moves input focus to it"
+msgstr ""
+
+msgid "Raise On Click"
+msgstr ""
+
+msgid "Raise windows when clicked"
+msgstr ""
+
+msgid "Auto-Raise"
+msgstr ""
+
+msgid "Raise selected windows after interval"
+msgstr ""
+
+msgid "Auto-Raise Delay"
+msgstr ""
+
+msgid "Interval before raising selected windows"
+msgstr ""
+
+msgid "Key bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Close active window"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+#, fuzzy
+msgid "Raise Window"
+msgstr "Käivita Windows"
+
+msgid "Raise window above other windows"
+msgstr ""
+
+#, fuzzy
+msgid "Lower Window"
+msgstr "Käivita Windows"
+
+msgid "Lower window beneath other windows"
+msgstr ""
+
+#, fuzzy
+msgid "Unmaximize active window"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+#, fuzzy
+msgid "Minimize active window"
+msgstr "Mitteaktiivne vajutatud:"
+
+#, fuzzy
+msgid "Maximize active window"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Maximize Window Horizontally"
+msgstr ""
+
+msgid "Maximize active window horizontally"
+msgstr ""
+
+msgid "Maximize Window Vertically"
+msgstr ""
+
+msgid "Maximize active window vertically"
+msgstr ""
+
+msgid "Window menu button binding"
+msgstr ""
+
+msgid "Window menu key binding"
+msgstr ""
+
+#, fuzzy
+msgid "Show Desktop"
+msgstr "Töölauad"
+
+msgid "Hide all windows and focus desktop"
+msgstr ""
+
+msgid "Toggle Window Maximized"
+msgstr ""
+
+msgid "Toggle active window maximized"
+msgstr ""
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr ""
+
+msgid "Toggle active window maximized horizontally"
+msgstr ""
+
+msgid "Toggle Window Maximized Vertically"
+msgstr ""
+
+msgid "Toggle active window maximized vertically"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle Window Shaded"
+msgstr "Sorimisjärjestuse muutmine"
+
+msgid "Toggle active window shaded"
+msgstr ""
+
+#, fuzzy
+msgid "Slow Animations"
+msgstr "Animatsioon"
+
+msgid "Toggle use of slow animations"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Size"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Horizontal Virtual Size"
+msgstr "Horisontaalne"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr ""
+
+msgid "Vertical Virtual Size"
+msgstr ""
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr ""
+
+msgid "Lighting"
+msgstr ""
+
+msgid "Use diffuse light when screen is transformed"
+msgstr ""
+
+msgid "Detect Refresh Rate"
+msgstr ""
+
+#, fuzzy
+msgid "Automatic detection of refresh rate"
+msgstr "Automaatne tuvastamine"
+
+#, fuzzy
+msgid "Refresh Rate"
+msgstr "Värskenda"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr ""
+
+msgid "Detect Outputs"
+msgstr ""
+
+#, fuzzy
+msgid "Automatic detection of output devices"
+msgstr "Automaatne tuvastamine"
+
+msgid "Overlapping Output Handling"
+msgstr ""
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr ""
+
+msgid "Smart mode"
+msgstr ""
+
+msgid "Prefer larger output"
+msgstr ""
+
+msgid "Prefer smaller output"
+msgstr ""
+
+msgid "Outputs"
+msgstr ""
+
+msgid "List of strings describing output devices"
+msgstr ""
+
+msgid "Sync To VBlank"
+msgstr ""
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Prevention Level"
+msgstr "X Window süsteem"
+
+#, fuzzy
+msgid "Level of focus stealing prevention"
+msgstr "ZEN-partitsiooni lubamine"
+
+msgid "Off"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Normal"
+msgstr "Normaalne"
+
+msgid "High"
+msgstr ""
+
+msgid "Very High"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Prevention Windows"
+msgstr "X Window süsteem"
+
+#, fuzzy
+msgid "Focus prevention windows"
+msgstr "X Window süsteem"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr ""
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+
+#, fuzzy
+msgid "Default Icon"
+msgstr "Vaikeruuting"
+
+msgid "Default window icon image"
+msgstr ""
+
+msgid "Force independent output painting."
+msgstr ""
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+
+#, fuzzy
+msgid "Texture Compression"
+msgstr "Määra filter"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Cube"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Place windows on cube"
+msgstr "Käivita Windows"
+
+msgid "Unfold"
+msgstr ""
+
+msgid "Unfold cube"
+msgstr ""
+
+#, fuzzy
+msgid "Next Slide"
+msgstr "tekstirežiim"
+
+#, fuzzy
+msgid "Advance to next slide"
+msgstr "Täiustatud jõudluse kontroll"
+
+#, fuzzy
+msgid "Prev Slide"
+msgstr "Eelmine"
+
+#, fuzzy
+msgid "Go back to previous slide"
+msgstr "Eelmine"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+
+msgid "Multi Output Mode"
+msgstr ""
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+
+#, fuzzy
+msgid "Automatic"
+msgstr "Lähtestamine"
+
+msgid "Multiple cubes"
+msgstr ""
+
+msgid "One big cube"
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Inside Cube"
+msgstr ""
+
+msgid "Inside cube"
+msgstr ""
+
+#, fuzzy
+msgid "Acceleration"
+msgstr "3D kiirenduse aktiveerimine"
+
+#, fuzzy
+msgid "Fold Acceleration"
+msgstr "3D kiirenduse aktiveerimine"
+
+#, fuzzy
+msgid "Speed"
+msgstr "Kiirus:"
+
+#, fuzzy
+msgid "Fold Speed"
+msgstr "Kiirus:"
+
+#, fuzzy
+msgid "Timestep"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Fold Timestep"
+msgstr "Töölauad"
+
+msgid "Appearance"
+msgstr ""
+
+#, fuzzy
+msgid "Cube Color"
+msgstr "Värvid"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr ""
+
+#, fuzzy
+msgid "Cube Caps"
+msgstr "Värvid"
+
+#, fuzzy
+msgid "Scale image"
+msgstr "Vali &pilt"
+
+msgid "Scale images to cover top face of cube"
+msgstr ""
+
+msgid "Image files"
+msgstr ""
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+
+msgid "Adjust Image"
+msgstr ""
+
+msgid "Adjust top face image to rotation"
+msgstr ""
+
+#, fuzzy
+msgid "Skydome"
+msgstr "Vali &pilt"
+
+msgid "Render skydome"
+msgstr ""
+
+#, fuzzy
+msgid "Skydome Image"
+msgstr "Vali &pilt"
+
+msgid "Image to use as texture for the skydome"
+msgstr ""
+
+msgid "Animate Skydome"
+msgstr ""
+
+msgid "Animate skydome when rotating cube"
+msgstr ""
+
+msgid "Skydome Gradient Start Color"
+msgstr ""
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+
+msgid "Skydome Gradient End Color"
+msgstr ""
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+
+msgid "Transparent Cube"
+msgstr ""
+
+msgid "Opacity During Rotation"
+msgstr ""
+
+msgid "Opacity of desktop window during rotation."
+msgstr ""
+
+msgid "Opacity When Not Rotating"
+msgstr ""
+
+msgid "Opacity of desktop window when not rotating."
+msgstr ""
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr ""
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr ""
+
+msgid "D-Bus"
+msgstr ""
+
+msgid "D-Bus Control Backend"
+msgstr ""
+
+#, fuzzy
+msgid "Window Decoration"
+msgstr "Venemaa Föderatsioon"
+
+#, fuzzy
+msgid "Window decorations"
+msgstr "Venemaa Föderatsioon"
+
+#, fuzzy
+msgid "Shadow Radius"
+msgstr "MShadow"
+
+#, fuzzy
+msgid "Drop shadow radius"
+msgstr "MShadow"
+
+#, fuzzy
+msgid "Shadow Opacity"
+msgstr "MShadow"
+
+#, fuzzy
+msgid "Drop shadow opacity"
+msgstr "MShadow"
+
+#, fuzzy
+msgid "Shadow Color"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Drop shadow color"
+msgstr "MShadow"
+
+msgid "Shadow Offset X"
+msgstr ""
+
+#, fuzzy
+msgid "Drop shadow X offset"
+msgstr "MShadow"
+
+msgid "Shadow Offset Y"
+msgstr ""
+
+#, fuzzy
+msgid "Drop shadow Y offset"
+msgstr "MShadow"
+
+#, fuzzy
+msgid "Command"
+msgstr "Käsku pole antud"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr ""
+
+#, fuzzy
+msgid "Decoration windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should be decorated"
+msgstr ""
+
+#, fuzzy
+msgid "Shadow windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should have a shadow"
+msgstr ""
+
+#, fuzzy
+msgid "Fading Windows"
+msgstr "Käivita Windows"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+
+#, fuzzy
+msgid "Fade Mode"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Window fade mode"
+msgstr "Windows NT"
+
+#, fuzzy
+msgid "Constant speed"
+msgstr "Registreerimiskood"
+
+msgid "Constant time"
+msgstr ""
+
+#, fuzzy
+msgid "Fade Speed"
+msgstr "Kiirus:"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr ""
+
+#, fuzzy
+msgid "Fade Time"
+msgstr "Töölauad"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr ""
+
+#, fuzzy
+msgid "Fade windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should be fading"
+msgstr ""
+
+msgid "Visual Bell"
+msgstr ""
+
+#, fuzzy
+msgid "Fade effect on system beep"
+msgstr "Failisüsteem"
+
+#, fuzzy
+msgid "Fullscreen Visual Bell"
+msgstr "Ekraan"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr ""
+
+msgid "Fade On Minimize/Open/Close"
+msgstr ""
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr ""
+
+#, fuzzy
+msgid "Dim Unresponsive Windows"
+msgstr "Käivita Windows"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+
+msgid "Unresponsive Window Brightness"
+msgstr ""
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Unresponsive Window Saturation"
+msgstr ""
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr ""
+
+msgid "Userspace File System"
+msgstr ""
+
+msgid "Userspace file system"
+msgstr ""
+
+#, fuzzy
+msgid "Mount Point"
+msgstr "Lisa sündmus"
+
+#, fuzzy
+msgid "Mount point"
+msgstr "Lisa sündmus"
+
+msgid "GLib"
+msgstr ""
+
+msgid "GLib main loop support"
+msgstr ""
+
+msgid "MATE Compatibility"
+msgstr ""
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+
+#, fuzzy
+msgid "Show Main Menu"
+msgstr "Peamenüü"
+
+#, fuzzy
+msgid "Show the main menu"
+msgstr "Teenuse URI näitamine"
+
+#, fuzzy
+msgid "Run Dialog"
+msgstr "Häälestusdialoog"
+
+#, fuzzy
+msgid "Show Run Application dialog"
+msgstr "Käivita rakendus"
+
+#, fuzzy
+msgid "Screenshot command line"
+msgstr "Käsku pole antud"
+
+msgid "Take a screenshot"
+msgstr ""
+
+msgid "Window screenshot command line"
+msgstr ""
+
+msgid "Take a screenshot of a window"
+msgstr ""
+
+#, fuzzy
+msgid "Run terminal command"
+msgstr "Käsku pole antud"
+
+#, fuzzy
+msgid "Terminal command line"
+msgstr "Käsku pole antud"
+
+#, fuzzy
+msgid "Open a terminal"
+msgstr "Käivitatakse terminalis"
+
+msgid "Ini"
+msgstr ""
+
+msgid "Ini Flat File Backend"
+msgstr ""
+
+msgid "Inotify"
+msgstr ""
+
+msgid "File change notification plugin"
+msgstr ""
+
+#, fuzzy
+msgid "Minimize Effect"
+msgstr "Mitteaktiivne vajutatud:"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr ""
+
+#, fuzzy
+msgid "Minimize speed"
+msgstr "Mitteaktiivne vajutatud:"
+
+#, fuzzy
+msgid "Minimize timestep"
+msgstr "Mitteaktiivne vajutatud:"
+
+#, fuzzy
+msgid "Minimize Windows"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Windows that should be transformed when minimized"
+msgstr ""
+
+msgid "Shade Resistance"
+msgstr ""
+
+msgid "Shade resistance"
+msgstr ""
+
+#, fuzzy
+msgid "Move Window"
+msgstr "X Window süsteem"
+
+#, fuzzy
+msgid "Move window"
+msgstr "X Window süsteem"
+
+#, fuzzy
+msgid "Initiate Window Move"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Start moving window"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Opacity"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Opacity level of moving windows"
+msgstr "Käivita Windows"
+
+msgid "Constrain Y"
+msgstr ""
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr ""
+
+#, fuzzy
+msgid "Snapoff maximized windows"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+
+#, fuzzy
+msgid "Lazy Positioning"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+
+msgid "Opacity, Brightness and Saturation"
+msgstr ""
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr ""
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Opacity Increase"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Opacity Decrease"
+msgstr "Käivita Windows"
+
+msgid "Brightness"
+msgstr "Heledus"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Heledus"
+
+#, fuzzy
+msgid "Brightness Increase"
+msgstr "Heledus"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Heledus"
+
+#, fuzzy
+msgid "Brightness Decrease"
+msgstr "Heledus"
+
+#, fuzzy
+msgid "Saturation"
+msgstr "Häälestamine"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Häälestamine"
+
+#, fuzzy
+msgid "Saturation Increase"
+msgstr "Häälestamine"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Häälestamine"
+
+#, fuzzy
+msgid "Saturation Decrease"
+msgstr "Häälestamine"
+
+msgid "Step"
+msgstr ""
+
+#, fuzzy
+msgid "Opacity Step"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Window specific settings"
+msgstr "Venemaa Föderatsioon"
+
+#, fuzzy
+msgid "Windows"
+msgstr "X Window süsteem"
+
+msgid "Windows that should have a different opacity by default"
+msgstr ""
+
+#, fuzzy
+msgid "Window values"
+msgstr "Windows NT"
+
+#, fuzzy
+msgid "Opacity values for windows"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Brightness Step"
+msgstr "Heledus"
+
+msgid "Windows that should have a different brightness by default"
+msgstr ""
+
+msgid "Brightness values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Saturation Step"
+msgstr "Häälestamine"
+
+msgid "Windows that should have a different saturation by default"
+msgstr ""
+
+msgid "Saturation values for windows"
+msgstr ""
+
+#, fuzzy
+msgid "Place Windows"
+msgstr "Käivita Windows"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr ""
+
+msgid "Workarounds"
+msgstr ""
+
+#, fuzzy
+msgid "Window placement workarounds"
+msgstr "Venemaa Föderatsioon"
+
+msgid "Placement Mode"
+msgstr ""
+
+msgid "Algorithm to use for window placement"
+msgstr ""
+
+msgid "Cascade"
+msgstr ""
+
+msgid "Centered"
+msgstr ""
+
+msgid "Smart"
+msgstr ""
+
+#, fuzzy
+msgid "Maximize"
+msgstr "Mitteaktiivne vajutatud:"
+
+msgid "Random"
+msgstr ""
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Lisa sündmus"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+
+msgid "Use active output device"
+msgstr ""
+
+msgid "Use output device with pointer"
+msgstr ""
+
+msgid "Use output device of focused window"
+msgstr ""
+
+msgid "Place across all outputs"
+msgstr ""
+
+#, fuzzy
+msgid "Force Placement Windows"
+msgstr "X Window süsteem"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Window Placement"
+msgstr "Aken"
+
+#, fuzzy
+msgid "Windows with fixed positions"
+msgstr "Venemaa Föderatsioon"
+
+#, fuzzy
+msgid "Positioned windows"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Windows that should be positioned by default"
+msgstr ""
+
+#, fuzzy
+msgid "X Positions"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "X position values"
+msgstr ""
+
+#, fuzzy
+msgid "Y Positions"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Y position values"
+msgstr ""
+
+msgid "Keep In Workarea"
+msgstr ""
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Venemaa Föderatsioon"
+
+msgid "Windows that should have a certain positioning mode"
+msgstr ""
+
+#, fuzzy
+msgid "Mode"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Windows with fixed viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Viewport positioned windows"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+
+#, fuzzy
+msgid "X Viewport Positions"
+msgstr "Horisontaalne"
+
+#, fuzzy
+msgid "Horizontal viewport positions"
+msgstr "Horisontaalne"
+
+#, fuzzy
+msgid "Y Viewport Positions"
+msgstr "Horisontaalne"
+
+#, fuzzy
+msgid "Vertical viewport positions"
+msgstr "Horisontaalne"
+
+msgid "Png"
+msgstr ""
+
+msgid "Png image loader"
+msgstr ""
+
+msgid "Regex Matching"
+msgstr ""
+
+msgid "Regex window matching"
+msgstr ""
+
+#, fuzzy
+msgid "Resize Window"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Resize window"
+msgstr "Käivita Windows"
+
+msgid "Bindings"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Normal Window Resize"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Start resizing window normally"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Initiate Outline Window Resize"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Start resizing window with outline"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Initiate Rectangle Window Resize"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Start resizing window with rectangle"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Initiate Stretch Window Resize"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Start resizing window by stretching it"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Initiate Window Resize"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Start resizing window"
+msgstr "Käivita Windows"
+
+msgid "Default Resize Mode"
+msgstr ""
+
+msgid "Default mode used for window resizing"
+msgstr ""
+
+#, fuzzy
+msgid "Outline"
+msgstr "Värvid"
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Stretch"
+msgstr ""
+
+#, fuzzy
+msgid "Border Color"
+msgstr "Värvid"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+
+#, fuzzy
+msgid "Fill Color"
+msgstr "Värvid"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr ""
+
+#, fuzzy
+msgid "Normal Resize Windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that normal resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Resize Windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that outline resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Rectangle Resize Windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Stretch Resize Windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that stretch resize should be used for"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Cube"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate desktop cube"
+msgstr "Ekraani pööramine"
+
+msgid "Edge Flip Pointer"
+msgstr ""
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+
+msgid "Edge Flip Move"
+msgstr ""
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+
+msgid "Edge Flip DnD"
+msgstr ""
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+
+msgid "Flip Time"
+msgstr ""
+
+msgid "Timeout before flipping viewport"
+msgstr ""
+
+msgid "Raise on rotate"
+msgstr ""
+
+msgid "Raise window when rotating"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate cube"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Start Rotation"
+msgstr "Taaskäivituse kinnitus"
+
+#, fuzzy
+msgid "Rotate Left"
+msgstr "Vasakule"
+
+#, fuzzy
+msgid "Rotate left"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate Right"
+msgstr "Paremale"
+
+#, fuzzy
+msgid "Rotate right"
+msgstr "Paremale"
+
+#, fuzzy
+msgid "Rotate Left with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate left and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate Right with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate right and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to viewport"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate with window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate Flip Left"
+msgstr "Vasakule"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate Flip Right"
+msgstr "Paremale"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr ""
+
+#, fuzzy
+msgid "Rotate to cube face"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 1"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 1"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 2"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 2"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 3"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 3"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 4"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 4"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 5"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 5"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 6"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 6"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 7"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 7"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 8"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 8"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 9"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 9"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 10"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 10"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 11"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 11"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate To Face 12"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to face 12"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Rotate to cube face with window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 1 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 1 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 2 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 2 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 3 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 3 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 4 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 4 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 5 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 5 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 6 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 6 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 7 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 7 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 8 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 8 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 9 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 9 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 10 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 10 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 11 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 11 and bring active window along"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate To Face 12 with Window"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Rotate to face 12 and bring active window along"
+msgstr "XF86RotateWindows"
+
+msgid "Pointer Invert Y"
+msgstr ""
+
+msgid "Invert Y axis for pointer movement"
+msgstr ""
+
+msgid "Pointer Invert X"
+msgstr ""
+
+msgid "Invert X axis for pointer movement"
+msgstr ""
+
+msgid "Pointer Sensitivity"
+msgstr ""
+
+msgid "Sensitivity of pointer movement"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation Acceleration"
+msgstr "3D kiirenduse aktiveerimine"
+
+msgid "Snap To Top Face"
+msgstr ""
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr ""
+
+msgid "Snap To Bottom Face"
+msgstr ""
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr ""
+
+#, fuzzy
+msgid "Rotation Speed"
+msgstr "Registreerimiskood"
+
+#, fuzzy
+msgid "Rotation Timestep"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Zoom"
+msgstr "XF86ZoomIn"
+
+#, fuzzy
+msgid "Rotation Zoom"
+msgstr "Registreerimiskood"
+
+#, fuzzy
+msgid "Scale"
+msgstr "Vali &pilt"
+
+#, fuzzy
+msgid "Scale windows"
+msgstr "Käivita Windows"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr ""
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker"
+msgstr "Käivita Windows"
+
+msgid "Layout and start transforming windows"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker For All Windows"
+msgstr "Käivita Windows"
+
+msgid "Layout and start transforming all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker For Window Group"
+msgstr "Käivita Windows"
+
+msgid "Layout and start transforming window group"
+msgstr ""
+
+#, fuzzy
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Käivita Windows"
+
+msgid "Layout and start transforming windows on current output"
+msgstr ""
+
+msgid "Click Desktop to Show Desktop"
+msgstr ""
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+
+#, fuzzy
+msgid "Spacing"
+msgstr "Tühik"
+
+#, fuzzy
+msgid "Space between windows"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Scale speed"
+msgstr "Kiirus:"
+
+#, fuzzy
+msgid "Scale timestep"
+msgstr "Vali &pilt"
+
+#, fuzzy
+msgid "Darken Background"
+msgstr "Värviline taust"
+
+msgid "Darken background when scaling windows"
+msgstr ""
+
+msgid "Amount of opacity in percent"
+msgstr ""
+
+msgid "Overlay Icon"
+msgstr ""
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr ""
+
+msgid "None"
+msgstr "Puudub"
+
+msgid "Emblem"
+msgstr ""
+
+msgid "Big"
+msgstr "Suur"
+
+#, fuzzy
+msgid "Scale Windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr ""
+
+msgid "Hover Time"
+msgstr ""
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+
+msgid "On current output device"
+msgstr ""
+
+msgid "On all output devices"
+msgstr ""
+
+#, fuzzy
+msgid "Screenshot"
+msgstr "Ekraan"
+
+#, fuzzy
+msgid "Screenshot plugin"
+msgstr "Käsku pole antud"
+
+#, fuzzy
+msgid "Initiate rectangle screenshot"
+msgstr "Videorežiimi valimine"
+
+#, fuzzy
+msgid "Directory"
+msgstr "Kataloog\n"
+
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr ""
+
+#, fuzzy
+msgid "Launch Application"
+msgstr "Käivita rakendus"
+
+#, fuzzy
+msgid "Automatically open screenshot in this application"
+msgstr "Aplett käivitatakse sisselogimisel automaatselt"
+
+msgid "Svg"
+msgstr ""
+
+msgid "Svg image loader"
+msgstr ""
+
+#, fuzzy
+msgid "Application Switcher"
+msgstr "Rakenduste sirvija"
+
+#, fuzzy
+msgid "Next window"
+msgstr "tekstirežiim"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window"
+msgstr "Käivita Windows"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+
+#, fuzzy
+msgid "Next window (All windows)"
+msgstr "tekstirežiim"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (All windows)"
+msgstr "Käivita Windows"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+
+#, fuzzy
+msgid "Next window (No popup)"
+msgstr "tekstirežiim"
+
+msgid "Select next window without showing the popup window."
+msgstr ""
+
+#, fuzzy
+msgid "Prev window (No popup)"
+msgstr "Käivita Windows"
+
+msgid "Select previous window without showing the popup window."
+msgstr ""
+
+#, fuzzy
+msgid "Next Panel"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Select next panel type window."
+msgstr "Kas kasutada animeeritud aknaid?"
+
+#, fuzzy
+msgid "Prev Panel"
+msgstr "Eelmine"
+
+#, fuzzy
+msgid "Select previous panel type window."
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Switcher speed"
+msgstr "Kiirus:"
+
+#, fuzzy
+msgid "Switcher timestep"
+msgstr "Vali &pilt"
+
+#, fuzzy
+msgid "Switcher windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should be shown in switcher"
+msgstr ""
+
+msgid "Amount of saturation in percent"
+msgstr ""
+
+msgid "Amount of brightness in percent"
+msgstr ""
+
+#, fuzzy
+msgid "Bring To Front"
+msgstr "Toiming"
+
+msgid "Bring selected window to front"
+msgstr ""
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+
+msgid "Icon"
+msgstr "Ikoon"
+
+msgid "Show icon next to thumbnail"
+msgstr ""
+
+#, fuzzy
+msgid "Minimized"
+msgstr "Mitteaktiivne vajutatud:"
+
+#, fuzzy
+msgid "Show minimized windows"
+msgstr "Kas kasutada animeeritud aknaid?"
+
+#, fuzzy
+msgid "Auto Rotate"
+msgstr "Lähtestamine"
+
+msgid "Rotate to the selected window while switching"
+msgstr ""
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Töölauad"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+msgid "Show switcher window while switching viewports"
+msgstr ""
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Eelmine"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "MShadow"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Värvid"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Käivita Windows"
+
+msgid "Background Gradient"
+msgstr ""
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Värvid"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Värvid"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Käivita Windows"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Horisontaalne"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Käivita Windows"
+
+msgid "Windows that should not slide during the slide animation"
+msgstr ""
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "X Window süsteem"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Vasakule"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Paremale"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "X Window süsteem"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "XF86RotateWindows"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "XF86RotateWindows"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "XF86RotateWindows"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "X Window süsteem"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "X Window süsteem"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+msgid "Edge flipping"
+msgstr ""
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Vasakule"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Vasakule"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Paremale"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Paremale"
+
+msgid "Flip Up"
+msgstr ""
+
+msgid "Flip up"
+msgstr ""
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "PgDn"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Käivita Windows"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Kiirus:"
+
+msgid "Edge Flipping"
+msgstr ""
+
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+
+#, fuzzy
+msgid "Water Effect"
+msgstr "Töölaua efektid"
+
+msgid "Adds water effects to different desktop actions"
+msgstr ""
+
+msgid "Enable pointer water effects"
+msgstr ""
+
+#, fuzzy
+msgid "Toggle rain"
+msgstr "Sorimisjärjestuse muutmine"
+
+#, fuzzy
+msgid "Toggle rain effect"
+msgstr "Sorimisjärjestuse muutmine"
+
+#, fuzzy
+msgid "Toggle wiper"
+msgstr "Sorimisjärjestuse muutmine"
+
+#, fuzzy
+msgid "Toggle wiper effect"
+msgstr "Sorimisjärjestuse muutmine"
+
+#, fuzzy
+msgid "Offset Scale"
+msgstr "Kaugus tiitlist:"
+
+#, fuzzy
+msgid "Water offset scale"
+msgstr "Kaugus tiitlist:"
+
+msgid "Rain Delay"
+msgstr ""
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr ""
+
+#, fuzzy
+msgid "Title wave"
+msgstr "Tiitel: %1"
+
+#, fuzzy
+msgid "Wave effect from window title"
+msgstr "kaugus tiitlist"
+
+msgid "Point"
+msgstr ""
+
+#, fuzzy
+msgid "Add point"
+msgstr "Lisa sündmus"
+
+msgid "Line"
+msgstr ""
+
+#, fuzzy
+msgid "Add line"
+msgstr "Lis&a link"
+
+#, fuzzy
+msgid "Wobbly Windows"
+msgstr "Käivita Windows"
+
+msgid "Use spring model for wobbly window effect"
+msgstr ""
+
+#, fuzzy
+msgid "Snap windows"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Toggle window snapping"
+msgstr "Sorimisjärjestuse muutmine"
+
+msgid "Snap Inverted"
+msgstr ""
+
+msgid "Inverted window snapping"
+msgstr ""
+
+# 'driver' as in '(hardware) driver update'
+#, fuzzy
+msgid "Shiver"
+msgstr "Draiver"
+
+#, fuzzy
+msgid "Make window shiver"
+msgstr "Käivita Windows"
+
+#, fuzzy
+msgid "Friction"
+msgstr "Toiming"
+
+#, fuzzy
+msgid "Spring Friction"
+msgstr "Toiming"
+
+#, fuzzy
+msgid "Spring K"
+msgstr "Tühik"
+
+#, fuzzy
+msgid "Spring Konstant"
+msgstr "Toiming"
+
+#, fuzzy
+msgid "Grid Resolution"
+msgstr "Resolutsioon"
+
+#, fuzzy
+msgid "Vertex Grid Resolution"
+msgstr "Resolutsioon"
+
+msgid "Minimum Grid Size"
+msgstr ""
+
+msgid "Minimum Vertex Grid Size"
+msgstr ""
+
+#, fuzzy
+msgid "Map Effect"
+msgstr "Töölaua efektid"
+
+#, fuzzy
+msgid "Map Window Effect"
+msgstr "Töölaua efektid"
+
+#, fuzzy
+msgid "Focus Effect"
+msgstr "X Window süsteem"
+
+#, fuzzy
+msgid "Focus Window Effect"
+msgstr "X Window süsteem"
+
+#, fuzzy
+msgid "Map Windows"
+msgstr "X Window süsteem"
+
+msgid "Windows that should wobble when mapped"
+msgstr ""
+
+#, fuzzy
+msgid "Focus Windows"
+msgstr "X Window süsteem"
+
+msgid "Windows that should wobble when focused"
+msgstr ""
+
+#, fuzzy
+msgid "Grab Windows"
+msgstr "X Window süsteem"
+
+msgid "Windows that should wobble when grabbed"
+msgstr ""
+
+#, fuzzy
+msgid "Move Windows"
+msgstr "X Window süsteem"
+
+msgid "Windows that should wobble when moved"
+msgstr ""
+
+#, fuzzy
+msgid "Maximize Effect"
+msgstr "Töölaua efektid"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr ""
+
+#, fuzzy
+msgid "Zoom Desktop"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Zoom and pan desktop cube"
+msgstr "Ekraani pööramine"
+
+#, fuzzy
+msgid "Zoom In"
+msgstr "XF86ZoomIn"
+
+#, fuzzy
+msgid "Zoom Out"
+msgstr "XF86ZoomOut"
+
+#, fuzzy
+msgid "Zoom Pan"
+msgstr "XF86ZoomIn"
+
+#, fuzzy
+msgid "Zoom pan"
+msgstr "XF86ZoomIn"
+
+#, fuzzy
+msgid "Zoom Speed"
+msgstr "Kiirus:"
+
+#, fuzzy
+msgid "Zoom Timestep"
+msgstr "Töölauad"
+
+#, fuzzy
+msgid "Zoom factor"
+msgstr "XF86ZoomOut"
+
+#, fuzzy
+msgid "Filter Linear"
+msgstr "Filtreeri seda kausta"
+
+msgid "Use linear filter when zoomed in"
+msgstr ""
+
+msgid "Compiz"
+msgstr ""
+
+msgid "Compiz Start"
+msgstr ""
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Taaskäivituse kinnitus"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Number of Desktops"
+#~ msgstr "Kaugtöölaud"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Kaugtöölaud"
+
+#, fuzzy
+#~ msgid "Blur type"
+#~ msgstr "Kiirus:"
+
+#, fuzzy
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Kas kasutada animeeritud aknaid?"
+
+#, fuzzy
+#~ msgid "Screenshot commands"
+#~ msgstr "Käsku pole antud"
+
+#, fuzzy
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Käsku pole antud"
+
+#, fuzzy
+#~ msgid "Place windows on a plane"
+#~ msgstr "Käivita Windows"
+
+#, fuzzy
+#~ msgid "Plane Left"
+#~ msgstr "Vasakule"
+
+#, fuzzy
+#~ msgid "Plane Right"
+#~ msgstr "Paremale"
+
+#, fuzzy
+#~ msgid "Plane To Face 1"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 10"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 11"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 12"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 2"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 3"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 4"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 5"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 6"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 7"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 8"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face 9"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane Up"
+#~ msgstr "PgUp"
+
+#, fuzzy
+#~ msgid "Plane left"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane right"
+#~ msgstr "Paremale"
+
+#, fuzzy
+#~ msgid "Plane to face 1"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 10"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 11"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 12"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 2"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 3"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 4"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 5"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 6"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 7"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 8"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face 9"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane up"
+#~ msgstr "PgUp"
+
+#, fuzzy
+#~ msgid "Open window menu"
+#~ msgstr "Ava menüü"
+
+#, fuzzy
+#~ msgid "Toolbar"
+#~ msgstr "Tööriistad"
+
+#~ msgid "Menu"
+#~ msgstr "Menüü"
+
+#, fuzzy
+#~ msgid "Utility"
+#~ msgstr "KDE utiliidid"
+
+#, fuzzy
+#~ msgid "Splash"
+#~ msgstr "splash"
+
+#, fuzzy
+#~ msgid "Dialog"
+#~ msgstr "Häälestusdialoog"
+
+#, fuzzy
+#~ msgid "DropdownMenu"
+#~ msgstr "Aken"
+
+#, fuzzy
+#~ msgid "PopupMenu"
+#~ msgstr "Menüü"
+
+#, fuzzy
+#~ msgid "Tooltip"
+#~ msgstr "Tööriistad"
+
+#, fuzzy
+#~ msgid "Notification"
+#~ msgstr "Märguanded"
+
+#, fuzzy
+#~ msgid "Dnd"
+#~ msgstr "End"
+
+#, fuzzy
+#~ msgid "Fullscreen"
+#~ msgstr "Ekraan"
+
+#~ msgid "Unknown"
+#~ msgstr "Tundmatu"
+
+#, fuzzy
+#~ msgid "Blur saturation (0-100)"
+#~ msgstr "Häälestamine"
+
+#, fuzzy
+#~ msgid "Drop shadow radius (0.0-48.0)"
+#~ msgstr "MShadow"
+
+#, fuzzy
+#~ msgid "Focus Window Effect (None, Shiver)"
+#~ msgstr "X Window süsteem"
+
+#, fuzzy
+#~ msgid "Focus prevention windows (match)"
+#~ msgstr "Käivita Windows"
+
+#, fuzzy
+#~ msgid "Fold Acceleration (1.0-20.0)"
+#~ msgstr "3D kiirenduse aktiveerimine"
+
+#, fuzzy
+#~ msgid "Fold Speed (0.0-50.0)"
+#~ msgstr "Kiirus:"
+
+#, fuzzy
+#~ msgid "Gaussian radius (1-15)"
+#~ msgstr "Venemaa Föderatsioon"
+
+#, fuzzy
+#~ msgid "Gaussian strength (0.00-1.00)"
+#~ msgstr "Vene"
+
+#, fuzzy
+#~ msgid "Map Window Effect (None, Shiver)"
+#~ msgstr "Töölaua efektid"
+
+#, fuzzy
+#~ msgid "Minimize speed (0.0-50.0)"
+#~ msgstr "Mitteaktiivne vajutatud:"
+
+#, fuzzy
+#~ msgid "Minimize timestep (0.0-50.0)"
+#~ msgstr "Mitteaktiivne vajutatud:"
+
+#, fuzzy
+#~ msgid "Number of virtual desktops (1-36)"
+#~ msgstr "Kaugtöölaud"
+
+#, fuzzy
+#~ msgid "Opacity level of moving windows (1-100)"
+#~ msgstr "Käivita Windows"
+
+#, fuzzy
+#~ msgid "Opacity level of resizing windows (1-100)"
+#~ msgstr "Käivita Windows"
+
+#, fuzzy
+#~ msgid "Rotation Acceleration (1.0-20.0)"
+#~ msgstr "3D kiirenduse aktiveerimine"
+
+#, fuzzy
+#~ msgid "Rotation Speed (0.0-50.0)"
+#~ msgstr "Registreerimiskood"
+
+#, fuzzy
+#~ msgid "Scale speed (0.0-50.0)"
+#~ msgstr "Kiirus:"
+
+#, fuzzy
+#~ msgid "Scale timestep (0.0-50.0)"
+#~ msgstr "Vali &pilt"
+
+#, fuzzy
+#~ msgid "Space between windows (0-250)"
+#~ msgstr "Käivita Windows"
+
+#, fuzzy
+#~ msgid "Spring Friction (0.0-10.0)"
+#~ msgstr "Toiming"
+
+#, fuzzy
+#~ msgid "Texture filtering (Fast, Good, Best)"
+#~ msgstr "Määra filter"
+
+#, fuzzy
+#~ msgid "Vertex Grid Resolution (1-64)"
+#~ msgstr "Resolutsioon"
+
+#, fuzzy
+#~ msgid "Water offset scale (0.0-10.0)"
+#~ msgstr "Kaugus tiitlist:"
+
+#, fuzzy
+#~ msgid "Window blur speed (0.0-10.0)"
+#~ msgstr "Windows NT"
+
+#, fuzzy
+#~ msgid "Window fade speed (0.0-25.0)"
+#~ msgstr "Windows NT"
+
+#, fuzzy
+#~ msgid "Zoom Speed (0.0-50.0)"
+#~ msgstr "Kiirus:"
+
+#, fuzzy
+#~ msgid "Zoom Timestep (0.0-50.0)"
+#~ msgstr "Töölauad"
+
+#, fuzzy
+#~ msgid "Zoom factor (1.01-3.00)"
+#~ msgstr "XF86ZoomOut"
+
+#, fuzzy
+#~ msgid "Plane To Face %d"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane to face %d"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Plane To Face %d with Window"
+#~ msgstr "XF86RotateWindows"
+
+#, fuzzy
+#~ msgid "Rotate To Face %d"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Rotate to face %d"
+#~ msgstr "Ekraani pööramine"
+
+#, fuzzy
+#~ msgid "Rotate To Face %d with Window"
+#~ msgstr "XF86RotateWindows"
+
+#, fuzzy
+#~ msgid "Command line %d"
+#~ msgstr "Käsku pole antud"
+
+#, fuzzy
+#~ msgid "Run command %d"
+#~ msgstr "Tundmatu käsk "
+
+#, fuzzy
+#~ msgid "Corners"
+#~ msgstr "Korni"
+
+#, fuzzy
+#~ msgid "Show switcher"
+#~ msgstr "&Näita muudatusi"
+
+#, fuzzy
+#~ msgid "Terminate"
+#~ msgstr "XF86Terminal"

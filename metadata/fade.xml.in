@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="fade">
+	<short>Fading Windows</short>
+	<long>Fade in windows when mapped and fade out windows when unmapped</long>
+	<category>Effects</category>
+	<deps>
+	    <requirement>
+		<plugin>regex</plugin>
+	    </requirement>
+	    <relation type="after">
+		<plugin>regex</plugin>
+	    </relation>
+	    <relation type="before">
+		<plugin>cube</plugin>
+		<plugin>scale</plugin>
+		<plugin>move</plugin>
+		<plugin>switcher</plugin>
+	    </relation>
+	</deps>
+	<screen>
+	    <option name="fade_mode" type="int">
+		<short>Fade Mode</short>
+		<long>Window fade mode</long>
+		<min>0</min>
+		<max>1</max>
+		<default>0</default>
+		<desc>
+		    <value>0</value>
+		    <name>Constant speed</name>
+		</desc>
+		<desc>
+		    <value>1</value>
+		    <name>Constant time</name>
+		</desc>
+	    </option>
+	    <option name="fade_speed" type="float">
+		<short>Fade Speed</short>
+		<long>Window fade speed in "Constant speed" mode</long>
+		<default>5.0</default>
+		<min>0.1</min>
+		<max>25.0</max>
+		<precision>0.1</precision>
+	    </option>
+	    <option name="fade_time" type="int">
+		<short>Fade Time</short>
+		<long>Window fade time (in ms) in "Constant time" mode</long>
+		<default>100</default>
+		<min>1</min>
+		<max>5000</max>
+	    </option>
+	    <option name="window_match" type="match">
+		<short>Fade windows</short>
+		<long>Windows that should be fading</long>
+		<default>any</default>
+	    </option>
+	    <option name="visual_bell" type="bool">
+		<short>Visual Bell</short>
+		<long>Fade effect on system beep</long>
+		<default>false</default>
+	    </option>
+	    <option name="fullscreen_visual_bell" type="bool">
+		<short>Fullscreen Visual Bell</short>
+		<long>Fullscreen fade effect on system beep</long>
+		<default>false</default>
+	    </option>
+	    <option name="minimize_open_close" type="bool">
+		<short>Fade On Minimize/Open/Close</short>
+		<long>Fade effect on minimize/open/close window events</long>
+		<default>true</default>
+	    </option>
+	    <option name="dim_unresponsive" type="bool">
+		<short>Dim Unresponsive Windows</short>
+		<long>Dim windows that are not responding to window manager requests</long>
+		<default>true</default>
+	    </option>
+	    <option name="unresponsive_brightness" type="int">
+		<short>Unresponsive Window Brightness</short>
+		<long>Brightness (in %) of unresponsive windows</long>
+		<min>0</min>
+		<max>100</max>
+		<default>65</default>
+	    </option>
+	    <option name="unresponsive_saturation" type="int">
+		<short>Unresponsive Window Saturation</short>
+		<long>Saturation (in %) of unresponsive windows</long>
+		<min>0</min>
+		<max>100</max>
+		<default>0</default>
+	    </option>
+	</screen>
+    </plugin>
+</compiz>

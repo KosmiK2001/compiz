@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<compiz>
+    <plugin name="resize">
+	<short>Resize Window</short>
+	<long>Resize window</long>
+	<category>Window Management</category>
+	<display>
+	    <group>
+		<short>Bindings</short>
+		<option name="initiate_normal_key" type="key">
+		    <short>Initiate Normal Window Resize</short>
+		    <long>Start resizing window normally</long>
+		    <default/>
+		</option>
+		<option name="initiate_outline_key" type="key">
+		    <short>Initiate Outline Window Resize</short>
+		    <long>Start resizing window with outline</long>
+		    <default/>
+		</option>
+		<option name="initiate_rectangle_key" type="key">
+		    <short>Initiate Rectangle Window Resize</short>
+		    <long>Start resizing window with rectangle</long>
+		    <default/>
+		</option>
+		<option name="initiate_stretch_key" type="key">
+		    <short>Initiate Stretch Window Resize</short>
+		    <long>Start resizing window by stretching it</long>
+		    <default/>
+		</option>
+		<option name="initiate_button" type="button">
+		    <short>Initiate Window Resize</short>
+		    <long>Start resizing window</long>
+		    <default>&lt;Alt&gt;Button2</default>
+		</option>
+		<option name="initiate_key" type="key">
+		    <short>Initiate Window Resize</short>
+		    <long>Start resizing window</long>
+		    <default>&lt;Alt&gt;F8</default>
+		</option>
+	    </group>
+	    <option name="mode" type="int">
+		<short>Default Resize Mode</short>
+		<long>Default mode used for window resizing</long>
+		<default>0</default>
+		<min>0</min>
+		<max>3</max>
+		<desc>
+		    <value>0</value>
+		    <name>Normal</name>
+		</desc>
+		<desc>
+		    <value>1</value>
+		    <name>Outline</name>
+		</desc>
+		<desc>
+		    <value>2</value>
+		    <name>Rectangle</name>
+		</desc>
+		<desc>
+		    <value>3</value>
+		    <name>Stretch</name>
+		</desc>
+	    </option>
+	    <option name="border_color" type="color">
+		<short>Border Color</short>
+		<long>Border color used for outline and rectangle resize modes</long>
+		<default>
+		    <red>0x2f2f</red>
+		    <green>0x2f2f</green>
+		    <blue>0x4f4f</blue>
+		    <alpha>0x9f9f</alpha>
+		</default>
+	    </option>
+	    <option name="fill_color" type="color">
+		<short>Fill Color</short>
+		<long>Fill color used for rectangle resize mode</long>
+		<default>
+		    <red>0x2f2f</red>
+		    <green>0x2f2f</green>
+		    <blue>0x4f4f</blue>
+		    <alpha>0x4f4f</alpha>
+		</default>
+	    </option>
+	    <option name="normal_match" type="match">
+		<short>Normal Resize Windows</short>
+		<long>Windows that normal resize should be used for</long>
+		<default/>
+	    </option>
+	    <option name="outline_match" type="match">
+		<short>Outline Resize Windows</short>
+		<long>Windows that outline resize should be used for</long>
+		<default/>
+	    </option>
+	    <option name="rectangle_match" type="match">
+		<short>Rectangle Resize Windows</short>
+		<long>Windows that rectangle resize should be used for</long>
+		<default/>
+	    </option>
+	    <option name="stretch_match" type="match">
+		<short>Stretch Resize Windows</short>
+		<long>Windows that stretch resize should be used for</long>
+		<default/>
+	    </option>
+	</display>
+    </plugin>
+</compiz>

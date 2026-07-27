@@ -1,0 +1,3210 @@
+# Hungarian translation for compiz
+# Copyright (C) 2006 The Free Software Foundation, Inc. 
+# This file is distributed under the same license as the compiz package.
+# Kalman Kemenczy <kkemenczy@novell.com>, 2006, 2007.
+# Gabor Kelemen <kelemeng@gnome.hu>, 2007.
+# KAMI911 <kami911@gmail.com>, 2007, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:42+0300\n"
+"PO-Revision-Date: 2009-03-25 09:09+0100\n"
+"Last-Translator: KAMI <kamihir@freemail.hu>\n"
+"Language-Team: Hungarian <hu@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Close Window"
+msgstr "Ablak bezárása"
+
+msgid "Unmaximize Window"
+msgstr "Ablak visszaállítása"
+
+msgid "Maximize Window"
+msgstr "Ablak maximalizálása"
+
+msgid "Minimize Window"
+msgstr "Ablak minimalizálása"
+
+msgid "Window Menu"
+msgstr "Ablak menü"
+
+msgid "Shade"
+msgstr "Felgördítés"
+
+msgid "Make Above"
+msgstr "Előrehozás"
+
+msgid "Stick"
+msgstr "Rögzítés"
+
+msgid "Unshade"
+msgstr "Legördítés"
+
+msgid "Unmake Above"
+msgstr "Hátraküldés"
+
+msgid "Unstick"
+msgstr "Rögzítés feloldása"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "A(z) „%s” ablak nem válaszol."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"A kilépés kényszerítésének hatására minden el nem mentett adat el fog veszni."
+
+msgid "_Cancel"
+msgstr "Mé_gse"
+
+msgid "_Force Quit"
+msgstr "_Kilépés kényszerítése"
+
+msgid "Annotate"
+msgstr "Feljegyzés"
+
+msgid "Annotate plugin"
+msgstr "Feljegyzés bővítmény"
+
+#, fuzzy
+msgid "Initiate Free Draw"
+msgstr "Törlés indítása"
+
+#, fuzzy
+msgid "Initiate freehand drawing"
+msgstr "Feljegyzésrajzolás indítása"
+
+#, fuzzy
+msgid "Initiate Line"
+msgstr "Indítás"
+
+#, fuzzy
+msgid "Initiate line drawing"
+msgstr "Feljegyzésrajzolás indítása"
+
+#, fuzzy
+msgid "Initiate Rectangle"
+msgstr "Törlés indítása"
+
+#, fuzzy
+msgid "Initiate rectangle drawing"
+msgstr "Feljegyzésrajzolás indítása"
+
+#, fuzzy
+msgid "Initiate Ellipse"
+msgstr "Törlés indítása"
+
+#, fuzzy
+msgid "Initiate ellipse drawing"
+msgstr "Feljegyzésrajzolás indítása"
+
+msgid "Draw"
+msgstr "Rajzolás"
+
+# 58721 AttribValues/label
+msgid "Draw using tool"
+msgstr "Rajzolás eszközzel"
+
+msgid "Initiate erase"
+msgstr "Törlés indítása"
+
+msgid "Initiate annotate erasing"
+msgstr "Feljegyzéstörlés indítása"
+
+msgid "Clear"
+msgstr "Törlés"
+
+#, fuzzy
+msgid "Toggle center shape"
+msgstr "Aktív ablak felgördítése"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+
+msgid "Annotate Fill Color"
+msgstr "Feljegyzés kitöltő színe"
+
+msgid "Fill color for annotations"
+msgstr "Feljegyzések kitöltő színe"
+
+msgid "Annotate Stroke Color"
+msgstr "Feljegyzés körvonalszíne"
+
+msgid "Stroke color for annotations"
+msgstr "Feljegyzések körvonalának színe"
+
+msgid "Stroke width"
+msgstr "Körvonal vastagsága"
+
+msgid "Stroke width for annotations"
+msgstr "Feljegyzések körvonal-vastagsága"
+
+msgid "Blur Windows"
+msgstr "Ablak elmosása"
+
+msgid "Blur windows"
+msgstr "Ablakok elmosása"
+
+msgid "Pulse"
+msgstr "Impulzus"
+
+msgid "Pulse effect"
+msgstr "Impulzus effektus"
+
+msgid "Blur Speed"
+msgstr "Elmosás sebessége"
+
+msgid "Window blur speed"
+msgstr "Ablak elmosásának sebessége"
+
+msgid "Focus blur windows"
+msgstr "Ablakok elmosása"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Fókuszelmosással elmosandó ablaktípusok"
+
+msgid "Focus Blur"
+msgstr "Fókuszelmosás"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Fókusszal nem rendelkező ablakok elmosása"
+
+msgid "Alpha blur windows"
+msgstr "Ablakok elmosása"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Alfaelmosással elmosandó ablaktípusok"
+
+msgid "Alpha Blur"
+msgstr "Alfa elmosás"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Elmosás az ablakok áttetsző részei mögött"
+
+msgid "Blur Filter"
+msgstr "Elmosásszűrő"
+
+msgid "Filter method used for blurring"
+msgstr "Az elmosáshoz használt szűrőmódszer"
+
+msgid "4xBilinear"
+msgstr "4x bilineáris"
+
+msgid "Gaussian"
+msgstr "Gauss"
+
+msgid "Mipmap"
+msgstr "MIP térkép"
+
+msgid "Gaussian Radius"
+msgstr "Gauss-sugár"
+
+# RU
+msgid "Gaussian radius"
+msgstr "Gauss-sugár"
+
+msgid "Gaussian Strength"
+msgstr "Gauss erőssége"
+
+msgid "Gaussian strength"
+msgstr "Gauss erőssége"
+
+msgid "Mipmap LOD"
+msgstr "MIP térkép részletesség"
+
+msgid "Mipmap level-of-detail"
+msgstr "MIP térkép részletesség szintje"
+
+msgid "Blur Saturation"
+msgstr "Elmosás telítettség"
+
+msgid "Blur saturation"
+msgstr "Elmosás telítettség"
+
+msgid "Blur Occlusion"
+msgstr "Elmosás levágás"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Elmosás kikapcsolása a képernyő más ablakok által kitakart részein."
+
+msgid "Independent texture fetch"
+msgstr "Független textúra lekérés"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Független textúra lekérések számának növelése az éppen nem használt "
+"textúrázó egységek használatával."
+
+msgid "Clone Output"
+msgstr "Kimenet klónozása"
+
+msgid "Output clone handler"
+msgstr "Kimenet klónkezelője"
+
+msgid "Initiate"
+msgstr "Indítás"
+
+# /tmp/xapi:301
+msgid "Initiate clone selection"
+msgstr "Klónkiválasztás indítása"
+
+msgid "Commands"
+msgstr "Parancs"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Parancsok hozzárendelése billentyűzetkombinációkhoz"
+
+msgid "Command line 0"
+msgstr "0. parancssor"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "A run_command0 által elindított parancs"
+
+msgid "Command line 1"
+msgstr "1. parancssor"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+msgid "Command line 2"
+msgstr "2. parancssor"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "A run_command2 által elindított parancs"
+
+msgid "Command line 3"
+msgstr "3. parancssor"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "A run_command3 által elindított parancs"
+
+msgid "Command line 4"
+msgstr "4. parancssor"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "A run_command4 által elindított parancs"
+
+msgid "Command line 5"
+msgstr "5. parancssor"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "A run_command5 által elindított parancs"
+
+msgid "Command line 6"
+msgstr "6. parancssor"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "A run_command6 által elindított parancs"
+
+msgid "Command line 7"
+msgstr "7. parancssor"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "A run_command7 által elindított parancs"
+
+msgid "Command line 8"
+msgstr "8. parancssor"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "A run_command8 által elindított parancs"
+
+msgid "Command line 9"
+msgstr "9. parancssor"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "A run_command9 által elindított parancs"
+
+msgid "Command line 10"
+msgstr "10. parancssor"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "A run_command10 által elindított parancs"
+
+msgid "Command line 11"
+msgstr "11. parancssor"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "A run_command11 által elindított parancs"
+
+msgid "Command line 12"
+msgstr "12. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 13"
+msgstr "1. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 14"
+msgstr "1. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 15"
+msgstr "1. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 16"
+msgstr "1. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 17"
+msgstr "1. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 18"
+msgstr "1. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 19"
+msgstr "1. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 20"
+msgstr "2. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "A run_command0 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 21"
+msgstr "2. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "A run_command1 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 22"
+msgstr "2. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "A run_command2 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 23"
+msgstr "2. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "A run_command2 által elindított parancs"
+
+#, fuzzy
+msgid "Command line 24"
+msgstr "2. parancssor"
+
+#, fuzzy
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "A run_command2 által elindított parancs"
+
+msgid "Key Bindings"
+msgstr "Gyorsbillentyűk"
+
+msgid "Run command 0"
+msgstr "0. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "A command0 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 1"
+msgstr "1. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 2"
+msgstr "2. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 3"
+msgstr "3. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "A command3 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 4"
+msgstr "4. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "A command4 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 5"
+msgstr "5. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "A command5 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 6"
+msgstr "6. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "A command6 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 7"
+msgstr "7. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "A command7 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 8"
+msgstr "8. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "A command8 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 9"
+msgstr "9. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "A command9 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 10"
+msgstr "10. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "A command10 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 11"
+msgstr "11. parancs futtatása"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "A command11 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Run command 12"
+msgstr "12. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 13"
+msgstr "1. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 14"
+msgstr "1. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 15"
+msgstr "1. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 16"
+msgstr "1. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 17"
+msgstr "1. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 18"
+msgstr "1. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 19"
+msgstr "1. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 20"
+msgstr "2. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 21"
+msgstr "2. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 22"
+msgstr "2. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 23"
+msgstr "2. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid "Run command 24"
+msgstr "2. parancs futtatása"
+
+#, fuzzy
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Button Bindings"
+msgstr "Gyorsbillentyűk"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "A command0 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "A command3 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "A command4 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "A command5 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "A command6 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "A command7 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "A command8 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "A command9 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "A command10 parancs futtatására használt billentyűzetkombináció"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "A command11 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "A command1 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+#, fuzzy
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "A command2 parancs futtatására használt billentyűzetkombináció"
+
+msgid "Edge Bindings"
+msgstr "Szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr "A command0 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr "A command1 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr "A command2 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr "A command3 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr "A command4 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr "A command5 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr "A command6 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr "A command7 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr "A command8 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr "A command9 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr "A command10 parancs futtatására használt szegély"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr "A command11 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr "A command1 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr "A command2 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr "A command2 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr "A command2 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr "A command2 parancs futtatására használt szegély"
+
+#, fuzzy
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr "A command2 parancs futtatására használt szegély"
+
+msgid "General Options"
+msgstr "Általános beállítások"
+
+msgid "General compiz options"
+msgstr "A Compiz általános beállításai"
+
+msgid "Active Plugins"
+msgstr "Aktív bővítmények"
+
+msgid "List of currently active plugins"
+msgstr "Az aktuális bővítmények listája"
+
+msgid "Audible Bell"
+msgstr "Hallható csengő"
+
+msgid "Audible system beep"
+msgstr "Hallható rendszercsengő"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Maximális méretben tanácsok figyelmen kívül hagyása"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Méretnövelési és méretezési tanácsok figyelmen kívül hagyása ha az ablak "
+"maximális méretű"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Kihagyott tálcaablakok elrejtése"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Az asztal megjelenítése módba kapcsoláskor a tálcán nem lévő ablakok "
+"elrejtése"
+
+msgid "Edge Trigger Delay"
+msgstr "Képernyő szélével indított műveletek indításának késleltetése"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Az az időtartam, ameddig az egérmutatónak a képernyőn szélén kell állnia "
+"ahhoz, hogy a képernyő széléhez társított művelet elinduljon."
+
+msgid "Cursor theme"
+msgstr ""
+
+msgid "Cursor theme name"
+msgstr ""
+
+msgid "Cursor size"
+msgstr ""
+
+msgid "Size of the cursor"
+msgstr ""
+
+msgid "Ping Delay"
+msgstr "Ping késleltetése"
+
+msgid "Interval between ping messages"
+msgstr "Ping üzenetek közti időköz"
+
+msgid "Display Settings"
+msgstr "Kijelző beállítások"
+
+msgid "Texture Filter"
+msgstr "Textúraszűrő"
+
+msgid "Texture filtering"
+msgstr "Textúraszűrés"
+
+msgid "Fast"
+msgstr "Gyors"
+
+msgid "Good"
+msgstr "Jó"
+
+msgid "Best"
+msgstr "Legjobb"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "Fókusz és növelés viselkedése"
+
+msgid "Click To Focus"
+msgstr "Kattintson a fókuszáláshoz"
+
+msgid "Click on window moves input focus to it"
+msgstr "Az ablakra kattintással az ablakra irányítja a fókuszt"
+
+msgid "Raise On Click"
+msgstr "Kattintás esetén megnyitás"
+
+msgid "Raise windows when clicked"
+msgstr "Ablakok megnyitása kattintás esetén"
+
+msgid "Auto-Raise"
+msgstr "Automatikus megnyitás"
+
+msgid "Raise selected windows after interval"
+msgstr "A kijelölt ablak megnyitása ennyi idő után"
+
+msgid "Auto-Raise Delay"
+msgstr "Automatikus megnyitás késleltetése"
+
+msgid "Interval before raising selected windows"
+msgstr "A kiválasztott ablakok megnyitását megelőző intervallum"
+
+msgid "Key bindings"
+msgstr "Gyorsbillentyűk"
+
+msgid "Close active window"
+msgstr "Aktív ablak bezárása"
+
+msgid "Raise Window"
+msgstr "Ablak előtérbe hozása"
+
+msgid "Raise window above other windows"
+msgstr "Ablak másik ablakok fölé hozása"
+
+msgid "Lower Window"
+msgstr "Alacsonyabb ablak"
+
+msgid "Lower window beneath other windows"
+msgstr "Alacsonyabb ablak egy másik ablak alatt"
+
+msgid "Unmaximize active window"
+msgstr "Aktív ablak visszaállítása"
+
+msgid "Minimize active window"
+msgstr "Aktív ablak minimalizálása"
+
+msgid "Maximize active window"
+msgstr "Aktív ablak maximalizálása"
+
+msgid "Maximize Window Horizontally"
+msgstr "Ablak maximalizálása vízszintesen"
+
+msgid "Maximize active window horizontally"
+msgstr "Aktív ablak maximalizálása vízszintesen"
+
+msgid "Maximize Window Vertically"
+msgstr "Ablak maximalizálása függőlegesen"
+
+msgid "Maximize active window vertically"
+msgstr "Aktív ablak maximalizálása függőlegesen"
+
+msgid "Window menu button binding"
+msgstr "Window menü billentyűzetkombinációi"
+
+msgid "Window menu key binding"
+msgstr "Window menü billentyűzetkombinációi"
+
+msgid "Show Desktop"
+msgstr "Munkaasztal megjelenítése"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Összes ablak elrejtése és fókuszálás a munkaasztalra"
+
+msgid "Toggle Window Maximized"
+msgstr "Ablak maximális méret átkapcsolása"
+
+msgid "Toggle active window maximized"
+msgstr "Aktív ablak maximális méret átkapcsolása"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Ablak vízszintes maximális méret átkapcsolása"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Aktív ablak vízszintes maximális méret átkapcsolása"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Ablak függőleges maximális méret átkapcsolása"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Aktív ablak függőleges maximális méret átkapcsolása"
+
+msgid "Toggle Window Shaded"
+msgstr "Ablak felgördítése"
+
+msgid "Toggle active window shaded"
+msgstr "Aktív ablak felgördítése"
+
+msgid "Slow Animations"
+msgstr "Lassú animációk"
+
+msgid "Toggle use of slow animations"
+msgstr "„Lassú animációk” effektus kapcsoló"
+
+msgid "Desktop Size"
+msgstr "Munkaasztal mérete"
+
+msgid "Horizontal Virtual Size"
+msgstr "Vízszintes virtuális méret"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Képernyőméret-szorzó a vízszintes virtuális mérethez"
+
+msgid "Vertical Virtual Size"
+msgstr "Függőleges virtuális méret"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Képernyőméret-szorzó a virtuális mérethez"
+
+msgid "Lighting"
+msgstr "Világosítás"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Szórt fény használata képernyő-transzformációnál"
+
+msgid "Detect Refresh Rate"
+msgstr "Frissítési frekvencia felismerése"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Frissítési frekvencia automatikus érzékelése"
+
+msgid "Refresh Rate"
+msgstr "Frissítési frekvencia"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "A képernyő-újrarajzolás gyakorisága (alkalom/másodperc)"
+
+msgid "Detect Outputs"
+msgstr "Kimenetek észlelése"
+
+msgid "Automatic detection of output devices"
+msgstr "Kimeneti eszközök automatikus érzékelése"
+
+msgid "Overlapping Output Handling"
+msgstr "Átfedő kimenetek kezelése"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr ""
+"Adja meg, hogy melyik átfedő kimeneti eszköz legyen előnyben részesítve."
+
+msgid "Smart mode"
+msgstr "Intelligens üzemmód"
+
+msgid "Prefer larger output"
+msgstr "Nagyméretű kimenet használata"
+
+msgid "Prefer smaller output"
+msgstr "Kisméretű kimenet használata"
+
+msgid "Outputs"
+msgstr "Kimenetek"
+
+msgid "List of strings describing output devices"
+msgstr "Kimeneti eszközöket leíró karakterláncok listája"
+
+msgid "Sync To VBlank"
+msgstr "Szinkronizálás VBlank jelre"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"A képernyő-frissítések végrehajtása csak a függőleges törlési periódusban"
+
+msgid "Focus Prevention Level"
+msgstr "Fókuszmegelőzés szintje"
+
+msgid "Level of focus stealing prevention"
+msgstr "Fókuszmegelőzés szintje"
+
+msgid "Off"
+msgstr "Kikapcsolva"
+
+msgid "Low"
+msgstr "Alacsony"
+
+msgid "Normal"
+msgstr "Szokványos"
+
+msgid "High"
+msgstr "Magas"
+
+msgid "Very High"
+msgstr "Nagyon magas"
+
+msgid "Focus Prevention Windows"
+msgstr "Fókuszmegelőzés"
+
+msgid "Focus prevention windows"
+msgstr "Fókuszmegelőzés"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Teljes méretű ablakok visszairányítása"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"A teljes méretű ablakok nem irányíthatók át képen kívüli pixeltérképekre"
+
+msgid "Default Icon"
+msgstr "Alapértelmezett ikon"
+
+msgid "Default window icon image"
+msgstr "Alapértelmezett ikon képe"
+
+msgid "Force independent output painting."
+msgstr "Független kimenethasználat erőltetése"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Összes kimenet független használata, még akkor is, ha a kimenetek átfedik "
+"egymást"
+
+msgid "Texture Compression"
+msgstr "Textúratömörítés"
+
+msgid "If available use compression for textures converted from images"
+msgstr "Képekből konvertált textúrák tömörítése, amennyiben az lehetséges"
+
+msgid "Desktop Cube"
+msgstr "Munkaasztal kocka"
+
+msgid "Place windows on cube"
+msgstr "Ablakok elhelyezése a kockán"
+
+msgid "Unfold"
+msgstr "Kibontás"
+
+msgid "Unfold cube"
+msgstr "Kocka kibontása"
+
+msgid "Next Slide"
+msgstr "Következő dia"
+
+msgid "Advance to next slide"
+msgstr "Továbblépés a következő diára"
+
+msgid "Prev Slide"
+msgstr "Előző dia"
+
+msgid "Go back to previous slide"
+msgstr "Visszatérés az előző diára"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+"MIP térképek készítése, hacsak lehetséges, a jobb minőségű átméretezés "
+"érdekében"
+
+msgid "Multi Output Mode"
+msgstr "Többkimenetes üzemmód"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "A kocka megjelenítésének módja több kimeneti eszköz használata esetén."
+
+msgid "Automatic"
+msgstr "Automatikus"
+
+msgid "Multiple cubes"
+msgstr "Több kocka"
+
+msgid "One big cube"
+msgstr "Egy nagy kocka"
+
+msgid "Behavior"
+msgstr "Viselkedés"
+
+msgid "Inside Cube"
+msgstr "A kocka belseje"
+
+msgid "Inside cube"
+msgstr "A kocka belseje"
+
+msgid "Acceleration"
+msgstr "Gyorsítás"
+
+msgid "Fold Acceleration"
+msgstr "Hajtás gyorsulása"
+
+msgid "Speed"
+msgstr "Sebesség"
+
+msgid "Fold Speed"
+msgstr "Hajtás sebessége"
+
+msgid "Timestep"
+msgstr "Időköz"
+
+msgid "Fold Timestep"
+msgstr "Hajtás időköz"
+
+msgid "Appearance"
+msgstr "Megjelenés"
+
+msgid "Cube Color"
+msgstr "Kocka színe"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "A kocka alsó és felső oldalának színe"
+
+msgid "Cube Caps"
+msgstr "Kocka fedőlapok"
+
+msgid "Scale image"
+msgstr "Kép méretezése"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Kép méretezése a kocka tetejének lefedésére"
+
+msgid "Image files"
+msgstr "Képfájlok"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr "A kocka tetejére kerülő PNG és SVG fájlok listája"
+
+msgid "Adjust Image"
+msgstr "Kép igazítása"
+
+msgid "Adjust top face image to rotation"
+msgstr "Kép igazítása forgatáshoz"
+
+msgid "Skydome"
+msgstr "Kupola"
+
+msgid "Render skydome"
+msgstr "Kupola leképzése"
+
+msgid "Skydome Image"
+msgstr "Kupola képe"
+
+msgid "Image to use as texture for the skydome"
+msgstr "A kupola textúrájaként használt kép"
+
+msgid "Animate Skydome"
+msgstr "Kupola animálása"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Kupola animálása a kocka forgatásánál"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Kupola színátmenetének induló színe"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "A kupola tartalék színátmenet felső színállomásához használandó szín"
+
+msgid "Skydome Gradient End Color"
+msgstr "Kupola színátmenetének záró színe"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "A kupola tartalék színátmenet alsó színállomásához használandó szín"
+
+msgid "Transparent Cube"
+msgstr "Áttetsző kocka"
+
+msgid "Opacity During Rotation"
+msgstr "Átlátszatlanság forgatás közben"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Ablakok átlátszatlansága forgatás közben"
+
+msgid "Opacity When Not Rotating"
+msgstr "Átlátszatlanság alapállapotban"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Ablakok átlátszatlansága alapállapotban"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Átlátszóság csak egérrel forgatáskor"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "A kocka csak egérrel történő forgatáskor válik átlátszóvá."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "D-Bus vezérlés kiszolgálója"
+
+msgid "Window Decoration"
+msgstr "Ablakdíszítés"
+
+msgid "Window decorations"
+msgstr "Ablakdíszítések"
+
+msgid "Shadow Radius"
+msgstr "Árnyék átmérője"
+
+msgid "Drop shadow radius"
+msgstr "Árnyék átmérője"
+
+msgid "Shadow Opacity"
+msgstr "Árnyék átlátszatlansága"
+
+msgid "Drop shadow opacity"
+msgstr "Árnyék átlátszatlansága"
+
+msgid "Shadow Color"
+msgstr "Árnyék színe"
+
+msgid "Drop shadow color"
+msgstr "Árnyék színe"
+
+msgid "Shadow Offset X"
+msgstr "Árnyék X eltolása"
+
+msgid "Drop shadow X offset"
+msgstr "Árnyék X eltolása"
+
+msgid "Shadow Offset Y"
+msgstr "Árnyék Y eltolása"
+
+msgid "Drop shadow Y offset"
+msgstr "Árnyék Y eltolása"
+
+msgid "Command"
+msgstr "Parancs"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Díszítő parancs, amely akkor kerül végrehajtásra, ha még nem fut díszítő"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "MIP térképek létrehozása a díszítő textúrákhoz"
+
+msgid "Decoration windows"
+msgstr "Ablakok díszítése"
+
+msgid "Windows that should be decorated"
+msgstr "Díszítendő ablakok"
+
+msgid "Shadow windows"
+msgstr "Ablakok árnyékolása"
+
+msgid "Windows that should have a shadow"
+msgstr "Árnyékolandó ablakok"
+
+msgid "Fading Windows"
+msgstr "Ablakok elhalványítása"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr "Leképezés esetén az ablak erősítése, lecsatolás esetén elhalványítása"
+
+msgid "Fade Mode"
+msgstr "Elhalványítási üzemmód"
+
+msgid "Window fade mode"
+msgstr "Ablak elhalványulásának üzemmódja"
+
+msgid "Constant speed"
+msgstr "Állandó sebesség"
+
+msgid "Constant time"
+msgstr "Állandó útidő"
+
+msgid "Fade Speed"
+msgstr "Elhalványulás sebessége"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Ablak elhalványulásának sebessége „Állandó sebesség” módban"
+
+msgid "Fade Time"
+msgstr "Elhalványítási idő"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "Ablak elhalványulásának sebessége „Állandó útidő” módban"
+
+msgid "Fade windows"
+msgstr "Ablak elhalványítása"
+
+msgid "Windows that should be fading"
+msgstr "Ablaktípusok, amelyek elhalványulhatnak"
+
+msgid "Visual Bell"
+msgstr "Vizuális csengő"
+
+msgid "Fade effect on system beep"
+msgstr "Elhalványulás effektus rendszerhang esetén"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Teljes képernyő vizuális csengő"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Teljes képernyő halványuló effektus rendszercsengő esetén"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Ablakelhalványítás minimalizáláskor, megnyitáskor és bezáráskor"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr ""
+"Ablakelhalványítási effektus alkalmazása minimalizáláskor, megnyitáskor és "
+"bezáráskor"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Nem válaszoló ablak elhalványítása"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+"Azon ablakok elhalványítása, amelyek nem válaszolnak az ablakkezelő kéréseire"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Nem válaszoló ablak fényerőssége"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Nem válaszoló ablak fényerőssége (százalékban megadva)"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Nem válaszoló ablak telítettsége"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Nem válaszoló ablak telítettsége (százalékban megadva)"
+
+msgid "Userspace File System"
+msgstr "Felhasználói módú fájlrendszer"
+
+msgid "Userspace file system"
+msgstr "Felhasználói módú fájlrendszer"
+
+msgid "Mount Point"
+msgstr "Csatolási pont"
+
+msgid "Mount point"
+msgstr "Csatolási pont"
+
+msgid "GLib"
+msgstr "Glib"
+
+msgid "GLib main loop support"
+msgstr "Glib főciklus támogatása"
+
+msgid "MATE Compatibility"
+msgstr "MATE kompatibilitás"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr ""
+"Beállítás, amely a Compizt kompatibilissá teszi a MATE asztali környezettel"
+
+msgid "Show Main Menu"
+msgstr "Főmenü megjelenítése"
+
+msgid "Show the main menu"
+msgstr "Főmenü megjelenítése"
+
+msgid "Run Dialog"
+msgstr "Párbeszéd futtatása"
+
+msgid "Show Run Application dialog"
+msgstr "„Alkalmazás futtatása” párbeszédablak megjelenítése"
+
+msgid "Screenshot command line"
+msgstr "Képernyőkép parancssor"
+
+msgid "Take a screenshot"
+msgstr "Képernyőkép készítése"
+
+msgid "Window screenshot command line"
+msgstr "Ablak képernyőkép parancssor"
+
+msgid "Take a screenshot of a window"
+msgstr "Képernyőkép készítése az ablakról"
+
+msgid "Run terminal command"
+msgstr "Parancs futtatása terminálban"
+
+msgid "Terminal command line"
+msgstr "Terminál parancssor"
+
+msgid "Open a terminal"
+msgstr "Terminál megnyitása"
+
+msgid "Ini"
+msgstr "INI"
+
+msgid "Ini Flat File Backend"
+msgstr "INI szövegfájl"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Fájlváltozásról értesítő bővítmény"
+
+msgid "Minimize Effect"
+msgstr "Minimalizálás effektus"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Ablakok átalakítása minimalizáláskor és visszaállításkor"
+
+msgid "Minimize speed"
+msgstr "Minimalizálás sebessége"
+
+msgid "Minimize timestep"
+msgstr "Minimalizálási időköz"
+
+msgid "Minimize Windows"
+msgstr "Ablak minimalizálása"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Minimalizált állapotban átalakítandó ablaktípusok"
+
+msgid "Shade Resistance"
+msgstr "Felgördítés ellenállása"
+
+msgid "Shade resistance"
+msgstr "Felgördítés ellenállása"
+
+msgid "Move Window"
+msgstr "Ablak áthelyezése"
+
+msgid "Move window"
+msgstr "Ablak áthelyezése"
+
+msgid "Initiate Window Move"
+msgstr "Ablakáthelyezés indítása"
+
+msgid "Start moving window"
+msgstr "Ablakáthelyezés megkezdése"
+
+msgid "Opacity"
+msgstr "Átlátszatlanság"
+
+msgid "Opacity level of moving windows"
+msgstr "Ablakáthelyezés átlátszatlanságának szintje"
+
+msgid "Constrain Y"
+msgstr "Y megszorítás"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Y koordináta-megszorítás a munkafelületre"
+
+msgid "Snapoff maximized windows"
+msgstr "Maximalizált ablakok azonnali visszaállítása"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Áthelyezéskor az ablakok azonnali, automatikus visszaállítása"
+
+msgid "Lazy Positioning"
+msgstr "Lusta elhelyezés"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Csak az ablakáthelyezés befejeztével frissítse az ablakpozíciót a kiszolgálón"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Átlátszatlanság, fényerő, telítettség"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Átlátszatlanság, fényerő, telítettség beállítások"
+
+#, fuzzy
+msgid "Increase Opacity"
+msgstr "Ablak átlátszatlanság növelése"
+
+msgid "Opacity Increase"
+msgstr "Átlátszatlanság növelése"
+
+#, fuzzy
+msgid "Decrease Opacity"
+msgstr "Ablak átlátszatlanságának csökkentése"
+
+msgid "Opacity Decrease"
+msgstr "Átlátszatlanság csökkentése"
+
+msgid "Brightness"
+msgstr "Fényerő"
+
+#, fuzzy
+msgid "Increase Brightness"
+msgstr "Fényerő"
+
+msgid "Brightness Increase"
+msgstr "Fényerő növelése"
+
+#, fuzzy
+msgid "Decrease Brightness"
+msgstr "Fényerő"
+
+msgid "Brightness Decrease"
+msgstr "Fényerő csökkentése"
+
+msgid "Saturation"
+msgstr "Telítettség"
+
+#, fuzzy
+msgid "Increase Saturation"
+msgstr "Elmosás telítettség"
+
+msgid "Saturation Increase"
+msgstr "Színtelítettség növelése"
+
+#, fuzzy
+msgid "Decrease Saturation"
+msgstr "Elmosás telítettség"
+
+msgid "Saturation Decrease"
+msgstr "Színtelítettség csökkentése"
+
+msgid "Step"
+msgstr "Lépésköz"
+
+msgid "Opacity Step"
+msgstr "Átlátszatlanság mértéke"
+
+msgid "Window specific settings"
+msgstr "Ablak beállítások"
+
+msgid "Windows"
+msgstr "Ablakok"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Alapértelmezettől eltérő átlátszatlansággal rendelkező ablakok"
+
+msgid "Window values"
+msgstr "Ablak tulajdonságok"
+
+msgid "Opacity values for windows"
+msgstr "Ablakok átlátszatlansága"
+
+msgid "Brightness Step"
+msgstr "Fényerő lépésköz"
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Alapértelmezettől eltérő fényerővel rendelkező ablakok"
+
+msgid "Brightness values for windows"
+msgstr "Fényerő értéke ablakokhoz"
+
+msgid "Saturation Step"
+msgstr "Telítettség változásának lépésköze"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Alapértelmezettől eltérő színtelítettséggel rendelkező ablakok"
+
+msgid "Saturation values for windows"
+msgstr "Ablakok színtelítettsége"
+
+msgid "Place Windows"
+msgstr "Ablakok elhelyezése"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Térképezés esetén az ablakok elhelyezése a megfelelő pozícióba"
+
+msgid "Workarounds"
+msgstr "Kerülő megoldások"
+
+msgid "Window placement workarounds"
+msgstr "Kerülőmegoldások az ablak elhelyezésére"
+
+msgid "Placement Mode"
+msgstr "Elhelyezés módja"
+
+msgid "Algorithm to use for window placement"
+msgstr "Az ablakok elhelyezésére használt algoritmus"
+
+msgid "Cascade"
+msgstr "Lépcsőzetes"
+
+msgid "Centered"
+msgstr "Középre"
+
+msgid "Smart"
+msgstr "Intelligens"
+
+msgid "Maximize"
+msgstr "Maximalizálás"
+
+msgid "Random"
+msgstr "Véletlen"
+
+#, fuzzy
+msgid "Under pointer"
+msgstr "Élforgatás mutató"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Megadja, hogy több kimeneti eszköz esetén, az ablakelhelyezés viselkedését"
+
+msgid "Use active output device"
+msgstr "Aktív kimeneti eszköz használata"
+
+msgid "Use output device with pointer"
+msgstr "Egérmutatót megjelenítő eszköz használata"
+
+msgid "Use output device of focused window"
+msgstr "Fókuszált ablakot megjelenítő eszköz használata"
+
+msgid "Place across all outputs"
+msgstr "Összes kimenet használata"
+
+msgid "Force Placement Windows"
+msgstr "Ablakelhelyezés erőltetése"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Ablakok, amelyek elhelyezését szabályozni kell, még akkor is, ha az "
+"ablakkezelő úgy jelzi, hogy az adott ablakok elhelyezését nem szabad "
+"szabályozni."
+
+msgid "Fixed Window Placement"
+msgstr "Fix ablakelhelyezések"
+
+msgid "Windows with fixed positions"
+msgstr "Ablakok rögzített pozicióval"
+
+msgid "Positioned windows"
+msgstr "Pozicionált ablakok"
+
+msgid "Windows that should be positioned by default"
+msgstr "Alapértelmezés szerint pozicionálandó ablakok"
+
+msgid "X Positions"
+msgstr "Vízszintes pozíció"
+
+msgid "X position values"
+msgstr "Vízszintes pozíció"
+
+msgid "Y Positions"
+msgstr "Függőleges pozíció"
+
+msgid "Y position values"
+msgstr "Függőleges pozíció"
+
+msgid "Keep In Workarea"
+msgstr "Munkaasztalon tartás"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Ablakelhelyezés erőltetésének felülbírálása úgy, hogy az ablak minden "
+"esetben a munkaasztalon maradjon"
+
+#, fuzzy
+msgid "Windows with fixed placement mode"
+msgstr "Ablakok rögzített pozicióval"
+
+#, fuzzy
+msgid "Windows that should have a certain positioning mode"
+msgstr "Alapértelmezettől eltérő színtelítettséggel rendelkező ablakok"
+
+#, fuzzy
+msgid "Mode"
+msgstr "Elhalványítási üzemmód"
+
+#, fuzzy
+msgid "Positioning modes"
+msgstr "Pozicionált ablakok"
+
+msgid "Windows with fixed viewport"
+msgstr "Ablakok rögzített nézőponttal"
+
+msgid "Viewport positioned windows"
+msgstr "Munkaterületen elhelyezett ablakok"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr "Alapértelmezés szerint megadott munkalapra pozicionálandó ablakok"
+
+msgid "X Viewport Positions"
+msgstr "Vízszintes munkalap pozíció"
+
+msgid "Horizontal viewport positions"
+msgstr "Vízszintes munkalap pozíció"
+
+msgid "Y Viewport Positions"
+msgstr "Függőleges munkalap pozíció"
+
+msgid "Vertical viewport positions"
+msgstr "Függőleges munkalap pozíció"
+
+msgid "Png"
+msgstr "PNG"
+
+msgid "Png image loader"
+msgstr "PNG képbetöltő"
+
+msgid "Regex Matching"
+msgstr "Reguláris kifejezés egyeztetés"
+
+msgid "Regex window matching"
+msgstr "Reguláris kifejezéssel ablakegyeztetés"
+
+msgid "Resize Window"
+msgstr "Ablak átméretezése"
+
+msgid "Resize window"
+msgstr "Ablak átméretezése"
+
+msgid "Bindings"
+msgstr "Gyorsbillentyűk"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Hagyományos ablakátméretezés indítása"
+
+msgid "Start resizing window normally"
+msgstr "Hagyományos ablakátméretezés indítása"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Körvonalas ablakátméretezés indítása"
+
+msgid "Start resizing window with outline"
+msgstr "Körvonalas ablakátméretezés indítása"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Téglalap ablakátméretezés indítása"
+
+msgid "Start resizing window with rectangle"
+msgstr "Téglalap ablakátméretezés indítása"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Nyújtásos ablakátméretezés indítása"
+
+msgid "Start resizing window by stretching it"
+msgstr "Nyújtásos ablakátméretezés indítása"
+
+msgid "Initiate Window Resize"
+msgstr "Ablakátméretezés indítása"
+
+msgid "Start resizing window"
+msgstr "Ablak átméretezésének indítása"
+
+msgid "Default Resize Mode"
+msgstr "Alapértelmezett átméretezési mód"
+
+msgid "Default mode used for window resizing"
+msgstr "Alapértelmezett ablakátméretezési mód"
+
+msgid "Outline"
+msgstr "Körvonal"
+
+msgid "Rectangle"
+msgstr "Téglalap"
+
+msgid "Stretch"
+msgstr "Nyújtás"
+
+msgid "Border Color"
+msgstr "Kocka színe"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr "Az átméretezéshez használt körvonal és téglalap színe "
+
+msgid "Fill Color"
+msgstr "Kitöltőszín"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr "Téglalap átméretezés kitöltő színe"
+
+msgid "Normal Resize Windows"
+msgstr "Hagyományos ablakátméretezés"
+
+msgid "Windows that normal resize should be used for"
+msgstr "Hagyományos ablakátméretezést használó ablakok"
+
+msgid "Outline Resize Windows"
+msgstr "Átméretezés az ablak körvonalával"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Körvonalas ablakátméretezést használó ablakok"
+
+msgid "Rectangle Resize Windows"
+msgstr "Téglalap ablakátméretezés"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr "Téglalap ablakátméretezést használó ablakok"
+
+msgid "Stretch Resize Windows"
+msgstr "Átméretezés az ablak nyújtásával"
+
+msgid "Windows that stretch resize should be used for"
+msgstr "Nyújtásos ablakátméretezést használó ablakok"
+
+msgid "Rotate Cube"
+msgstr "Kocka forgatása"
+
+msgid "Rotate desktop cube"
+msgstr "A munkaasztalkocka forgatása"
+
+msgid "Edge Flip Pointer"
+msgstr "Élforgatás mutató"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr "Mutató kép szélére húzása esetén forgatás a következő nézőpontig"
+
+msgid "Edge Flip Move"
+msgstr "Élforgatás áthelyezés"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr "Egy ablak kép szélére húzása esetén forgatás a következő nézőpontig"
+
+msgid "Edge Flip DnD"
+msgstr "Élforgatás egérművelet"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr "Objektum kép szélére húzása esetén forgatás a következő nézőpontig"
+
+msgid "Flip Time"
+msgstr "Forgatási idő"
+
+msgid "Timeout before flipping viewport"
+msgstr "A nézőpont váltása előtti időkorlát"
+
+msgid "Raise on rotate"
+msgstr "Kiemelés forgatáskor"
+
+msgid "Raise window when rotating"
+msgstr "Ablakok megnyitása kattintás esetén"
+
+msgid "Rotate cube"
+msgstr "Kocka forgatása"
+
+msgid "Start Rotation"
+msgstr "Forgatás indítása"
+
+msgid "Rotate Left"
+msgstr "Forgatás balra"
+
+msgid "Rotate left"
+msgstr "Balra forgatás"
+
+msgid "Rotate Right"
+msgstr "Forgatás jobbra"
+
+msgid "Rotate right"
+msgstr "Jobbra forgatás"
+
+msgid "Rotate Left with Window"
+msgstr "Forgatás balra az ablakkal együtt"
+
+msgid "Rotate left and bring active window along"
+msgstr "Balra forgatás az aktív ablakkal együtt"
+
+msgid "Rotate Right with Window"
+msgstr "Forgatás jobbra az ablakkal együtt"
+
+msgid "Rotate right and bring active window along"
+msgstr "Jobbra forgatás az aktív ablakkal együtt"
+
+msgid "Rotate To"
+msgstr "Forgatás"
+
+msgid "Rotate to viewport"
+msgstr "Forgatás munkalapra"
+
+msgid "Rotate window"
+msgstr "Ablak forgatása"
+
+msgid "Rotate with window"
+msgstr "Forgatás az ablakkal együtt"
+
+msgid "Rotate Flip Left"
+msgstr "Forgatás balra"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Forgatás a bal oldali nézőpontig és mutató léptetése"
+
+msgid "Rotate Flip Right"
+msgstr "Forgatás jobbra"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Forgatás a jobb oldali nézőpontig és mutató léptetése"
+
+msgid "Rotate to cube face"
+msgstr "Forgatás a kocka előlap felé"
+
+msgid "Rotate To Face 1"
+msgstr "Forgatás az 1. előlap felé"
+
+msgid "Rotate to face 1"
+msgstr "Forgatás az 1. előlap felé"
+
+msgid "Rotate To Face 2"
+msgstr "Forgatás a 2. előlap felé"
+
+msgid "Rotate to face 2"
+msgstr "Forgatás a 2. előlap felé"
+
+msgid "Rotate To Face 3"
+msgstr "Forgatás a 3. előlap felé"
+
+msgid "Rotate to face 3"
+msgstr "Forgatás a 3. előlap felé"
+
+msgid "Rotate To Face 4"
+msgstr "Forgatás a 4. előlap felé"
+
+msgid "Rotate to face 4"
+msgstr "Forgatás a 4. előlap felé"
+
+msgid "Rotate To Face 5"
+msgstr "Forgatás az 5. előlap felé"
+
+msgid "Rotate to face 5"
+msgstr "Forgatás az 5. előlap felé"
+
+msgid "Rotate To Face 6"
+msgstr "Forgatás a 6. előlap felé"
+
+msgid "Rotate to face 6"
+msgstr "Forgatás a 6. előlap felé"
+
+msgid "Rotate To Face 7"
+msgstr "Forgatás a 7. előlap felé"
+
+msgid "Rotate to face 7"
+msgstr "Forgatás a 7. előlap felé"
+
+msgid "Rotate To Face 8"
+msgstr "Forgatás a 8. előlap felé"
+
+msgid "Rotate to face 8"
+msgstr "Forgatás a 8. előlap felé"
+
+msgid "Rotate To Face 9"
+msgstr "Forgatás a 9. előlap felé"
+
+msgid "Rotate to face 9"
+msgstr "Forgatás a 9. előlap felé"
+
+msgid "Rotate To Face 10"
+msgstr "Forgatás a 10. előlap felé"
+
+msgid "Rotate to face 10"
+msgstr "Forgatás a 10. előlap felé"
+
+msgid "Rotate To Face 11"
+msgstr "Forgatás a 11. előlap felé"
+
+msgid "Rotate to face 11"
+msgstr "Forgatás a 11. előlap felé"
+
+msgid "Rotate To Face 12"
+msgstr "Forgatás a 12. előlap felé"
+
+msgid "Rotate to face 12"
+msgstr "Forgatás a 12. előlap felé"
+
+msgid "Rotate to cube face with window"
+msgstr "Forgatás a kocka előlap felé az ablakkal együtt"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Forgatás az 1. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Forgatás az 1. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Forgatás a 2. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Forgatás a 2. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Forgatás a 3. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Forgatás a 3. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Forgatás a 4. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Forgatás a 4. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Forgatás az 5. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Forgatás az 5. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Forgatás a 6. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Forgatás a 6. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Forgatás a 7. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Forgatás a 7. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Forgatás a 8. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Forgatás a 8. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Forgatás a 9. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Forgatás a 9. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Forgatás a 10. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Forgatás a 10. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Forgatás a 11. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Forgatás a 11. előlap felé az aktív ablakkal együtt"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Forgatás a 12. előlap felé az ablakkal együtt"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Forgatás a 12. előlap felé az aktív ablakkal együtt"
+
+msgid "Pointer Invert Y"
+msgstr "Y mutató invertálása"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Y tengely átalakítása a mutató mozgásához"
+
+#, fuzzy
+msgid "Pointer Invert X"
+msgstr "Y mutató invertálása"
+
+#, fuzzy
+msgid "Invert X axis for pointer movement"
+msgstr "Y tengely átalakítása a mutató mozgásához"
+
+msgid "Pointer Sensitivity"
+msgstr "Mutató érzékenysége"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Mutatómozgatás érzékenysége"
+
+msgid "Rotation Acceleration"
+msgstr "Forgatás gyorsulása"
+
+msgid "Snap To Top Face"
+msgstr "Felső oldalhoz ugrás"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Hirtelen kockaforgatás a felső oldalra"
+
+msgid "Snap To Bottom Face"
+msgstr "Alsó oldalhoz ugrás"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Hirtelen kockaforgatás a also oldalra"
+
+msgid "Rotation Speed"
+msgstr "Forgatás sebessége"
+
+msgid "Rotation Timestep"
+msgstr "Forgatás időköze"
+
+msgid "Zoom"
+msgstr "Nagyítás"
+
+msgid "Rotation Zoom"
+msgstr "Forgatási nagyítás"
+
+msgid "Scale"
+msgstr "Áttekintő nézet"
+
+msgid "Scale windows"
+msgstr "Ablakok áttekintése"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Áttekintő üzemmódban marad"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Átváltás áttekintő üzemmódba ahelyett, hogy a gomb megnyomásakor átváltana, "
+"majd elengedésekor vissza."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Áttekintő üzemmódban marad"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Átváltás áttekintő üzemmódba ahelyett, hogy a gomb megnyomásakor átváltana, "
+"majd elengedésekor vissza."
+
+msgid "Initiate Window Picker"
+msgstr "Ablakválasztó indítása"
+
+msgid "Layout and start transforming windows"
+msgstr "Ablaktranszformáció és elrendezés indítása"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Ablakválasztó indítása minden ablakhoz"
+
+msgid "Layout and start transforming all windows"
+msgstr "Elrendezés és ablaktranszformáció indítása"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Ablakválasztó indítása ablakcsoporthoz"
+
+msgid "Layout and start transforming window group"
+msgstr "Elrendezés és ablakcsoport-transzformáció indítása"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Ablakválasztó indítása a jelenlegi kimenet ablakain"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Elrendezés és a jelenlegi kimenet ablakai transzformációjának indítása"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Asztalra kattintva az asztal megjelenítése"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr "Asztalra kattintás esetén az asztal megjelenítése áttekintő nézetben"
+
+msgid "Spacing"
+msgstr "Távolság"
+
+msgid "Space between windows"
+msgstr "Ablakok közti távolság"
+
+msgid "Scale speed"
+msgstr "Áttekintés sebessége"
+
+msgid "Scale timestep"
+msgstr "Áttekintés időköze"
+
+msgid "Darken Background"
+msgstr "Sötétülő háttér"
+
+msgid "Darken background when scaling windows"
+msgstr "Sötétülő háttér az ablakok átméretezésekor"
+
+msgid "Amount of opacity in percent"
+msgstr "Átlátszatlanság (0-100%)"
+
+msgid "Overlay Icon"
+msgstr "Átfedő ikon"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Ikon átfedése az ablakon átméretezéskor"
+
+msgid "None"
+msgstr "Egyik sem"
+
+msgid "Emblem"
+msgstr "Embléma"
+
+msgid "Big"
+msgstr "Nagy"
+
+msgid "Scale Windows"
+msgstr "Ablakok áttekintő nézete"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Ablaktípusok, amelyek áttekintő nézetben megjelennek"
+
+msgid "Hover Time"
+msgstr "Mutatás ideje"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Az áttekintő nézetből való kilépés előtt eltöltött idő (ezredmásodpercben) "
+"az ablakra mutatáskor"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Megadja, hogy több kimeneti eszköz esetén melyik eszköz jelenítse meg az "
+"ablakok áttekintő nézetét."
+
+msgid "On current output device"
+msgstr "A jelenlegi kimeneti eszközön"
+
+msgid "On all output devices"
+msgstr "Az összes kimeneti eszközön"
+
+# /tmp/intro:67 /tmp/xapi:379
+msgid "Screenshot"
+msgstr "Képernyőkép"
+
+msgid "Screenshot plugin"
+msgstr "Képernyőkép bővítmény"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Téglalap képernyőkép készítése"
+
+msgid "Directory"
+msgstr "Könyvtár"
+
+#, fuzzy
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr "Képernyőképek elhelyezése ebbe a könyvtárba"
+
+msgid "Launch Application"
+msgstr "Alkalmazás indítása"
+
+msgid "Automatically open screenshot in this application"
+msgstr "A automatikus indítása bejelentkezéskor"
+
+msgid "Svg"
+msgstr "SVG"
+
+msgid "Svg image loader"
+msgstr "SVG képbetöltő"
+
+msgid "Application Switcher"
+msgstr "Alkalmazásváltó"
+
+msgid "Next window"
+msgstr "Következő ablak"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+"Ablakváltó megjelenítése ha nem látható és a következő ablak kiválasztása"
+
+msgid "Prev window"
+msgstr "Előző ablak"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Ablakváltó megjelenítése ha nem látható és az előző ablak kiválasztása"
+
+msgid "Next window (All windows)"
+msgstr "Következő ablak (minden ablak)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Ablakváltó megjelenítése ha nem látható és az összes ablak közül a következő "
+"kiválasztása"
+
+msgid "Prev window (All windows)"
+msgstr "Előző ablak (minden ablak)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Ablakváltó megjelenítése ha nem látható és az összes ablak közül az előző "
+"kiválasztása"
+
+msgid "Next window (No popup)"
+msgstr "Következő ablak (nincs előugró ablak)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Következő ablak kiválasztása a felbukkanó ablak nélkül."
+
+msgid "Prev window (No popup)"
+msgstr "Előző ablak (nincs előugró ablak)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Előző ablak kiválasztása a felbukkanó ablak nélkül."
+
+msgid "Next Panel"
+msgstr "Következő panel"
+
+msgid "Select next panel type window."
+msgstr "Válassza ki a következő paneltípus-ablakot."
+
+msgid "Prev Panel"
+msgstr "Előző panel"
+
+msgid "Select previous panel type window."
+msgstr "Válassza ki az előző paneltípus-ablakot."
+
+msgid "Switcher speed"
+msgstr "Váltás sebessége"
+
+msgid "Switcher timestep"
+msgstr "Váltás időköz"
+
+msgid "Switcher windows"
+msgstr "Ablakváltó ablak"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Az ablakválasztóban megjelenítendő ablaktípusok"
+
+msgid "Amount of saturation in percent"
+msgstr "Telítettség (0-100%)"
+
+msgid "Amount of brightness in percent"
+msgstr "Fényerősség (0-100%)"
+
+msgid "Bring To Front"
+msgstr "Előrehozás"
+
+msgid "Bring selected window to front"
+msgstr "A kijelölt ablak az előtérbe hozása"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr "A munkaasztal kinagyításának mértéke ablakváltás során"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "Show icon next to thumbnail"
+msgstr "Ikon megjelenítése a miniatűr mellett"
+
+msgid "Minimized"
+msgstr "Minimalizálva"
+
+msgid "Show minimized windows"
+msgstr "Ikonizált ablakok megjelenítése"
+
+msgid "Auto Rotate"
+msgstr "Automatikus forgatás"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Forgatás a kiválasztott ablakra váltás közben"
+
+#, fuzzy
+msgid "Desktop Wall"
+msgstr "Munkaasztal mérete"
+
+msgid "Desktop Wall Plugin"
+msgstr ""
+
+msgid "Viewport Switch Preview"
+msgstr ""
+
+msgid "Show Viewport Switcher Preview"
+msgstr ""
+
+#, fuzzy
+msgid "Show switcher window while switching viewports"
+msgstr "Forgatás a kiválasztott ablakra váltás közben"
+
+msgid "Show Live Viewport Previews"
+msgstr ""
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+
+msgid "Switch Target Preview Visibility Time"
+msgstr ""
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+
+#, fuzzy
+msgid "Preview Scale"
+msgstr "Előző dia"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr ""
+
+#, fuzzy
+msgid "Edge Radius"
+msgstr "Árnyék átmérője"
+
+msgid "Radius of the rounded edge"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Width of the border between the previews"
+msgstr ""
+
+#, fuzzy
+msgid "Outline Color"
+msgstr "Körvonal"
+
+#, fuzzy
+msgid "Outline color of the switcher window."
+msgstr "Átméretezés az ablak körvonalával"
+
+#, fuzzy
+msgid "Background Gradient"
+msgstr "Háttérképek"
+
+#, fuzzy
+msgid "Base Color"
+msgstr "Kocka színe"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Highlight Color"
+msgstr "Kitöltőszín"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+
+msgid "Thumb Gradient"
+msgstr ""
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+
+msgid "Highlight Gradient"
+msgstr ""
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Arrow Colors"
+msgstr "Árnyék színe"
+
+msgid "First color of the arrow of the switcher window."
+msgstr ""
+
+msgid "Second color of the arrow of the switcher window."
+msgstr ""
+
+#, fuzzy
+msgid "Viewport Switching"
+msgstr "Vízszintes munkalap pozíció"
+
+msgid "Allow Wrap-Around"
+msgstr ""
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+
+msgid "Wall Sliding Duration"
+msgstr ""
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+
+#, fuzzy
+msgid "Non Sliding Windows"
+msgstr "Ablakok elhalványítása"
+
+#, fuzzy
+msgid "Windows that should not slide during the slide animation"
+msgstr "Ablaktípusok, amelyek áttekintő nézetben megjelennek"
+
+#, fuzzy
+msgid "Move within wall"
+msgstr "Ablak áthelyezése"
+
+#, fuzzy
+msgid "Move Left"
+msgstr "Forgatás balra"
+
+msgid "Move along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right"
+msgstr "Forgatás jobbra"
+
+msgid "Move along the wall to the right"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down"
+msgstr "Ablak áthelyezése"
+
+msgid "Move along the wall down"
+msgstr ""
+
+msgid "Move Next"
+msgstr ""
+
+msgid "Move along the wall to the next viewport"
+msgstr ""
+
+msgid "Move Prev"
+msgstr ""
+
+msgid "Move along the wall to the previous viewport"
+msgstr ""
+
+#, fuzzy
+msgid "Move with window within wall"
+msgstr "Forgatás az ablakkal együtt"
+
+#, fuzzy
+msgid "Move Left With Window"
+msgstr "Forgatás balra az ablakkal együtt"
+
+msgid "Move with window along the wall to the left"
+msgstr ""
+
+#, fuzzy
+msgid "Move Right With Window"
+msgstr "Forgatás jobbra az ablakkal együtt"
+
+msgid "Move with window along the wall to the right"
+msgstr ""
+
+#, fuzzy
+msgid "Move Up With Window"
+msgstr "Ablak áthelyezése"
+
+msgid "Move with window along the wall up"
+msgstr ""
+
+#, fuzzy
+msgid "Move Down With Window"
+msgstr "Ablak áthelyezése"
+
+msgid "Move with window along the wall down"
+msgstr ""
+
+#, fuzzy
+msgid "Edge flipping"
+msgstr "Szegély"
+
+#, fuzzy
+msgid "Flip Left"
+msgstr "Forgatás balra"
+
+#, fuzzy
+msgid "Flip left"
+msgstr "Forgatási idő"
+
+#, fuzzy
+msgid "Flip Right"
+msgstr "Forgatás jobbra"
+
+#, fuzzy
+msgid "Flip right"
+msgstr "Forgatás jobbra"
+
+#, fuzzy
+msgid "Flip Up"
+msgstr "Forgatási idő"
+
+#, fuzzy
+msgid "Flip up"
+msgstr "Forgatási idő"
+
+#, fuzzy
+msgid "Flip Down"
+msgstr "Élforgatás egérművelet"
+
+#, fuzzy
+msgid "Flip down"
+msgstr "Gördítés le"
+
+msgid "Multimonitor behavior"
+msgstr ""
+
+msgid "How should a multimonitor configuration be handled"
+msgstr ""
+
+msgid "Switch all"
+msgstr ""
+
+#, fuzzy
+msgid "Switch separately"
+msgstr "Váltás sebessége"
+
+#, fuzzy
+msgid "Edge Flipping"
+msgstr "Élforgatás egérművelet"
+
+#, fuzzy
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr "Mutató kép szélére húzása esetén forgatás a következő nézőpontig"
+
+#, fuzzy
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr "Egy ablak kép szélére húzása esetén forgatás a következő nézőpontig"
+
+#, fuzzy
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr "Objektum kép szélére húzása esetén forgatás a következő nézőpontig"
+
+msgid "Water Effect"
+msgstr "Víz effektus"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Víz effektus hozzáadása a különböző munkaasztal-műveletekhez"
+
+msgid "Enable pointer water effects"
+msgstr "Mutató víz effektus bekapcsolása"
+
+msgid "Toggle rain"
+msgstr "„Eső” kapcsoló"
+
+msgid "Toggle rain effect"
+msgstr "„Eső” effektus kapcsoló"
+
+msgid "Toggle wiper"
+msgstr "„Ablaktörlő” kapcsoló"
+
+msgid "Toggle wiper effect"
+msgstr "„Ablaktörlő” effektus kapcsoló"
+
+msgid "Offset Scale"
+msgstr "Eltolás skálája"
+
+msgid "Water offset scale"
+msgstr "Víz eltolás mértéke"
+
+msgid "Rain Delay"
+msgstr "Eső késleltetése"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Esőcseppek közötti késleltetés (ms)"
+
+msgid "Title wave"
+msgstr "Címhullám"
+
+msgid "Wave effect from window title"
+msgstr "Hullám effektus az ablakcímből"
+
+msgid "Point"
+msgstr "Pont"
+
+msgid "Add point"
+msgstr "Pont hozzáadása"
+
+msgid "Line"
+msgstr "Vonal"
+
+msgid "Add line"
+msgstr "Vonal hozzáadása"
+
+msgid "Wobbly Windows"
+msgstr "Imbolygó ablakok"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Rugómodell használata az imbolygó ablakeffektusnál"
+
+msgid "Snap windows"
+msgstr "Ablakok illesztése"
+
+msgid "Toggle window snapping"
+msgstr "„Ablakok illesztése” effektus kapcsoló"
+
+# 52895 AttribValues/label
+msgid "Snap Inverted"
+msgstr "Illesztés fordítva"
+
+msgid "Inverted window snapping"
+msgstr "Ablakok illesztése fordítva"
+
+# 'driver' as in '(hardware) driver update'
+msgid "Shiver"
+msgstr "Összetörés"
+
+msgid "Make window shiver"
+msgstr "Ablak összetörése"
+
+msgid "Friction"
+msgstr "Súrlódás"
+
+msgid "Spring Friction"
+msgstr "Rugó súrlódása"
+
+msgid "Spring K"
+msgstr "Rugóállandó (K)"
+
+msgid "Spring Konstant"
+msgstr "Rugóállandó (K)"
+
+msgid "Grid Resolution"
+msgstr "Rács felbontása"
+
+msgid "Vertex Grid Resolution"
+msgstr "Csúcspontrács felbontása"
+
+msgid "Minimum Grid Size"
+msgstr "Rács minimális mérete"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Minimum csúcs-rácspont mérete"
+
+msgid "Map Effect"
+msgstr "Térkép effektus"
+
+msgid "Map Window Effect"
+msgstr "Ablaktérkép-effektus"
+
+msgid "Focus Effect"
+msgstr "Fókusz effektus"
+
+msgid "Focus Window Effect"
+msgstr "Ablakfókusz-effektus"
+
+msgid "Map Windows"
+msgstr "Ablaktérkép-típusok"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Ablaktípusok, amelyek imbolyoghatnak, amikor térképezettek"
+
+msgid "Focus Windows"
+msgstr "Ablakfókusz-típusok"
+
+msgid "Windows that should wobble when focused"
+msgstr "Ablaktípusok, amelyek imbolyoghatnak fókuszáláskor"
+
+msgid "Grab Windows"
+msgstr "Ablaktípusok érzékelése"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Ablaktípusok, amelyek imbolyoghatnak megfogáskor"
+
+msgid "Move Windows"
+msgstr "Ablak áthelyezése"
+
+msgid "Windows that should wobble when moved"
+msgstr "Ablaktípusok, amelyek imbolyoghatnak áthelyezéskor"
+
+msgid "Maximize Effect"
+msgstr "Maximalizálás effektus"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Imbolygás ablakok maximalizálásakor és visszaállításakor"
+
+msgid "Zoom Desktop"
+msgstr "Munkaasztal nagyítása"
+
+msgid "Zoom and pan desktop cube"
+msgstr "A munkaasztalkocka nagyítása és pásztázása"
+
+msgid "Zoom In"
+msgstr "Nagyítás"
+
+msgid "Zoom Out"
+msgstr "Kicsinyítés"
+
+msgid "Zoom Pan"
+msgstr "Nagyítás"
+
+msgid "Zoom pan"
+msgstr "Nagyítás"
+
+msgid "Zoom Speed"
+msgstr "Nagyítás sebessége"
+
+msgid "Zoom Timestep"
+msgstr "Nagyítás időköz"
+
+msgid "Zoom factor"
+msgstr "Nagyítási arány"
+
+msgid "Filter Linear"
+msgstr "Lineáris szűrő"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Lineáris szűrő használata nagyításnál"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Compiz Start"
+msgstr "Compiz"
+
+#, fuzzy
+msgid "Start Compiz"
+msgstr "Compiz"
+
+msgid "Start or restart Compiz"
+msgstr ""
+
+#~ msgid "Number of Desktops"
+#~ msgstr "Munkaasztalok száma"
+
+#~ msgid "Number of virtual desktops"
+#~ msgstr "Virtuális munkaasztalok száma"
+
+#~ msgid "Action to take when scrolling the mouse wheel on a window title bar."
+#~ msgstr "Az ablak címsorán történő egérgörgő-használat hatása."
+
+#~ msgid "Blur type"
+#~ msgstr "Elmosás típusa"
+
+#~ msgid "Marco theme active window opacity"
+#~ msgstr "Aktív ablak átlátszatlansága"
+
+#~ msgid "Marco theme active window opacity shade"
+#~ msgstr "Felgördített aktív ablak átlátszatlansága"
+
+#~ msgid "Marco theme opacity"
+#~ msgstr "Ablak átlátszatlansága"
+
+#~ msgid "Marco theme opacity shade"
+#~ msgstr "Felgördített ablak átlátszatlansága"
+
+#~ msgid "Opacity to use for active windows with marco theme decorations"
+#~ msgstr "Az aktív ablak átlátszatlansága a díszítő elemekhez"
+
+#~ msgid "Opacity to use for marco theme decorations"
+#~ msgstr "Az ablak átlátszatlansága a díszítő elemekhez"
+
+#~ msgid ""
+#~ "Shade active windows with marco theme decorations from opaque to "
+#~ "translucent"
+#~ msgstr "Felgördített aktív ablak átlátszatlansága a díszítő elemeknél"
+
+#~ msgid ""
+#~ "Shade windows with marco theme decorations from opaque to translucent"
+#~ msgstr "Felgördített ablak átlátszatlansága a díszítő elemeknél"
+
+#~ msgid "Title bar mouse wheel action"
+#~ msgstr "Egérgörgő esemény a címsoron"
+
+#~ msgid "Type of blur used for window decorations"
+#~ msgstr "Az elmosás típusa a díszítő elemekhez"
+
+#~ msgid "Use marco theme"
+#~ msgstr "Marco téma alkalmazása"
+
+#~ msgid "Use marco theme when drawing window decorations"
+#~ msgstr "Marco téma alkalmazása az ablakdíszítések rajzolásakor"
+
+#~ msgid "Line width"
+#~ msgstr "Vonalvastagság"
+
+#~ msgid "Line width for annotations"
+#~ msgstr "Feljegyzések vonalvastagsága"
+
+#~ msgid "GConf"
+#~ msgstr "GConf"
+
+#~ msgid "GConf Control Backend"
+#~ msgstr "GConf vezérlés kiszolgálója"
+
+#~ msgid "Kconfig"
+#~ msgstr "Kconfig"
+
+#~ msgid "Kconfig Control Backend"
+#~ msgstr "Kconfig vezérlés kiszolgálója"
+
+#~ msgid "Decrease"
+#~ msgstr "Csökkentés"
+
+#~ msgid "Increase"
+#~ msgstr "Növelés"
+
+#~ msgid "Screenshot commands"
+#~ msgstr "Képernyőkép parancsok"
+
+#~ msgid "Screenshot key bindings"
+#~ msgstr "Képernyőkép gyorsbillentyű"
+
+#~ msgid "Opacity values for windows that should be translucent by default"
+#~ msgstr "Átlátszatlansági értékek az alapértelmezésként átlátszó ablakokhoz"
+
+#~ msgid "Opacity windows"
+#~ msgstr "Ablakok átlátszatlansága"
+
+#~ msgid "Background images"
+#~ msgstr "Háttérképek"
+
+#~ msgid "Place windows on a plane"
+#~ msgstr "Ablakok elhelyezése a síkon"
+
+#~ msgid "Plane Down"
+#~ msgstr "Gördítés le"
+
+#~ msgid "Plane Left"
+#~ msgstr "Gördítés balra"
+
+#~ msgid "Plane Right"
+#~ msgstr "Gördítés jobbra"
+
+#~ msgid "Plane To Face 1"
+#~ msgstr "Gördítés az 1. előlap felé"
+
+#~ msgid "Plane To Face 10"
+#~ msgstr "Gördítés a 10. előlap felé"
+
+#~ msgid "Plane To Face 11"
+#~ msgstr "Gördítés a 11. előlap felé"
+
+#~ msgid "Plane To Face 12"
+#~ msgstr "Gördítés a 12. előlap felé"
+
+#~ msgid "Plane To Face 2"
+#~ msgstr "Gördítés a 2. előlap felé"
+
+#~ msgid "Plane To Face 3"
+#~ msgstr "Gördítés a 3. előlap felé"
+
+#~ msgid "Plane To Face 4"
+#~ msgstr "Gördítés a 4. előlap felé"
+
+#~ msgid "Plane To Face 5"
+#~ msgstr "Gördítés az 5. előlap felé"
+
+#~ msgid "Plane To Face 6"
+#~ msgstr "Gördítés a 6. előlap felé"
+
+#~ msgid "Plane To Face 7"
+#~ msgstr "Gördítés a 7. előlap felé"
+
+#~ msgid "Plane To Face 8"
+#~ msgstr "Gördítés a 8. előlap felé"
+
+#~ msgid "Plane To Face 9"
+#~ msgstr "Gördítés a 9. előlap felé"
+
+#~ msgid "Plane Up"
+#~ msgstr "Gördítés fel"
+
+#~ msgid "Plane left"
+#~ msgstr "Gördítés balra"
+
+#~ msgid "Plane right"
+#~ msgstr "Gördítés jobbra"
+
+#~ msgid "Plane to face 1"
+#~ msgstr "Gördítés az 1. előlap felé"
+
+#~ msgid "Plane to face 10"
+#~ msgstr "Gördítés a 10. előlap felé"
+
+#~ msgid "Plane to face 11"
+#~ msgstr "Gördítés a 11. előlap felé"
+
+#~ msgid "Plane to face 12"
+#~ msgstr "Gördítés a 12. előlap felé"
+
+#~ msgid "Plane to face 2"
+#~ msgstr "Gördítés a 2. előlap felé"
+
+#~ msgid "Plane to face 3"
+#~ msgstr "Gördítés a 3. előlap felé"
+
+#~ msgid "Plane to face 4"
+#~ msgstr "Gördítés a 4. előlap felé"
+
+#~ msgid "Plane to face 5"
+#~ msgstr "Gördítés az 5. előlap felé"
+
+#~ msgid "Plane to face 6"
+#~ msgstr "Gördítés a 6. előlap felé"
+
+#~ msgid "Plane to face 7"
+#~ msgstr "Gördítés a 7. előlap felé"
+
+#~ msgid "Plane to face 8"
+#~ msgstr "Gördítés a 8. előlap felé"
+
+#~ msgid "Plane to face 9"
+#~ msgstr "Gördítés a 9. előlap felé"
+
+#~ msgid "Plane up"
+#~ msgstr "Gördítés fel"
+
+#~ msgid "Desktop Window Opacity Fade Time."
+#~ msgstr "Munkaasztal ablakelhalványítási ideje"
+
+#~ msgid "Open window menu"
+#~ msgstr "Ablak menü megnyitása"

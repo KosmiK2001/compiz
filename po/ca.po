@@ -1,0 +1,3105 @@
+# Catalan translation for compiz
+# Copyright (C) 2007 SUSE LINUX GmbH, Nuernberg, Germany.
+# This file is distributed under the same license as the compiz package.
+# Anna Mititieri <mitipeiro@yahoo.es>, 2007.
+# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/compiz/compiz-core/issues\n"
+"POT-Creation-Date: 2017-05-04 19:41+0300\n"
+"PO-Revision-Date: 2017-12-08 16:24+0100\n"
+"Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
+"Language-Team: Catalan <opensusecatala@gmail.com>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.5\n"
+
+msgid "Close Window"
+msgstr "Tanca la finestra"
+
+msgid "Unmaximize Window"
+msgstr "Desmaximitza la finestra"
+
+msgid "Maximize Window"
+msgstr "Maximitza la finestra"
+
+msgid "Minimize Window"
+msgstr "Minimitza la finestra"
+
+msgid "Window Menu"
+msgstr "Menú de la finestra"
+
+msgid "Shade"
+msgstr "Ombra"
+
+msgid "Make Above"
+msgstr "Fer a sobre"
+
+msgid "Stick"
+msgstr "Pal"
+
+msgid "Unshade"
+msgstr "Sense ombreig"
+
+msgid "Unmake Above"
+msgstr "Sense fer a sobre"
+
+msgid "Unstick"
+msgstr "Sense pals"
+
+#, c-format
+msgid "The window \"%s\" is not responding."
+msgstr "La finestra «%s» no està responent."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Si es força la sortida d'aquesta aplicació, es perdran els canvis que no "
+"hàgiu desat."
+
+msgid "_Cancel"
+msgstr "_Cancel·la"
+
+msgid "_Force Quit"
+msgstr "_Força'n la sortida"
+
+msgid "Annotate"
+msgstr "Anotació"
+
+msgid "Annotate plugin"
+msgstr "Connector d'anotació"
+
+msgid "Initiate Free Draw"
+msgstr "Inicia el dibuix lliure"
+
+msgid "Initiate freehand drawing"
+msgstr "Inicia el dibuix a ma alçada"
+
+msgid "Initiate Line"
+msgstr "Inicia la línia"
+
+msgid "Initiate line drawing"
+msgstr "Inicia el dibuix de la línia"
+
+msgid "Initiate Rectangle"
+msgstr "Inicia el rectangle"
+
+msgid "Initiate rectangle drawing"
+msgstr "Inicia el dibuix del rectangle"
+
+msgid "Initiate Ellipse"
+msgstr "Inicia l'el·lipse"
+
+msgid "Initiate ellipse drawing"
+msgstr "Inicia el dibuix de l'el·lipse"
+
+msgid "Draw"
+msgstr "Dibuixa"
+
+msgid "Draw using tool"
+msgstr "Dibuixar mitjançant l'eina"
+
+msgid "Initiate erase"
+msgstr "Inicia l'esborrament"
+
+msgid "Initiate annotate erasing"
+msgstr "Inicia l'esborrament de l'anotació"
+
+msgid "Clear"
+msgstr "Neteja"
+
+msgid "Toggle center shape"
+msgstr "Commuta el centre de la figura"
+
+msgid ""
+"Toggle whether the current shape is drawn using the center of your initial "
+"click"
+msgstr ""
+"Commuta si la forma actual es dibuixa amb el centre del vostre clic inicial"
+
+msgid "Annotate Fill Color"
+msgstr "Color d'ompliment de l'anotació"
+
+msgid "Fill color for annotations"
+msgstr "Color d'ompliment per a les anotacions"
+
+msgid "Annotate Stroke Color"
+msgstr "Color del traç de l'anotació"
+
+msgid "Stroke color for annotations"
+msgstr "Color del traç per a les anotacions"
+
+msgid "Stroke width"
+msgstr "Amplada del traç"
+
+msgid "Stroke width for annotations"
+msgstr "Amplada del traç per a les anotacions"
+
+msgid "Blur Windows"
+msgstr "Desenfocament de les finestres"
+
+msgid "Blur windows"
+msgstr "Desenfoca les finestres"
+
+msgid "Pulse"
+msgstr "Pols"
+
+msgid "Pulse effect"
+msgstr "Efecte de pols"
+
+msgid "Blur Speed"
+msgstr "Velocitat del desenfocament"
+
+msgid "Window blur speed"
+msgstr "Velocitat de desenfocament de les finestres"
+
+msgid "Focus blur windows"
+msgstr "Focus de les finestres desenfocades"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Finestres que es veuen afectades amb el desenfocament del focus"
+
+msgid "Focus Blur"
+msgstr "Desenfocament del focus"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Desenfoca les finestres que no tenen el focus"
+
+msgid "Alpha blur windows"
+msgstr "Desenfocament alfa de les finestres"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr ""
+"Finestres que han d'utilitzar el desenfocament alfa de manera predeterminada"
+
+msgid "Alpha Blur"
+msgstr "Desenfocament alfa"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Desenfoca les parts translúcides darrere de les finestres"
+
+msgid "Blur Filter"
+msgstr "Filtre de desenfocament"
+
+msgid "Filter method used for blurring"
+msgstr "Mètode de filtratge utilitzat per al desenfocament"
+
+msgid "4xBilinear"
+msgstr "4xBilinear"
+
+msgid "Gaussian"
+msgstr "Gaussià"
+
+msgid "Mipmap"
+msgstr "Mipmap"
+
+msgid "Gaussian Radius"
+msgstr "Radi gaussià"
+
+msgid "Gaussian radius"
+msgstr "Radi gaussià"
+
+msgid "Gaussian Strength"
+msgstr "Intensitat gaussiana"
+
+msgid "Gaussian strength"
+msgstr "Intensitat gaussiana"
+
+msgid "Mipmap LOD"
+msgstr "Nivell del detall del Mipmap"
+
+msgid "Mipmap level-of-detail"
+msgstr "Nivell del detall del Mipmap"
+
+msgid "Blur Saturation"
+msgstr "Saturació del desenfocament"
+
+msgid "Blur saturation"
+msgstr "Saturació del desenfocament"
+
+msgid "Blur Occlusion"
+msgstr "Oclusió del desenfocament"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr ""
+"Inhabilita el desenfocament de les regions de pantalla enfosquides per "
+"altres finestres."
+
+msgid "Independent texture fetch"
+msgstr "Captura de textura independent"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Utilitza les unitats de les textures disponibles per a fer el nombre màxim "
+"possible de captures de textures independents."
+
+msgid "Clone Output"
+msgstr "Clonatge de la sortida"
+
+msgid "Output clone handler"
+msgstr "Gestor del clonatge de la sortida"
+
+msgid "Initiate"
+msgstr "Inicia"
+
+msgid "Initiate clone selection"
+msgstr "Inicia la selecció del clonatge"
+
+msgid "Commands"
+msgstr "Ordres"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Assigna les vinculacions a ordres arbitràries"
+
+msgid "Command line 0"
+msgstr "Línia d'ordres 0"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command0"
+
+msgid "Command line 1"
+msgstr "Línia d'ordres 1"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command1"
+
+msgid "Command line 2"
+msgstr "Línia d'ordres 2"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command2"
+
+msgid "Command line 3"
+msgstr "Línia d'ordres 3"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command3"
+
+msgid "Command line 4"
+msgstr "Línia d'ordres 4"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command4"
+
+msgid "Command line 5"
+msgstr "Línia d'ordres 5"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command5"
+
+msgid "Command line 6"
+msgstr "Línia d'ordres 6"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command6"
+
+msgid "Command line 7"
+msgstr "Línia d'ordres 7"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command7"
+
+msgid "Command line 8"
+msgstr "Línia d'ordres 8"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command8"
+
+msgid "Command line 9"
+msgstr "Línia d'ordres 9"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command9"
+
+msgid "Command line 10"
+msgstr "Línia d'ordres 10"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command10"
+
+msgid "Command line 11"
+msgstr "Línia d'ordres 11"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command11"
+
+msgid "Command line 12"
+msgstr "Línia d'ordres 12"
+
+msgid "Command line to be executed in shell when run_command12 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command12"
+
+msgid "Command line 13"
+msgstr "Línia d'ordres 13"
+
+msgid "Command line to be executed in shell when run_command13 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command13"
+
+msgid "Command line 14"
+msgstr "Línia d'ordres 14"
+
+msgid "Command line to be executed in shell when run_command14 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command14"
+
+msgid "Command line 15"
+msgstr "Línia d'ordres 15"
+
+msgid "Command line to be executed in shell when run_command15 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command15"
+
+msgid "Command line 16"
+msgstr "Línia d'ordres 16"
+
+msgid "Command line to be executed in shell when run_command16 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command16"
+
+msgid "Command line 17"
+msgstr "Línia d'ordres 17"
+
+msgid "Command line to be executed in shell when run_command17 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command17"
+
+msgid "Command line 18"
+msgstr "Línia d'ordres 18"
+
+msgid "Command line to be executed in shell when run_command18 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command18"
+
+msgid "Command line 19"
+msgstr "Línia d'ordres 19"
+
+msgid "Command line to be executed in shell when run_command19 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command19"
+
+msgid "Command line 20"
+msgstr "Línia d'ordres 20"
+
+msgid "Command line to be executed in shell when run_command20 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command20"
+
+msgid "Command line 21"
+msgstr "Línia d'ordres 21"
+
+msgid "Command line to be executed in shell when run_command21 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command21"
+
+msgid "Command line 22"
+msgstr "Línia d'ordres 22"
+
+msgid "Command line to be executed in shell when run_command22 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command22"
+
+msgid "Command line 23"
+msgstr "Línia d'ordres 23"
+
+msgid "Command line to be executed in shell when run_command23 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command23"
+
+msgid "Command line 24"
+msgstr "Línia d'ordres 24"
+
+msgid "Command line to be executed in shell when run_command24 is invoked"
+msgstr "Línia d'ordres que s'executarà al shell quan s'invoqui run_command24"
+
+msgid "Key Bindings"
+msgstr "Vinculació de les tecles"
+
+msgid "Run command 0"
+msgstr "Executa l'ordre 0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command0"
+
+msgid "Run command 1"
+msgstr "Executa l'ordre 1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command1"
+
+msgid "Run command 2"
+msgstr "Executa l'ordre 2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command2"
+
+msgid "Run command 3"
+msgstr "Executa l'ordre 3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command3"
+
+msgid "Run command 4"
+msgstr "Executa l'ordre 4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command4"
+
+msgid "Run command 5"
+msgstr "Executa l'ordre 5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command5"
+
+msgid "Run command 6"
+msgstr "Executa l'ordre 6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command6"
+
+msgid "Run command 7"
+msgstr "Executa l'ordre 7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command7"
+
+msgid "Run command 8"
+msgstr "Executa l'ordre 8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command8"
+
+msgid "Run command 9"
+msgstr "Executa l'ordre 9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command9"
+
+msgid "Run command 10"
+msgstr "Executa l'ordre 10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command10"
+
+msgid "Run command 11"
+msgstr "Executa l'ordre 11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command11"
+
+msgid "Run command 12"
+msgstr "Executa l'ordre 12"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command12"
+
+msgid "Run command 13"
+msgstr "Executa l'ordre 13"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command13"
+
+msgid "Run command 14"
+msgstr "Executa l'ordre 14"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command14"
+
+msgid "Run command 15"
+msgstr "Executa l'ordre 15"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command15"
+
+msgid "Run command 16"
+msgstr "Executa l'ordre 16"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command16"
+
+msgid "Run command 17"
+msgstr "Executa l'ordre 17"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command17"
+
+msgid "Run command 18"
+msgstr "Executa l'ordre 18"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command18"
+
+msgid "Run command 19"
+msgstr "Executa l'ordre 19"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command19"
+
+msgid "Run command 20"
+msgstr "Executa l'ordre 20"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command20"
+
+msgid "Run command 21"
+msgstr "Executa l'ordre 21"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command21"
+
+msgid "Run command 22"
+msgstr "Executa l'ordre 22"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command22"
+
+msgid "Run command 23"
+msgstr "Executa l'ordre 23"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command23"
+
+msgid "Run command 24"
+msgstr "Executa l'ordre 24"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Una assignació de tecles que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command24"
+
+msgid "Button Bindings"
+msgstr "Vinculacions dels botons"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command9"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command11"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command12"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command13"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command14"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command15"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command16"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command17"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command18"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command19"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command20"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command21"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command22"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command23"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Una assignació de botons que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command24"
+
+msgid "Edge Bindings"
+msgstr "Vinculació de les vores"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command0"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command1"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command2"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command3"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command4"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command5"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command6"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command7"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command8"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command9"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command10"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command11"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command12"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command12"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command13"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command13"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command14"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command14"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command15"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command15"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command16"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command16"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command17"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command17"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command18"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command18"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command19"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command19"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command20"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command20"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command21"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command21"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command22"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command22"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command23"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command23"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command24"
+msgstr ""
+"Una assignació de la vora que quan s'invoqui executarà l'ordre del shell "
+"identificada amb command24"
+
+msgid "General Options"
+msgstr "Opcions generals"
+
+msgid "General compiz options"
+msgstr "Opcions generals de compiz"
+
+msgid "Active Plugins"
+msgstr "Connectors habilitats"
+
+msgid "List of currently active plugins"
+msgstr "Llista dels connectors actius actualment"
+
+msgid "Audible Bell"
+msgstr "Avís sonor"
+
+msgid "Audible system beep"
+msgstr "So d'avís audible del sistema"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Ignora els suggeriments amb la maximització"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Ignora els suggeriments de l'increment de mida i de l'aspecte quan la "
+"finestra estigui maximitzada"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Oculta les finestres ignorades de la barra de tasques"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"Oculta les finestres que no estiguin a la barra de tasques quan s'accedeixi "
+"al mode de mostra l'escriptori"
+
+msgid "Edge Trigger Delay"
+msgstr "Retard d'activació de la vora"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"El temps que el punter ha de descansar en una vora de la pantalla abans que "
+"es realitzi una acció de vora."
+
+msgid "Cursor theme"
+msgstr "Tema del cursor"
+
+msgid "Cursor theme name"
+msgstr "El nom del tema del cursor"
+
+msgid "Cursor size"
+msgstr "Mida del cursor"
+
+msgid "Size of the cursor"
+msgstr "Mida del cursor"
+
+msgid "Ping Delay"
+msgstr "Retard del ping"
+
+msgid "Interval between ping messages"
+msgstr "Interval entre missatges de ping"
+
+msgid "Display Settings"
+msgstr "Ajusts de la pantalla"
+
+msgid "Texture Filter"
+msgstr "Filtre de la textura"
+
+msgid "Texture filtering"
+msgstr "Filtratge de la textura"
+
+msgid "Fast"
+msgstr "Ràpid"
+
+msgid "Good"
+msgstr "Bo"
+
+msgid "Best"
+msgstr "Millor"
+
+msgid "Focus &amp; Raise Behavior"
+msgstr "Comportament del focus i de l'elevació"
+
+msgid "Click To Focus"
+msgstr "En fer clic es passa el focus"
+
+msgid "Click on window moves input focus to it"
+msgstr "En fer clic a la finestra, aquesta rep el focus d'entrada"
+
+msgid "Raise On Click"
+msgstr "Elevació en fer clic"
+
+msgid "Raise windows when clicked"
+msgstr "Eleva les finestres en fer clic"
+
+msgid "Auto-Raise"
+msgstr "Elevació automàtica"
+
+msgid "Raise selected windows after interval"
+msgstr "Eleva les finestres seleccionades un cop transcorregut l'interval"
+
+msgid "Auto-Raise Delay"
+msgstr "Retard de l'elevació automàtica"
+
+msgid "Interval before raising selected windows"
+msgstr "Interval abans d'elevar les finestres seleccionades"
+
+msgid "Key bindings"
+msgstr "Vinculació de les tecles"
+
+msgid "Close active window"
+msgstr "Tanca la finestra activa"
+
+msgid "Raise Window"
+msgstr "Eleva la finestra"
+
+msgid "Raise window above other windows"
+msgstr "Eleva la finestra per damunt de les altres"
+
+msgid "Lower Window"
+msgstr "Abaixa la finestra"
+
+msgid "Lower window beneath other windows"
+msgstr "Abaixa la finestra per sota de les altres"
+
+msgid "Unmaximize active window"
+msgstr "Desmaximitza la finestra activa"
+
+msgid "Minimize active window"
+msgstr "Minimitza la finestra activa"
+
+msgid "Maximize active window"
+msgstr "Maximitza la finestra activa"
+
+msgid "Maximize Window Horizontally"
+msgstr "Maximitza la finestra horitzontalment"
+
+msgid "Maximize active window horizontally"
+msgstr "Maximitza la finestra activa horitzontalment"
+
+msgid "Maximize Window Vertically"
+msgstr "Maximitza la finestra verticalment"
+
+msgid "Maximize active window vertically"
+msgstr "Maximitza la finestra activa verticalment"
+
+msgid "Window menu button binding"
+msgstr "Vinculació del botó del menú de la finestra"
+
+msgid "Window menu key binding"
+msgstr "Vinculació de la tecla del menú de la finestra"
+
+msgid "Show Desktop"
+msgstr "Mostra l'escriptori"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Oculta totes les finestres i passa el focus a l'escriptori"
+
+msgid "Toggle Window Maximized"
+msgstr "Commuta la finestra maximitzada"
+
+msgid "Toggle active window maximized"
+msgstr "Commuta la finestra activa maximitzada"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Commuta la finestra maximitzada horitzontalment"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Commuta la finestra activa maximitzada horitzontalment"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Commuta la finestra maximitzada verticalment"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Commuta la finestra activa maximitzada verticalment"
+
+msgid "Toggle Window Shaded"
+msgstr "Commuta la finestra ombrejada"
+
+msgid "Toggle active window shaded"
+msgstr "Commuta la finestra activa ombrejada"
+
+msgid "Slow Animations"
+msgstr "Animacions lentes"
+
+msgid "Toggle use of slow animations"
+msgstr "Commuta l'ús d'animacions lentes"
+
+msgid "Desktop Size"
+msgstr "Mida de l'escriptori"
+
+msgid "Horizontal Virtual Size"
+msgstr "Mida virtual horitzontal"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr ""
+"Multiplicador de la mida de la pantalla per a la mida virtual horitzontal"
+
+msgid "Vertical Virtual Size"
+msgstr "Mida virtual vertical"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Multiplicador de la mida de la pantalla per a la mida virtual vertical"
+
+msgid "Lighting"
+msgstr "Il·luminació"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Utilitza la llum de difusió quan es transformi la pantalla"
+
+msgid "Detect Refresh Rate"
+msgstr "Detecta la freqüència d'actualització"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Detecció automàtica de la freqüència d'actualització"
+
+msgid "Refresh Rate"
+msgstr "Freqüència d'actualització"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "La velocitat a la qual es torna a dibuixar la pantalla (vegades/segon)"
+
+msgid "Detect Outputs"
+msgstr "Detecta les sortides"
+
+msgid "Automatic detection of output devices"
+msgstr "Detecció automàtica dels dispositius de sortida"
+
+msgid "Overlapping Output Handling"
+msgstr "Gestió de la superposició de la sortida"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Quin dels dispositius de sortida es prefereix per a la superposició"
+
+msgid "Smart mode"
+msgstr "Mode intel·ligent"
+
+msgid "Prefer larger output"
+msgstr "Es prefereix una sortida més gran"
+
+msgid "Prefer smaller output"
+msgstr "Es prefereix una sortida més petita"
+
+msgid "Outputs"
+msgstr "Sortida"
+
+msgid "List of strings describing output devices"
+msgstr "Llista de les cadenes que descriuen els dispositius de sortida"
+
+msgid "Sync To VBlank"
+msgstr "Sincronitza amb l'enfosquiment vertical"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"Només actualitza la pantalla durant els períodes d'enfosquiment vertical"
+
+msgid "Focus Prevention Level"
+msgstr "Nivell de la prevenció del focus"
+
+msgid "Level of focus stealing prevention"
+msgstr "Nivell de prevenció del robatori del focus"
+
+msgid "Off"
+msgstr "Apagat"
+
+msgid "Low"
+msgstr "Baix"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "High"
+msgstr "Alt"
+
+msgid "Very High"
+msgstr "Molt alt"
+
+msgid "Focus Prevention Windows"
+msgstr "Finestres de la prevenció del focus"
+
+msgid "Focus prevention windows"
+msgstr "Finestres de la prevenció del focus"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "No redirigeixis les finestres a pantalla completa"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Permet que la representació de finestres a pantalla completa no es "
+"redirigeixi cap als pixmaps de fora de la pantalla"
+
+msgid "Default Icon"
+msgstr "Icona predeterminada"
+
+msgid "Default window icon image"
+msgstr "Imatge de la icona de la finestra predeterminada"
+
+msgid "Force independent output painting."
+msgstr "Força el dibuix independentment de la sortida."
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Dibuixa cada dispositiu de sortida de manera independent, fins i tot si se "
+"superposen els dispositius de sortida"
+
+msgid "Texture Compression"
+msgstr "Compressió de la textura"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+"Si estigués disponible, utilitza la compressió per a les textures que es "
+"converteixin des d'imatges"
+
+msgid "Desktop Cube"
+msgstr "Cub de l'escriptori"
+
+msgid "Place windows on cube"
+msgstr "Posiciona les finestres al cub"
+
+msgid "Unfold"
+msgstr "Desplega"
+
+msgid "Unfold cube"
+msgstr "Desplega el cub"
+
+msgid "Next Slide"
+msgstr "Següent lliscament"
+
+msgid "Advance to next slide"
+msgstr "Avança al següent lliscament"
+
+msgid "Prev Slide"
+msgstr "Anterior lliscament"
+
+msgid "Go back to previous slide"
+msgstr "Retrocedeix a l'anterior lliscament"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+"Genera els mipmaps sempre que sigui possible per a un escalament de millor "
+"qualitat"
+
+msgid "Multi Output Mode"
+msgstr "Mode de sortida múltiple"
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr ""
+"Selecciona com es mostra el cub si s'utilitzen múltiples dispositius de "
+"sortida."
+
+msgid "Automatic"
+msgstr "Automàtic"
+
+msgid "Multiple cubes"
+msgstr "Cubs múltiples"
+
+msgid "One big cube"
+msgstr "Un cub gran"
+
+msgid "Behavior"
+msgstr "Comportament"
+
+msgid "Inside Cube"
+msgstr "Interior del cub"
+
+msgid "Inside cube"
+msgstr "Interior del cub"
+
+msgid "Acceleration"
+msgstr "Acceleració"
+
+msgid "Fold Acceleration"
+msgstr "Acceleració del plegament"
+
+msgid "Speed"
+msgstr "Velocitat"
+
+msgid "Fold Speed"
+msgstr "Velocitat del plegament"
+
+msgid "Timestep"
+msgstr "Gradual"
+
+msgid "Fold Timestep"
+msgstr "Plegament gradual"
+
+msgid "Appearance"
+msgstr "Aparença"
+
+msgid "Cube Color"
+msgstr "Color del cub"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Color de les cares superior i inferior del cub"
+
+msgid "Cube Caps"
+msgstr "Tapes del cub"
+
+msgid "Scale image"
+msgstr "Escala la imatge"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Escala les imatges per a cobrir la cara superior del cub"
+
+msgid "Image files"
+msgstr "Fitxers d'imatges"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Llista dels fitxers PNG i SVG que s'hauran de representar a la cara superior "
+"del cub"
+
+msgid "Adjust Image"
+msgstr "Ajusta la imatge"
+
+msgid "Adjust top face image to rotation"
+msgstr "Ajusta la imatge de la cara superior en girar"
+
+msgid "Skydome"
+msgstr "Cúpula"
+
+msgid "Render skydome"
+msgstr "Renderitza la cúpula"
+
+msgid "Skydome Image"
+msgstr "Imatge de la cúpula"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Imatge que s'utilitzarà com a textura per a la cúpula"
+
+msgid "Animate Skydome"
+msgstr "Cúpula animada"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Representació animada de la cúpula en girar el cub"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Color inicial del degradat de la cúpula"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr ""
+"El color que s'utilitzarà com a color d'aturada superior del degradat "
+"alternatiu de la cúpula"
+
+msgid "Skydome Gradient End Color"
+msgstr "Color final del degradat de la cúpula"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr ""
+"El color que s'utilitzarà com a color d'aturada inferior del degradat "
+"alternatiu de la cúpula"
+
+msgid "Transparent Cube"
+msgstr "Cub transparent"
+
+msgid "Opacity During Rotation"
+msgstr "Opacitat mentre es gira"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "L'opacitat de la finestra de l'escriptori mentre es gira."
+
+msgid "Opacity When Not Rotating"
+msgstr "Opacitat quan no es gira"
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "L'opacitat de la finestra de l'escriptori quan no es gira."
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Transparència únicament amb el gir del ratolí"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr ""
+"Inicia la transparència del cub només si la rotació està impulsada pel "
+"ratolí."
+
+msgid "D-Bus"
+msgstr "D-Bus"
+
+msgid "D-Bus Control Backend"
+msgstr "Rerefons de control D-Bus"
+
+msgid "Window Decoration"
+msgstr "Decoració de la finestra"
+
+msgid "Window decorations"
+msgstr "Decoracions de finestres"
+
+msgid "Shadow Radius"
+msgstr "Radi de l'ombra"
+
+msgid "Drop shadow radius"
+msgstr "Radi de l'ombra paral·lela"
+
+msgid "Shadow Opacity"
+msgstr "Opacitat de l'ombra"
+
+msgid "Drop shadow opacity"
+msgstr "Opacitat de l'ombra paral·lela"
+
+msgid "Shadow Color"
+msgstr "Color de l'ombra"
+
+msgid "Drop shadow color"
+msgstr "Color de l'ombra paral·lela"
+
+msgid "Shadow Offset X"
+msgstr "Desplaçament X de l'ombra"
+
+msgid "Drop shadow X offset"
+msgstr "Desplaçament X de l'ombra paral·lela"
+
+msgid "Shadow Offset Y"
+msgstr "Desplaçament Y de l'ombra"
+
+msgid "Drop shadow Y offset"
+msgstr "Desplaçament Y de l'ombra paral·lela"
+
+msgid "Command"
+msgstr "Ordre"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Línia d'ordres del decorador que s'executa si no s'està executant cap "
+"decorador"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Permet que els mipmaps es generin per a les textures de decoració"
+
+msgid "Decoration windows"
+msgstr "Finestres amb decoració"
+
+msgid "Windows that should be decorated"
+msgstr "Finestres que s'han de decorar"
+
+msgid "Shadow windows"
+msgstr "Finestres amb ombra"
+
+msgid "Windows that should have a shadow"
+msgstr "Finestres que han de tenir una ombra"
+
+msgid "Fading Windows"
+msgstr "Esvaïment de finestres"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Es fan aparèixer progressivament les finestres quan s'assignen i s'esvaeixen "
+"quan no estan assignades"
+
+msgid "Fade Mode"
+msgstr "Mode d'esvaïment"
+
+msgid "Window fade mode"
+msgstr "Mode d'esvaïment de la finestra"
+
+msgid "Constant speed"
+msgstr "Velocitat constant"
+
+msgid "Constant time"
+msgstr "Temps constant"
+
+msgid "Fade Speed"
+msgstr "Velocitat de l'esvaïment"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Velocitat d'esvaïment de la finestra al mode «Temps constant»"
+
+msgid "Fade Time"
+msgstr "Temps d'esvaïment"
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "Temps d'esvaïment de la finestra (en ms) al mode «Temps constant»"
+
+msgid "Fade windows"
+msgstr "Esvaïment de les finestres"
+
+msgid "Windows that should be fading"
+msgstr "Finestres que s'han d'esvair"
+
+msgid "Visual Bell"
+msgstr "Campana visual"
+
+msgid "Fade effect on system beep"
+msgstr "Efecte d'esvaïment amb el so d'avís del sistema"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Campana visual a pantalla completa"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr "Efecte d'esvaïment a pantalla completa amb el so d'avís del sistema"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Esvaïment en minimitzar, obrir o tancar"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr ""
+"Esvaïment amb els esdeveniments de minimitzar, obrir o tancar la finestra"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Dimensiona les finestres no receptives"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr ""
+"Dimensiona les finestres que no estiguin responent a les peticions del "
+"gestor de finestres"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Brillantor de les finestres no receptives"
+
+#, no-c-format
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Brillantor (en %) de les finestres no receptives"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Saturació de les finestres no receptives"
+
+#, no-c-format
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Saturació (en %) de les finestres no receptives"
+
+msgid "Userspace File System"
+msgstr "Sistema de fitxers de l'espai d'usuari"
+
+msgid "Userspace file system"
+msgstr "Sistema de fitxers de l'espai d'usuari"
+
+msgid "Mount Point"
+msgstr "Punt de muntatge"
+
+msgid "Mount point"
+msgstr "Punt de muntatge"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Compatibilitat amb el bucle principal de GLib"
+
+msgid "MATE Compatibility"
+msgstr "Compatibilitat amb MATE"
+
+msgid "Options that keep Compiz compatible to the MATE desktop environment"
+msgstr "Opcions que mantenen Compiz compatible amb l'entorn d'escriptori MATE"
+
+msgid "Show Main Menu"
+msgstr "Mostra el menú principal"
+
+msgid "Show the main menu"
+msgstr "Mostra el menú principal"
+
+msgid "Run Dialog"
+msgstr "Diàleg d'execució"
+
+msgid "Show Run Application dialog"
+msgstr "Mostra el diàleg d'execució d'aplicacions"
+
+msgid "Screenshot command line"
+msgstr "Línia d'ordres de la captura de pantalla"
+
+msgid "Take a screenshot"
+msgstr "Fes una captura de pantalla"
+
+msgid "Window screenshot command line"
+msgstr "Línia d'ordres de la captura de pantalla de la finestra"
+
+msgid "Take a screenshot of a window"
+msgstr "Fes una captura de pantalla d'una finestra"
+
+msgid "Run terminal command"
+msgstr "Executa la línia d'ordres"
+
+msgid "Terminal command line"
+msgstr "Línia d'ordres del terminal"
+
+msgid "Open a terminal"
+msgstr "Obre un terminal"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Rerefons del fitxer pla ini"
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "File change notification plugin"
+msgstr "Connector de notificació de canvi al fitxer"
+
+msgid "Minimize Effect"
+msgstr "Efecte de minimització"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Transforma les finestres quan es minimitzen i es maximitzen"
+
+msgid "Minimize speed"
+msgstr "Minimitza la velocitat"
+
+msgid "Minimize timestep"
+msgstr "Minimització gradual"
+
+msgid "Minimize Windows"
+msgstr "Minimitza les finestres"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Finestres que s'han de transformar quan es minimitzin"
+
+msgid "Shade Resistance"
+msgstr "Resistència a l'ombra"
+
+msgid "Shade resistance"
+msgstr "Resistència a l'ombra"
+
+msgid "Move Window"
+msgstr "Moviment de la finestra"
+
+msgid "Move window"
+msgstr "Mou la finestra"
+
+msgid "Initiate Window Move"
+msgstr "Inicia el moviment de la finestra"
+
+msgid "Start moving window"
+msgstr "Comença el moviment de la finestra"
+
+msgid "Opacity"
+msgstr "Opacitat"
+
+msgid "Opacity level of moving windows"
+msgstr "Nivell d'opacitat de les finestres en moviment"
+
+msgid "Constrain Y"
+msgstr "Restringeix Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Restringeix la coordenada Y a l'àrea de l'espai de treball"
+
+msgid "Snapoff maximized windows"
+msgstr "Separa les finestres maximitzades"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr "Separa i desmaximitza les finestres maximitzades en arrossegar"
+
+msgid "Lazy Positioning"
+msgstr "Posicionament mandrós"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"No actualitzis la posició del costat del servidor de les finestres fins que "
+"acabi el moviment"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Opacitat, brillantor i saturació"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Ajusts de l'opacitat, la brillantor i la saturació"
+
+msgid "Increase Opacity"
+msgstr "Augmenta l'opacitat"
+
+msgid "Opacity Increase"
+msgstr "Augment de l'opacitat"
+
+msgid "Decrease Opacity"
+msgstr "Redueix l'opacitat"
+
+msgid "Opacity Decrease"
+msgstr "Reducció de l'opacitat"
+
+msgid "Brightness"
+msgstr "Brillantor"
+
+msgid "Increase Brightness"
+msgstr "Augmenta la brillantor"
+
+msgid "Brightness Increase"
+msgstr "Augment de la brillantor"
+
+msgid "Decrease Brightness"
+msgstr "Redueix la brillantor"
+
+msgid "Brightness Decrease"
+msgstr "Reducció de la brillantor"
+
+msgid "Saturation"
+msgstr "Saturació"
+
+msgid "Increase Saturation"
+msgstr "Augmenta la saturació"
+
+msgid "Saturation Increase"
+msgstr "Augment de la saturació"
+
+msgid "Decrease Saturation"
+msgstr "Redueix la saturació"
+
+msgid "Saturation Decrease"
+msgstr "Reducció de la saturació"
+
+msgid "Step"
+msgstr "Gradual"
+
+msgid "Opacity Step"
+msgstr "Opacitat gradual"
+
+msgid "Window specific settings"
+msgstr "Ajusts específics de la finestra"
+
+msgid "Windows"
+msgstr "Finestres"
+
+msgid "Windows that should have a different opacity by default"
+msgstr ""
+"Finestres que han de tenir una opacitat diferent de manera predeterminada"
+
+msgid "Window values"
+msgstr "Valors de la finestra"
+
+msgid "Opacity values for windows"
+msgstr "Valors de l'opacitat per a les finestres"
+
+msgid "Brightness Step"
+msgstr "Brillantor gradual"
+
+msgid "Windows that should have a different brightness by default"
+msgstr ""
+"Finestres que han de tenir una brillantor diferent de manera predeterminada"
+
+msgid "Brightness values for windows"
+msgstr "Valors de la brillantor per a les finestres"
+
+msgid "Saturation Step"
+msgstr "Saturació gradual"
+
+msgid "Windows that should have a different saturation by default"
+msgstr ""
+"Finestres que han de tenir una saturació diferent de manera predeterminada"
+
+msgid "Saturation values for windows"
+msgstr "Valors de la saturació per a les finestres"
+
+msgid "Place Windows"
+msgstr "Posicionament de les finestres"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "Posiciona les finestres en les posicions adequades quan s'assignin"
+
+msgid "Workarounds"
+msgstr "Reparacions"
+
+msgid "Window placement workarounds"
+msgstr "Solucions alternatives per al posicionament de les finestres"
+
+msgid "Placement Mode"
+msgstr "Mode de posicionament"
+
+msgid "Algorithm to use for window placement"
+msgstr "Algoritme a utilitzar per al posicionament de les finestres"
+
+msgid "Cascade"
+msgstr "Cascada"
+
+msgid "Centered"
+msgstr "Centrat"
+
+msgid "Smart"
+msgstr "Intel·ligent"
+
+msgid "Maximize"
+msgstr "Minimitza"
+
+msgid "Random"
+msgstr "Aleatori"
+
+msgid "Under pointer"
+msgstr "A sota del punter"
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Selecciona com s'ha de comportar el posicionament de les finestres si se "
+"seleccionen múltiples sortides"
+
+msgid "Use active output device"
+msgstr "Utilitza el dispositiu de sortida actiu"
+
+msgid "Use output device with pointer"
+msgstr "Utilitza el dispositiu de sortida amb el punter"
+
+msgid "Use output device of focused window"
+msgstr "Utilitza el dispositiu de sortida de la finestra amb focus"
+
+msgid "Place across all outputs"
+msgstr "Posiciona a través de totes les sortides"
+
+msgid "Force Placement Windows"
+msgstr "Finestres amb posicionament forçat"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Finestres que s'han de posicionar forçosament, fins i tot si indiquessin que "
+"el gestor de finestres hauria d'evitar posicionar-les."
+
+msgid "Fixed Window Placement"
+msgstr "Posicionament fix de les finestres"
+
+msgid "Windows with fixed positions"
+msgstr "Finestres amb posicions fixes"
+
+msgid "Positioned windows"
+msgstr "Finestres posicionades"
+
+msgid "Windows that should be positioned by default"
+msgstr "Finestres que s'han de posicionar de manera predeterminada"
+
+msgid "X Positions"
+msgstr "Posicions de les X"
+
+msgid "X position values"
+msgstr "Valors de la posició X"
+
+msgid "Y Positions"
+msgstr "Posicions de les Y"
+
+msgid "Y position values"
+msgstr "Valors de la posició Y"
+
+msgid "Keep In Workarea"
+msgstr "Mantén a l'àrea de treball"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr ""
+"Mantén la finestra posicionada a l'àrea de treball, fins i tot si això "
+"significa que la posició difereix de la posició especificada"
+
+msgid "Windows with fixed placement mode"
+msgstr "Finestres amb mode de posicionament fix"
+
+msgid "Windows that should have a certain positioning mode"
+msgstr "Finestres que han de tenir un cert mode de posicionament"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Positioning modes"
+msgstr "Modes de posicionament"
+
+msgid "Windows with fixed viewport"
+msgstr "Finestres amb l'àrea de visualització fixa"
+
+msgid "Viewport positioned windows"
+msgstr "Finestres posicionades a l'àrea de visualització"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+"Finestres que s'han de posicionar en àrees de visualització específiques de "
+"manera predeterminada"
+
+msgid "X Viewport Positions"
+msgstr "Posicions de l'àrea de visualització X"
+
+msgid "Horizontal viewport positions"
+msgstr "Posicions de l'àrea de visualització horitzontal"
+
+msgid "Y Viewport Positions"
+msgstr "Posicions de l'àrea de visualització Y"
+
+msgid "Vertical viewport positions"
+msgstr "Posicions de l'àrea de visualització vertical"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Carregador d'imatges png"
+
+msgid "Regex Matching"
+msgstr "Coincidència de l'expressió regular"
+
+msgid "Regex window matching"
+msgstr "Coincidència de l'expressió regular de la finestra"
+
+msgid "Resize Window"
+msgstr "Redimensionament de la finestra"
+
+msgid "Resize window"
+msgstr "Redimensionament de la finestra"
+
+msgid "Bindings"
+msgstr "Vinculacions"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Inicia el redimensionament normal de la finestra"
+
+msgid "Start resizing window normally"
+msgstr "Comença el redimensionament normal de la finestra"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Inicia el redimensionament de la finestra amb el contorn"
+
+msgid "Start resizing window with outline"
+msgstr "Comença el redimensionament de la finestra amb el contorn"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Inicia el redimensionament de la finestra amb el rectangle"
+
+msgid "Start resizing window with rectangle"
+msgstr "Comença el redimensionament de la finestra amb el rectangle"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Inicia el redimensionament de la finestra amb l'estirament"
+
+msgid "Start resizing window by stretching it"
+msgstr "Comença el redimensionament de la finestra amb l'estirament"
+
+msgid "Initiate Window Resize"
+msgstr "Inicia el redimensionament de la finestra"
+
+msgid "Start resizing window"
+msgstr "Comença el redimensionament de la finestra"
+
+msgid "Default Resize Mode"
+msgstr "Mode de redimensionament predeterminat"
+
+msgid "Default mode used for window resizing"
+msgstr ""
+"Mode predeterminat que s'utilitza per al redimensionament de la finestra"
+
+msgid "Outline"
+msgstr "Contorn"
+
+msgid "Rectangle"
+msgstr "Rectangle"
+
+msgid "Stretch"
+msgstr "Estirament"
+
+msgid "Border Color"
+msgstr "Color del contorn"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"Color del contorn que s'utilitza per als modes de redimensionament amb "
+"contorn i rectangle"
+
+msgid "Fill Color"
+msgstr "Color d'ompliment"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr ""
+"Color d'ompliment que s'utilitza per al mode de redimensionament amb "
+"rectangle"
+
+msgid "Normal Resize Windows"
+msgstr "Finestres amb redimensionament normal"
+
+msgid "Windows that normal resize should be used for"
+msgstr ""
+"Les finestres amb les quals s'ha de realitzar el redimensionament normal"
+
+msgid "Outline Resize Windows"
+msgstr "Finestres amb redimensionament amb contorn"
+
+msgid "Windows that outline resize should be used for"
+msgstr ""
+"Les finestres amb les quals s'ha de realitzar el redimensionament amb contorn"
+
+msgid "Rectangle Resize Windows"
+msgstr "Finestres amb redimensionament de rectangle"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr ""
+"Les finestres amb les quals s'ha de realitzar el redimensionament de "
+"rectangle"
+
+msgid "Stretch Resize Windows"
+msgstr "Finestres amb redimensionament amb estirament"
+
+msgid "Windows that stretch resize should be used for"
+msgstr ""
+"Les finestres amb les quals s'ha de realitzar el redimensionament amb "
+"estirament"
+
+msgid "Rotate Cube"
+msgstr "Gir del cub"
+
+msgid "Rotate desktop cube"
+msgstr "Gira el cub de l'escriptori"
+
+msgid "Edge Flip Pointer"
+msgstr "Transició amb el punter a la vora"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Passa a la següent àrea de visualització quan es mou el punter a la vora de "
+"la pantalla"
+
+msgid "Edge Flip Move"
+msgstr "Transició amb el moviment a la vora"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Passa a la següent àrea de visualització quan es mou la finestra a la vora "
+"de la pantalla"
+
+msgid "Edge Flip DnD"
+msgstr "Transició amb l'arrossegament a la vora"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Passa a la següent àrea de visualització quan s'arrossega un objecte a la "
+"vora de la pantalla"
+
+msgid "Flip Time"
+msgstr "Temps de transició"
+
+msgid "Timeout before flipping viewport"
+msgstr "Temps d'espera abans de la transició de l'àrea de visualització"
+
+msgid "Raise on rotate"
+msgstr "Eleva en girar"
+
+msgid "Raise window when rotating"
+msgstr "Eleva la finestra quan es giri"
+
+msgid "Rotate cube"
+msgstr "Gira el cub"
+
+msgid "Start Rotation"
+msgstr "Comença el gir"
+
+msgid "Rotate Left"
+msgstr "Gira cap a l'esquerra"
+
+msgid "Rotate left"
+msgstr "Gira cap a l'esquerra"
+
+msgid "Rotate Right"
+msgstr "Gira cap a la dreta"
+
+msgid "Rotate right"
+msgstr "Gira cap a la dreta"
+
+msgid "Rotate Left with Window"
+msgstr "Gira cap a l'esquerra amb la finestra"
+
+msgid "Rotate left and bring active window along"
+msgstr "Gira cap a l'esquerra i porta en si la finestra activa"
+
+msgid "Rotate Right with Window"
+msgstr "Gira cap a la dreta amb la finestra"
+
+msgid "Rotate right and bring active window along"
+msgstr "Gira cap a la dreta i porta en si la finestra activa"
+
+msgid "Rotate To"
+msgstr "Gira cap a"
+
+msgid "Rotate to viewport"
+msgstr "Gira cap a l'àrea de visualització"
+
+msgid "Rotate window"
+msgstr "Gira la finestra"
+
+msgid "Rotate with window"
+msgstr "Gira amb la finestra"
+
+msgid "Rotate Flip Left"
+msgstr "Transició del gir cap a l'esquerra"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Passa a l'àrea de visualització esquerra i envolta el punter"
+
+msgid "Rotate Flip Right"
+msgstr "Transició del gir cap a la dreta"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Passa a l'àrea de visualització dreta i envolta el punter"
+
+msgid "Rotate to cube face"
+msgstr "Gira cap a la cara del cub"
+
+msgid "Rotate To Face 1"
+msgstr "Gira cap a la cara 1"
+
+msgid "Rotate to face 1"
+msgstr "Gira cap a la cara 1"
+
+msgid "Rotate To Face 2"
+msgstr "Gira cap a la cara 2"
+
+msgid "Rotate to face 2"
+msgstr "Gira cap a la cara 2"
+
+msgid "Rotate To Face 3"
+msgstr "Gira cap a la cara 3"
+
+msgid "Rotate to face 3"
+msgstr "Gira cap a la cara 3"
+
+msgid "Rotate To Face 4"
+msgstr "Gira cap a la cara 4"
+
+msgid "Rotate to face 4"
+msgstr "Gira cap a la cara 4"
+
+msgid "Rotate To Face 5"
+msgstr "Gira cap a la cara 5"
+
+msgid "Rotate to face 5"
+msgstr "Gira cap a la cara 5"
+
+msgid "Rotate To Face 6"
+msgstr "Gira cap a la cara 6"
+
+msgid "Rotate to face 6"
+msgstr "Gira cap a la cara 6"
+
+msgid "Rotate To Face 7"
+msgstr "Gira cap a la cara 7"
+
+msgid "Rotate to face 7"
+msgstr "Gira cap a la cara 7"
+
+msgid "Rotate To Face 8"
+msgstr "Gira cap a la cara 8"
+
+msgid "Rotate to face 8"
+msgstr "Gira cap a la cara 8"
+
+msgid "Rotate To Face 9"
+msgstr "Gira cap a la cara 9"
+
+msgid "Rotate to face 9"
+msgstr "Gira cap a la cara 9"
+
+msgid "Rotate To Face 10"
+msgstr "Gira cap a la cara 10"
+
+msgid "Rotate to face 10"
+msgstr "Gira cap a la cara 10"
+
+msgid "Rotate To Face 11"
+msgstr "Gira cap a la cara 11"
+
+msgid "Rotate to face 11"
+msgstr "Gira cap a la cara 11"
+
+msgid "Rotate To Face 12"
+msgstr "Gira cap a la cara 12"
+
+msgid "Rotate to face 12"
+msgstr "Gira cap a la cara 12"
+
+msgid "Rotate to cube face with window"
+msgstr "Gira cap a la cara del cub amb la finestra"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Gira cap a la cara 1 amb la finestra"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Gira cap a la cara 1 i porta en si la finestra activa"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Gira cap a la cara 2 amb la finestra"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Gira cap a la cara 2 i porta en si la finestra activa"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Gira cap a la cara 3 amb la finestra"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Gira cap a la cara 3 i porta en si la finestra activa"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Gira cap a la cara 4 amb la finestra"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Gira cap a la cara 4 i porta en si la finestra activa"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Gira cap a la cara 5 amb la finestra"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Gira cap a la cara 5 i porta en si la finestra activa"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Gira cap a la cara 6 amb la finestra"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Gira cap a la cara 6 i porta en si la finestra activa"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Gira cap a la cara 7 amb la finestra"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Gira cap a la cara 7 i porta en si la finestra activa"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Gira cap a la cara 8 amb la finestra"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Gira cap a la cara 8 i porta en si la finestra activa"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Gira cap a la cara 9 amb la finestra"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Gira cap a la cara 9 i porta en si la finestra activa"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Gira cap a la cara 10 amb la finestra"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Gira cap a la cara 10 i porta en si la finestra activa"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Gira cap a la cara 11 amb la finestra"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Gira cap a la cara 11 i porta en si la finestra activa"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Gira cap a la cara 12 amb la finestra"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Gira cap a la cara 12 i porta en si la finestra activa"
+
+msgid "Pointer Invert Y"
+msgstr "Inversió del punter Y"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Inverteix l'eix Y per al moviment del punter"
+
+msgid "Pointer Invert X"
+msgstr "Inversió del punter X"
+
+msgid "Invert X axis for pointer movement"
+msgstr "Inverteix l'eix X per al moviment del punter"
+
+msgid "Pointer Sensitivity"
+msgstr "Sensibilitat del punter"
+
+msgid "Sensitivity of pointer movement"
+msgstr "Sensibilitat del moviment del punter"
+
+msgid "Rotation Acceleration"
+msgstr "Acceleració del gir"
+
+msgid "Snap To Top Face"
+msgstr "Desplaça a la cara superior"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Desplaça el gir del cub a la cara superior"
+
+msgid "Snap To Bottom Face"
+msgstr "Ajusta a la cara inferior"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Ajusta el gir del cub a la cara inferior"
+
+msgid "Rotation Speed"
+msgstr "Velocitat del gir"
+
+msgid "Rotation Timestep"
+msgstr "Gir gradual"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Rotation Zoom"
+msgstr "Zoom del gir"
+
+msgid "Scale"
+msgstr "Escalament"
+
+msgid "Scale windows"
+msgstr "Escala les finestres"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Les vinculacions de tecles commuten el mode d'escalament"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Les vinculacions de tecles commuten el mode d'escalament en lloc d'habilitar-"
+"lo quan es premen, l'inhabiliten quan es deixen anar."
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Vinculacions de botons commuten el mode d'escalament"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Les vinculacions de botons commuten el mode d'escalament en lloc d'habilitar-"
+"lo quan es premen i l'inhabilita quan es deixen anar."
+
+msgid "Initiate Window Picker"
+msgstr "Inicia el seleccionador de finestres"
+
+msgid "Layout and start transforming windows"
+msgstr "Disposició i començament de la transformació de les finestres"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Inicia el seleccionador per a totes les finestres"
+
+msgid "Layout and start transforming all windows"
+msgstr "Disposició i començament de la transformació de totes les finestres"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Inicia el seleccionador per a un grup de finestres"
+
+msgid "Layout and start transforming window group"
+msgstr "Disposició i començament de la transformació del grup de finestres"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Inicia el seleccionador per a les finestres de la sortida actual"
+
+msgid "Layout and start transforming windows on current output"
+msgstr ""
+"Disposició i començament de la transformació de les finestres de la sortida "
+"actual"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Feu clic a l'escriptori per a mostrar l'escriptori"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Entra al mode de mostra l'escriptori quan es fa clic a escriptori mentre "
+"s'escala"
+
+msgid "Spacing"
+msgstr "Espaiat"
+
+msgid "Space between windows"
+msgstr "Espai entre les finestres"
+
+msgid "Scale speed"
+msgstr "Velocitat de l'escalament"
+
+msgid "Scale timestep"
+msgstr "Escalament gradual"
+
+msgid "Darken Background"
+msgstr "Enfosqueix el fons"
+
+msgid "Darken background when scaling windows"
+msgstr "Enfosqueix el fons quan s'escalen de les finestres"
+
+msgid "Amount of opacity in percent"
+msgstr "Quantitat d'opacitat en percentatge"
+
+msgid "Overlay Icon"
+msgstr "Superposa la icona"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Superposa una icona a les finestres un cop se n'ha canviat la mida"
+
+msgid "None"
+msgstr "Cap"
+
+msgid "Emblem"
+msgstr "Emblema"
+
+msgid "Big"
+msgstr "Gran"
+
+msgid "Scale Windows"
+msgstr "Finestres amb escalament"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Finestres que s'han d'escalar al mode d'escalament"
+
+msgid "Hover Time"
+msgstr "Temps de passar per sobre"
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Temps (en ms) abans de finalitzar el mode d'escalament en passar el punter "
+"per sobre una finestra"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Selecciona on són escalades les imatges si s'utilitzen diversos dispositius "
+"de sortida."
+
+msgid "On current output device"
+msgstr "Sobre dispositiu actual de sortida"
+
+msgid "On all output devices"
+msgstr "Sobre tots els dispositius de sortida"
+
+msgid "Screenshot"
+msgstr "Captura de pantalla"
+
+msgid "Screenshot plugin"
+msgstr "Connector de captura de pantalla"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Inicia la captura de pantalla del rectangle"
+
+msgid "Directory"
+msgstr "Directori"
+
+msgid ""
+"Put screenshot images in this directory. If empty, the desktop directory "
+"will be used."
+msgstr ""
+"Fica les imatges de les captures de pantalla en aquest directori. Si està en "
+"blanc, s'utilitzarà el directori de l'escriptori."
+
+msgid "Launch Application"
+msgstr "Llança l'aplicació"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Obre automàticament la captura de pantalla en aquesta aplicació"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Carregador d'imatges svg"
+
+msgid "Application Switcher"
+msgstr "Commutador d'aplicacions"
+
+msgid "Next window"
+msgstr "Finestra següent"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr ""
+"Fes que aparegui el commutador si aquest no estigués visible i selecciona la "
+"finestra següent"
+
+msgid "Prev window"
+msgstr "Finestra anterior"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr ""
+"Fes que aparegui el commutador si aquest no estigués visible i selecciona la "
+"finestra anterior"
+
+msgid "Next window (All windows)"
+msgstr "Finestra següent (totes les finestres)"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Fes que aparegui el commutador si aquest no estigués visible i selecciona la "
+"finestra següent de totes les finestres"
+
+msgid "Prev window (All windows)"
+msgstr "Finestra anterior (totes les finestres)"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Fes que aparegui el commutador si aquest no estigués visible i selecciona la "
+"finestra anterior de totes les finestres"
+
+msgid "Next window (No popup)"
+msgstr "Finestra següent (no emergent)"
+
+msgid "Select next window without showing the popup window."
+msgstr "Selecciona la finestra següent sense mostrar la finestra emergent."
+
+msgid "Prev window (No popup)"
+msgstr "Finestra anterior (no emergent)"
+
+msgid "Select previous window without showing the popup window."
+msgstr "Selecciona la finestra anterior sense mostrar la finestra emergent."
+
+msgid "Next Panel"
+msgstr "Següent plafó"
+
+msgid "Select next panel type window."
+msgstr "Selecciona la següent finestra de tipus plafó."
+
+msgid "Prev Panel"
+msgstr "Plafó anterior"
+
+msgid "Select previous panel type window."
+msgstr "Selecciona l'anterior finestra de tipus plafó."
+
+msgid "Switcher speed"
+msgstr "Velocitat del commutador"
+
+msgid "Switcher timestep"
+msgstr "Commutador gradual"
+
+msgid "Switcher windows"
+msgstr "Finestres del commutador"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Finestres que s'han de mostrar al commutador"
+
+msgid "Amount of saturation in percent"
+msgstr "Quantitat de saturació en percentatge"
+
+msgid "Amount of brightness in percent"
+msgstr "Quantitat de brillantor en percentatge"
+
+msgid "Bring To Front"
+msgstr "Porta endavant"
+
+msgid "Bring selected window to front"
+msgstr "Porta la finestra seleccionada endavant"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+"Distància a la qual s'haurà d'allunyar el zoom de l'escriptori mentre es "
+"canvia de finestra"
+
+msgid "Icon"
+msgstr "Icona"
+
+msgid "Show icon next to thumbnail"
+msgstr "Mostra la icona al costat de la miniatura"
+
+msgid "Minimized"
+msgstr "Minimitzades"
+
+msgid "Show minimized windows"
+msgstr "Mostra les finestres minimitzades"
+
+msgid "Auto Rotate"
+msgstr "Gir automàtic"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Gira la finestra seleccionada mentre es canviï"
+
+msgid "Desktop Wall"
+msgstr "Mur de l'escriptori"
+
+msgid "Desktop Wall Plugin"
+msgstr "Connector del mur de l'escriptori"
+
+msgid "Viewport Switch Preview"
+msgstr "Vista prèvia del canvi d'àrea de visualització"
+
+msgid "Show Viewport Switcher Preview"
+msgstr "Mostra la vista prèvia del commutador d'àrea de visualització"
+
+msgid "Show switcher window while switching viewports"
+msgstr ""
+"Mostra la finestra del commutador mentre es canvien les àrees de "
+"visualització"
+
+msgid "Show Live Viewport Previews"
+msgstr "Mostra en directe les vistes prèvies de les àrees de visualització"
+
+msgid "Show live viewport previews in switcher window"
+msgstr ""
+"Mostra en directe les vistes prèvies de les àrees de visualització a la "
+"finestra del commutador"
+
+msgid "Switch Target Preview Visibility Time"
+msgstr "Temps de visibilitat de la vista prèvia de l'objectiu del canvi"
+
+msgid ""
+"Duration (in s) the switch target preview should remain visible after "
+"switching ends."
+msgstr ""
+"La durada (en s) de la vista prèvia de l'objectiu del canvi que ha de "
+"romandre visible després que acabi el canvi."
+
+msgid "Preview Scale"
+msgstr "Escalament de la vista prèvia"
+
+#, no-c-format
+msgid "Size of the preview in %"
+msgstr "Mida de la vista prèvia en %"
+
+msgid "Edge Radius"
+msgstr "Radi de la vora"
+
+msgid "Radius of the rounded edge"
+msgstr "Radi de la vora arrodonida"
+
+msgid "Border Width"
+msgstr "Amplada del contorn"
+
+msgid "Width of the border between the previews"
+msgstr "Amplada del contorn entre les vistes prèvies"
+
+msgid "Outline Color"
+msgstr "Color del contorn"
+
+msgid "Outline color of the switcher window."
+msgstr "El color del contorn de la finestra del commutador."
+
+msgid "Background Gradient"
+msgstr "Degradat del fons"
+
+msgid "Base Color"
+msgstr "Color base"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr ""
+"El primer color per al degradat del fons de la finestra del commutador."
+
+msgid "Highlight Color"
+msgstr "Color de ressaltament"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr "El segon color per al degradat del fons de la finestra del commutador."
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr ""
+"El tercer color per al degradat del fons de la finestra del commutador."
+
+msgid "Thumb Gradient"
+msgstr "Degradat de la miniatura"
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr ""
+"El primer color per al degradat de la miniatura de la finestra del "
+"commutador."
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr ""
+"El segon color per al degradat de la miniatura de la finestra del commutador."
+
+msgid "Highlight Gradient"
+msgstr "Degradat del ressaltament"
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr ""
+"El primer color per al degradat del ressaltament de la miniatura de la "
+"finestra del commutador."
+
+msgid "Second color for the thumb highlight gradient of the switcher window."
+msgstr ""
+"El segon color per al degradat del ressaltament de la miniatura de la "
+"finestra del commutador."
+
+msgid "Arrow Colors"
+msgstr "Colors de la fletxa"
+
+msgid "First color of the arrow of the switcher window."
+msgstr "El primer color de la fletxa de la finestra del commutador."
+
+msgid "Second color of the arrow of the switcher window."
+msgstr "El segon color de la fletxa de la finestra del commutador."
+
+msgid "Viewport Switching"
+msgstr "Commutació de l'àrea de visualització"
+
+msgid "Allow Wrap-Around"
+msgstr "Permet envoltar"
+
+msgid "Allow wrap-around when moving the wall up/down/left/right"
+msgstr ""
+"Permet envoltar quan es mou el mur cap amunt / avall / a l'esquerra / la "
+"dreta"
+
+msgid "Wall Sliding Duration"
+msgstr "Duració del lliscament del mur"
+
+msgid "Duration (in s) for wall sliding viewport switching animation"
+msgstr ""
+"Duració (en s) per a l'animació de la commutació d'àrea de visualització "
+"lliscant del mur"
+
+msgid "Non Sliding Windows"
+msgstr "Finestres sense lliscament"
+
+msgid "Windows that should not slide during the slide animation"
+msgstr "Les finestres que no han de lliscar durant l'animació de lliscament"
+
+msgid "Move within wall"
+msgstr "Moviment dins del mur"
+
+msgid "Move Left"
+msgstr "Mou cap a l'esquerra"
+
+msgid "Move along the wall to the left"
+msgstr "Mou pel mur cap a l'esquerra"
+
+msgid "Move Right"
+msgstr "Mou cap a la dreta"
+
+msgid "Move along the wall to the right"
+msgstr "Mou pel mur cap a la dreta"
+
+msgid "Move Up"
+msgstr "Mou cap a dalt"
+
+msgid "Move along the wall up"
+msgstr "Mou pel mur cap a dalt"
+
+msgid "Move Down"
+msgstr "Mou cap a baix"
+
+msgid "Move along the wall down"
+msgstr "Mou pel mur cap a baix"
+
+msgid "Move Next"
+msgstr "Mou a la següent"
+
+msgid "Move along the wall to the next viewport"
+msgstr "Mou pel mur a la següent àrea de visualització"
+
+msgid "Move Prev"
+msgstr "Mou a l'anterior"
+
+msgid "Move along the wall to the previous viewport"
+msgstr "Mou pel mur a l'anterior àrea de visualització"
+
+msgid "Move with window within wall"
+msgstr "Moviment amb la finestra dins del mur"
+
+msgid "Move Left With Window"
+msgstr "Mou cap a l'esquerra amb la finestra"
+
+msgid "Move with window along the wall to the left"
+msgstr "Mou pel mur cap a l'esquerra amb la finestra"
+
+msgid "Move Right With Window"
+msgstr "Mou cap a la dreta amb la finestra"
+
+msgid "Move with window along the wall to the right"
+msgstr "Mou pel mur cap a la dreta amb la finestra"
+
+msgid "Move Up With Window"
+msgstr "Mou cap a dalt amb la finestra"
+
+msgid "Move with window along the wall up"
+msgstr "Mou pel mur cap a dalt amb la finestra"
+
+msgid "Move Down With Window"
+msgstr "Mou cap a baix amb la finestra"
+
+msgid "Move with window along the wall down"
+msgstr "Mou pel mur cap a baix amb la finestra"
+
+msgid "Edge flipping"
+msgstr "Transició de les vores"
+
+msgid "Flip Left"
+msgstr "Transició cap a l'esquerra"
+
+msgid "Flip left"
+msgstr "Transició cap a l'esquerra"
+
+msgid "Flip Right"
+msgstr "Transició cap a la dreta"
+
+msgid "Flip right"
+msgstr "Transició cap a la dreta"
+
+msgid "Flip Up"
+msgstr "Transició cap a dalt"
+
+msgid "Flip up"
+msgstr "Transició cap a dalt"
+
+msgid "Flip Down"
+msgstr "Transició cap a baix"
+
+msgid "Flip down"
+msgstr "Transició cap a baix"
+
+msgid "Multimonitor behavior"
+msgstr "Comportament dels monitors múltiples"
+
+msgid "How should a multimonitor configuration be handled"
+msgstr "Com s'ha de gestionar una configuració de diversos monitors"
+
+msgid "Switch all"
+msgstr "Commuta-ho tot"
+
+msgid "Switch separately"
+msgstr "Commuta separadament"
+
+msgid "Edge Flipping"
+msgstr "Transició de les vores"
+
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Passa a l'àrea de visualització quan es mou el punter a la vora de la "
+"pantalla"
+
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Passa a l'àrea de visualització quan es mou la finestra a la vora de la "
+"pantalla"
+
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Passa a l'àrea de visualització quan s'arrossega un objecte a la vora de la "
+"pantalla"
+
+msgid "Water Effect"
+msgstr "Efecte d'aigua"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Afegeix els efectes d'aigua a diferents accions de l'escriptori"
+
+msgid "Enable pointer water effects"
+msgstr "Habilita els efectes d'aigua del punter"
+
+msgid "Toggle rain"
+msgstr "Commuta la pluja"
+
+msgid "Toggle rain effect"
+msgstr "Commuta l'efecte de pluja"
+
+msgid "Toggle wiper"
+msgstr "Commuta l'eixugaparabrisa"
+
+msgid "Toggle wiper effect"
+msgstr "Commuta l'efecte d'eixugaparabrisa"
+
+msgid "Offset Scale"
+msgstr "Escalament del desplaçament"
+
+msgid "Water offset scale"
+msgstr "Escalament del desplaçament de l'aigua"
+
+msgid "Rain Delay"
+msgstr "Retard de la pluja"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Retard (en ms) entre cada gota de pluja"
+
+msgid "Title wave"
+msgstr "Títol en onada"
+
+msgid "Wave effect from window title"
+msgstr "Efecte d'ona des del títol de la finestra"
+
+msgid "Point"
+msgstr "Punt"
+
+msgid "Add point"
+msgstr "Afegeix un punt"
+
+msgid "Line"
+msgstr "Línia"
+
+msgid "Add line"
+msgstr "Afegeix una línia"
+
+msgid "Wobbly Windows"
+msgstr "Finestres oscil·lants"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Utilitza el model d'elàstic per a l'efecte de finestra oscil·lant"
+
+msgid "Snap windows"
+msgstr "Ajusta les finestres"
+
+msgid "Toggle window snapping"
+msgstr "Commuta l'ajustament de finestres"
+
+msgid "Snap Inverted"
+msgstr "Ajustament invertit"
+
+msgid "Inverted window snapping"
+msgstr "Ajustament de finestres invertit"
+
+msgid "Shiver"
+msgstr "Estremeix"
+
+msgid "Make window shiver"
+msgstr "Fes estremir la finestra"
+
+msgid "Friction"
+msgstr "Fricció"
+
+msgid "Spring Friction"
+msgstr "Fricció de l'elasticitat"
+
+msgid "Spring K"
+msgstr "Constant elàstica"
+
+msgid "Spring Konstant"
+msgstr "Constant elàstica"
+
+msgid "Grid Resolution"
+msgstr "Resolució de la quadrícula"
+
+msgid "Vertex Grid Resolution"
+msgstr "Resolució de la quadrícula del vèrtex"
+
+msgid "Minimum Grid Size"
+msgstr "Mida mínima de la quadrícula"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Mida mínima de la quadrícula del vèrtex"
+
+msgid "Map Effect"
+msgstr "Assigna l'efecte"
+
+msgid "Map Window Effect"
+msgstr "Assigna l'efecte de la finestra"
+
+msgid "Focus Effect"
+msgstr "Efecte del focus"
+
+msgid "Focus Window Effect"
+msgstr "Efecte de la finestra amb focus"
+
+msgid "Map Windows"
+msgstr "Assigna les finestres"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Finestres que han d'oscil·lar quan s'assignin"
+
+msgid "Focus Windows"
+msgstr "Finestres amb focus"
+
+msgid "Windows that should wobble when focused"
+msgstr "Finestres que han d'oscil·lar quan rebin el focus"
+
+msgid "Grab Windows"
+msgstr "Agafa les finestres"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Finestres que han d'oscil·lar quan s'agafin"
+
+msgid "Move Windows"
+msgstr "Mou les finestres"
+
+msgid "Windows that should wobble when moved"
+msgstr "Finestres que han d'oscil·lar quan es moguin"
+
+msgid "Maximize Effect"
+msgstr "Efecte de maximització"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Efecte de tremolor en maximitzar i desmaximitzar les finestres"
+
+msgid "Zoom Desktop"
+msgstr "Zoom de l'escriptori"
+
+msgid "Zoom and pan desktop cube"
+msgstr "Zoom i enquadra el cub d'escriptori"
+
+msgid "Zoom In"
+msgstr "Amplia el zoom"
+
+msgid "Zoom Out"
+msgstr "Redueix el zoom"
+
+msgid "Zoom Pan"
+msgstr "Enquadra el zoom"
+
+msgid "Zoom pan"
+msgstr "Enquadra el zoom"
+
+msgid "Zoom Speed"
+msgstr "Velocitat del zoom"
+
+msgid "Zoom Timestep"
+msgstr "Zoom gradual"
+
+msgid "Zoom factor"
+msgstr "Factor de zoom"
+
+msgid "Filter Linear"
+msgstr "Filtre lineal"
+
+msgid "Use linear filter when zoomed in"
+msgstr "Utilitza el filtre lineal quan s'ampliï el zoom"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+msgid "Compiz Start"
+msgstr "Inici de Compiz"
+
+msgid "Start Compiz"
+msgstr "Inicia Compiz"
+
+msgid "Start or restart Compiz"
+msgstr "Inicieu o reinicieu Compiz"
